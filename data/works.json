@@ -18084,9 +18084,9 @@
    "cat": null,
    "y": null,
    "g": "Concerto",
-   "s": "english horn, doubling oboe",
+   "s": "two oboes, english horn",
    "counts": {
-    "oboe": 0,
+    "oboe": 2,
     "englishHorn": 1
    },
    "req": [
@@ -18096,7 +18096,7 @@
    "full": "solo piano, pairs of woodwinds (flutes doubling piccolo, oboes, clarinets doubling piccolo clarinet, and bassoons), cor anglais, four horns, three trombones, tuba, strings and timpani, In addition to the solo piano, there is a concertino group of soloists consisting of the first violinist, first violist, first cellist and first bassist",
    "note": null,
    "arr": false,
-   "est": false
+   "est": true
   },
   {
    "c": "stravinsky-igor",
