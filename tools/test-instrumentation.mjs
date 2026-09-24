@@ -5,7 +5,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   parseInstrumentation, formatOboeScoring, requiredInstruments,
-  mentionsOboeFamily, fromCategoryName,
+  mentionsOboeFamily, fromCategoryName, normalizeStringSection,
 } from '../lib/instrumentation.mjs';
 
 const scoring = (text) => formatOboeScoring(parseInstrumentation(text));
@@ -178,4 +178,77 @@ test('a singular name is not an inferred count', () => {
 
   const plural = parseInstrumentation('oboes, bassoons, strings');
   assert.deepEqual(plural.uncertain, ['oboe']);
+});
+
+// ── String-section normalization ──────────────────────────────────────────────
+test('collapses a plain divided string section to "strings"', () => {
+  assert.equal(
+    normalizeStringSection('2 oboes, 4 horns, violins I, violins II, violas, cellos and double basses'),
+    '2 oboes, 4 horns, strings');
+  assert.equal(
+    normalizeStringSection('2 oboes, Violins (1st and 2nd), Violas, Cellos, Double basses'),
+    '2 oboes, Strings');
+  assert.equal(
+    normalizeStringSection('2 oboes, strings (1st & 2nd violins, violas, cellos, double basses)'),
+    '2 oboes, strings');
+  assert.equal(
+    normalizeStringSection('timpani and the normal string section of first and second violins, violas, cellos and double basses'),
+    'timpani and the normal string section');
+  assert.equal(
+    normalizeStringSection('two horns, and a string section containing first and second violins, violas, cellos and double basses'),
+    'two horns, and a string section');
+});
+
+test('a "Strings" label absorbs the enumeration that follows it', () => {
+  assert.equal(
+    normalizeStringSection('Timpani, Strings, 1st Violins, 2nd Violins, Violas, Cellos, Double Basses'),
+    'Timpani, Strings');
+  assert.equal(
+    normalizeStringSection('Timpani, Strings:, 1st violins, 2nd violins, violas, cellos, double basses'),
+    'Timpani, Strings'); // a stray "label:," from upstream extraction is absorbed too
+});
+
+test('a harp filed under "Strings" is kept, not folded into the section', () => {
+  assert.equal(
+    normalizeStringSection('Piano, Strings, 2 Harps, Violins (1st and 2nd), Violas, Cellos, Double basses'),
+    'Piano, Strings, 2 Harps');
+  assert.equal(
+    normalizeStringSection('Keyboard: piano, Strings: harp, violins, violas, cellos, double basses'),
+    'Keyboard: piano, Strings, harp');
+});
+
+test('leaves a divided or reduced string section untouched', () => {
+  // A specific, non-standard headcount is the point — Stravinsky's Bluebird
+  // Pas de Deux is a deliberately reduced string section, not "strings".
+  const reduced = 'timpani, and a string section consisting of five violins, four violas, three cellos and two double basses';
+  assert.equal(normalizeStringSection(reduced), reduced);
+
+  // A Concertino/Ripieno split names two differently-sized groups.
+  const splitGroups = 'Concertino: 2 violins, 1 viola, 1 cello, 1 contrabass, Ripieno: 8 violins, 4 violas, 3 celli, 3 contrabasses';
+  assert.equal(normalizeStringSection(splitGroups), splitGroups);
+});
+
+test('leaves a small chamber ensemble untouched', () => {
+  // One violin part and no double bass: a chamber quintet, not an orchestra.
+  const quintet = 'oboe, violin, viola, cello, double bass';
+  assert.equal(normalizeStringSection(quintet), quintet);
+
+  // A string quartet configuration (two violins, no double bass) is chamber
+  // music, not the standard orchestral section.
+  const quartet = 'oboe, 2 violins, viola, cello';
+  assert.equal(normalizeStringSection(quartet), quartet);
+});
+
+test('leaves an annotated part untouched', () => {
+  const annotated = 'harp, violins, violas (including an extensive solo viola part), cellos, double basses';
+  assert.equal(normalizeStringSection(annotated), annotated);
+
+  const trailingNote = 'violins, violas, cellos, double basses (seating chart varies)';
+  assert.equal(normalizeStringSection(trailingNote), trailingNote);
+});
+
+test('is a no-op on text with nothing to collapse', () => {
+  const text = 'oboe, clarinet, violin, cello';
+  assert.equal(normalizeStringSection(text), text);
+  assert.equal(normalizeStringSection(null), null);
 });
