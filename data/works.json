@@ -17949,12 +17949,13 @@
    "cat": null,
    "y": null,
    "g": "Ballet",
-   "s": "oboe",
+   "s": "oboe (doubling english horn)",
    "counts": {
     "oboe": 1
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "tuba is omitted entirely. Also strikingly different from The Rite of Spring is the absence of a percussion section and the use of only one timpanist, There is an important role for the harp in Orpheus. This has a long tradition in classical music, in which the character of Orpheus is associated with that instrument, by analogy with the Ancient Greek lyre. Two important examples of this may be ment",
    "note": null,
@@ -19009,12 +19010,13 @@
    "cat": null,
    "y": null,
    "g": "Choral",
-   "s": "three oboes",
+   "s": "three oboes (doubling english horn)",
    "counts": {
     "oboe": 3
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "Strings: violins I & II, violas, cellos, double basses, Woodwinds: piccolo, 2 flutes, 3 oboes (including English horn), 3 clarinets (including E-flat clarinet), 2 bass clarinets, 2 alto saxophones, 2 tenor saxophones, 3 bassoons (including contrabassoon), Brass: 4 horns, 5 trumpets (including cornet), 3 trombones, bass trombone, 2 tubas, Percussion: timpani, 2 snare drums, bass drum, cymbals, 2 ta",
    "note": null,
@@ -20061,12 +20063,13 @@
    "cat": null,
    "y": null,
    "g": "Suite",
-   "s": "two oboes",
+   "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "Woodwind: 2 flutes (1 doubling piccolo), 2 oboes (2 with English horn), 2 clarinets, 2 bassoons (2nd doubling contrabassoon), Brass: 2 horns, 1 trumpet, 1 bass trombone, Percussion: timpani and 3 players playing cymbals, tambourine, triangle, bass drum, snare drum, glockenspiel, Keyboard: piano, Strings: harp, violins, violas, cellos, double basses",
    "note": null,
@@ -20562,12 +20565,13 @@
    "cat": null,
    "y": null,
    "g": "Incidental music",
-   "s": "oboe",
+   "s": "oboe (doubling english horn)",
    "counts": {
     "oboe": 1
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "flute (with piccolo), oboe (with English horn), two clarinets, two bassoons, two horns, timpani/triangle/bass drum, and strings",
    "note": null,
@@ -31134,11 +31138,13 @@
    "cat": null,
    "y": null,
    "g": "Overture",
-   "s": "english horn",
+   "s": "two oboes, english horn",
    "counts": {
+    "oboe": 2,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "three flutes with piccolo, two oboes with cor anglais, three clarinets with bass clarinetand two bassoons with contrabassoon; a brass section of four horns, three trumpets, three trombones and tuba; harp; celeste; and a percussion section of four players",
@@ -32385,11 +32391,13 @@
    "cat": null,
    "y": null,
    "g": "Symphony",
-   "s": "english horn",
+   "s": "two oboes, english horn",
    "counts": {
+    "oboe": 2,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "piccolo, two flutes, two oboes doubling cor anglais, E clarinet, two B clarinets, bass/contrabass clarinet, two bassoons, four horns, three trumpets, three trombones, tuba, four percussionists, timpani, two harps, piano, celesta, and strings. It has three continuous movements with contrasting themes and lasts approximately 40 minutes, According to James M Keller, \"Structural experimentation and or",
@@ -33684,11 +33692,13 @@
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "two english horns",
+   "s": "six oboes, two english horns",
    "counts": {
+    "oboe": 6,
     "englishHorn": 2
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "6 flutes all doubling piccolos, 6 oboes with which 3 double cor anglais, 6 trumpets with mutes, 4 harps, 6 grand pianos with 2 players each*, 9 contrabasses, (*) At several points, the strings are struck with various items, including wooden drum sticks on the higher strings, timpani sticks on the lower strings, and also a plectrum, The percussion section requires 10 to 15 players to perform on the",
@@ -42495,12 +42505,12 @@
    "cat": "BWV 1042",
    "y": null,
    "g": "Arrangement",
-   "s": "oboe d'amore",
+   "s": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "req": [
-    "oboeDamore"
+    "oboe"
    ],
    "full": "oboe or oboe d amore, strings and continuo",
    "note": null,
@@ -64397,12 +64407,12 @@
    "cat": null,
    "y": null,
    "g": "Arrangement",
-   "s": "oboe d'amore",
+   "s": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "req": [
-    "oboeDamore"
+    "oboe"
    ],
    "full": "oboe or oboe d amore or english horn, piano",
    "note": null,
@@ -92307,11 +92317,13 @@
    "cat": null,
    "y": null,
    "g": "Arrangement",
-   "s": "english horn",
+   "s": "oboe, english horn",
    "counts": {
+    "oboe": 1,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "oboe english horn and accordion",

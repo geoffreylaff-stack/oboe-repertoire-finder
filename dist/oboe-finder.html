@@ -577,7 +577,7 @@ button.secondary:hover { background: var(--surface-2); color: var(--ink); }
     </p>
   </footer>
 
-  <script id="build-info">window.__BUILD__="d35a0e88f2";window.__DATA_V__="d13091c167";</script>
+  <script id="build-info">window.__BUILD__="67755ca5e5";window.__DATA_V__="6c2e6a796b";</script>
 
   <script type="module">
 /**
@@ -645,7 +645,7 @@ const ORDINAL_WORDS = {
 };
 
 /** Marks a parenthetical as describing a doubling rather than fresh players. */
-const DOUBLING_CUE = /doubl|also|alternat|switch|=|raddoppi/i;
+const DOUBLING_CUE = /doubl|includ|with|also|alternat|switch|=|raddoppi/i;
 
 /** An ordinal naming a chair: "3rd", "third", or a bare "3". */
 const ORDINAL = /\b(\d+(?:st|nd|rd|th)?|first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\b/gi;
@@ -849,6 +849,40 @@ function leadingCount(segment, matchIndex) {
 }
 
 /**
+ * Where a leading count starts, mirroring what leadingCount reads — the
+ * position right before the digits or number-word, not just its value.
+ *
+ * The segment can name more than one family instrument with nothing but a
+ * space between them ("two oboes with cor anglais" has no parenthetical at
+ * all), so the matching loop below has to consume each name it reads —
+ * count and all — before looking for the next one. Left unconsumed, a count
+ * stays in the scan for a later match with none of its own to read as its
+ * own: "3 oboes cornet" — no such thing here, but "3 oboes 1 english horn"
+ * would otherwise leave that "1" moot and the "3" still sitting there for
+ * english horn to inherit.
+ */
+function leadingCountStart(segment, matchIndex) {
+  const before = segment.slice(0, matchIndex).trimEnd();
+  const digits = /(\d+)\s*(?:x\s*)?$/.exec(before);
+  if (digits) return digits.index;
+
+  const word = /([a-z]+)\s*$/i.exec(before);
+  if (word && NUMBER_WORDS[word[1].toLowerCase()]) return word.index;
+  return null;
+}
+
+/**
+ * Length of a bare number written right after the name, with nothing to
+ * make it a count of anything ("Oboe 2" naming the second chair, not two
+ * oboes) — not read as a count, but still consumed, so a later match in the
+ * same segment cannot mistake it for its own leading count either.
+ */
+function trailingBareNumber(segment, afterIndex) {
+  const m = /^\s*\d+\b/.exec(segment.slice(afterIndex));
+  return m ? m[0].length : 0;
+}
+
+/**
  * Parse an instrumentation string into oboe-family counts.
  *
  * @returns {{counts: Record<string, number>, doublings: Array, present: string[],
@@ -879,13 +913,65 @@ function parseInstrumentation(text) {
       return ' ';
     });
 
+    // Read every family instrument the segment names, left to right, blanking
+    // each match as it is taken so a longer name cannot be counted twice: once
+    // "oboe d'amore" is consumed, the bare "oboe" pattern must not find it
+    // again.
+    //
+    // This used to stop at the first match, on the assumption that a segment
+    // names one instrument. A segment can name two without any punctuation
+    // between them at all — "two oboes with cor anglais", "oboe english
+    // horn" from a stripped line break — and stopping early, at whichever
+    // pattern happened to sit earliest in PATTERNS rather than earliest in
+    // the text, silently dropped the other one.
+    //
+    // A segment can also run on past a full sentence, though, when a comma
+    // never arrives to end it — commas separate a list, but so does a period,
+    // and only the former is punctuation splitSegments knows about. Haydn's
+    // Symphony No. 22 is scored for two cors anglais "in place of the
+    // (related, but higher-pitched) oboe" — that sentence, no comma in reach
+    // of it, is still the same segment as the scoring that precedes it, and
+    // without a limit its own incidental "oboe" reads as a third instrument
+    // the symphony does not have. The first match is read regardless — a
+    // segment's only content can legitimately fall after a sentence break —
+    // but a second one found only by crossing that break is left alone.
+    const proseBreak = /\.\s+[A-Z]/.exec(head)?.index ?? head.length;
     let primaryKey = null;
-    for (const [key, re] of PATTERNS) {
-      const m = re.exec(head);
-      if (!m) continue;
-      primaryKey = key;
+    let scan = head;
+    let lastEnd = -1;
+    for (;;) {
+      let found = null;
+      for (const [key, re] of PATTERNS) {
+        const m = re.exec(scan);
+        // PATTERNS is ordered most-specific-first, so on a tie the more
+        // specific name is already in hand; otherwise the earliest mention wins.
+        if (m && (!found || m.index < found.m.index)) found = { key, m };
+      }
+      if (!found) break;
+      if (lastEnd >= 0 && found.m.index >= proseBreak) break;
+      const { key, m } = found;
 
-      const n = leadingCount(head, m.index);
+      // "oboe or oboe d'amore" is one player with a choice of instrument, not
+      // two — so the alternative is skipped and the instrument named first is
+      // the one recorded.
+      const gap = lastEnd >= 0 ? scan.slice(lastEnd, m.index) : null;
+      const alternative = gap !== null && /^[\s,]*or\b[\s\d,]*$/i.test(gap);
+
+      // Read the count before consuming anything, then consume the name
+      // together with both its leading count and any bare trailing number,
+      // so the next instrument in the segment cannot inherit either — see
+      // leadingCountStart and trailingBareNumber.
+      const nameEnd = m.index + m[0].length;
+      const consumedEnd = nameEnd + trailingBareNumber(scan, nameEnd);
+      const leadStart = leadingCountStart(scan, m.index);
+      const n = leadingCount(scan, m.index);
+      const consumedStart = leadStart ?? m.index;
+      const before = scan.slice(0, consumedStart);
+      scan = before + ' '.repeat(consumedEnd - consumedStart) + scan.slice(consumedEnd);
+      lastEnd = consumedEnd;
+      if (alternative) continue;
+
+      primaryKey ??= key;
       if (n !== null) {
         if (explicit[key] === undefined) explicit[key] = n;
       } else {
@@ -897,7 +983,6 @@ function parseInstrumentation(text) {
           if (isPlural) ambiguous.add(key); // "oboes" could be any number; "oboe" is one
         }
       }
-      break; // one family instrument per segment
     }
 
     // Doublings named in the aside ("3rd doubling english horn").
@@ -18960,12 +19045,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Ballet",
-   "s": "oboe",
+   "s": "oboe (doubling english horn)",
    "counts": {
     "oboe": 1
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "tuba is omitted entirely. Also strikingly different from The Rite of Spring is the absence of a percussion section and the use of only one timpanist, There is an important role for the harp in Orpheus. This has a long tradition in classical music, in which the character of Orpheus is associated with that instrument, by analogy with the Ancient Greek lyre. Two important examples of this may be ment",
    "note": null,
@@ -20020,12 +20106,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Choral",
-   "s": "three oboes",
+   "s": "three oboes (doubling english horn)",
    "counts": {
     "oboe": 3
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "Strings: violins I & II, violas, cellos, double basses, Woodwinds: piccolo, 2 flutes, 3 oboes (including English horn), 3 clarinets (including E-flat clarinet), 2 bass clarinets, 2 alto saxophones, 2 tenor saxophones, 3 bassoons (including contrabassoon), Brass: 4 horns, 5 trumpets (including cornet), 3 trombones, bass trombone, 2 tubas, Percussion: timpani, 2 snare drums, bass drum, cymbals, 2 ta",
    "note": null,
@@ -21072,12 +21159,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Suite",
-   "s": "two oboes",
+   "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "Woodwind: 2 flutes (1 doubling piccolo), 2 oboes (2 with English horn), 2 clarinets, 2 bassoons (2nd doubling contrabassoon), Brass: 2 horns, 1 trumpet, 1 bass trombone, Percussion: timpani and 3 players playing cymbals, tambourine, triangle, bass drum, snare drum, glockenspiel, Keyboard: piano, Strings: harp, violins, violas, cellos, double basses",
    "note": null,
@@ -21573,12 +21661,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Incidental music",
-   "s": "oboe",
+   "s": "oboe (doubling english horn)",
    "counts": {
     "oboe": 1
    },
    "req": [
-    "oboe"
+    "oboe",
+    "englishHorn"
    ],
    "full": "flute (with piccolo), oboe (with English horn), two clarinets, two bassoons, two horns, timpani/triangle/bass drum, and strings",
    "note": null,
@@ -32145,11 +32234,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Overture",
-   "s": "english horn",
+   "s": "two oboes, english horn",
    "counts": {
+    "oboe": 2,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "three flutes with piccolo, two oboes with cor anglais, three clarinets with bass clarinetand two bassoons with contrabassoon; a brass section of four horns, three trumpets, three trombones and tuba; harp; celeste; and a percussion section of four players",
@@ -33396,11 +33487,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Symphony",
-   "s": "english horn",
+   "s": "two oboes, english horn",
    "counts": {
+    "oboe": 2,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "piccolo, two flutes, two oboes doubling cor anglais, E clarinet, two B clarinets, bass/contrabass clarinet, two bassoons, four horns, three trumpets, three trombones, tuba, four percussionists, timpani, two harps, piano, celesta, and strings. It has three continuous movements with contrasting themes and lasts approximately 40 minutes, According to James M Keller, \"Structural experimentation and or",
@@ -34695,11 +34788,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "two english horns",
+   "s": "six oboes, two english horns",
    "counts": {
+    "oboe": 6,
     "englishHorn": 2
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "6 flutes all doubling piccolos, 6 oboes with which 3 double cor anglais, 6 trumpets with mutes, 4 harps, 6 grand pianos with 2 players each*, 9 contrabasses, (*) At several points, the strings are struck with various items, including wooden drum sticks on the higher strings, timpani sticks on the lower strings, and also a plectrum, The percussion section requires 10 to 15 players to perform on the",
@@ -43506,12 +43601,12 @@ window.__WORKS_DATA__ = {
    "cat": "BWV 1042",
    "y": null,
    "g": "Arrangement",
-   "s": "oboe d'amore",
+   "s": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "req": [
-    "oboeDamore"
+    "oboe"
    ],
    "full": "oboe or oboe d amore, strings and continuo",
    "note": null,
@@ -65408,12 +65503,12 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Arrangement",
-   "s": "oboe d'amore",
+   "s": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "req": [
-    "oboeDamore"
+    "oboe"
    ],
    "full": "oboe or oboe d amore or english horn, piano",
    "note": null,
@@ -93318,11 +93413,13 @@ window.__WORKS_DATA__ = {
    "cat": null,
    "y": null,
    "g": "Arrangement",
-   "s": "english horn",
+   "s": "oboe, english horn",
    "counts": {
+    "oboe": 1,
     "englishHorn": 1
    },
    "req": [
+    "oboe",
     "englishHorn"
    ],
    "full": "oboe english horn and accordion",
