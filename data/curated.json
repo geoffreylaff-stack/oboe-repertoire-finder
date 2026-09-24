@@ -1,5 +1,13 @@
 {
  "_comment": "Hand-curated exact oboe-family scorings, concentrated on orchestral repertoire where IMSLP's Instrumentation field only says 'orchestra'. The 'oboes' string is parsed by lib/instrumentation.mjs into structured counts, so it should be written naturally. 'full' summarises the whole wind section for context. Entries here override harvested IMSLP records for the same work.",
+ "sameComposer": {
+  "_comment": "Spellings that name one person. Composer identity is matched on the display name, and the sources romanise Russian forenames differently — IMSLP files Glazunov under 'Aleksandr', Wikipedia under 'Alexander' — so each pair here became two composers with the works split between them. The key is the spelling to fold away, the value the one to keep: in every case the spelling that already held the works, which is also the id any existing link points at. Only add a pair after checking it really is one person; near-identical names that are NOT the same are common in this index (Johann Christian and Johann Sebastian Bach, the three Loeillets, Clara and Camillo Schumann).",
+  "Aleksandr Glazunov": "Alexander Glazunov",
+  "Aleksandr Borodin": "Alexander Borodin",
+  "Sergey Prokofiev": "Sergei Prokofiev",
+  "Nikolay Rimsky-Korsakov": "Nikolai Rimsky-Korsakov",
+  "Dmitry Shostakovich": "Dmitri Shostakovich"
+ },
  "composers": {
   "bach-johann-sebastian": {
    "name": "Johann Sebastian Bach",

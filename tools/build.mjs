@@ -78,11 +78,36 @@ function toSortForm(name) {
 const idFromSort = (sort) => fold(sort).replace(/\s+/g, '-');
 
 /**
+ * Spellings that name one person, folded onto the one to keep. Matching on the
+ * display name splits a composer whenever the sources romanise a name
+ * differently — "Aleksandr Glazunov" against "Alexander Glazunov" — and the
+ * works then sit in two rows that never meet. Hand-checked, in curated.json.
+ */
+const sameComposer = new Map(
+  Object.entries(curated.sameComposer ?? {})
+    .filter(([variant]) => !variant.startsWith('_'))
+    .map(([variant, canonical]) => [fold(variant), canonical]),
+);
+
+/**
  * Resolve a composer across the three sources. Identity is matched on the
  * display name, not on a derived id: Wikipedia says "Pyotr Ilyich Tchaikovsky"
  * and IMSLP says "Tchaikovsky, Pyotr", which would otherwise become two people.
  */
 function resolveComposer(name, extra = {}) {
+  const canonical = sameComposer.get(fold(name));
+  if (canonical) {
+    // The variant's own id and sort form describe the row being folded away,
+    // so they are dropped: both must be derived from the name that is kept, or
+    // the merged composer keeps the id of whichever source happened to be read
+    // first. The spelling itself is kept as a search alias, so someone who
+    // knows him as Aleksandr still finds the row filed under Alexander.
+    extra = {
+      ...extra, id: undefined, sort: undefined,
+      aliases: [...(extra.aliases ?? []), name],
+    };
+    name = canonical;
+  }
   const key = fold(name);
   let id = byName.get(key) ?? extra.id;
   if (!id) id = idFromSort(extra.sort ?? toSortForm(name));
@@ -218,9 +243,16 @@ for (const w of imslp.works ?? []) {
   if (!w.composerId || !w.composer) continue;
   const c = resolveComposer(w.composer, { id: w.composerId, sort: w.composerSort });
 
-  const key = workKey(c.id, w.title);
-  const ck = catKey(c.id, w.catalogue);
-  const fk = formKey(c.id, w.title);
+  // An arrangement is de-duplicated only against other arrangements. It shares
+  // its title and catalogue number with the original but is a different thing
+  // to play: Prokofiev's Peter and the Wolf arranged for flute, oboe,
+  // clarinet, bassoon and viola is not the orchestral score, and letting the
+  // two collide dropped the arrangement wherever a better source carried the
+  // original. Only IMSLP supplies arrangements, so originals keep their keys.
+  const cid = w.arrangement ? `arr::${c.id}` : c.id;
+  const key = workKey(cid, w.title);
+  const ck = catKey(cid, w.catalogue);
+  const fk = formKey(cid, w.title);
   if (seen.has(key) || (ck && seen.has(ck)) || (fk && seen.has(fk))) continue; // a better source already covers it
   seen.add(key);
   for (const k of [ck, fk]) if (k) seen.add(k);

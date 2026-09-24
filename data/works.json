@@ -1,8 +1,8 @@
 {
  "generated": "2026-09-01T05:02:04.496Z",
  "stats": {
-  "works": 6613,
-  "composers": 1674
+  "works": 6672,
+  "composers": 1669
  },
  "composers": [
   {
@@ -729,7 +729,7 @@
     "j.s. bach"
    ],
    "n": 26,
-   "nArr": 193
+   "nArr": 197
   },
   {
    "id": "bach-wilhelm-friedemann",
@@ -1183,7 +1183,7 @@
     "beethoven"
    ],
    "n": 30,
-   "nArr": 19
+   "nArr": 23
   },
   {
    "id": "beischer-matyo-tamas",
@@ -1464,7 +1464,7 @@
     "berlioz"
    ],
    "n": 8,
-   "nArr": 0
+   "nArr": 1
   },
   {
    "id": "bernabei-ercole",
@@ -1718,7 +1718,7 @@
     "bizet"
    ],
    "n": 3,
-   "nArr": 2
+   "nArr": 3
   },
   {
    "id": "bjerre-klaus",
@@ -2027,24 +2027,16 @@
    "nArr": 1
   },
   {
-   "id": "borodin-aleksandr",
-   "name": "Aleksandr Borodin",
-   "sort": "Borodin, Aleksandr",
-   "dates": "1833–1887",
-   "aliases": [],
-   "n": 0,
-   "nArr": 3
-  },
-  {
    "id": "borodin-alexander",
    "name": "Alexander Borodin",
    "sort": "Borodin, Alexander",
    "dates": "1833–1887",
    "aliases": [
-    "borodin"
+    "borodin",
+    "Aleksandr Borodin"
    ],
    "n": 2,
-   "nArr": 0
+   "nArr": 3
   },
   {
    "id": "bortniansky-dmytro",
@@ -2217,7 +2209,7 @@
     "brahms"
    ],
    "n": 19,
-   "nArr": 11
+   "nArr": 12
   },
   {
    "id": "branco-giovanni-giacomo",
@@ -4440,7 +4432,7 @@
     "dvořák"
    ],
    "n": 17,
-   "nArr": 11
+   "nArr": 14
   },
   {
    "id": "dyson-peter",
@@ -4568,7 +4560,7 @@
     "elgar"
    ],
    "n": 30,
-   "nArr": 4
+   "nArr": 5
   },
   {
    "id": "elias-jose",
@@ -4811,7 +4803,7 @@
    "dates": "1688–1758",
    "aliases": [],
    "n": 47,
-   "nArr": 1
+   "nArr": 2
   },
   {
    "id": "fasolo-giovanni-battista",
@@ -4829,7 +4821,7 @@
    "dates": "1845–1924",
    "aliases": [],
    "n": 5,
-   "nArr": 11
+   "nArr": 12
   },
   {
    "id": "federici-francesco",
@@ -5008,7 +5000,7 @@
    "sort": "Finger, Gottfried",
    "dates": null,
    "aliases": [],
-   "n": 4,
+   "n": 5,
    "nArr": 5
   },
   {
@@ -5806,22 +5798,15 @@
    "nArr": 0
   },
   {
-   "id": "glazunov-aleksandr",
-   "name": "Aleksandr Glazunov",
-   "sort": "Glazunov, Aleksandr",
-   "dates": "1865–1936",
-   "aliases": [],
-   "n": 0,
-   "nArr": 1
-  },
-  {
    "id": "glazunov-alexander",
    "name": "Alexander Glazunov",
    "sort": "Glazunov, Alexander",
    "dates": "1865–1936",
-   "aliases": [],
+   "aliases": [
+    "Aleksandr Glazunov"
+   ],
    "n": 5,
-   "nArr": 0
+   "nArr": 1
   },
   {
    "id": "gliere-reinhold",
@@ -6342,7 +6327,7 @@
     "händel"
    ],
    "n": 39,
-   "nArr": 47
+   "nArr": 57
   },
   {
    "id": "handl-jacob",
@@ -6488,7 +6473,7 @@
     "haydn"
    ],
    "n": 151,
-   "nArr": 21
+   "nArr": 29
   },
   {
    "id": "haydn-michael",
@@ -6870,7 +6855,7 @@
     "holst"
    ],
    "n": 12,
-   "nArr": 2
+   "nArr": 3
   },
   {
    "id": "holyoke-samuel",
@@ -9624,7 +9609,7 @@
     "mozart"
    ],
    "n": 100,
-   "nArr": 68
+   "nArr": 73
   },
   {
    "id": "muckenberger-hilmar",
@@ -9669,7 +9654,7 @@
    "dates": "1839–1881",
    "aliases": [],
    "n": 4,
-   "nArr": 2
+   "nArr": 3
   },
   {
    "id": "myrszakis-augustin",
@@ -10850,18 +10835,10 @@
    "dates": "1891–1953",
    "aliases": [
     "prokofiev",
-    "prokofieff"
+    "prokofieff",
+    "Sergey Prokofiev"
    ],
-   "n": 30,
-   "nArr": 0
-  },
-  {
-   "id": "prokofiev-sergey",
-   "name": "Sergey Prokofiev",
-   "sort": "Prokofiev, Sergey",
-   "dates": "1891–1953",
-   "aliases": [],
-   "n": 1,
+   "n": 31,
    "nArr": 3
   },
   {
@@ -11415,18 +11392,10 @@
    "dates": "1844–1908",
    "aliases": [
     "rimsky-korsakov",
-    "rimsky korsakov"
+    "rimsky korsakov",
+    "Nikolay Rimsky-Korsakov"
    ],
-   "n": 9,
-   "nArr": 0
-  },
-  {
-   "id": "rimsky-korsakov-nikolay",
-   "name": "Nikolay Rimsky-Korsakov",
-   "sort": "Rimsky-Korsakov, Nikolay",
-   "dates": "1844–1908",
-   "aliases": [],
-   "n": 1,
+   "n": 10,
    "nArr": 2
   },
   {
@@ -12705,18 +12674,10 @@
    "dates": "1906–1975",
    "aliases": [
     "shostakovich",
-    "schostakowitsch"
+    "schostakowitsch",
+    "Dmitry Shostakovich"
    ],
    "n": 32,
-   "nArr": 0
-  },
-  {
-   "id": "shostakovich-dmitry",
-   "name": "Dmitry Shostakovich",
-   "sort": "Shostakovich, Dmitry",
-   "dates": "1906–1975",
-   "aliases": [],
-   "n": 0,
    "nArr": 1
   },
   {
@@ -13299,7 +13260,7 @@
     "strauss"
    ],
    "n": 34,
-   "nArr": 3
+   "nArr": 4
   },
   {
    "id": "stravinsky-igor",
@@ -13623,7 +13584,7 @@
     "telemann"
    ],
    "n": 146,
-   "nArr": 74
+   "nArr": 82
   },
   {
    "id": "tenducci-giusto-ferdinando",
@@ -14181,7 +14142,7 @@
    "dates": "1813–1901",
    "aliases": [],
    "n": 18,
-   "nArr": 0
+   "nArr": 6
   },
   {
    "id": "verheul-maurice",
@@ -14336,7 +14297,7 @@
     "vivaldi"
    ],
    "n": 29,
-   "nArr": 9
+   "nArr": 10
   },
   {
    "id": "vizthum-joseph",
@@ -39398,6 +39359,24 @@
   },
   {
    "c": "bach-johann-sebastian",
+   "t": "Brandenburg Concerto No.1 in F major",
+   "cat": "BWV 1046",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "bach-johann-sebastian",
    "t": "Brandenburg Concerto No.3 in G major",
    "cat": "BWV 1048",
    "y": null,
@@ -41258,6 +41237,26 @@
   },
   {
    "c": "bach-johann-sebastian",
+   "t": "Mass in B minor",
+   "cat": "BWV 232",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, oboe d'amore",
+   "counts": {
+    "oboe": 1,
+    "oboeDamore": 1
+   },
+   "req": [
+    "oboe",
+    "oboeDamore"
+   ],
+   "full": "oboe, oboe damore, 2 cellos",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "bach-johann-sebastian",
    "t": "Mass in F major",
    "cat": "BWV 233",
    "y": null,
@@ -41270,6 +41269,28 @@
     "oboe"
    ],
    "full": "oboe, 2 cellos",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "bach-johann-sebastian",
+   "t": "Matthäuspassion",
+   "cat": "BWV 244",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, english horn, bass oboe",
+   "counts": {
+    "oboe": 1,
+    "englishHorn": 1,
+    "bassOboe": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn",
+    "bassOboe"
+   ],
+   "full": "oboe, English horn, bass oboe, bassoon",
    "note": null,
    "arr": true,
    "est": false
@@ -42680,6 +42701,28 @@
    "full": "voice, oboe, strings, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "bach-johann-sebastian",
+   "t": "Weihnachtsoratorium",
+   "cat": "BWV 248",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, english horn, bass oboe",
+   "counts": {
+    "oboe": 1,
+    "englishHorn": 1,
+    "bassOboe": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn",
+    "bassOboe"
+   ],
+   "full": "oboe, English horn, bass oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -49958,6 +50001,24 @@
   },
   {
    "c": "beethoven-ludwig-van",
+   "t": "Fidelio",
+   "cat": "Op.72",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon and 4 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "beethoven-ludwig-van",
    "t": "Für Elise",
    "cat": "WoO 59",
    "y": null,
@@ -50136,6 +50197,60 @@
     "oboe"
    ],
    "full": "flute, oboe, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "beethoven-ludwig-van",
+   "t": "Symphony No.6",
+   "cat": "Op.68",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns and double bass",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "beethoven-ludwig-van",
+   "t": "Symphony No.7",
+   "cat": "Op.92",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "beethoven-ludwig-van",
+   "t": "Symphony No.9",
+   "cat": "Op.125",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
    "note": null,
    "arr": true,
    "est": false
@@ -50932,6 +51047,24 @@
    "full": "oboe",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "berlioz-hector",
+   "t": "Symphonie fantastique",
+   "cat": "H 48",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn, trumpet, trombone, timpani, percussion, harp, 2 violins, viola, cello, double bass",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -51800,6 +51933,24 @@
    "full": "flute, oboe, clarinet, bassoon, horn",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "bizet-georges",
+   "t": "Carmen",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -53063,7 +53214,7 @@
    "est": false
   },
   {
-   "c": "borodin-aleksandr",
+   "c": "borodin-alexander",
    "t": "In the Steppes of Central Asia",
    "cat": null,
    "y": null,
@@ -53081,7 +53232,7 @@
    "est": false
   },
   {
-   "c": "borodin-aleksandr",
+   "c": "borodin-alexander",
    "t": "Prince Igor",
    "cat": null,
    "y": null,
@@ -53099,7 +53250,7 @@
    "est": false
   },
   {
-   "c": "borodin-aleksandr",
+   "c": "borodin-alexander",
    "t": "String Trio in G minor",
    "cat": null,
    "y": null,
@@ -53794,6 +53945,24 @@
     "oboe"
    ],
    "full": "2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "brahms-johannes",
+   "t": "Symphony No.2",
+   "cat": "Op.73",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, bassoon, contrabassoon, 2 horns",
    "note": null,
    "arr": true,
    "est": false
@@ -66746,6 +66915,24 @@
   },
   {
    "c": "dvorak-antonin",
+   "t": "Rusalka",
+   "cat": "Op.114",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "dvorak-antonin",
    "t": "Serenade for Strings",
    "cat": "Op.22",
    "y": null,
@@ -66758,6 +66945,24 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, double bass",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "dvorak-antonin",
+   "t": "Slavonic Dances",
+   "cat": "Op.46",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, 2 bassoons, 2 horns and double bass",
    "note": null,
    "arr": true,
    "est": false
@@ -66834,6 +67039,24 @@
     "oboe"
    ],
    "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "dvorak-antonin",
+   "t": "Symphony No.9",
+   "cat": "Op.95",
+   "y": null,
+   "g": "Arrangement",
+   "s": "english horn",
+   "counts": {
+    "englishHorn": 1
+   },
+   "req": [
+    "englishHorn"
+   ],
+   "full": "English horn, viola, cello",
    "note": null,
    "arr": true,
    "est": false
@@ -67514,6 +67737,24 @@
    "c": "elgar-edward",
    "t": "The Wand of Youth, Suite No.2",
    "cat": "Op.1b",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns and double bass",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "elgar-edward",
+   "t": "Variations on an Original Theme 'Enigma'",
+   "cat": "Op.36",
    "y": null,
    "g": "Arrangement",
    "s": "two oboes",
@@ -69120,6 +69361,24 @@
   },
   {
    "c": "fasch-johann-friedrich",
+   "t": "Ouverture-Suite, FaWV K:D6",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "oboe, harpsichord",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "fasch-johann-friedrich",
    "t": "Ouverture-Suite, FaWV K:e2",
    "cat": null,
    "y": null,
@@ -69530,6 +69789,24 @@
    "full": "childrens chorus, oboe, cello, double bass, organ",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "faure-gabriel",
+   "t": "Pavane",
+   "cat": "Op.50",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn, violin, viola, cello, double bass",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -71268,6 +71545,24 @@
    "full": "oboe, bass oboe, continuo",
    "note": null,
    "arr": true,
+   "est": false
+  },
+  {
+   "c": "finger-gottfried",
+   "t": "Trio Sonata in D minor",
+   "cat": null,
+   "y": null,
+   "g": "Other",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "recorder, oboe, continuo",
+   "note": null,
+   "arr": false,
    "est": false
   },
   {
@@ -74615,7 +74910,7 @@
    "est": false
   },
   {
-   "c": "glazunov-aleksandr",
+   "c": "glazunov-alexander",
    "t": "Elegy",
    "cat": "Op.44",
    "y": null,
@@ -77254,6 +77549,24 @@
   },
   {
    "c": "handel-george-frideric",
+   "t": "Adagio and Allegro in A major",
+   "cat": "HWV 406",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, harpsichord",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
    "t": "Air in A minor",
    "cat": "HWV 604",
    "y": null,
@@ -77812,6 +78125,24 @@
   },
   {
    "c": "handel-george-frideric",
+   "t": "March in D major",
+   "cat": "HWV 417",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "oboe, harpsichord",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
    "t": "March in F major",
    "cat": "HWV 346",
    "y": null,
@@ -77844,6 +78175,28 @@
    "full": "2 oboes, bassoon",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
+   "t": "Messiah",
+   "cat": "HWV 56",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, english horn, bass oboe",
+   "counts": {
+    "oboe": 1,
+    "englishHorn": 1,
+    "bassOboe": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn",
+    "bassOboe"
+   ],
+   "full": "oboe, English horn, bass oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -77970,6 +78323,24 @@
    "full": "2 oboes, bassoon, 2 horns",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
+   "t": "Minuet in G major",
+   "cat": "HWV 521",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "oboe, harpsichord",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -78230,6 +78601,24 @@
   },
   {
    "c": "handel-george-frideric",
+   "t": "Suite in B-flat major",
+   "cat": "HWV 434",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, 2 horns, bassoon and contrabassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
    "t": "Suite in C major",
    "cat": "HWV 443",
    "y": null,
@@ -78410,6 +78799,24 @@
   },
   {
    "c": "handel-george-frideric",
+   "t": "Trio Sonata in B-flat major",
+   "cat": "HWV 402",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
    "t": "Trio Sonata in C major",
    "cat": "HWV 403",
    "y": null,
@@ -78460,6 +78867,24 @@
    "full": "2 oboes, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
+   "t": "Trio Sonata in D major",
+   "cat": "HWV 397",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -78518,6 +78943,24 @@
   },
   {
    "c": "handel-george-frideric",
+   "t": "Trio Sonata in F major",
+   "cat": "HWV 392",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
    "t": "Trio Sonata in G major",
    "cat": "HWV 384",
    "y": null,
@@ -78532,6 +78975,24 @@
    "full": "2 oboes, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
+   "t": "Trio Sonata in G major",
+   "cat": "HWV 399",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -78604,6 +79065,28 @@
    "full": "oboe, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "handel-george-frideric",
+   "t": "Water Music",
+   "cat": "HWV 348-350",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, english horn, bass oboe",
+   "counts": {
+    "oboe": 1,
+    "englishHorn": 1,
+    "bassOboe": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn",
+    "bassOboe"
+   ],
+   "full": "oboe, English horn, bass oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -80698,6 +81181,150 @@
     "englishHorn"
    ],
    "full": "flute, English horn, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.16 in B-flat major, Hob.I:16",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, 2 bassoons and horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.26 in D minor, Hob.I:26",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.3 in G major, Hob.I:3",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.30 in C major, Hob.I:30",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.46 in B major, Hob.I:46",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.49 in F minor, Hob.I:49",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.83 in G minor, Hob.I:83",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No.95 in C minor, Hob.I:95",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn, 2 violins, viola, cello and double bass",
    "note": null,
    "arr": true,
    "est": false
@@ -83358,6 +83985,24 @@
    "full": "flute, oboe, viola",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "holst-gustav",
+   "t": "The Planets",
+   "cat": "Op.32",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -98048,6 +98693,28 @@
   },
   {
    "c": "mozart-wolfgang-amadeus",
+   "t": "Così fan tutte",
+   "cat": "K.588",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two english horns, bass oboe, heckelphone",
+   "counts": {
+    "englishHorn": 2,
+    "bassOboe": 1,
+    "heckelphone": 1
+   },
+   "req": [
+    "englishHorn",
+    "bassOboe",
+    "heckelphone"
+   ],
+   "full": "2 English horns, bass oboe, heckelphone, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "mozart-wolfgang-amadeus",
    "t": "Das Traumbild",
    "cat": "K.530",
    "y": null,
@@ -98096,6 +98763,26 @@
     "oboe"
    ],
    "full": "2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "mozart-wolfgang-amadeus",
+   "t": "Die Entführung aus dem Serail",
+   "cat": "K.384",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes, two english horns",
+   "counts": {
+    "oboe": 2,
+    "englishHorn": 2
+   },
+   "req": [
+    "oboe",
+    "englishHorn"
+   ],
+   "full": "2 oboes, 2 English horns, 2 bassoons, 2 horns",
    "note": null,
    "arr": true,
    "est": false
@@ -98304,6 +98991,28 @@
   },
   {
    "c": "mozart-wolfgang-amadeus",
+   "t": "Don Giovanni",
+   "cat": "K.527",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe, english horn, bass oboe",
+   "counts": {
+    "oboe": 1,
+    "englishHorn": 1,
+    "bassOboe": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn",
+    "bassOboe"
+   ],
+   "full": "oboe, English horn, bass oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "mozart-wolfgang-amadeus",
    "t": "Due pupille amabili, K.439/Anh.A 47/01",
    "cat": null,
    "y": null,
@@ -98352,6 +99061,24 @@
     "oboe"
    ],
    "full": "flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "mozart-wolfgang-amadeus",
+   "t": "Exsultate, jubilate",
+   "cat": "K.165/158a",
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "voice, flute, oboe, clarinet, bassoon, horn",
    "note": null,
    "arr": true,
    "est": false
@@ -98574,6 +99301,24 @@
     "oboe"
    ],
    "full": "flute, oboe, clarinet, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "mozart-wolfgang-amadeus",
+   "t": "La clemenza di Tito",
+   "cat": "K.621",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, trumpet, double bass",
    "note": null,
    "arr": true,
    "est": false
@@ -99338,6 +100083,28 @@
    "full": "''Voices'': Henriette (soprano), Klara (soprano), Lisette (soprano), Heinzenfeld (tenor), Valer (tenor), Friseur (baritone), Hasenkopf (bass), Hausmeister (bass), Johann (bass)<br>''Orchestra'': 2 flutes, 2 oboes, 2 clarinets, 2 bassoons + 2 horns, 2 trumpets + timpani + strings",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "mussorgsky-modest",
+   "t": "Pictures at an Exhibition",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "english horn, bass oboe, heckelphone",
+   "counts": {
+    "englishHorn": 1,
+    "bassOboe": 1,
+    "heckelphone": 1
+   },
+   "req": [
+    "englishHorn",
+    "bassOboe",
+    "heckelphone"
+   ],
+   "full": "English horn, bass oboe, heckelphone, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -109769,7 +110536,7 @@
    "est": false
   },
   {
-   "c": "prokofiev-sergey",
+   "c": "prokofiev-sergei",
    "t": "Overture on Hebrew Themes",
    "cat": "Op.34",
    "y": null,
@@ -109787,7 +110554,7 @@
    "est": false
   },
   {
-   "c": "prokofiev-sergey",
+   "c": "prokofiev-sergei",
    "t": "Peter and the Wolf",
    "cat": "Op.67",
    "y": null,
@@ -109805,7 +110572,7 @@
    "est": false
   },
   {
-   "c": "prokofiev-sergey",
+   "c": "prokofiev-sergei",
    "t": "Quintet",
    "cat": "Op.39",
    "y": null,
@@ -109823,7 +110590,7 @@
    "est": false
   },
   {
-   "c": "prokofiev-sergey",
+   "c": "prokofiev-sergei",
    "t": "Romeo and Juliet (ballet)",
    "cat": "Op.64",
    "y": null,
@@ -112698,7 +113465,7 @@
    "est": false
   },
   {
-   "c": "rimsky-korsakov-nikolay",
+   "c": "rimsky-korsakov-nikolai",
    "t": "Quintet in B-flat major",
    "cat": null,
    "y": null,
@@ -112716,7 +113483,7 @@
    "est": false
   },
   {
-   "c": "rimsky-korsakov-nikolay",
+   "c": "rimsky-korsakov-nikolai",
    "t": "The Tale of Tsar Saltan (opera)",
    "cat": null,
    "y": null,
@@ -112734,7 +113501,7 @@
    "est": false
   },
   {
-   "c": "rimsky-korsakov-nikolay",
+   "c": "rimsky-korsakov-nikolai",
    "t": "Variations on a Theme by Glinka",
    "cat": null,
    "y": null,
@@ -119136,7 +119903,7 @@
    "est": false
   },
   {
-   "c": "shostakovich-dmitry",
+   "c": "shostakovich-dmitri",
    "t": "Children's Notebook",
    "cat": "Op.69",
    "y": null,
@@ -122521,6 +123288,24 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon and 4 horns",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "strauss-richard",
+   "t": "Also sprach Zarathustra",
+   "cat": "Op.30",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 4 horns",
    "note": null,
    "arr": true,
    "est": false
@@ -126509,6 +127294,24 @@
   },
   {
    "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:A6",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
    "t": "Trio Sonata, TWV 42:a7",
    "cat": null,
    "y": null,
@@ -126693,6 +127496,24 @@
   },
   {
    "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:C2",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
    "t": "Trio Sonata, TWV 42:c3",
    "cat": null,
    "y": null,
@@ -126707,6 +127528,24 @@
    "full": "oboe, viol, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:C3",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -126963,6 +127802,24 @@
   },
   {
    "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:D4",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
    "t": "Trio Sonata, TWV 42:D5",
    "cat": null,
    "y": null,
@@ -127161,6 +128018,24 @@
   },
   {
    "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:E5",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
    "t": "Trio Sonata, TWV 42:e6",
    "cat": null,
    "y": null,
@@ -127175,6 +128050,24 @@
    "full": "recorder, oboe, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:E6",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -127575,6 +128468,24 @@
   },
   {
    "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:G12",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
    "t": "Trio Sonata, TWV 42:g13",
    "cat": null,
    "y": null,
@@ -127679,6 +128590,24 @@
    "full": "oboe, viol, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "telemann-georg-philipp",
+   "t": "Trio Sonata, TWV 42:G6",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "english horn",
+   "counts": {
+    "englishHorn": 1
+   },
+   "req": [
+    "englishHorn"
+   ],
+   "full": "english horn, harpsichord and continuo",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
@@ -130740,6 +131669,114 @@
    "est": false
   },
   {
+   "c": "verdi-giuseppe",
+   "t": "Il trovatore",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "oboe, clarinet, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "verdi-giuseppe",
+   "t": "La traviata",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "voice, flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "verdi-giuseppe",
+   "t": "Nabucco",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns and double bass",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "verdi-giuseppe",
+   "t": "Otello",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "voice, flute, oboe, clarinet, bassoon, horn",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "verdi-giuseppe",
+   "t": "Rigoletto",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "flute, oboe, clarinet, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
+   "c": "verdi-giuseppe",
+   "t": "Un ballo in maschera",
+   "cat": null,
+   "y": null,
+   "g": "Arrangement",
+   "s": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "oboe, clarinet, bassoon",
+   "note": null,
+   "arr": true,
+   "est": false
+  },
+  {
    "c": "verheul-maurice",
    "t": "Trois couleur d'arbre No.4, MVWV 865",
    "cat": null,
@@ -132127,6 +133164,26 @@
    "full": "2 oboes, 2 horns, violin, strings, continuo",
    "note": null,
    "arr": false,
+   "est": false
+  },
+  {
+   "c": "vivaldi-antonio",
+   "t": "Concerto in D minor",
+   "cat": "RV 565",
+   "y": null,
+   "g": "Arrangement",
+   "s": "two oboes, english horn",
+   "counts": {
+    "oboe": 2,
+    "englishHorn": 1
+   },
+   "req": [
+    "oboe",
+    "englishHorn"
+   ],
+   "full": "2 oboes, english horn, bassoon, strings and continuo",
+   "note": null,
+   "arr": true,
    "est": false
   },
   {
