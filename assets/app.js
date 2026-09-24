@@ -1,4 +1,4 @@
-import { OBOE_FAMILY, FAMILY_KEYS } from '../lib/instrumentation.mjs?v=28a60515d1';
+import { OBOE_FAMILY, FAMILY_KEYS } from '../lib/instrumentation.mjs?v=26e2d6b555';
 
 /**
  * All searching happens against an index that ships with the page, so the app

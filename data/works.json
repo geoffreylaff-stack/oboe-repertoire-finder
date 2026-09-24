@@ -16772,7 +16772,7 @@
    "cat": null,
    "y": 1894,
    "g": "Symphony",
-   "s": "four oboes (3rd doubling english horn)",
+   "s": "four oboes (3rd and 4th doubling english horn)",
    "counts": {
     "oboe": 4
    },
@@ -33040,7 +33040,7 @@
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "three oboes (3rd doubling oboe d'amore)",
+   "s": "three oboes (2nd doubling oboe d'amore)",
    "counts": {
     "oboe": 3
    },
@@ -33700,7 +33700,7 @@
    "cat": null,
    "y": null,
    "g": "Choral",
-   "s": "three oboes (2nd doubling english horn)",
+   "s": "three oboes (2nd and 3rd doubling english horn)",
    "counts": {
     "oboe": 3
    },

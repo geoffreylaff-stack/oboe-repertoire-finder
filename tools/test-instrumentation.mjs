@@ -51,6 +51,33 @@ test('reads ordinal words in doublings, as Wikipedia writes them', () => {
     'four oboes (4th doubling english horn)');
 });
 
+test('names every chair that doubles, not just the first', () => {
+  // Mahler 2 is "4 Oboen (3. und 4. auch Englisch Horn)": both chairs switch.
+  assert.equal(scoring('4 oboes (3rd and 4th doubling english horn)'),
+    'four oboes (3rd and 4th doubling english horn)');
+  assert.equal(scoring('5 oboes (2nd, 3rd and 4th doubling english horn)'),
+    'five oboes (2nd, 3rd and 4th doubling english horn)');
+  assert.equal(scoring('2 oboes (both doubling english horn)'),
+    'two oboes (doubling english horn)');
+});
+
+test('ordinals after the cue name the instrument, not the chairs', () => {
+  // Mahler 6: "3rd and 4th doubling 2nd and 3rd cor anglais" — four ordinals,
+  // but only the two before "doubling" are players.
+  const m6 = parseInstrumentation('4 oboes (3rd and 4th doubling 2nd and 3rd cor anglais)');
+  assert.equal(m6.doublings[0].player, '3rd and 4th');
+});
+
+test('reads German scoring lists', () => {
+  // The plural "Oboen" is not the English "oboes"; missing it dropped the
+  // whole section and left only the English horn behind.
+  const m8 = parseInstrumentation('4 Oboen, Englischhorn');
+  assert.deepEqual(m8.counts, { oboe: 4, englishHorn: 1 });
+  assert.equal(m8.total, 5); // same reading as the English "4 oboes, cor anglais"
+  assert.equal(scoring('2 Oboen, 2 Englischhörner'), 'two oboes, two english horns');
+  assert.equal(scoring('Hoboen, Streicher'), 'two oboes');
+});
+
 test('a doubled instrument still counts as required', () => {
   const dvorak = parseInstrumentation('2 oboes (2nd doubling english horn)');
   assert.deepEqual(requiredInstruments(dvorak), ['oboe', 'englishHorn']);
