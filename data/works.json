@@ -19903,7 +19903,7 @@
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "two oboes (2 doubling english horn)",
+   "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
    },
@@ -29759,7 +29759,7 @@
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "two oboes (2 doubling english horn)",
+   "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
    },
@@ -32966,13 +32966,14 @@
    "cat": null,
    "y": null,
    "g": "Chamber",
-   "s": "oboe (doubling oboe d'amore)",
+   "s": "oboe (doubling english horn, doubling oboe d'amore)",
    "counts": {
     "oboe": 1
    },
    "req": [
     "oboe",
-    "oboeDamore"
+    "oboeDamore",
+    "englishHorn"
    ],
    "full": "scored for flute (doubling piccolo), oboe (doubling English horn and oboe d'amore), clarinet, bass clarinet, horn, tenor trombone, harpsichord (doubling harmonium), piano (doubling celesta), and string quintet, The Chamber Concerto uses micropolyphonic textures, which Ligeti describes as, \"One clearly discernible interval combination is gradually blurred, and from this cloudiness it is possible to",
    "note": null,
@@ -33040,13 +33041,14 @@
    "cat": null,
    "y": null,
    "g": "Opera",
-   "s": "three oboes (2nd doubling oboe d'amore)",
+   "s": "three oboes (2nd doubling oboe d'amore, 3rd doubling english horn)",
    "counts": {
     "oboe": 3
    },
    "req": [
     "oboe",
-    "oboeDamore"
+    "oboeDamore",
+    "englishHorn"
    ],
    "full": "Ligeti calls for a very diverse orchestra with a huge assortment of percussion in his opera:, Woodwinds, 3 Western concert flute flutes (second and third doubling piccolos), 3 oboes (second doubling oboe d'amore, 3rd doubling cor anglais), 3 clarinets in B (second doubling piccolo clarinet in E and alto saxophone, 3rd doubling bass clarinet in B ), 3 bassoons (third doubling contrabassoon), 3 chro",
    "note": null,

@@ -78,6 +78,37 @@ test('reads German scoring lists', () => {
   assert.equal(scoring('Hoboen, Streicher'), 'two oboes');
 });
 
+test('reads every doubling in one aside, not just the first', () => {
+  // Ligeti's Le Grand Macabre: two instruments taken by two different chairs.
+  const macabre = parseInstrumentation(
+    "3 oboes (second doubling oboe d'amore, 3rd doubling cor anglais)");
+  assert.equal(formatOboeScoring(macabre),
+    "three oboes (2nd doubling oboe d'amore, 3rd doubling english horn)");
+  // Reading only the first left the work unfindable by English horn.
+  assert.deepEqual(requiredInstruments(macabre), ['oboe', 'oboeDamore', 'englishHorn']);
+  assert.equal(macabre.counts.oboe, 3); // and still three players
+
+  // His Chamber Concerto: two instruments, one player, named in text order.
+  const chamber = parseInstrumentation("oboe (doubling English horn and oboe d'amore)");
+  assert.deepEqual(requiredInstruments(chamber), ['oboe', 'oboeDamore', 'englishHorn']);
+  assert.equal(formatOboeScoring(chamber),
+    "oboe (doubling english horn, doubling oboe d'amore)");
+});
+
+test('a remark after a doubling does not repeat it', () => {
+  // Mahler 6 names the cor anglais twice in one aside, once to describe it.
+  const m6 = parseInstrumentation(
+    '4 oboes (3rd and 4th doubling 2nd and 3rd cor anglais; 2nd cor anglais used only in Scherzo), cor anglais');
+  assert.equal(m6.doublings.filter((d) => d.instrument === 'englishHorn').length, 1);
+  assert.equal(m6.total, 5); // four oboes and the separate cor anglais
+});
+
+test('a chair written as a bare digit still reads as a chair', () => {
+  // Verdi's Rigoletto: "Oboe 2 doubles English horn" means the 2nd oboe.
+  assert.equal(scoring('2 oboes (Oboe 2 doubles English horn)'),
+    'two oboes (2nd doubling english horn)');
+});
+
 test('a doubled instrument still counts as required', () => {
   const dvorak = parseInstrumentation('2 oboes (2nd doubling english horn)');
   assert.deepEqual(requiredInstruments(dvorak), ['oboe', 'englishHorn']);
