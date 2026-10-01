@@ -393,6 +393,13 @@
   "rodrigo-joaquin": {
    "name": "Joaquín Rodrigo",
    "dates": "1901–1999"
+  },
+  "adams-john": {
+   "name": "John Adams",
+   "dates": "b. 1947",
+   "aliases": [
+    "john coolidge adams"
+   ]
   }
  },
  "works": [
@@ -1628,6 +1635,238 @@
    "genre": "Concerto",
    "oboes": "oboe",
    "full": "solo oboe, 2 flutes, 2 clarinets, 2 bassoons, 2 horns, trumpet, piano, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "Harmonium",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "4 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, piano, celesta, harp, strings, chorus",
+   "note": "A three-movement choral symphony setting poems by John Donne and Emily Dickinson; the chorus calls for a minimum of 90 singers. Hand-entered because IMSLP has no record for this living composer."
+  },
+  {
+   "c": "adams-john",
+   "title": "Harmonielehre",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "4 flutes, 3 oboes, 4 clarinets, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, 2 tubas, timpani, percussion, piano, celesta, 2 harps, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "Short Ride in a Fast Machine",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes, english horn",
+   "full": "2 piccolos, 2 flutes, 2 oboes, english horn, clarinets, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, strings",
+   "note": "Also exists in a concert band transcription by Odom, catalogued separately by the Wind Repertory Project."
+  },
+  {
+   "c": "adams-john",
+   "title": "Chamber Symphony",
+   "cat": "",
+   "year": null,
+   "genre": "Chamber",
+   "oboes": "oboe",
+   "full": "flute, oboe, E-flat clarinet, bass clarinet, bassoon, contrabassoon, horn, trumpet, trombone, synthesizer, percussion, strings",
+   "note": "A 15-player chamber ensemble, one player per part — the woodwinds and strings here are single players, not sections."
+  },
+  {
+   "c": "adams-john",
+   "title": "Violin Concerto",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, trumpet, percussion, synthesizers, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "My Father Knew Charles Ives",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 3 flutes, 2 oboes, english horn, 3 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, celesta, piano, harp, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "A Flowering Tree",
+   "cat": "",
+   "year": null,
+   "genre": "Opera",
+   "oboes": "2 oboes",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 recorders, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, percussion, harp, celesta, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "The Gospel According to the Other Mary",
+   "cat": "",
+   "year": null,
+   "genre": "Opera",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, cimbalom, bass guitar, piano, harp, strings, chorus",
+   "note": "Subtitled a 'Passion oratorio'; billed as an opera in some stagings."
+  },
+  {
+   "c": "adams-john",
+   "title": "On the Transmigration of Souls",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "piccolo, 3 flutes, 3 oboes, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, 2 tubas, timpani, percussion, piano, celesta, quarter-tone piano, 2 harps, strings, chorus, prerecorded tape",
+   "note": "Written to commemorate the September 11 attacks, for the New York Philharmonic; the live performers play alongside a prerecorded tape of voices and city sounds."
+  },
+  {
+   "c": "adams-john",
+   "title": "Absolute Jest",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, timpani, percussion, harp, piano, celesta, strings",
+   "note": "The soloist is an amplified string quartet rather than a single instrument; built from fragments of late Beethoven."
+  },
+  {
+   "c": "adams-john",
+   "title": "Scheherazade.2",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, percussion, cimbalom, celesta, 2 harps, strings",
+   "note": "Subtitled 'Dramatic Symphony for Violin and Orchestra'."
+  },
+  {
+   "c": "adams-john",
+   "title": "Grand Pianola Music",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, 2 trombones, tuba, percussion, 2 pianos, voices",
+   "note": "No strings in the scoring — winds, brass, percussion, two amplified pianos, and three amplified women's voices."
+  },
+  {
+   "c": "adams-john",
+   "title": "The Chairman Dances",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani, percussion, piano, harp, strings",
+   "note": "An 'outtake' from Act III of Nixon in China, written as a standalone orchestral foxtrot."
+  },
+  {
+   "c": "adams-john",
+   "title": "Naïve and Sentimental Music",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "3 oboes, english horn",
+   "full": "4 flutes, 3 oboes, english horn, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, 2 tubas, percussion, piano, celesta, keyboard sampler, 2 harps, guitar, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "Guide to Strange Places",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, piano, celesta, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "Fearful Symmetries",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes, english horn",
+   "full": "2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, bassoon, soprano saxophone, 2 alto saxophones, baritone saxophone, 2 horns, 3 trumpets, 3 trombones, timpani, piano, keyboard samplers, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "Century Rolls",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 3 trumpets, 2 trombones, timpani, percussion, harp, celesta, strings",
+   "note": "Piano concerto; the title refers to the mechanical rhythms of player-piano rolls."
+  },
+  {
+   "c": "adams-john",
+   "title": "Lollapalooza",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, E-flat clarinet, 2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 4 horns, 3 trumpets, 2 tenor trombones, bass trombone, tuba, timpani, percussion, piano, strings"
+  },
+  {
+   "c": "adams-john",
+   "title": "City Noir",
+   "cat": "",
+   "year": null,
+   "genre": "Orchestral",
+   "oboes": "3 oboes, english horn",
+   "full": "piccolo, 3 flutes, 3 oboes, english horn, 3 clarinets, bass clarinet, alto saxophone, 2 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, jazz drum set, piano, celesta, 2 harps, strings",
+   "note": "Written for the Los Angeles Philharmonic's 2009 season opener under Gustavo Dudamel."
+  },
+  {
+   "c": "adams-john",
+   "title": "After the Fall",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes",
+   "full": "3 flutes, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, percussion, harp, celesta, strings",
+   "note": "Piano concerto."
+  },
+  {
+   "c": "adams-john",
+   "title": "Saxophone Concerto",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 2 trumpets, harp, piano, celesta, strings",
+   "note": "Solo part for alto saxophone; the English horn doubles a 3rd oboe."
+  },
+  {
+   "c": "adams-john",
+   "title": "Must the Devil Have All the Good Tunes?",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes, english horn",
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, piano, honky-tonk piano, bass guitar, strings",
+   "note": "Piano concerto; the title borrows a line from Brecht and Weill."
+  },
+  {
+   "c": "adams-john",
+   "title": "Eros Piano",
+   "cat": "",
+   "year": null,
+   "genre": "Concerto",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, percussion, strings",
+   "note": "Piano concertante work; no trumpets or trombones in the scoring. Not in the trumpet repertoire finder for that reason."
+  },
+  {
+   "c": "adams-john",
+   "title": "Gnarly Buttons",
+   "cat": "",
+   "year": null,
+   "genre": "Chamber",
+   "oboes": "english horn",
+   "full": "english horn, bassoon, trombone, banjo, piano, keyboard samplers, strings",
+   "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe. Not in the trumpet repertoire finder, which this piece has no part for."
   }
  ]
 }
