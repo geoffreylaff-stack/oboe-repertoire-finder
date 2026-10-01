@@ -400,6 +400,14 @@
    "aliases": [
     "john coolidge adams"
    ]
+  },
+  "miller-alexander-lamont": {
+   "name": "Alexander Lamont Miller",
+   "dates": "b. 1968",
+   "aliases": [
+    "alexander miller",
+    "alex miller"
+   ]
   }
  },
  "works": [
@@ -1867,6 +1875,16 @@
    "oboes": "english horn",
    "full": "english horn, bassoon, trombone, banjo, piano, keyboard samplers, strings",
    "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe. Not in the trumpet repertoire finder, which this piece has no part for."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "H2O",
+   "cat": "",
+   "year": 2020,
+   "genre": "Wind ensemble",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 bassoons, 2 bass clarinets, trumpet, 4 horns, trombone, percussion",
+   "note": "For wind ensemble, in three movements (Ice Music, Water Music, Steam Music). No B-flat clarinets — the clarinet choir is bass clarinets only. The Wind Repertory Project notes its own percussion listing as incomplete ('percussion detail desired'). Hand-entered because IMSLP has no record for this living composer, and the composer's five other works for winds have no instrumentation catalogued anywhere yet."
   }
  ]
 }
