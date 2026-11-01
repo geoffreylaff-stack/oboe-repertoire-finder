@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-01T04:15:34.789Z",
+ "generated": "2026-11-01T11:06:27.978Z",
  "source": "IMSLP / Petrucci Music Library (imslp.org)",
  "license": "Work metadata from IMSLP, which publishes catalogue data under CC-BY-SA.",
  "counts": {
-  "works": 6134,
-  "composers": 1644,
-  "apiCalls": 1859
+  "works": 6155,
+  "composers": 1647,
+  "apiCalls": 1863
  },
  "composers": [
   {
@@ -456,7 +456,7 @@
    "id": "bach-carl-philipp-emanuel",
    "name": "Carl Philipp Emanuel Bach",
    "sort": "Bach, Carl Philipp Emanuel",
-   "works": 15
+   "works": 17
   },
   {
    "id": "bach-johann-bernhard",
@@ -480,7 +480,7 @@
    "id": "bach-johann-sebastian",
    "name": "Johann Sebastian Bach",
    "sort": "Bach, Johann Sebastian",
-   "works": 223
+   "works": 224
   },
   {
    "id": "bach-wilhelm-friedemann",
@@ -882,7 +882,7 @@
    "id": "benjamin-arthur",
    "name": "Arthur Benjamin",
    "sort": "Benjamin, Arthur",
-   "works": 1
+   "works": 2
   },
   {
    "id": "bennett-stephen",
@@ -1740,7 +1740,7 @@
    "id": "caldini-fulvio",
    "name": "Fulvio Caldini",
    "sort": "Caldini, Fulvio",
-   "works": 57
+   "works": 61
   },
   {
    "id": "califano-arcangelo",
@@ -2826,7 +2826,7 @@
    "id": "druzecky-jiri",
    "name": "Jiří Družecký",
    "sort": "Družecký, Jiří",
-   "works": 9
+   "works": 10
   },
   {
    "id": "duben-anders-von",
@@ -3187,12 +3187,6 @@
    "name": "Franz Wilhelm Ferling",
    "sort": "Ferling, Franz Wilhelm",
    "works": 5
-  },
-  {
-   "id": "fernandez-leonardo",
-   "name": "Leonardo Fernández",
-   "sort": "Fernández, Leonardo",
-   "works": 2
   },
   {
    "id": "fernandez-oscar-lorenzo",
@@ -3684,7 +3678,7 @@
    "id": "gershwin-george",
    "name": "George Gershwin",
    "sort": "Gershwin, George",
-   "works": 1
+   "works": 2
   },
   {
    "id": "gervasi-robert",
@@ -4146,7 +4140,7 @@
    "id": "handel-george-frideric",
    "name": "George Frideric Handel",
    "sort": "Handel, George Frideric",
-   "works": 177
+   "works": 178
   },
   {
    "id": "handl-jacob",
@@ -4488,7 +4482,7 @@
    "id": "holst-gustav",
    "name": "Gustav Holst",
    "sort": "Holst, Gustav",
-   "works": 6
+   "works": 7
   },
   {
    "id": "holyoke-samuel",
@@ -5094,7 +5088,7 @@
    "id": "krebs-johann-ludwig",
    "name": "Johann Ludwig Krebs",
    "sort": "Krebs, Johann Ludwig",
-   "works": 5
+   "works": 6
   },
   {
    "id": "kreith-charles",
@@ -5358,7 +5352,7 @@
    "id": "leclair-jean-marie",
    "name": "Jean-Marie Leclair",
    "sort": "Leclair, Jean-Marie",
-   "works": 1
+   "works": 2
   },
   {
    "id": "leemans-hebert-philippe-adrien",
@@ -5700,7 +5694,7 @@
    "id": "maderna-bruno",
    "name": "Bruno Maderna",
    "sort": "Maderna, Bruno",
-   "works": 1
+   "works": 2
   },
   {
    "id": "magnard-alberic",
@@ -5844,6 +5838,12 @@
    "id": "mariotte-antoine",
    "name": "Antoine Mariotte",
    "sort": "Mariotte, Antoine",
+   "works": 1
+  },
+  {
+   "id": "marks-c-f",
+   "name": "C. F. Marks",
+   "sort": "Marks, C. F.",
    "works": 1
   },
   {
@@ -6027,6 +6027,12 @@
    "works": 1
   },
   {
+   "id": "medtner-nikolay",
+   "name": "Nikolay Medtner",
+   "sort": "Medtner, Nikolay",
+   "works": 1
+  },
+  {
    "id": "meinig-august",
    "name": "August Meinig",
    "sort": "Meinig, August",
@@ -6054,7 +6060,7 @@
    "id": "mendelssohn-felix",
    "name": "Felix Mendelssohn",
    "sort": "Mendelssohn, Felix",
-   "works": 12
+   "works": 13
   },
   {
    "id": "menkveld-jan-willem",
@@ -6213,6 +6219,12 @@
    "works": 1
   },
   {
+   "id": "moore-douglas",
+   "name": "Douglas Moore",
+   "sort": "Moore, Douglas",
+   "works": 1
+  },
+  {
    "id": "moreno-sabio-jose-miguel",
    "name": "José Miguel Moreno Sabio",
    "sort": "Moreno Sabio, José Miguel",
@@ -6276,7 +6288,7 @@
    "id": "mozart-wolfgang-amadeus",
    "name": "Wolfgang Amadeus Mozart",
    "sort": "Mozart, Wolfgang Amadeus",
-   "works": 109
+   "works": 111
   },
   {
    "id": "muckenberger-hilmar",
@@ -7149,6 +7161,12 @@
    "works": 5
   },
   {
+   "id": "rachmaninoff-sergei",
+   "name": "Sergei Rachmaninoff",
+   "sort": "Rachmaninoff, Sergei",
+   "works": 1
+  },
+  {
    "id": "rackemann-friedrich-christian",
    "name": "Friedrich Christian Rackemann",
    "sort": "Rackemann, Friedrich Christian",
@@ -7818,7 +7836,7 @@
    "id": "sammartini-giuseppe",
    "name": "Giuseppe Sammartini",
    "sort": "Sammartini, Giuseppe",
-   "works": 23
+   "works": 24
   },
   {
    "id": "sampson-david-m",
@@ -7872,7 +7890,7 @@
    "id": "satie-erik",
    "name": "Erik Satie",
    "sort": "Satie, Erik",
-   "works": 4
+   "works": 3
   },
   {
    "id": "sauer-emil-von",
@@ -8832,7 +8850,7 @@
    "id": "tavares-luciano",
    "name": "Luciano Tavares",
    "sort": "Tavares, Luciano",
-   "works": 19
+   "works": 20
   },
   {
    "id": "tchaikovsky-pyotr",
@@ -15354,6 +15372,42 @@
    "url": "https://imslp.org/wiki/Oboe_Sonata_in_G_minor%2C_H.549_(Bach%2C_Carl_Philipp_Emanuel)"
   },
   {
+   "id": "Trio_Sonata_in_A_major,_H.570_(Bach,_Carl_Philipp_Emanuel)",
+   "title": "Trio Sonata in A major",
+   "catalogue": "H.570",
+   "composer": "Carl Philipp Emanuel Bach",
+   "composerSort": "Bach, Carl Philipp Emanuel",
+   "composerId": "bach-carl-philipp-emanuel",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, bassoon",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Trio_Sonata_in_A_major%2C_H.570_(Bach%2C_Carl_Philipp_Emanuel)"
+  },
+  {
+   "id": "Trio_Sonata_in_A_minor,_H.572_(Bach,_Carl_Philipp_Emanuel)",
+   "title": "Trio Sonata in A minor",
+   "catalogue": "H.572",
+   "composer": "Carl Philipp Emanuel Bach",
+   "composerSort": "Bach, Carl Philipp Emanuel",
+   "composerId": "bach-carl-philipp-emanuel",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, bassoon",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor%2C_H.572_(Bach%2C_Carl_Philipp_Emanuel)"
+  },
+  {
    "id": "Trio_Sonata_in_B_minor,_H.567_(Bach,_Carl_Philipp_Emanuel)",
    "title": "Trio Sonata in B minor",
    "catalogue": "H.567",
@@ -15364,10 +15418,16 @@
    "counts": {
     "oboe": 1
    },
-   "full": "oboe, violin, continuo",
+   "full": "flute, oboe, bassoon",
    "arrangement": true,
    "estimated": false,
-   "alternates": [],
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "oboe, violin, continuo",
+     "arrangement": true
+    }
+   ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor%2C_H.567_(Bach%2C_Carl_Philipp_Emanuel)"
   },
@@ -22048,9 +22108,9 @@
    "composer": "Johann Sebastian Bach",
    "composerSort": "Bach, Johann Sebastian",
    "composerId": "bach-johann-sebastian",
-   "scoring": "oboe d'amore",
+   "scoring": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "full": "oboe or oboe d amore, strings and continuo",
    "arrangement": true,
@@ -22058,6 +22118,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Violin_Concerto_in_E_major%2C_BWV_1042_(Bach%2C_Johann_Sebastian)"
+  },
+  {
+   "id": "Violin_Sonata_in_A_major,_BWV_1015_(Bach,_Johann_Sebastian)",
+   "title": "Violin Sonata in A major",
+   "catalogue": "BWV 1015",
+   "composer": "Johann Sebastian Bach",
+   "composerSort": "Bach, Johann Sebastian",
+   "composerId": "bach-johann-sebastian",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, keyboard",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Violin_Sonata_in_A_major%2C_BWV_1015_(Bach%2C_Johann_Sebastian)"
   },
   {
    "id": "Violin_Sonata_in_E_major,_BWV_1016_(Bach,_Johann_Sebastian)",
@@ -34021,7 +34099,7 @@
      "arrangement": false
     },
     {
-     "scoring": "english horn",
+     "scoring": "oboe",
      "full": "Oboe (Nos.1 and 3) or English horn (No.2) + Piano",
      "arrangement": false
     }
@@ -34551,6 +34629,30 @@
    "url": "https://imslp.org/wiki/Concerto_on_Themes_by_Cimarosa_(Benjamin%2C_Arthur)"
   },
   {
+   "id": "Divertimento_on_Themes_by_Gluck_(Benjamin,_Arthur)",
+   "title": "Divertimento on Themes by Gluck",
+   "catalogue": null,
+   "composer": "Arthur Benjamin",
+   "composerSort": "Benjamin, Arthur",
+   "composerId": "benjamin-arthur",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, orchestra",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "oboe, piano",
+     "arrangement": true
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Divertimento_on_Themes_by_Gluck_(Benjamin%2C_Arthur)"
+  },
+  {
    "id": "La_Suite_Espérance_(Bennett,_Stephen)",
    "title": "La Suite Espérance",
    "catalogue": null,
@@ -34960,8 +35062,8 @@
    "url": "https://imslp.org/wiki/Fantasy_for_English_Horn_and_Piano%2C_Op.138_(Bernet%2C_Atie)"
   },
   {
-   "id": "Les_nymphes_de_Diane_(Bernier,_Nicolas)",
-   "title": "Les nymphes de Diane",
+   "id": "Les_nymphes_de_Diane,_NsB_F.35_(Bernier,_Nicolas)",
+   "title": "Les nymphes de Diane, NsB F.35",
    "catalogue": null,
    "composer": "Nicolas Bernier",
    "composerSort": "Bernier, Nicolas",
@@ -34975,7 +35077,7 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Les_nymphes_de_Diane_(Bernier%2C_Nicolas)"
+   "url": "https://imslp.org/wiki/Les_nymphes_de_Diane%2C_NsB_F.35_(Bernier%2C_Nicolas)"
   },
   {
    "id": "Fantaisie_No.17_(Berr,_Friedrich)",
@@ -35458,7 +35560,13 @@
    "full": "3 voices, flute, alto flute, English horn, clarinet, 2 violins, viola, cello, double bass, piano",
    "arrangement": false,
    "estimated": false,
-   "alternates": [],
+   "alternates": [
+    {
+     "scoring": "english horn",
+     "full": "male voice choir (tenor, baritone, bass), chamber ensemble (flute, alto flute, cor anglais, clarinet in Bb, 2 violins, 2 violas, violoncello, double bass, piano)",
+     "arrangement": false
+    }
+   ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Adresse_des_sterbenden_Dichters_an_die_Jugend_(Bird%2C_Melvin_Clive)"
   },
@@ -36047,7 +36155,7 @@
      "arrangement": false
     },
     {
-     "scoring": "english horn",
+     "scoring": "oboe, english horn",
      "full": "oboe or saxophone or English horn",
      "arrangement": false
     }
@@ -36931,7 +37039,7 @@
      "arrangement": false
     },
     {
-     "scoring": "two musettes",
+     "scoring": "two musettes, two oboes",
      "full": "2 musettes or vièles or recorders or flutes or oboes (French Violin clefs in facsimile)",
      "arrangement": false
     }
@@ -36960,7 +37068,7 @@
      "arrangement": false
     },
     {
-     "scoring": "two musettes",
+     "scoring": "two musettes, two oboes",
      "full": "2 vielles or musettes or recorders or flutes or oboes; treble instrument and continuo",
      "arrangement": false
     }
@@ -40577,7 +40685,7 @@
      "arrangement": false
     },
     {
-     "scoring": "oboe d'amore",
+     "scoring": "oboe, oboe d'amore, english horn",
      "full": "English horn or saxophone or oboe or clarinet or oboe d'amore",
      "arrangement": false
     }
@@ -40744,6 +40852,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Bagatella_in_Trio%2C_Op.60a_(Caldini%2C_Fulvio)"
+  },
+  {
+   "id": "Bagatella,_Marginalia_No.336_(Caldini,_Fulvio)",
+   "title": "Bagatella, Marginalia No.336",
+   "catalogue": null,
+   "composer": "Fulvio Caldini",
+   "composerSort": "Caldini, Fulvio",
+   "composerId": "caldini-fulvio",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, clarinet, bassoon",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Bagatella%2C_Marginalia_No.336_(Caldini%2C_Fulvio)"
   },
   {
    "id": "Canto_d'amore,_Marginalia_No.289_(Caldini,_Fulvio)",
@@ -41051,6 +41177,30 @@
    "url": "https://imslp.org/wiki/Madeleine_Trio%2C_Marginalia_No.74_(Caldini%2C_Fulvio)"
   },
   {
+   "id": "Meditazione_pastorale,_Marginalia_No.341_(Caldini,_Fulvio)",
+   "title": "Meditazione pastorale, Marginalia No.341",
+   "catalogue": null,
+   "composer": "Fulvio Caldini",
+   "composerSort": "Caldini, Fulvio",
+   "composerId": "caldini-fulvio",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, organ",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "trumpet or oboe or alto saxophone or B{{flat",
+     "arrangement": false
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Meditazione_pastorale%2C_Marginalia_No.341_(Caldini%2C_Fulvio)"
+  },
+  {
    "id": "Midi_Quintet,_Op.39_(Caldini,_Fulvio)",
    "title": "Midi Quintet",
    "catalogue": "Op.39",
@@ -41159,6 +41309,30 @@
    "url": "https://imslp.org/wiki/Passeggiate%2C_Marginalia_No.170_(Caldini%2C_Fulvio)"
   },
   {
+   "id": "Pastorale_d'agosto,_Marginalia_No.340_(Caldini,_Fulvio)",
+   "title": "Pastorale d'agosto, Marginalia No.340",
+   "catalogue": null,
+   "composer": "Fulvio Caldini",
+   "composerSort": "Caldini, Fulvio",
+   "composerId": "caldini-fulvio",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, organ",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "trumpet or oboe or saxophone or clarinet and organ",
+     "arrangement": false
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Pastorale_d'agosto%2C_Marginalia_No.340_(Caldini%2C_Fulvio)"
+  },
+  {
    "id": "Pastorale_degli_addii,_Marginalia_No.177_(Caldini,_Fulvio)",
    "title": "Pastorale degli addii, Marginalia No.177",
    "catalogue": null,
@@ -41265,6 +41439,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Pastorale_dell'attesa%2C_Marginalia_No.147_(Caldini%2C_Fulvio)"
+  },
+  {
+   "id": "Pastorale_dolce,_Marginalia_No.335_(Caldini,_Fulvio)",
+   "title": "Pastorale dolce, Marginalia No.335",
+   "catalogue": null,
+   "composer": "Fulvio Caldini",
+   "composerSort": "Caldini, Fulvio",
+   "composerId": "caldini-fulvio",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, organ",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Pastorale_dolce%2C_Marginalia_No.335_(Caldini%2C_Fulvio)"
   },
   {
    "id": "Pastorale_nella_notte,_Marginalia_No.104_(Caldini,_Fulvio)",
@@ -45200,7 +45392,7 @@
      "arrangement": false
     },
     {
-     "scoring": "two musettes, doubling oboe",
+     "scoring": "two musettes, oboe",
      "full": "musette, continuo (also mentions hurdy gurdy, oboe, flute/recorder); 2 musettes",
      "arrangement": false
     }
@@ -46260,7 +46452,7 @@
    "alternates": [
     {
      "scoring": "oboe",
-     "full": "flute, oboe, clarinet, horn (valved or alto in F), bassoon",
+     "full": "flute, oboe, clarinet, bassoon, horn (valved or alto in F)",
      "arrangement": false
     }
    ],
@@ -48099,7 +48291,7 @@
      "arrangement": false
     },
     {
-     "scoring": "oboe (doubling oboe d'amore)",
+     "scoring": "oboe (doubling english horn, doubling oboe d'amore)",
      "full": "oboe (doubling English horn and oboe d'amore in some movements), piano",
      "arrangement": false
     }
@@ -49322,13 +49514,7 @@
    "full": "oboe, piano",
    "arrangement": false,
    "estimated": false,
-   "alternates": [
-    {
-     "scoring": "oboe",
-     "full": "Oboe, piano",
-     "arrangement": false
-    }
-   ],
+   "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Fantasy_on_Themes_from_'Rigoletto'_(Daelli%2C_Giovanni)"
   },
@@ -50767,9 +50953,9 @@
    "composer": "Claude Debussy",
    "composerSort": "Debussy, Claude",
    "composerId": "debussy-claude",
-   "scoring": "oboe d'amore",
+   "scoring": "oboe",
    "counts": {
-    "oboeDamore": 1
+    "oboe": 1
    },
    "full": "oboe or oboe d amore or english horn, piano",
    "arrangement": true,
@@ -51652,7 +51838,7 @@
    "alternates": [
     {
      "scoring": "oboe",
-     "full": "2 sopranos, oboe, strings, four-hand piano and guitar",
+     "full": "2 sopranos, oboe, piano 4 hands, guitar, strings",
      "arrangement": false
     }
    ],
@@ -53055,6 +53241,24 @@
    ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Andante_Idillico_(Drigo%2C_Riccardo)"
+  },
+  {
+   "id": "Oboe_Concerto_in_D_major_(Družecký,_Jiří)",
+   "title": "Oboe Concerto in D major",
+   "catalogue": null,
+   "composer": "Jiří Družecký",
+   "composerSort": "Družecký, Jiří",
+   "composerId": "druzecky-jiri",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, orchestra",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_D_major_(Dru%C5%BEeck%C3%BD%2C_Ji%C5%99%C3%AD)"
   },
   {
    "id": "Oboe_Concerto_in_G_major_(Družecký,_Jiří)",
@@ -57593,54 +57797,6 @@
    "url": "https://imslp.org/wiki/Divertissement_for_Oboe_and_Strings%2C_Op.6_(Ferling%2C_Franz_Wilhelm)"
   },
   {
-   "id": "Sonata_para_Corne_Inglês_e_Piano_em_Si_menor,_Op._41_(Fernández,_Leonardo)",
-   "title": "Sonata para Corne Inglês e Piano em Si menor",
-   "catalogue": "Op. 41",
-   "composer": "Leonardo Fernández",
-   "composerSort": "Fernández, Leonardo",
-   "composerId": "fernandez-leonardo",
-   "scoring": "english horn",
-   "counts": {
-    "englishHorn": 1
-   },
-   "full": "English horn, piano",
-   "arrangement": false,
-   "estimated": false,
-   "alternates": [
-    {
-     "scoring": "english horn",
-     "full": "english horn, piano",
-     "arrangement": false
-    }
-   ],
-   "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Sonata_para_Corne_Ingl%C3%AAs_e_Piano_em_Si_menor%2C_Op._41_(Fern%C3%A1ndez%2C_Leonardo)"
-  },
-  {
-   "id": "Trio_para_Oboé,_Piano_e_Violino_em_Si_menor,_Op._27_(Fernández,_Leonardo)",
-   "title": "Trio para Oboé, Piano e Violino em Si menor",
-   "catalogue": "Op. 27",
-   "composer": "Leonardo Fernández",
-   "composerSort": "Fernández, Leonardo",
-   "composerId": "fernandez-leonardo",
-   "scoring": "oboe",
-   "counts": {
-    "oboe": 1
-   },
-   "full": "oboe, violin, piano",
-   "arrangement": false,
-   "estimated": false,
-   "alternates": [
-    {
-     "scoring": "oboe",
-     "full": "oboe, piano, violin",
-     "arrangement": false
-    }
-   ],
-   "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Trio_para_Obo%C3%A9%2C_Piano_e_Violino_em_Si_menor%2C_Op._27_(Fern%C3%A1ndez%2C_Leonardo)"
-  },
-  {
    "id": "Suite,_Op.37_(Fernández,_Oscar_Lorenzo)",
    "title": "Suite",
    "catalogue": "Op.37",
@@ -59116,7 +59272,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "english horn",
+     "scoring": "oboe, english horn",
      "full": "Soprano, female chorus, flute, alto flute, oboe doubling on English horn, clarinet, bass clarinet, French horn, two violins, two violas, piano, percussion (tuned tom-toms, woodblocks, susp. cymbal, and tissue paper)",
      "arrangement": false
     }
@@ -61167,7 +61323,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "oboe",
+     "scoring": "oboe (doubling english horn)",
      "full": "voice; clarinet, oboe (includes brief notes on english horn), bassoon, flute; horn, trumpet, trombone, serpent; violin, viola, cello, double bass; percussion, timpani; piano, thorough-bass",
      "arrangement": false
     }
@@ -61201,7 +61357,7 @@
      "arrangement": false
     },
     {
-     "scoring": "oboe",
+     "scoring": "oboe, english horn",
      "full": "voice (includes voice + piano; 2 voices, bass instrument; voice, continuo); clarinet (includes 2 clarinets), oboe (includes 2 oboes; brief notes on english horn), bassoon (includes 2 bassoons), flute; horn (includes 2 horns), trumpet (includes 2 trumpets), trombone (bass, tenor, alto), serpent; violin (includes 2 violins), viola, cello (includes 2 cellos), double bass; percussion, timpani; piano",
      "arrangement": false
     }
@@ -62626,6 +62782,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/3_Preludes_(Gershwin%2C_George)"
+  },
+  {
+   "id": "An_American_in_Paris_(Gershwin,_George)",
+   "title": "An American in Paris",
+   "catalogue": null,
+   "composer": "George Gershwin",
+   "composerSort": "Gershwin, George",
+   "composerId": "gershwin-george",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/An_American_in_Paris_(Gershwin%2C_George)"
   },
   {
    "id": "Dialog_No.3_(Gervasi,_Robert)",
@@ -69511,6 +69685,24 @@
    "url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor%2C_HWV_381_(Handel%2C_George_Frideric)"
   },
   {
+   "id": "Trio_Sonata_in_D_minor_(Handel,_George_Frideric)",
+   "title": "Trio Sonata in D minor",
+   "catalogue": null,
+   "composer": "George Frideric Handel",
+   "composerSort": "Handel, George Frideric",
+   "composerId": "handel-george-frideric",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, bassoon",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor_(Handel%2C_George_Frideric)"
+  },
+  {
    "id": "Trio_Sonata_in_E_major,_HWV_394_(Handel,_George_Frideric)",
    "title": "Trio Sonata in E major",
    "catalogue": "HWV 394",
@@ -73774,7 +73966,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "two oboes d'amore",
+     "scoring": "two oboes",
      "full": "2 oboes (oboe and violin) or 2 oboes d'amore, continuo",
      "arrangement": false
     }
@@ -75927,7 +76119,7 @@
      "arrangement": false
     },
     {
-     "scoring": "oboe d'amore",
+     "scoring": "oboe, oboe d'amore",
      "full": "viola, oboe (or oboe d'amore or clarinet (B{{flat",
      "arrangement": false
     }
@@ -76072,6 +76264,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/A_Moorside_Suite%2C_H.173_(Holst%2C_Gustav)"
+  },
+  {
+   "id": "Brook_Green_Suite,_H.190_(Holst,_Gustav)",
+   "title": "Brook Green Suite",
+   "catalogue": "H.190",
+   "composer": "Gustav Holst",
+   "composerSort": "Holst, Gustav",
+   "composerId": "holst-gustav",
+   "scoring": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "full": "2 oboes 2 bb clarinets bassoon contrabassoon 2 f horns",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Brook_Green_Suite%2C_H.190_(Holst%2C_Gustav)"
   },
   {
    "id": "First_Suite_for_Military_Band,_Op.28_No.1_(Holst,_Gustav)",
@@ -80889,7 +81099,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "oboe",
+     "scoring": "two oboes",
      "full": "''Solo:'' oboe<br>''Orchestra:'' 2 oboes, 2 horns, strings",
      "arrangement": false
     }
@@ -80971,13 +81181,7 @@
    "full": "oboe, keyboard",
    "arrangement": false,
    "estimated": false,
-   "alternates": [
-    {
-     "scoring": "oboe",
-     "full": "keyboard, ad lib. accompaniment for violin/flute/oboe",
-     "arrangement": false
-    }
-   ],
+   "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/12_Minuets_(Krafft%2C_Fran%C3%A7ois)"
   },
@@ -81240,6 +81444,30 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor_(Krause%2C_Christian_Gottfried)"
+  },
+  {
+   "id": "6_Trios,_Krebs-WV_317-322_(Krebs,_Johann_Ludwig)",
+   "title": "6 Trios, Krebs-WV 317-322",
+   "catalogue": null,
+   "composer": "Johann Ludwig Krebs",
+   "composerSort": "Krebs, Johann Ludwig",
+   "composerId": "krebs-johann-ludwig",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, continuo",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "2 flutes, continuo ; flute, violin, continuo ; flute, flute/oboe, continuo",
+     "arrangement": false
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/6_Trios%2C_Krebs-WV_317-322_(Krebs%2C_Johann_Ludwig)"
   },
   {
    "id": "Concerto_for_Harpsichord_and_Oboe_in_B_minor,_Krebs-WV_204_(Krebs,_Johann_Ludwig)",
@@ -84050,6 +84278,24 @@
    "url": "https://imslp.org/wiki/6_Violin_Concertos%2C_Op.7_(Leclair%2C_Jean-Marie)"
   },
   {
+   "id": "Violin_Concerto_in_C_major,_JML.076_(Leclair,_Jean-Marie)",
+   "title": "Violin Concerto in C major, JML.076",
+   "catalogue": null,
+   "composer": "Jean-Marie Leclair",
+   "composerSort": "Leclair, Jean-Marie",
+   "composerId": "leclair-jean-marie",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, strings, continuo",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Violin_Concerto_in_C_major%2C_JML.076_(Leclair%2C_Jean-Marie)"
+  },
+  {
    "id": "6_Quartets,_Op.3_(Leemans,_Hébert_Philippe_Adrien)",
    "title": "6 Quartets",
    "catalogue": "Op.3",
@@ -86328,8 +86574,9 @@
    "composer": "Martin Lohse",
    "composerSort": "Lohse, Martin",
    "composerId": "lohse-martin",
-   "scoring": "english horn",
+   "scoring": "oboe, english horn",
    "counts": {
+    "oboe": 1,
     "englishHorn": 1
    },
    "full": "oboe english horn and accordion",
@@ -87118,6 +87365,30 @@
    ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Concerto_for_Oboe_and_Chamber_Ensemble_(Maderna%2C_Bruno)"
+  },
+  {
+   "id": "Dialodia_(Maderna,_Bruno)",
+   "title": "Dialodia",
+   "catalogue": null,
+   "composer": "Bruno Maderna",
+   "composerSort": "Maderna, Bruno",
+   "composerId": "maderna-bruno",
+   "scoring": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "full": "2 oboes",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "two oboes",
+     "full": "2 flute, or 2 oboe, or other instruments",
+     "arrangement": false
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Dialodia_(Maderna%2C_Bruno)"
   },
   {
    "id": "Piano_Quintet,_Op.8_(Magnard,_Albéric)",
@@ -89767,6 +90038,24 @@
    "url": "https://imslp.org/wiki/En_montagne%2C_Op.10_(Mariotte%2C_Antoine)"
   },
   {
+   "id": "Algiers_(Marks,_C._F.)",
+   "title": "Algiers",
+   "catalogue": null,
+   "composer": "C. F. Marks",
+   "composerSort": "Marks, C. F.",
+   "composerId": "marks-c-f",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, clarinet, bassoon, horns, cornets, sax, trombone, drums, piano, violins, viola, cello, bass",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Algiers_(Marks%2C_C._F.)"
+  },
+  {
    "id": "Introitus,_Op.10_(Marohnić,_Luka)",
    "title": "Introitus",
    "catalogue": "Op.10",
@@ -90993,6 +91282,24 @@
    "url": "https://imslp.org/wiki/Gott!_mein_Herz_ist_bereit_(Meder%2C_Johann_Valentin)"
   },
   {
+   "id": "2_Tales,_Op.8_(Medtner,_Nikolay)",
+   "title": "2 Tales",
+   "catalogue": "Op.8",
+   "composer": "Nikolay Medtner",
+   "composerSort": "Medtner, Nikolay",
+   "composerId": "medtner-nikolay",
+   "scoring": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/2_Tales%2C_Op.8_(Medtner%2C_Nikolay)"
+  },
+  {
    "id": "Sérénade,_Op.12_(Meinig,_August)",
    "title": "Sérénade",
    "catalogue": "Op.12",
@@ -91183,6 +91490,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Trio_for_Oboe%2C_Clarinet_and_Bassoon%2C_Op.17_(Melkikh%2C_Dmitry)"
+  },
+  {
+   "id": "3_Fantaisies,_Op.16_(Mendelssohn,_Felix)",
+   "title": "3 Fantaisies",
+   "catalogue": "Op.16",
+   "composer": "Felix Mendelssohn",
+   "composerSort": "Mendelssohn, Felix",
+   "composerId": "mendelssohn-felix",
+   "scoring": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/3_Fantaisies%2C_Op.16_(Mendelssohn%2C_Felix)"
   },
   {
    "id": "6_Lieder,_Op.41_(Mendelssohn,_Felix)",
@@ -93011,6 +93336,30 @@
    "url": "https://imslp.org/wiki/Suite_for_Double_Quintet%2C_Op.103_(Mo%C3%B3r%2C_Emanuel)"
   },
   {
+   "id": "Wind_Quintet_(Moore,_Douglas)",
+   "title": "Wind Quintet",
+   "catalogue": null,
+   "composer": "Douglas Moore",
+   "composerSort": "Moore, Douglas",
+   "composerId": "moore-douglas",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "flute, oboe, clarinet, bassoon, horn",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [
+    {
+     "scoring": "oboe",
+     "full": "flute (piccolo), oboe, clarinet, horn, bassoon",
+     "arrangement": false
+    }
+   ],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Wind_Quintet_(Moore%2C_Douglas)"
+  },
+  {
    "id": "As_Time_Goes_By_(Moreno_Sabio,_José_Miguel)",
    "title": "As Time Goes By",
    "catalogue": null,
@@ -94502,6 +94851,24 @@
    "url": "https://imslp.org/wiki/Due_pupille_amabili%2C_K.439%2FAnh.A_47%2F01_(Mozart%2C_Wolfgang_Amadeus)"
   },
   {
+   "id": "Ecco_quel_fiero_istante,_K.436/Anh.A_47/03_(Mozart,_Wolfgang_Amadeus)",
+   "title": "Ecco quel fiero istante, K.436/Anh.A 47/03",
+   "catalogue": null,
+   "composer": "Wolfgang Amadeus Mozart",
+   "composerSort": "Mozart, Wolfgang Amadeus",
+   "composerId": "mozart-wolfgang-amadeus",
+   "scoring": "two english horns",
+   "counts": {
+    "englishHorn": 2
+   },
+   "full": "2 English horns, bassoon",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Ecco_quel_fiero_istante%2C_K.436%2FAnh.A_47%2F03_(Mozart%2C_Wolfgang_Amadeus)"
+  },
+  {
    "id": "Ein_musikalischer_Spaß,_K.522_(Mozart,_Wolfgang_Amadeus)",
    "title": "Ein musikalischer Spaß",
    "catalogue": "K.522",
@@ -94854,6 +95221,24 @@
    ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Le_nozze_di_Figaro%2C_K.492_(Mozart%2C_Wolfgang_Amadeus)"
+  },
+  {
+   "id": "Luci_care,_luci_belle,_K.346/439a/Anh.A_47/05_(Mozart,_Wolfgang_Amadeus)",
+   "title": "Luci care, luci belle, K.346/439a/Anh.A 47/05",
+   "catalogue": null,
+   "composer": "Wolfgang Amadeus Mozart",
+   "composerSort": "Mozart, Wolfgang Amadeus",
+   "composerId": "mozart-wolfgang-amadeus",
+   "scoring": "two english horns",
+   "counts": {
+    "englishHorn": 2
+   },
+   "full": "2 English horns, bassoon",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Luci_care%2C_luci_belle%2C_K.346%2F439a%2FAnh.A_47%2F05_(Mozart%2C_Wolfgang_Amadeus)"
   },
   {
    "id": "March_in_B-flat_major,_K.384b_(Mozart,_Wolfgang_Amadeus)",
@@ -108691,6 +109076,24 @@
    "url": "https://imslp.org/wiki/Tombeau_du_XX%C2%B0_si%C3%A8cle%2C_Op.24_(Queval%2C_Christophe)"
   },
   {
+   "id": "Morceaux_de_fantaisie,_Op.3_(Rachmaninoff,_Sergei)",
+   "title": "Morceaux de fantaisie",
+   "catalogue": "Op.3",
+   "composer": "Sergei Rachmaninoff",
+   "composerSort": "Rachmaninoff, Sergei",
+   "composerId": "rachmaninoff-sergei",
+   "scoring": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "full": "2 flutes, 2 oboes, 2 clarinets and 2 bassoons",
+   "arrangement": true,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Morceaux_de_fantaisie%2C_Op.3_(Rachmaninoff%2C_Sergei)"
+  },
+  {
    "id": "2_Menuets_(Rackemann,_Friedrich_Christian)",
    "title": "2 Menuets",
    "catalogue": null,
@@ -111322,7 +111725,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "oboe",
+     "scoring": "two oboes",
      "full": "''Solo'': oboe<br>''Orchestra'': 2 oboes, bassoon, strings, continuo",
      "arrangement": false
     }
@@ -112792,7 +113195,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "oboe",
+     "scoring": "two oboes",
      "full": "''Solo:'' flute, oboe<br>''Orchestra:'' 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani, strings",
      "arrangement": false
     }
@@ -113113,7 +113516,13 @@
    "full": "voice, English horn, piano",
    "arrangement": false,
    "estimated": false,
-   "alternates": [],
+   "alternates": [
+    {
+     "scoring": "english horn",
+     "full": "voice, piano (with additional voices, treble chorus, english horn, and various instruments on select pieces)",
+     "arrangement": false
+    }
+   ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Les_amphores_(Rostand%2C_Alexis)"
   },
@@ -113450,13 +113859,7 @@
    "full": "oboe, viola, piano",
    "arrangement": false,
    "estimated": false,
-   "alternates": [
-    {
-     "scoring": "oboe",
-     "full": "Oboe, Viola, Piano",
-     "arrangement": false
-    }
-   ],
+   "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Trio_for_Piano%2C_Oboe_and_Viola%2C_Op.34_(Ruthardt%2C_Adolf)"
   },
@@ -114724,8 +115127,8 @@
    "url": "https://imslp.org/wiki/Grand_Concerto_in_G_minor%2C_Op.8_No.5_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Concerto_in_D_major,_IGS_12_(Sammartini,_Giuseppe)",
-   "title": "Oboe Concerto in D major, IGS 12",
+   "id": "Oboe_Concerto_in_D_major,_GSM_1705a_(Sammartini,_Giuseppe)",
+   "title": "Oboe Concerto in D major, GSM 1705a",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114739,11 +115142,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Concerto_in_D_major%2C_IGS_12_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_D_major%2C_GSM_1705a_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Concerto_in_E-flat_major,_IGS_13_(Sammartini,_Giuseppe)",
-   "title": "Oboe Concerto in E-flat major, IGS 13",
+   "id": "Oboe_Concerto_in_E-flat_major,_GSM_1706_(Sammartini,_Giuseppe)",
+   "title": "Oboe Concerto in E-flat major, GSM 1706",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114757,11 +115160,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major%2C_IGS_13_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major%2C_GSM_1706_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Concerto_in_E-flat_major,_IGS_14_(Sammartini,_Giuseppe)",
-   "title": "Oboe Concerto in E-flat major, IGS 14",
+   "id": "Oboe_Concerto_in_E-flat_major,_GSM_1708a_(Sammartini,_Giuseppe)",
+   "title": "Oboe Concerto in E-flat major, GSM 1708a",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114775,11 +115178,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major%2C_IGS_14_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major%2C_GSM_1708a_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Concerto_in_F_major,_IGS_15_(Sammartini,_Giuseppe)",
-   "title": "Oboe Concerto in F major, IGS 15",
+   "id": "Oboe_Concerto_in_F_major,_GSM_1701_(Sammartini,_Giuseppe)",
+   "title": "Oboe Concerto in F major, GSM 1701",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114793,11 +115196,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Concerto_in_F_major%2C_IGS_15_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_F_major%2C_GSM_1701_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Concerto_in_G_major,_IGS_16_(Sammartini,_Giuseppe)",
-   "title": "Oboe Concerto in G major, IGS 16",
+   "id": "Oboe_Concerto_in_G_major,_GSM_1704_(Sammartini,_Giuseppe)",
+   "title": "Oboe Concerto in G major, GSM 1704",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114811,11 +115214,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Concerto_in_G_major%2C_IGS_16_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Concerto_in_G_major%2C_GSM_1704_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_B-flat_major,_IGS_17_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in B-flat major, IGS 17",
+   "id": "Oboe_Sonata_in_B-flat_major,_GSM_1303_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in B-flat major, GSM 1303",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114829,11 +115232,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_B-flat_major%2C_IGS_17_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_B-flat_major%2C_GSM_1303_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_B-flat_major,_IGS_18_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in B-flat major, IGS 18",
+   "id": "Oboe_Sonata_in_B-flat_major,_GSM_1304_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in B-flat major, GSM 1304",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114847,11 +115250,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_B-flat_major%2C_IGS_18_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_B-flat_major%2C_GSM_1304_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_C_major_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in C major",
+   "id": "Oboe_Sonata_in_C_major,_GSM_1301a_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in C major, GSM 1301a",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114865,11 +115268,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_C_major_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_C_major%2C_GSM_1301a_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_E-flat_major_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in E-flat major",
+   "id": "Oboe_Sonata_in_C_major,_GSM_1302a_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in C major, GSM 1302a",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114883,11 +115286,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_E-flat_major_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_C_major%2C_GSM_1302a_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_G_major_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in G major",
+   "id": "Oboe_Sonata_in_E-flat_major,_GSM_1305_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in E-flat major, GSM 1305",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114901,11 +115304,11 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_G_major_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_E-flat_major%2C_GSM_1305_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Oboe_Sonata_in_G_minor_(Sammartini,_Giuseppe)",
-   "title": "Oboe Sonata in G minor",
+   "id": "Oboe_Sonata_in_G_major,_GSM_1306_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in G major, GSM 1306",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -114919,7 +115322,25 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Oboe_Sonata_in_G_minor_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_G_major%2C_GSM_1306_(Sammartini%2C_Giuseppe)"
+  },
+  {
+   "id": "Oboe_Sonata_in_G_minor,_GSM_1307_(Sammartini,_Giuseppe)",
+   "title": "Oboe Sonata in G minor, GSM 1307",
+   "catalogue": null,
+   "composer": "Giuseppe Sammartini",
+   "composerSort": "Sammartini, Giuseppe",
+   "composerId": "sammartini-giuseppe",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, continuo",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/Oboe_Sonata_in_G_minor%2C_GSM_1307_(Sammartini%2C_Giuseppe)"
   },
   {
    "id": "Overture_in_A_major,_Op.7_No.4_(Sammartini,_Giuseppe)",
@@ -115047,8 +115468,8 @@
    "url": "https://imslp.org/wiki/Overture_in_G_major%2C_Op.7_No.6_(Sammartini%2C_Giuseppe)"
   },
   {
-   "id": "Sonatas_for_an_Accompanied_Solo_Instrument_(Sammartini,_Giuseppe)",
-   "title": "Sonatas for an Accompanied Solo Instrument",
+   "id": "Sonatas_for_an_Accompanied_Solo_Instrument,_US-R_M241.S189_(Sammartini,_Giuseppe)",
+   "title": "Sonatas for an Accompanied Solo Instrument, US-R M241.S189",
    "catalogue": null,
    "composer": "Giuseppe Sammartini",
    "composerSort": "Sammartini, Giuseppe",
@@ -115062,7 +115483,7 @@
    "estimated": false,
    "alternates": [],
    "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Sonatas_for_an_Accompanied_Solo_Instrument_(Sammartini%2C_Giuseppe)"
+   "url": "https://imslp.org/wiki/Sonatas_for_an_Accompanied_Solo_Instrument%2C_US-R_M241.S189_(Sammartini%2C_Giuseppe)"
   },
   {
    "id": "Wind_Quintet_in_B-flat_major_(Sampson,_David_M.)",
@@ -115583,24 +116004,6 @@
    ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/3_Gymnop%C3%A9dies_(Satie%2C_Erik)"
-  },
-  {
-   "id": "Gnossiennes_(Satie,_Erik)",
-   "title": "Gnossiennes",
-   "catalogue": null,
-   "composer": "Erik Satie",
-   "composerSort": "Satie, Erik",
-   "composerId": "satie-erik",
-   "scoring": "oboe",
-   "counts": {
-    "oboe": 1
-   },
-   "full": "flute, oboe, clarinet, bassoon, horn",
-   "arrangement": true,
-   "estimated": false,
-   "alternates": [],
-   "source": "imslp-category",
-   "url": "https://imslp.org/wiki/Gnossiennes_(Satie%2C_Erik)"
   },
   {
    "id": "Les_pantins_dansent_(Satie,_Erik)",
@@ -121552,7 +121955,7 @@
      "arrangement": false
     },
     {
-     "scoring": "english horn",
+     "scoring": "oboe",
      "full": "oboe or English horn, bassoon",
      "arrangement": false
     }
@@ -122571,7 +122974,13 @@
    "full": "mixed chorus, English horn, trombone, violin, double bass, organ",
    "arrangement": false,
    "estimated": false,
-   "alternates": [],
+   "alternates": [
+    {
+     "scoring": "english horn",
+     "full": "mixed chorus (SATB), organ, colla parte instruments: (English horn, trombone, violin, double bass) (ad lib.)",
+     "arrangement": false
+    }
+   ],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Seele_Christi%2C_heilige_mich%2C_Op.23_(Stenov%2C_Michael)"
   },
@@ -123462,7 +123871,7 @@
      "arrangement": false
     },
     {
-     "scoring": "musette",
+     "scoring": "musette, oboe",
      "full": "''Oboe consort'': oboe (doubling optional musette in F or E{{flat",
      "arrangement": false
     }
@@ -123527,7 +123936,7 @@
      "arrangement": false
     },
     {
-     "scoring": "musette",
+     "scoring": "musette, oboe",
      "full": "oboe (doubling optional musette in F or E{{flat",
      "arrangement": false
     }
@@ -124371,6 +124780,24 @@
    "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/A_casa_cinza_(Tavares%2C_Luciano)"
+  },
+  {
+   "id": "A_imperfeição_incorrigível_(Tavares,_Luciano)",
+   "title": "A imperfeição incorrigível",
+   "catalogue": null,
+   "composer": "Luciano Tavares",
+   "composerSort": "Tavares, Luciano",
+   "composerId": "tavares-luciano",
+   "scoring": "oboe",
+   "counts": {
+    "oboe": 1
+   },
+   "full": "oboe, piano",
+   "arrangement": false,
+   "estimated": false,
+   "alternates": [],
+   "source": "imslp-category",
+   "url": "https://imslp.org/wiki/A_imperfei%C3%A7%C3%A3o_incorrig%C3%ADvel_(Tavares%2C_Luciano)"
   },
   {
    "id": "As_novas_aparições_(Tavares,_Luciano)",
@@ -126563,13 +126990,7 @@
    "full": "mixed chorus, 2 oboes, strings, continuo",
    "arrangement": false,
    "estimated": false,
-   "alternates": [
-    {
-     "scoring": "two oboes",
-     "full": "soprano, alto, tenor, bass, mixed chorus (SATB), 2 oboes, strings, continuo",
-     "arrangement": false
-    }
-   ],
+   "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/Nun_aber%2C_die_ihr_in_Christo_Jesu_seid%2C_TWV_1%3A1161_(Telemann%2C_Georg_Philipp)"
   },
@@ -134541,13 +134962,7 @@
    "full": "oboe, strings, continuo",
    "arrangement": false,
    "estimated": false,
-   "alternates": [
-    {
-     "scoring": "oboe",
-     "full": "''Solo:'' violin or oboe<br>''Orchestra:'' strings, continuo",
-     "arrangement": false
-    }
-   ],
+   "alternates": [],
    "source": "imslp-category",
    "url": "https://imslp.org/wiki/12_Concerti%2C_Op.7_(Vivaldi%2C_Antonio)"
   },
@@ -136818,7 +137233,7 @@
    "estimated": false,
    "alternates": [
     {
-     "scoring": "oboe (2nd doubling english horn)",
+     "scoring": "oboe (doubling english horn)",
      "full": "oboe (doubling English Horn ''ad lib.'' in 2nd mo.), piano",
      "arrangement": false
     }
