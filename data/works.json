@@ -15545,7 +15545,7 @@
     "oboe"
    ],
    "full": "oboe, strings, continuo",
-   "note": "Transcribed for keyboard by J.S. Bach as BWV 974.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -15581,7 +15581,7 @@
     "oboe"
    ],
    "full": "1 or 2 oboes, strings, continuo",
-   "note": "Includes the celebrated D minor concerto Op. 9 No. 2 for solo oboe.",
+   "note": "No. 2 is for solo oboe.",
    "arr": false,
    "est": false
   },
@@ -15707,7 +15707,7 @@
     "oboe"
    ],
    "full": "solo oboe, 2 oboes, 2 horns, strings",
-   "note": "The same work Mozart later transposed to D major as the Flute Concerto No. 2.",
+   "note": "Also exists in D major as the Flute Concerto No. 2.",
    "arr": false,
    "est": false
   },
@@ -15887,7 +15887,7 @@
     "oboe"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 2 horns, 2 trumpets, 3 trombones, timpani, strings",
-   "note": "Contains the celebrated unaccompanied oboe cadenza in the first movement.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -15961,7 +15961,7 @@
     "englishHorn"
    ],
    "full": "2 oboes, english horn",
-   "note": "The cornerstone of the oboe-trio repertoire.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16090,7 +16090,7 @@
     "englishHorn"
    ],
    "full": "piccolo, flute, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, percussion, strings",
-   "note": "The 'Ranz des vaches' pastorale is the repertoire's most famous English horn solo.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16108,7 +16108,7 @@
     "oboe"
    ],
    "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings",
-   "note": "A standard oboe audition excerpt.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16127,7 +16127,7 @@
     "englishHorn"
    ],
    "full": "2 flutes (2nd doubling piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, 2 tubas, timpani, percussion, 2 harps, strings",
-   "note": "In the third movement the oboe plays offstage, answered by the English horn.",
+   "note": "The oboe plays offstage in the third movement.",
    "arr": false,
    "est": false
   },
@@ -16146,7 +16146,7 @@
     "englishHorn"
    ],
    "full": "2 flutes (piccolo), 2 oboes (1st doubling english horn), 2 clarinets, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, timpani, percussion, strings",
-   "note": "Opens with an extended English horn cantilena.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16220,7 +16220,7 @@
     "englishHorn"
    ],
    "full": "3 flutes (piccolo), 3 oboes (3rd doubling english horn), 3 clarinets, bass clarinet, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, harp, strings",
-   "note": "The Act III shepherd's tune is a landmark English horn solo, played offstage.",
+   "note": "The English horn plays offstage in Act III.",
    "arr": false,
    "est": false
   },
@@ -16278,7 +16278,7 @@
     "englishHorn"
    ],
    "full": "2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, harp, strings",
-   "note": "The Allegretto's principal theme is given to the English horn.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16368,7 +16368,7 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, strings",
-   "note": "The slow movement opens with one of the great orchestral oboe solos.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16462,7 +16462,7 @@
     "oboe"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "The second movement opens with a celebrated solo oboe melody.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16538,7 +16538,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings",
-   "note": "The great swan theme is announced by solo oboe.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16577,7 +16577,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, strings",
-   "note": "The Largo's 'Goin' Home' melody is the most celebrated English horn solo in the repertoire.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16691,7 +16691,7 @@
     "englishHorn"
    ],
    "full": "2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings",
-   "note": "The Eastern caravan theme is introduced by the English horn.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16727,7 +16727,7 @@
     "oboe"
    ],
    "full": "solo oboe (orchestrated by Gordon Jacob)",
-   "note": "Written for Léon Goossens; Elgar's last completed work for solo instrument.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16881,7 +16881,7 @@
     "oboe"
    ],
    "full": "solo oboe, 2 flutes, english horn, 2 clarinets, 2 bassoons, 2 horns, strings",
-   "note": "Written at the suggestion of the American soldier-oboist John de Lancie.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16901,7 +16901,7 @@
     "englishHorn"
    ],
    "full": "3 flutes (piccolo), 2 oboes, english horn, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings",
-   "note": "Contains the most frequently requested orchestral oboe audition solo.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -16979,7 +16979,7 @@
     "englishHorn"
    ],
    "full": "solo english horn, oboe, bass clarinet, 2 bassoons, 4 horns, 3 trombones, timpani, bass drum, harp, strings",
-   "note": "Sibelius omits flutes and soprano clarinets, but keeps one oboe; the swan itself is the solo English horn.",
+   "note": "No flutes or soprano clarinets; one oboe, and a solo English horn.",
    "arr": false,
    "est": false
   },
@@ -17033,7 +17033,7 @@
     "oboe"
    ],
    "full": "solo oboe, string orchestra",
-   "note": "Written for Léon Goossens.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17090,7 +17090,7 @@
     "bassOboe"
    ],
    "full": "4 flutes (3rd and 4th doubling piccolos, 4th also alto flute), 3 oboes (3rd doubling bass oboe), english horn, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tenor tuba, tuba, timpani, percussion, celesta, 2 harps, organ, female chorus, strings",
-   "note": "One of the very few standard-repertoire works with a written bass oboe part — taken by the third oboist.",
+   "note": "The bass oboe part is taken by the third oboist.",
    "arr": false,
    "est": false
   },
@@ -17111,7 +17111,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes (2nd doubling oboe d'amore), english horn, E-flat clarinet, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, soprano/sopranino/tenor saxophones, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, harp, celesta, strings",
-   "note": "The oboe d'amore solo is among the very few written for the instrument after the Baroque.",
+   "note": "Includes a part for oboe d'amore.",
    "arr": false,
    "est": false
   },
@@ -17130,7 +17130,7 @@
     "englishHorn"
    ],
    "full": "2 flutes (piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 2 horns, trumpet, harp, strings",
-   "note": "The Prélude and Menuet are cornerstone oboe audition excerpts.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17170,7 +17170,7 @@
     "englishHorn"
    ],
    "full": "piccolo, flute, oboe, english horn, E-flat clarinet, clarinet, 2 bassoons, 2 horns, trumpet, trombone, timpani, percussion, harp, strings",
-   "note": "The English horn carries the long-breathed theme over the piano in the Adagio assai.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17287,7 +17287,7 @@
     "oboe"
    ],
    "full": "flute, oboe, clarinet, bassoon, 3 horns, trumpet, trombone, timpani, percussion, strings",
-   "note": "The oboe portrays the duck.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17345,7 +17345,7 @@
     "englishHorn"
    ],
    "full": "2 flutes, piccolo, alto flute, 2 oboes, english horn, 2 clarinets, E-flat clarinet, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "The first movement contains an extended unaccompanied English horn recitative.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17400,7 +17400,7 @@
     "englishHorn"
    ],
    "full": "solo trumpet, solo english horn, string orchestra",
-   "note": "One of the few concert works to place the English horn as an equal soloist.",
+   "note": "Solo parts for English horn and trumpet.",
    "arr": false,
    "est": false
   },
@@ -17438,7 +17438,7 @@
     "oboe"
    ],
    "full": "solo oboe, string orchestra",
-   "note": "The completed slow movement of Barber's unfinished Oboe Concerto.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17474,7 +17474,7 @@
     "oboe"
    ],
    "full": "solo oboe (unaccompanied)",
-   "note": "The central work of the unaccompanied oboe repertoire.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17546,7 +17546,7 @@
     "oboe"
    ],
    "full": "oboe, piano",
-   "note": "Poulenc's last completed work, dedicated to the memory of Prokofiev.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17654,7 +17654,7 @@
     "oboe"
    ],
    "full": "4 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, piano, celesta, harp, strings, chorus",
-   "note": "A three-movement choral symphony setting poems by John Donne and Emily Dickinson; the chorus calls for a minimum of 90 singers. Hand-entered because IMSLP has no record for this living composer.",
+   "note": "The chorus calls for a minimum of 90 singers.",
    "arr": false,
    "est": false
   },
@@ -17692,7 +17692,7 @@
     "englishHorn"
    ],
    "full": "2 piccolos, 2 flutes, 2 oboes, english horn, clarinets, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "Also exists in a concert band transcription by Odom, catalogued separately by the Wind Repertory Project.",
+   "note": "Also exists in a concert band transcription by Odom.",
    "arr": false,
    "est": false
   },
@@ -17786,7 +17786,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, cimbalom, bass guitar, piano, harp, strings, chorus",
-   "note": "Subtitled a 'Passion oratorio'; billed as an opera in some stagings.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17804,7 +17804,7 @@
     "oboe"
    ],
    "full": "piccolo, 3 flutes, 3 oboes, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, 2 tubas, timpani, percussion, piano, celesta, quarter-tone piano, 2 harps, strings, chorus, prerecorded tape",
-   "note": "Written to commemorate the September 11 attacks, for the New York Philharmonic; the live performers play alongside a prerecorded tape of voices and city sounds.",
+   "note": "The live performers play alongside a prerecorded tape.",
    "arr": false,
    "est": false
   },
@@ -17824,7 +17824,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, timpani, percussion, harp, piano, celesta, strings",
-   "note": "The soloist is an amplified string quartet rather than a single instrument; built from fragments of late Beethoven.",
+   "note": "The soloist is an amplified string quartet rather than a single instrument.",
    "arr": false,
    "est": false
   },
@@ -17842,7 +17842,7 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, percussion, cimbalom, celesta, 2 harps, strings",
-   "note": "Subtitled 'Dramatic Symphony for Violin and Orchestra'.",
+   "note": "Solo part for violin.",
    "arr": false,
    "est": false
   },
@@ -17878,7 +17878,7 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani, percussion, piano, harp, strings",
-   "note": "An 'outtake' from Act III of Nixon in China, written as a standalone orchestral foxtrot.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -17958,7 +17958,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 3 trumpets, 2 trombones, timpani, percussion, harp, celesta, strings",
-   "note": "Piano concerto; the title refers to the mechanical rhythms of player-piano rolls.",
+   "note": "Piano concerto.",
    "arr": false,
    "est": false
   },
@@ -17998,7 +17998,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 3 flutes, 3 oboes, english horn, 3 clarinets, bass clarinet, alto saxophone, 2 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, jazz drum set, piano, celesta, 2 harps, strings",
-   "note": "Written for the Los Angeles Philharmonic's 2009 season opener under Gustavo Dudamel.",
+   "note": null,
    "arr": false,
    "est": false
   },
@@ -18056,7 +18056,7 @@
     "englishHorn"
    ],
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, piano, honky-tonk piano, bass guitar, strings",
-   "note": "Piano concerto; the title borrows a line from Brecht and Weill.",
+   "note": "Piano concerto.",
    "arr": false,
    "est": false
   },
@@ -18074,7 +18074,7 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, percussion, strings",
-   "note": "Piano concertante work; no trumpets or trombones in the scoring. Not in the trumpet repertoire finder for that reason.",
+   "note": "Piano concertante work; no trumpets or trombones in the scoring.",
    "arr": false,
    "est": false
   },
@@ -18092,7 +18092,7 @@
     "englishHorn"
    ],
    "full": "english horn, bassoon, trombone, banjo, piano, keyboard samplers, strings",
-   "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe. Not in the trumpet repertoire finder, which this piece has no part for.",
+   "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe.",
    "arr": false,
    "est": false
   },
@@ -18110,7 +18110,7 @@
     "oboe"
    ],
    "full": "2 flutes, 2 oboes, 2 bassoons, 2 bass clarinets, trumpet, 4 horns, trombone, percussion",
-   "note": "For wind ensemble, in three movements (Ice Music, Water Music, Steam Music). No B-flat clarinets — the clarinet choir is bass clarinets only. The Wind Repertory Project notes its own percussion listing as incomplete ('percussion detail desired'). Hand-entered because IMSLP has no record for this living composer, and the composer's five other works for winds have no instrumentation catalogued anywhere yet.",
+   "note": "No B-flat clarinets — the clarinet choir is bass clarinets only. The percussion parts are not further specified.",
    "arr": false,
    "est": false
   },
@@ -18187,7 +18187,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 2 trombones, bass trombone, tuba, percussion, harp, piano and strings, It seems likely that the choir for the first three performances was augmented by local Russian Orthodox priests who could reach the bass notes required by Rachmaninoff. The conductor Igor Buketoff recalled that ",
+   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 2 trombones, bass trombone, tuba, percussion, harp, piano and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18245,7 +18245,7 @@
    "req": [
     "oboe"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 3 trumpets in B, 3 trombones, tuba, timpani, cymbals, bass drum (movements 1, 2 and 4 only), triangle (movements 2 and 4 only), snare drum, tambourine, tam-tam (movement 4 only) and strings, A typical performance has an approximate duration of 45 minutes",
+   "full": "3 flutes (3rd doubling piccolo), 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 3 trumpets in B, 3 trombones, tuba, timpani, cymbals, bass drum (movements 1, 2 and 4 only), triangle (movements 2 and 4 only), snare drum, tambourine, tam-tam (movement 4 only) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18435,7 +18435,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones (2 tenor, 1 bass), harp, piano, mandolin, timpani, tom-tom, xylophone, castanets, and strings. At no point does the entire orchestra play a tutti. Each section is scored for a different combination of instruments",
+   "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones (2 tenor, 1 bass), harp, piano, mandolin, timpani, tom-tom, xylophone, castanets, and strings. Each section is scored for a different combination of instruments",
    "note": null,
    "arr": false,
    "est": false
@@ -18454,7 +18454,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "tuba is omitted entirely. Also strikingly different from The Rite of Spring is the absence of a percussion section and the use of only one timpanist, There is an important role for the harp in Orpheus. This has a long tradition in classical music, in which the character of Orpheus is associated with that instrument, by analogy with the Ancient Greek lyre. Two important examples of this may be ment",
+   "full": "tuba is omitted entirely",
    "note": null,
    "arr": false,
    "est": false
@@ -18492,7 +18492,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piano, but Stravinsky transcribed it several times over the years for various ensembles:, soprano, oboe, English horn, clarinet, and bassoon (1923), violin and piano (1933), violin, oboe, English horn, clarinet, and bassoon (1933), The two versions from 1933 are not strict transcriptions but lengthened versions lasting about two minutes longer than the original, The 1933 version for violin and pia",
+   "full": "piano. soprano, oboe, English horn, clarinet, and bassoon (1923), violin and piano (1933), violin, oboe, English horn, clarinet, and bassoon (1933)",
    "note": null,
    "arr": false,
    "est": false
@@ -18531,7 +18531,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two oboes, English horn, two bassoons, two trumpets, and three trombones. There is also some minor solo material (often sung by members of the choir) in the second and fourth (Gloria and Sanctus) movements. Stravinsky specifies in the score that \"children's voices should be employed\" for both the soprano and alto parts, but, as with Stravinsky's Symphony of Psalms, concert performances of the Mass",
+   "full": "two oboes, English horn, two bassoons, two trumpets, and three trombones. Stravinsky specifies in the score that \"children's voices should be employed\" for both the soprano and alto parts",
    "note": null,
    "arr": false,
    "est": false
@@ -18551,7 +18551,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "5 flutes (5th doubling piccolo), 4 oboes, 1 cor anglais, 3 bassoons, 1 contrabassoon, Brass:, 4 horns in F, 1 trumpet in D, 4 trumpets in C, 3 trombones, 1 tuba, Percussion, harp and keyboards:, timpani, bass drum, harp, 2 pianos, (Lower) strings:, celli, double basses, SATB mixed chorus, In the score preface, Stravinsky stated a preference for a children's choir for the upper two choral parts, No",
+   "full": "5 flutes (5th doubling piccolo), 4 oboes, 1 cor anglais, 3 bassoons, 1 contrabassoon, Brass:, 4 horns in F, 1 trumpet in D, 4 trumpets in C, 3 trombones, 1 tuba, Percussion, harp and keyboards:, timpani, bass drum, harp, 2 pianos, (Lower) strings:, celli, double basses, SATB mixed chorus",
    "note": null,
    "arr": false,
    "est": false
@@ -18571,7 +18571,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets (second doubling alto clarinet in F), bass clarinet, contrabass sarrusophone, flugelhorn, 4 horns, 3 trombones (1 alto, 1 tenor, 1 bass), tuba, timpani, tamtam, harp, celesta, piano and strings. (The flugelhorn is actually listed as \"bugle\" by the publisher, though in the \"orchestration\" list at the head of the score the specification is for \"Contralto B",
+   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets (second doubling alto clarinet in F), bass clarinet, contrabass sarrusophone, flugelhorn, 4 horns, 3 trombones (1 alto, 1 tenor, 1 bass), tuba, timpani, tamtam, harp, celesta, piano and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18609,7 +18609,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo clarinet in B and a jazz band consisting of two alto saxophones in E, two tenor saxophones in B, baritone saxophone in E, three clarinets in B (doubled by first and second alto and first tenor saxophone players), bass clarinet in B (doubled by second tenor saxophone), horn in F, five trumpets in B, three trombones, piano, harp, guitar, double bass, and drum set, The horn and harp were additio",
+   "full": "solo clarinet in B and a jazz band consisting of two alto saxophones in E, two tenor saxophones in B, baritone saxophone in E, three clarinets in B (doubled by first and second alto and first tenor saxophone players), bass clarinet in B (doubled by second tenor saxophone), horn in F, five trumpets in B, three trombones, piano, harp, guitar, double bass, and drum set",
    "note": null,
    "arr": false,
    "est": false
@@ -18629,7 +18629,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "solo piano accompanied by an ensemble of wind instruments. The instrumentation of the wind section is what would be found in a standard symphony orchestra: two flutes, piccolo, two oboes, cor anglais, two clarinets, two bassoons (second bassoon doubling contrabassoon), four horns, four trumpets, three trombones, and tuba. The work also calls for a section of double basses (divided in 3) and a timp",
+   "full": "solo piano accompanied by an ensemble of wind instruments. The instrumentation of the wind section is what would be found in a standard symphony orchestra: two flutes, piccolo, two oboes, cor anglais, two clarinets, two bassoons (second bassoon doubling contrabassoon), four horns, four trumpets, three trombones, and tuba",
    "note": null,
    "arr": false,
    "est": false
@@ -18649,7 +18649,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets in A/B, E clarinet (doubling 3rd clarinet in A), 3 bassoons (third doubling contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, and strings, The Violin Concerto has four movements:, A typical performance of the concerto will last approximately 20 minutes",
+   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets in A/B, E clarinet (doubling 3rd clarinet in A), 3 bassoons (third doubling contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18669,7 +18669,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), alto flute, 2 oboes, cor anglais, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones (1st doubling alto trombone), tuba, percussion (timpani, bass drum, cymbals, xylorimba, and 3 tom-toms), harp, celesta, piano, and strings, The Flood was published in 1963 by Boosey & Hawkes",
+   "full": "3 flutes (3rd doubling piccolo), alto flute, 2 oboes, cor anglais, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones (1st doubling alto trombone), tuba, percussion (timpani, bass drum, cymbals, xylorimba, and 3 tom-toms), harp, celesta, piano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18766,7 +18766,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "1 flute (which plays only in the second movement), 2 oboes, cor anglais, 2 bassoons, contrabassoon, 3 trumpets in C, bass trumpet in C, 2 tenor trombones, bass trombone, contrabass trombone, organ, harp, violas, and double basses. Clarinets, horns, violins, and cellos are all absent, Canticum Sacrum is Stravinsky's only piece to make use of the organ. Its use represents one of many tributes to the",
+   "full": "1 flute (which plays only in the second movement), 2 oboes, cor anglais, 2 bassoons, contrabassoon, 3 trumpets in C, bass trumpet in C, 2 tenor trombones, bass trombone, contrabass trombone, organ, harp, violas, and double basses. Clarinets, horns, violins, and cellos are all absent",
    "note": null,
    "arr": false,
    "est": false
@@ -18784,7 +18784,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, piccolo (doubling third flute), two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, and strings, The symphony has a traditional, four-movement structure and lasts approximately 30 minutes:, The Symphony in C is entirely abstract and seems a retreat into the \"pure music\" styles of Bach, Beethoven, and Haydn",
+   "full": "two flutes, piccolo (doubling third flute), two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18820,7 +18820,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 3 clarinets in B and A (3rd doubling bass clarinet), 2 bassoons, contrabassoon, 4 horns, 3 trumpets in C, 3 trombones, tuba, timpani, bass drum, piano, harp, strings, The three movements are as follows:, Stravinsky, who rarely acknowledged extramusical inspirations for his music, referred to the composition as his 'war symphony'",
+   "full": "piccolo, 2 flutes, 2 oboes, 3 clarinets in B and A (3rd doubling bass clarinet), 2 bassoons, contrabassoon, 4 horns, 3 trumpets in C, 3 trombones, tuba, timpani, bass drum, piano, harp, strings",
    "note": null,
    "arr": false,
    "est": false
@@ -18989,7 +18989,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes (2nd doubling piccolo), 2 oboes, 1 clarinet, 1 bassoon, Brass, 4 French horns, 2 trumpets, 1 trombone, Percussion, timpani, triangle, tambourine, snare drum, cymbals, glockenspiel, xylophone, Keyboards, celesta, Strings, harp, Shostakovich later adjusted the orchestration for the version of Tahiti Trot in The Golden Age and added a",
+   "full": "2 flutes (2nd doubling piccolo), 2 oboes, 1 clarinet, 1 bassoon, Brass, 4 French horns, 2 trumpets, 1 trombone, Percussion, timpani, triangle, tambourine, snare drum, cymbals, glockenspiel, xylophone, Keyboards, celesta, Strings, harp",
    "note": null,
    "arr": false,
    "est": false
@@ -19064,7 +19064,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo cello, one piccolo, one flute, two oboes, two clarinets (each doubling B and A), two bassoons, contrabassoon (doubling 3rd bassoon), two horns, percussion (timpani, slapstick, wood block, tom-tom, tambourine, snare drum, bass drum, and xylophone), two harps (always in unison as indicated on the score), and strings, The concerto lasts around 35 minutes and has three movements:",
+   "full": "solo cello, one piccolo, one flute, two oboes, two clarinets (each doubling B and A), two bassoons, contrabassoon (doubling 3rd bassoon), two horns, percussion (timpani, slapstick, wood block, tom-tom, tambourine, snare drum, bass drum, and xylophone), two harps (always in unison as indicated on the score), and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19082,7 +19082,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo piano, two flutes, piccolo, two oboes, two clarinets, two bassoons, four horns, timpani, snare drum, and strings, The concerto lasts around 20 minutes and has three movements, with the last played attacca: \"attached\" to the second (i.e. to be played without any gap or pause between the end of the second movement and the start of the third), The first movement is in sonata form",
+   "full": "solo piano, two flutes, piccolo, two oboes, two clarinets, two bassoons, four horns, timpani, snare drum, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19119,7 +19119,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo violin, piccolo, flute, two oboes, two clarinets, two bassoons, contrabassoon, four horns, timpani, tom-tom drum and strings, A performance of the piece lasts approximately 33 minutes",
+   "full": "solo violin, piccolo, flute, two oboes, two clarinets, two bassoons, contrabassoon, four horns, timpani, tom-tom drum and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19287,7 +19287,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (2nd doubling alto flute; 3rd doubling piccolo), 2 oboes, cor anglais, 3 clarinets in B and A (3rd doubling E clarinet), bass clarinet, 2 bassoons, contrabassoon, Brass:, 8 horns, 6 trumpets, 6 trombones, tuba, Percussion:, 5 timpani, bass drum, snare drum (at least one; two to three recommended), cymbals, tam-tam, triangle, tambourine, xylophone, Keyboard, piano, Strings:, 2 harps; and a",
+   "full": "3 flutes (2nd doubling alto flute; 3rd doubling piccolo), 2 oboes, cor anglais, 3 clarinets in B and A (3rd doubling E clarinet), bass clarinet, 2 bassoons, contrabassoon, Brass:, 8 horns, 6 trumpets, 6 trombones, tuba, Percussion:, 5 timpani, bass drum, snare drum (at least one; two to three recommended), cymbals, tam-tam, triangle, tambourine, xylophone, Keyboard, piano, Strings:, 2 harps",
    "note": null,
    "arr": false,
    "est": false
@@ -19324,7 +19324,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 3 oboes (3rd doubling cor anglais), 3 clarinets (3rd doubling bass clarinet), 3 bassoons (3rd doubling contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, cymbals, bass drum, tam-tam, xylophone, tubular bells, 2 harps (preferably doubled), celesta and strings, It has become common professional performance practice for the tubular ",
+   "full": "3 flutes (3rd doubling piccolo), 3 oboes (3rd doubling cor anglais), 3 clarinets (3rd doubling bass clarinet), 3 bassoons (3rd doubling contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, cymbals, bass drum, tam-tam, xylophone, tubular bells, 2 harps (preferably doubled), celesta and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19399,7 +19399,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, and strings, The piece is in five movements, lasting around 25 minutes:",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19437,7 +19437,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo piano (left hand), 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 1 trumpet, 1 trombone, bass drum and strings, The four movements last around 25 minutes:, The concerto features neoclassical thematic material and is orchestrated in a Classical style, The outer movements serve in a way as prelude and postlude, with the middle two comprising the bulk of the concerto",
+   "full": "solo piano (left hand), 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 1 trumpet, 1 trombone, bass drum and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19572,7 +19572,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 3 oboes (3rd doubling English horn), 4 clarinets (4th doubling E-flat clarinet and bass clarinet), 3 bassoons (3rd doubling contrabassoon), Brass, 4 French horns, 3 trumpets, 3 trombones, tuba, Percussion, timpani, triangle, tambourine, snare drum, bass drum, woodblock, cymbals, tam-tam, glockenspiel, xylophone, Keyboards, celesta, piano, Voices:, 2 narrators, mezz",
+   "full": "3 flutes (3rd doubling piccolo), 3 oboes (3rd doubling English horn), 4 clarinets (4th doubling E-flat clarinet and bass clarinet), 3 bassoons (3rd doubling contrabassoon), Brass, 4 French horns, 3 trumpets, 3 trombones, tuba, Percussion, timpani, triangle, tambourine, snare drum, bass drum, woodblock, cymbals, tam-tam, glockenspiel, xylophone, Keyboards, celesta, piano, Voices",
    "note": null,
    "arr": false,
    "est": false
@@ -19628,7 +19628,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes (second doubling piccolo), two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, percussion (timpani, cymbals, tambourine, triangle, bass drum, and snare drum), celesta, and strings, It has a typical performance duration of about 40 minutes and consists of three movements with the following tempo markings:, The piece is noted for its extreme difficulty",
+   "full": "two flutes (second doubling piccolo), two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, percussion (timpani, cymbals, tambourine, triangle, bass drum, and snare drum), celesta, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19762,7 +19762,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, tuba, percussion (timpani, bass drum, triangle, wood block, side drum, tambourine, and cymbals), harp, and strings, The whole suite lasts for around 15 minutes, {{Ordered list|type=upper-roman, In the Struggle – The composer described this as \"a scene of heated battle, ",
+   "full": "2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, tuba, percussion (timpani, bass drum, triangle, wood block, side drum, tambourine, and cymbals), harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -19904,7 +19904,7 @@
     "oboeDamore",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes (one doubling oboe d'amore), cor anglais, 2 B, A clarinets, 2 bassoons, contrabassoon, Brass, 4 E, F horns, 2 E trumpets, 3 trombones, tuba, Percussion, timpani, Keyboards, celesta, piano, Strings, harp, \"Blicke mir nicht ...\", \"Ich atmet' einen linden ...\", \"Ich bin der Welt ...\", \"Um Mitternacht\", \"Liebst du um Schönheit\"",
+   "full": "2 flutes, 2 oboes (one doubling oboe d'amore), cor anglais, 2 B, A clarinets, 2 bassoons, contrabassoon, Brass, 4 E, F horns, 2 E trumpets, 3 trombones, tuba, Percussion, timpani, Keyboards, celesta, piano, Strings, harp",
    "note": null,
    "arr": false,
    "est": false
@@ -19983,7 +19983,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, cor anglais (English horn), 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, timpani, glockenspiel, tam-tam, celesta, harp, and strings. Deployed at chamber-orchestra scale, this instrumentation permitted Mahler to explore a wide variety of timbres within a smaller-scale sound; Tunbridge sees this as a new precedent adopted by later composers, for example",
+   "full": "piccolo, 2 flutes, 2 oboes, cor anglais (English horn), 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, timpani, glockenspiel, tam-tam, celesta, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20021,7 +20021,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "trombone or tuba. Paul Stefan notes the \"fairly numerous\" woodwinds and strings, while Michael Steinberg calls the percussion section \"lavish\". The instrumentation is as follows:, Woodwinds, 4 flutes (3rd and 4th doubling piccolos), 3 oboes (3rd doubling cor anglais), 3 B, A, C clarinets (2nd doubling clarinet in E-flat E clarinet, 3rd doubling bass clarinet), 3 bassoons (3rd doubling contrabassoo",
+   "full": "Woodwinds, 4 flutes (3rd and 4th doubling piccolos), 3 oboes (3rd doubling cor anglais), 3 B, A, C clarinets (2nd doubling clarinet in E-flat E clarinet, 3rd doubling bass clarinet), 3 bassoons (3rd doubling contrabassoo",
    "note": null,
    "arr": false,
    "est": false
@@ -20139,7 +20139,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, oboe, cor anglais (oboe), 2 clarinets, 2 bassoons, 2 horns, trumpet, trombone, Timpani, Percussion: bass drum, cymbals, tambourine, triangle, Harpsichord, organ, harp, celesta, Strings, This is a slightly larger orchestra than for the 1923 Dance Suite. In particular, the organ is added in II.1 and II.4 in part to provide a drone for the \"bagpipe\". The additional percussion and timpani ar",
+   "full": "2 flutes, oboe, cor anglais (oboe), 2 clarinets, 2 bassoons, 2 horns, trumpet, trombone, Timpani, Percussion: bass drum, cymbals, tambourine, triangle, Harpsichord, organ, harp, celesta, Strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20179,7 +20179,7 @@
    "req": [
     "oboe"
    ],
-   "full": "Two flutes, two oboes, two clarinets, bass clarinet, two bassoons, double bassoon, Four french horns, two trumpets, three trombones, tuba, Timpani, Harp, Organ (Night), Strings, Clemens Krauss made an arrangement for mixed choir (SATB) after the composer's death, which was premiered with the Vienna Philharmonic on 2 March 1952",
+   "full": "Two flutes, two oboes, two clarinets, bass clarinet, two bassoons, double bassoon, Four french horns, two trumpets, three trombones, tuba, Timpani, Harp, Organ (Night), Strings, Clemens Krauss made an arrangement for mixed choir (SATB) after the composer's death",
    "note": null,
    "arr": false,
    "est": false
@@ -20199,7 +20199,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "Four flutes, two piccolos, four oboes, two English horns, six clarinets, two bass clarinets, Four bassoons, one double bassoon, Eight french horns, six trumpets, four trombones, two tubas, Timpani and percussion, Strings: Twenty first and eighteen second violins, sixteen violas, fourteen cellos, twelve basses, However, while large, the orchestral resources were only slightly larger than those Mahl",
+   "full": "Four flutes, two piccolos, four oboes, two English horns, six clarinets, two bass clarinets, Four bassoons, one double bassoon, Eight french horns, six trumpets, four trombones, two tubas, Timpani and percussion, Strings: Twenty first and eighteen second violins, sixteen violas, fourteen cellos, twelve basses",
    "note": null,
    "arr": false,
    "est": false
@@ -20471,7 +20471,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piano accompaniment in the key of E major, but later orchestrated in his 'heroic' key of E . The instrumentation is: 2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in E, 2 trumpets in E, 3 trombones, tuba, 3 timpani, harp and the orchestral string section, The tempo direction is \"Sehr lebhaft und drängend\", Strauss, in his rich and lively orchestration, included parts for a solo string p",
+   "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in E, 2 trumpets in E, 3 trombones, tuba, 3 timpani, harp and the orchestral string section",
    "note": null,
    "arr": false,
    "est": false
@@ -20549,7 +20549,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets in B, bass clarinet, 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, 3 timpani, celesta, harp and the orchestral string section, The accompaniment has sombre and ambiguous harmonies, with contrasting calm and tempestuous episodes, but ends peacefully in the home key of C major",
+   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets in B, bass clarinet, 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, 3 timpani, celesta, harp and the orchestral string section",
    "note": null,
    "arr": false,
    "est": false
@@ -20667,7 +20667,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes and piccolo, two oboes and cor anglais, two clarinets, two bassoons, four French horns, two trumpets, three trombones, tuba, timpani, snare drum, bass drum, tambourine, triangle, glockenspiel, cymbals, gong, two harps, and strings, Performance times for the cycle vary and may range from between 15 and 20 minutes in total, Asie: 9–11 minutes, La flûte enchantée: about 3–4 minutes, L'indi",
+   "full": "two flutes and piccolo, two oboes and cor anglais, two clarinets, two bassoons, four French horns, two trumpets, three trombones, tuba, timpani, snare drum, bass drum, tambourine, triangle, glockenspiel, cymbals, gong, two harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20687,7 +20687,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, harp, and strings, The earliest known orchestration of \"Noctuelles\" is by the British pianist Michael Round, an orchestration commissioned by Vladimir Ashkenazy and recorded by him with the NHK Symphony Orchestra (Exton, 1993)",
+   "full": "2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20745,7 +20745,7 @@
    "req": [
     "oboe"
    ],
-   "full": "oboe, horn, and harpsichord, and the fifth for trumpet, clarinet, bassoon and piano, For the final and sixth sonata, Debussy envisioned a concerto where the sonorities of the \"various instruments\" combine, with the gracious assistance of the double bass, Christian Goubault Claude Debussy : la musique à vif. éd",
+   "full": "oboe, horn, and harpsichord, and the fifth for trumpet, clarinet, bassoon and piano. Debussy envisioned a concerto where the sonorities of the \"various instruments\" combine, with the gracious assistance of the double bass",
    "note": null,
    "arr": false,
    "est": false
@@ -20805,7 +20805,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "saxophone, 3 flutes (one doubling piccolo), 2 oboes, cor anglais, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, Timpani, triangle, tambourine, cymbals, Harp, strings, The 1939 New York Philharmonic performance gives the same instrumentation for Ernest Ansermet's revised version",
+   "full": "saxophone, 3 flutes (one doubling piccolo), 2 oboes, cor anglais, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, Timpani, triangle, tambourine, cymbals, Harp, strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20886,7 +20886,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, and 2 bassoons, 4 horns, 2 trumpets, 2 trombones, and tuba, timpani, cymbals, and triangle, strings, The Ballet Scene, on the other hand, is one of the most luxuriously scored orchestral works in Sibelius's oeuvre. To the forces listed above for the Overture, it subtracts timpani from the percussion section but adds cast",
+   "full": "2 flutes, 2 oboes, 2 clarinets, and 2 bassoons, 4 horns, 2 trumpets, 2 trombones, and tuba, timpani, cymbals, and triangle, strings. To the forces listed above for the Overture, it subtracts timpani from the percussion section but adds cast",
    "note": null,
    "arr": false,
    "est": false
@@ -20942,7 +20942,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets (in A and B ), bass clarinet (in B ), and 2 bassoons, Brass: 4 horns (in D, E, and F), 3–4 trumpets (in D, E, and F), 3 trombones, and tuba, Percussion: timpani, triangle, and cymbals, Strings, Sibelius did not publish Kullervo in his lifetime, and for many decades the score existed only in the autogra",
+   "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets (in A and B ), bass clarinet (in B ), and 2 bassoons, Brass: 4 horns (in D, E, and F), 3–4 trumpets (in D, E, and F), 3 trombones, and tuba, Percussion: timpani, triangle, and cymbals, Strings",
    "note": null,
    "arr": false,
    "est": false
@@ -20978,7 +20978,7 @@
    "req": [
     "oboe"
    ],
-   "full": "violin, Woodwinds: 2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, Brass: 2 horns (in F), Percussion: timpani, Strings, The Humoresque No. 2 has identical scoring, except for the omission of the entire woodwind section. The Op. 89 pieces are even more delicately scored. In addition to the soloist, Humoresques Nos. 3 and 4 utilize strings only. No",
+   "full": "violin, Woodwinds: 2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, Brass: 2 horns (in F), Percussion: timpani, Strings, The Humoresque No. 2 has identical scoring, except for the omission of the entire woodwind section. 3 and 4 utilize strings only",
    "note": null,
    "arr": false,
    "est": false
@@ -20996,7 +20996,7 @@
    "req": [
     "oboe"
    ],
-   "full": "violin, Woodwinds: 2 flutes, 2 oboes, 2 clarinets (in A), and 2 bassoons, Brass: 4 horns (in F), Percussion: timpani, Strings, The Serenade No. 2 has identical scoring, except for the addition of triangle to the percussion section; it also has the clarinetists switch to B clarinet",
+   "full": "violin, Woodwinds: 2 flutes, 2 oboes, 2 clarinets (in A), and 2 bassoons, Brass: 4 horns (in F), Percussion: timpani, Strings, The Serenade No. 2 has identical scoring, except for the addition of triangle to the percussion section",
    "note": null,
    "arr": false,
    "est": false
@@ -21033,7 +21033,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes (3rd doubling piccolo), three oboes (3rd doubling English horn), two clarinets, two bassoons, four horns in F and E, three trumpets in F and E, three trombones, tuba, timpani, bass drum, cymbals, triangle, tambourine, two sopranos/baritones (Tableau 1), a baritone (Tableau 5), SATB choir (Tableau 8) and strings, Ralph Wood has commented on the role of the percussion in this compositio",
+   "full": "three flutes (3rd doubling piccolo), three oboes (3rd doubling English horn), two clarinets, two bassoons, four horns in F and E, three trumpets in F and E, three trombones, tuba, timpani, bass drum, cymbals, triangle, tambourine, two sopranos/baritones (Tableau 1), a baritone (Tableau 5), SATB choir (Tableau 8) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -21051,7 +21051,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 1 oboe, 2 clarinets, and 1 bass clarinet, 2 trumpets and 2 trombones, Timpani, bass drum, snare drum, cymbals, tambourine, and triangle, Strings, The piece is notable by Sibelius's standards in that it omits both horns and bassoons. Although the piece is titled as a march, this is \"something of a misnomer, as it is not particularly march-like",
+   "full": "2 flutes, 1 oboe, 2 clarinets, and 1 bass clarinet, 2 trumpets and 2 trombones, Timpani, bass drum, snare drum, cymbals, tambourine, and triangle, Strings, The piece is notable by Sibelius's standards in that it omits both horns and bassoons",
    "note": null,
    "arr": false,
    "est": false
@@ -21088,7 +21088,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, Brass: 4 horns (in F) and cornet (in B ; used for the signaling calls in act 2, scene 5), Percussion: timpani, tambourine, and triangle, Strings: violins, violas (including soloist), cellos (including soloist), double basses, and piano, Sibelius divides the instrumentalists spatially into three groups: first, the musicians onstage who serve a",
+   "full": "2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, Brass: 4 horns (in F) and cornet (in B ; used for the signaling calls in act 2, scene 5), Percussion: timpani, tambourine, and triangle, Strings: violins, violas (including soloist), cellos (including soloist), double basses, and piano",
    "note": null,
    "arr": false,
    "est": false
@@ -21365,7 +21365,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, oboe, clarinet, bassoon, horn, two violins, viola, cello and double bass. In February 1936, Britten revised the score for a small chamber orchestra with two horns and a small string section, which was only performed once during his lifetime. This version is available on hire from Boosey and Hawkes",
+   "full": "flute, oboe, clarinet, bassoon, horn, two violins, viola, cello and double bass. In February 1936, Britten revised the score for a small chamber orchestra with two horns and a small string section",
    "note": null,
    "arr": false,
    "est": false
@@ -21421,7 +21421,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "soprano soloist and choir are accompanied by the full orchestra, the baritone and tenor soloists are accompanied by the chamber orchestra, and the boys' choir is accompanied by a small portative organ (this last group ideally being situated at some distance from the full orchestra). This group produces a very strange, distant sound. The soprano and choir and the boys' choir sing the traditional La",
+   "full": "soprano soloist and choir are accompanied by the full orchestra, the baritone and tenor soloists are accompanied by the chamber orchestra, and the boys' choir is accompanied by a small portative organ (this last group ideally being situated at some distance from the full orchestra). The soprano and choir and the boys' choir sing the traditional La",
    "note": null,
    "arr": false,
    "est": false
@@ -21461,7 +21461,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (2nd and 3rd piccolo), 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion (4 players), celesta, harp, strings, Stage Band: Historical instruments",
+   "full": "3 flutes (2nd and 3rd piccolo), 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion (4 players), celesta, harp, strings",
    "note": null,
    "arr": false,
    "est": false
@@ -21481,7 +21481,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "Two violins, viola, cello, double bass, flute/alto flute/piccolo, oboe/english horn, clarinet/bass clarinet, bassoon, French horn, harp, piano/celesta and percussion, Instrument, Premiere musician, Instrument, Premiere musician, Instrument, Premiere musician, first violin, Olive Zorian, flute, alto flute, piccolo, John Francis, harp, Enid Simon, second violin, Suzanne Rosza, oboe, English horn, Jo",
+   "full": "Two violins, viola, cello, double bass, flute/alto flute/piccolo, oboe/english horn, clarinet/bass clarinet, bassoon, French horn, harp, piano/celesta and percussion",
    "note": null,
    "arr": false,
    "est": false
@@ -21499,7 +21499,7 @@
    "req": [
     "englishHorn"
    ],
-   "full": "flute, cor anglais, clarinet, bassoon, harp, French horn and timpani. Nocturne was Britten's fourth and final orchestral song cycle, after Our Hunting Fathers (Op. 8, 1936), Les Illuminations (Op. 18, 1939) and Serenade for Tenor, Horn and Strings (Op. 31, 1943). It was dedicated to Alma Mahler, Nocturne was premiered in the Leeds Town Hall at the centenary Leeds Festival",
+   "full": "flute, cor anglais, clarinet, bassoon, harp, French horn and timpani. Nocturne was Britten's fourth and final orchestral song cycle, after Our Hunting Fathers (Op. 8, 1936), Les Illuminations (Op. 18, 1939) and Serenade for Tenor, Horn and Strings (Op. 31, 1943)",
    "note": null,
    "arr": false,
    "est": false
@@ -21978,7 +21978,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "Strings, Woodwinds: Piccolo, 3 Flutes, 2 Oboes, Cor Anglais, 2 Clarinets (B-flat and A), 2 Bassoons, Brass: 4 Horns, 2 Trumpets, 3 Trombones, Tuba, Percussion: Timpani, Triangle, Tambourine, Side Drum, Cymbals, Bass Drum, Other: Harp, Source: Tchaikovsky Research",
+   "full": "Strings, Woodwinds: Piccolo, 3 Flutes, 2 Oboes, Cor Anglais, 2 Clarinets (B-flat and A), 2 Bassoons, Brass: 4 Horns, 2 Trumpets, 3 Trombones, Tuba, Percussion: Timpani, Triangle, Tambourine, Side Drum, Cymbals, Bass Drum, Other: Harp",
    "note": null,
    "arr": false,
    "est": false
@@ -22071,7 +22071,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "Strings, Woodwinds: Piccolo, 2 Flutes, 2 Oboes, Cor Anglais, 2 Clarinets (B-flat & A), 2 Bassoons, Brass: 4 Horns (all in F), 2 Trumpets (B-flat), 3 Trombones, Tuba, Percussion: Timpani, Triangle, Cymbals, Bass Drum, Other: Harp, Source: Voyevoda (opera) Tchaikovsky Research",
+   "full": "Strings, Woodwinds: Piccolo, 2 Flutes, 2 Oboes, Cor Anglais, 2 Clarinets (B-flat & A), 2 Bassoons, Brass: 4 Horns (all in F), 2 Trumpets (B-flat), 3 Trombones, Tuba, Percussion: Timpani, Triangle, Cymbals, Bass Drum, Other: Harp",
    "note": null,
    "arr": false,
    "est": false
@@ -22091,7 +22091,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling on piccolo), 2 oboes, English horn, 2 clarinets in A, 2 bassoons, 4 horns in F, 2 cornets in A, 2 trumpets in E, 3 trombones (2 tenor, 1 bass), tuba, percussion (3 timpani, triangle, tambourine, cymbals, bass drum, and glockenspiel), harp, and strings, After a brief bugle call, inspired by a Il Silenzio d’Ordinanza, a bugle call Tchaikovsky heard daily in his rooms at the Ho",
+   "full": "3 flutes (3rd doubling on piccolo), 2 oboes, English horn, 2 clarinets in A, 2 bassoons, 4 horns in F, 2 cornets in A, 2 trumpets in E, 3 trombones (2 tenor, 1 bass), tuba, percussion (3 timpani, triangle, tambourine, cymbals, bass drum, and glockenspiel), harp, and strings, After a brief bugle call",
    "note": null,
    "arr": false,
    "est": false
@@ -22167,7 +22167,7 @@
    "req": [
     "oboe"
    ],
-   "full": "pairs of flutes, oboes, clarinets, bassoons and trumpets, four horns, timpani, cymbals, glockenspiel, harp, and strings, Mozartiana is in four movements and lasts approximately 20 minutes, {{Ordered list, type = upper-roman|Gigue",
+   "full": "pairs of flutes, oboes, clarinets, bassoons and trumpets, four horns, timpani, cymbals, glockenspiel, harp, and strings",
    "note": null,
    "arr": false,
    "est": true
@@ -22221,7 +22221,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two B clarinets, two bassoons, two horns, strings, and solo violin; its duration is about 12 minutes, The movement, in F minor, is marked Andante con moto",
+   "full": "two flutes, two oboes, two B clarinets, two bassoons, two horns, strings, and solo violin",
    "note": null,
    "arr": false,
    "est": false
@@ -22353,7 +22353,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle and strings. It takes about 22 minutes to play",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22428,7 +22428,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes, one piccolo, two oboes, English horn, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, triangle, harp, and strings, The work, unlike his other symphonies, is in three movements:, There is no scherzo, this being the only three-movement symphony he wrote. The Adagio molto is his longest symphonic slow movement, and the Allegro vivace is the shortest ",
+   "full": "two flutes, one piccolo, two oboes, English horn, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, triangle, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22482,7 +22482,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes (one doubling piccolo), two oboes, two B clarinets, two bassoons, double bassoon, two French horns in D, two French horns in F, two trumpets, alto, tenor and bass trombones, tuba, timpani and strings, The piece is not often performed but has been recorded several times and has had its fans: Anton Webern admired a passage in the coda built on a cycle of major thirds and asserted that Bra",
+   "full": "two flutes (one doubling piccolo), two oboes, two B clarinets, two bassoons, double bassoon, two French horns in D, two French horns in F, two trumpets, alto, tenor and bass trombones, tuba, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22536,7 +22536,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpanis and strings. An organ may be included ad libitum, Performed, the work takes between 22 and 26 minutes, First movement, Halleluja! Heil und Preis, Ehre und Kraft sei Gott unserm Herrn. Denn wahrhaftig und gerecht sind seine Gerichte. Halleluja! —, \"Alleluia; Salvation, and glory, and honour",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpanis and strings. An organ may be included ad libitum",
    "note": null,
    "arr": false,
    "est": false
@@ -22608,7 +22608,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes (1st also piccolo), 2 oboes, 2 clarinets (B ), 2 bassoons, 4 horns (initially 2 in B bass, 2 in F), 2 trumpets (B ), timpani (B and F, A and D in second movement) and strings. (The trumpets and timpani are used only in the first two movements, which is unusual.), The piece is in four movements, rather than the three typical of concertos in the Classical and Romantic periods:, The addi",
+   "full": "2 flutes (1st also piccolo), 2 oboes, 2 clarinets (B ), 2 bassoons, 4 horns (initially 2 in B bass, 2 in F), 2 trumpets (B ), timpani (B and F, A and D in second movement) and strings. (The trumpets and timpani are used only in the first two movements, which is unusual.)",
    "note": null,
    "arr": false,
    "est": false
@@ -22626,7 +22626,7 @@
    "req": [
     "oboe"
    ],
-   "full": "Violin Concerto is scored for solo violin and orchestra consisting of 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons; 2 natural horns crooked in D, and 2 natural horns crooked in E, 2 trumpets in D, timpani, and strings. Despite Brahms's scoring for natural (non-valved) horns in his orchestral works, valved horns have always been used in actual performance, even in Brahms's time",
+   "full": "Violin Concerto is scored for solo violin and orchestra consisting of 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons; 2 natural horns crooked in D, and 2 natural horns crooked in E, 2 trumpets in D, timpani, and strings. Despite Brahms's scoring for natural (non-valved) horns in his orchestral works",
    "note": null,
    "arr": false,
    "est": false
@@ -22644,7 +22644,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, two flutes, two oboes, two clarinets (both doubling in B and C clarinets), two bassoons, contrabassoon, four horns (two in C and two in E), three C trumpets, three trombones, one tuba, timpani, bass drum, cymbals, triangle, and strings, The Overture consists of four continuous sections:, [[File:Orches",
+   "full": "piccolo, two flutes, two oboes, two clarinets (both doubling in B and C clarinets), two bassoons, contrabassoon, four horns (two in C and two in E), three C trumpets, three trombones, one tuba, timpani, bass drum, cymbals, triangle, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22680,7 +22680,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 4 horns (2 in E, 2 in B ), 2 trumpets, timpani, triangle, and the normal string section, The piece usually takes about 18 minutes to perform",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 4 horns (2 in E, 2 in B ), 2 trumpets, timpani, triangle, and the normal string section",
    "note": null,
    "arr": false,
    "est": false
@@ -22699,7 +22699,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (all doubling piccolo), 2 oboes (second doubling English horn), 2 clarinets (in C/A/B ), bass clarinet in B, 4 bassoons, 4 horns (in all keys), 2 trumpets in C/D/F, 2 cornets in A/B, 3 trombones, 2 tubas (originally scored for one ophicleide and one tuba), timpani, snare drum, bass drum, cymbals, suspended cymbal, triangle, tamtam, bell (sounding D, F, A, or C), 2 harps, strings: 15 violi",
+   "full": "3 flutes (all doubling piccolo), 2 oboes (second doubling English horn), 2 clarinets (in C/A/B ), bass clarinet in B, 4 bassoons, 4 horns (in all keys), 2 trumpets in C/D/F, 2 cornets in A/B, 3 trombones, 2 tubas (originally scored for one ophicleide and one tuba), timpani, snare drum, bass drum, cymbals, suspended cymbal, triangle, tamtam, bell (sounding D, F, A, or C), 2 harps, strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22904,7 +22904,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, one tuba, timpani, and strings, It is divided into four movements; the second movement is in .:, 1866–73 version:, 1886 version:",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, one tuba, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -22924,7 +22924,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piano solo, 2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets (in B and A), 2 bassoons, 4 horns (in F), 2 trumpets (in B ), 3 trombones, tuba, timpani, harp, and strings, It is written in three movements:, A typical performance of the work lasts for about 39 minutes",
+   "full": "piano solo, 2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets (in B and A), 2 bassoons, 4 horns (in F), 2 trumpets (in B ), 3 trombones, tuba, timpani, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23294,7 +23294,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes (one doubling piccolo), two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, percussion (one player – snare drum, bass drum, tambourine, cymbals), piano, celeste, organ, and strings. Holst specified that \"The two choruses should be of fairly equal strength, and, if possible, should be well separated. The semi-chorus should be placed above the",
+   "full": "three flutes (one doubling piccolo), two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, percussion (one player – snare drum, bass drum, tambourine, cymbals), piano, celeste, organ, and strings. Holst specified that \"The two choruses should be of fairly equal strength",
    "note": null,
    "arr": false,
    "est": false
@@ -23370,7 +23370,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes, piccolo, oboe, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, glockenspiel, gong, xylophone, cymbals, sleigh bells, bass drum, harp and strings. A typical performance takes from 10 to 12 minutes. John Boyd has arranged a version for concert band",
+   "full": "two flutes, piccolo, oboe, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, glockenspiel, gong, xylophone, cymbals, sleigh bells, bass drum, harp and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23424,7 +23424,7 @@
    "req": [
     "englishHorn"
    ],
-   "full": "piano, Vaughan Williams wrote that his aim in setting the songs was for them to be “treated with love.” It has been transcribed by the composer and others for violin, viola, English horn, clarinet, bassoon, alto sax, euphonium, and tuba, Never straying from his English roots, Vaughan Willi",
+   "full": "piano, Vaughan Williams wrote that his aim in setting the songs was for them to be “treated with love.” It has been transcribed by the composer and others for violin, viola, English horn, clarinet, bassoon, alto sax, euphonium, and tuba",
    "note": null,
    "arr": false,
    "est": false
@@ -23444,7 +23444,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 2 oboes, 1 cor anglais, 2 clarinets, 2 bassoons, 1 double bassoon, 4 French horns, 2 trumpets, 3 trombones, 1 tuba, timpani (chromatic ad lib.), percussion (2 players), harp and strings. Vaughan Williams sanctioned a degree of flexibility, the following instruments being dispensable at need: flute 2, oboe 2, double bassoon, French horns 3 and 4, tuba, percussion 2.",
+   "full": "3 flutes (3rd doubling piccolo), 2 oboes, 1 cor anglais, 2 clarinets, 2 bassoons, 1 double bassoon, 4 French horns, 2 trumpets, 3 trombones, 1 tuba, timpani (chromatic ad lib.), percussion (2 players), harp and strings. the following instruments being dispensable at need: flute 2, oboe 2, double bassoon, French horns 3 and 4, tuba, percussion 2.",
    "note": null,
    "arr": false,
    "est": false
@@ -23502,7 +23502,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes, piccolo, two oboes, cor anglais, two clarinets, E-flat clarinet, bass clarinet, two bassoons, contrabassoon, Brass: four horns, three trumpets, three trombones, tuba, Percussion: timpani (F 2 –F 3 ), side drum, bass drum, triangle, suspended cymbal, crash cymbals, Organ (1st and 4th movements), Strings: two harps, and strings, This work may also be played by a reduced orchestra, omitti",
+   "full": "two flutes, piccolo, two oboes, cor anglais, two clarinets, E-flat clarinet, bass clarinet, two bassoons, contrabassoon, Brass: four horns, three trumpets, three trombones, tuba, Percussion: timpani (F 2 –F 3 ), side drum, bass drum, triangle, suspended cymbal, crash cymbals, Organ (1st and 4th movements), Strings: two harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23677,7 +23677,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, piccolo (doubling 3rd flute), 2 oboes, cor anglais, 2 clarinets in B, tenor saxophone (doubling bass clarinet in B ), 2 bassoons, contrabassoon, 4 horns in F, 3 trumpets in B, 3 trombones, tuba, timpani, side drum, triangle, bass drum, cymbals, xylophone, harp (optionally doubled), and strings, The symphony is dedicated to the composer's musical assistant Michael Mullinar",
+   "full": "2 flutes, piccolo (doubling 3rd flute), 2 oboes, cor anglais, 2 clarinets in B, tenor saxophone (doubling bass clarinet in B ), 2 bassoons, contrabassoon, 4 horns in F, 3 trumpets in B, 3 trombones, tuba, timpani, side drum, triangle, bass drum, cymbals, xylophone, harp (optionally doubled), and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23695,7 +23695,7 @@
    "req": [
     "oboe"
    ],
-   "full": "a harp) but an augmented percussion section, Woodwinds: two flutes (second doubling piccolo), two oboes, two clarinets (in B ), two bassoons, Brass: two horns (in F), two trumpets (in B ), three trombones, Percussion: timpani, vibraphone, triangle, glockenspiel, side drum, cymbals, tubular bells, tuned gongs, bass drum, xylophone, celesta, Strings: two harps, and strings, The work is in four movem",
+   "full": "a harp) but an augmented percussion section, Woodwinds: two flutes (second doubling piccolo), two oboes, two clarinets (in B ), two bassoons, Brass: two horns (in F), two trumpets (in B ), three trombones, Percussion: timpani, vibraphone, triangle, glockenspiel, side drum, cymbals, tubular bells, tuned gongs, bass drum, xylophone, celesta, Strings: two harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23769,7 +23769,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "double chorus with semichorus, and usually three soloists. Gerontius is sung by a tenor, and the Angel is a mezzo-soprano. The Priest's part is written for a baritone, while the Angel of the Agony is more suited to a bass; as both parts are short they are usually sung by the same performer, although some performances assign different singers for the two parts, The choir plays several roles: attend",
+   "full": "double chorus with semichorus, and usually three soloists. Gerontius is sung by a tenor, and the Angel is a mezzo-soprano. The Priest's part is written for a baritone, while the Angel of the Agony is more suited to a bass",
    "note": null,
    "arr": false,
    "est": false
@@ -23897,7 +23897,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo cello, 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, timpani, and strings, The work typically plays for a little under 30 minutes; it has four movements:",
+   "full": "solo cello, 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23915,7 +23915,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo violin, two flutes, two oboes, two clarinets in A, two bassoons, contrabassoon (ad lib), four horns in F, two trumpets in A, three trombones, tuba (ad lib), 3 timpani and strings, Elgar said of the Violin Concerto, \"It's good! Awfully emotional! Too emotional, but I love it.\" Like the vast majority of earlier violin concertos, Elgar's has three movements",
+   "full": "solo violin, two flutes, two oboes, two clarinets in A, two bassoons, contrabassoon (ad lib), four horns in F, two trumpets in A, three trombones, tuba (ad lib), 3 timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -23935,7 +23935,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (3rd doubling piccolo), 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, 3 timpani, percussion (bass drum, cymbals, side drum, triangle and glockenspiel), harp and the string section, At about 20 minutes in performance, In the South was the longest continuous orchestral piece Elgar had written to that date",
+   "full": "3 flutes (3rd doubling piccolo), 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, 3 timpani, percussion (bass drum, cymbals, side drum, triangle and glockenspiel), harp and the string section",
    "note": null,
    "arr": false,
    "est": false
@@ -23973,7 +23973,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 2 trumpets (both in B & C), 3 trombones, tuba, timpani (3), 2 percussionists (first with triangle, tambourine and glockenspiel, second with snare drum, triangle, tambourine, bass drum and cymbals), and strings. Not all these instruments are played in all movements",
+   "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 2 trumpets (both in B & C), 3 trombones, tuba, timpani (3), 2 percussionists (first with triangle, tambourine and glockenspiel, second with snare drum, triangle, tambourine, bass drum and cymbals), and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24013,7 +24013,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes (one doubling piccolo), two oboes and cor anglais, two clarinets and bass clarinet, two bassoons and contrabassoon, four horns, three trumpets, three trombones, tuba, timpani, percussion (including snare drum, bass drum and cymbals), two harps, and strings, It is in four movements:",
+   "full": "three flutes (one doubling piccolo), two oboes and cor anglais, two clarinets and bass clarinet, two bassoons and contrabassoon, four horns, three trumpets, three trombones, tuba, timpani, percussion (including snare drum, bass drum and cymbals), two harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24051,7 +24051,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, two flutes, two oboes, two clarinets in B, two bassoons, four horns, two trumpets in F, two cornets in B, three trombones, tuba, percussion (timpani, tubular bells, cymbals, triangle, and bass drum), and strings, It was inspired by the ballad de Der wilde Jäger (The Wild Hunter) by the German poet Gottfried August Bürger",
+   "full": "piccolo, two flutes, two oboes, two clarinets in B, two bassoons, four horns, two trumpets in F, two cornets in B, three trombones, tuba, percussion (timpani, tubular bells, cymbals, triangle, and bass drum), and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24125,7 +24125,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo piano and an orchestra consisting of 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 cornets, 3 trombones, timpani, triangle, cymbals, and strings. Saint-Saëns also made arrangements of the piece for two pianos and for piano solo, The piano part is highly virtuosic and demands technical brilliance and agility from the performer. The piece features rapid passages, intricate cross-rhythm",
+   "full": "solo piano and an orchestra consisting of 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 cornets, 3 trombones, timpani, triangle, cymbals, and strings. Saint-Saëns also made arrangements of the piece for two pianos and for piano solo",
    "note": null,
    "arr": false,
    "est": false
@@ -24179,7 +24179,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns (2 natural, 2 valved), 2 trumpets (valved), 2 cornets, 3 trombones, tuba, timpani, snare drum, triangle, tambourine, cymbals, bass drum and strings, The work is written in four movements",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns (2 natural, 2 valved), 2 trumpets (valved), 2 cornets, 3 trombones, tuba, timpani, snare drum, triangle, tambourine, cymbals, bass drum and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24271,7 +24271,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, oboe and trumpet—and an orchestra of strings. (Bach's Brandenburg Concerto No. 2 has a fourth solo part, for violin.) The piece is a departure from Barber's previous language, being neither atonal nor polytonal, but written in a contemporary tonal style",
+   "full": "flute, oboe and trumpet—and an orchestra of strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24426,7 +24426,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "1 piccolo, 2 flutes, 2 oboes, 1 cor anglais, 1 clarinet in E, 2 clarinets in B, 1 alto saxophone in E, 1 bass clarinet, 2 bassoons, 1 contrabassoon, Brass: 4 horns in F, 3 trumpets in B (one doubling trumpet in D), 3 trombones, 1 tuba, Keyboards: 1 piano (doubling celesta), Strings, harp, Percussion (four players dividing the following): 1 pair",
+   "full": "1 piccolo, 2 flutes, 2 oboes, 1 cor anglais, 1 clarinet in E, 2 clarinets in B, 1 alto saxophone in E, 1 bass clarinet, 2 bassoons, 1 contrabassoon, Brass: 4 horns in F, 3 trumpets in B (one doubling trumpet in D), 3 trombones, 1 tuba, Keyboards: 1 piano (doubling celesta), Strings, harp, Percussion (four players dividing the following)",
    "note": null,
    "arr": false,
    "est": false
@@ -24446,7 +24446,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, 2 harps, celesta, pianino (upright piano), strings, and solo piano, Structurally, there are two parts, each comprising three sections. Each movement is named after the six sections of Auden's poem, trying to mirror the moods and events in the",
+   "full": "2 flutes, piccolo, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, 2 harps, celesta, pianino (upright piano), strings, and solo piano",
    "note": null,
    "arr": false,
    "est": false
@@ -24485,7 +24485,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, English horn, E clarinet doubling bass clarinet, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, snare drum, bass drum, cymbals, triangle, wood block, and maracas), piano, mezzo-soprano, and strings, A performance lasts about 24 minutes",
+   "full": "2 flutes, piccolo, 2 oboes, English horn, E clarinet doubling bass clarinet, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, snare drum, bass drum, cymbals, triangle, wood block, and maracas), piano, mezzo-soprano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -24713,7 +24713,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, E clarinet, 4 B clarinets, alto clarinet, bass clarinet, 2 bassoons, 2 alto saxophones, tenor saxophone, baritone saxophone, Brass: 4 cornets, 2 trumpets, 4 horns, 3 trombones, euphonium, tuba, Percussion: timpani, bass drum, cymbals, glockenspiel, snare drum, tambourine, triangle, The contrapuntal textures used by Hindemith throughout the symphony highlight many instru",
+   "full": "2 flutes, piccolo, 2 oboes, E clarinet, 4 B clarinets, alto clarinet, bass clarinet, 2 bassoons, 2 alto saxophones, tenor saxophone, baritone saxophone, Brass: 4 cornets, 2 trumpets, 4 horns, 3 trombones, euphonium, tuba, Percussion: timpani, bass drum, cymbals, glockenspiel, snare drum, tambourine, triangle",
    "note": null,
    "arr": false,
    "est": false
@@ -24750,7 +24750,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "solo piano, 2 flutes, 2 oboes (2nd doubling cor anglais), 2 clarinets, 2 bassoons, 2 horns in F, trumpet, 2 violas, 2 cellos, 2 double basses, 3 timpani, The execution time is about 21 minutes",
+   "full": "solo piano, 2 flutes, 2 oboes (2nd doubling cor anglais), 2 clarinets, 2 bassoons, 2 horns in F, trumpet, 2 violas, 2 cellos, 2 double basses, 3 timpani",
    "note": null,
    "arr": false,
    "est": false
@@ -24863,7 +24863,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, oboe, clarinet, horn and bassoon, have the following titles:, fr Cortège (procession), Aubade (dawnsong), fr Jongleurs (jugglers), fr La maousinglade (sarabande), fr Joutes sur l'Arc (jousting on the River Arc), fr Chasse à Valabre (hunting at Valabre), fr Madrigal nocturne (nocturna",
+   "full": "flute, oboe, clarinet, horn and bassoon",
    "note": null,
    "arr": false,
    "est": false
@@ -24919,7 +24919,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "a piccolo, flute, oboe, English horn, B clarinet, bass clarinet, two bassoons and two horns, It consists of three movements with a collective run time of about six minutes:, All three movements use a motivic cell construction, scalar chromatic motion, and predominantly contrary motion between voices",
+   "full": "a piccolo, flute, oboe, English horn, B clarinet, bass clarinet, two bassoons and two horns",
    "note": null,
    "arr": false,
    "est": false
@@ -25086,7 +25086,7 @@
    "req": [
     "oboe"
    ],
-   "full": "3 flutes (one doubling piccolo), 3 oboes, 3 clarinets, 3 bassoons (one doubling contrabassoon), 4 horns in F, 3 trumpets in C, 3 trombones, tuba, 2 sets of timpani, and strings, The symphony's four movements are played without breaks – attacca subito (literally \"join quickly; suddenly\")",
+   "full": "3 flutes (one doubling piccolo), 3 oboes, 3 clarinets, 3 bassoons (one doubling contrabassoon), 4 horns in F, 3 trumpets in C, 3 trombones, tuba, 2 sets of timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25254,7 +25254,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo (doubling 3rd flute), 2 flutes, 2 oboes, cor anglais, 2 clarinets (1st doubling E clarinet), 2 bassoons, contrabassoon (doubling 3rd bassoon), 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, snare drum, suspended cymbal played with snare drum sticks, triangle, and bells), harp, organ, and strings, The music is in three movements:, The first movement, The Death of Andrei, focus",
+   "full": "piccolo (doubling 3rd flute), 2 flutes, 2 oboes, cor anglais, 2 clarinets (1st doubling E clarinet), 2 bassoons, contrabassoon (doubling 3rd bassoon), 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, snare drum, suspended cymbal played with snare drum sticks, triangle, and bells), harp, organ, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25348,7 +25348,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes, piccolo, two oboes, cor anglais, three clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, percussion (three players: cymbals, tam-tam, triangle, bass drum, side drum), harp, piano, and strings, The symphony is in three movements:, The symphony begins in the dark key of E minor and progresses to the bright sound of E major at the close of the finale",
+   "full": "two flutes, piccolo, two oboes, cor anglais, three clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, percussion (three players: cymbals, tam-tam, triangle, bass drum, side drum), harp, piano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25368,7 +25368,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes, piccolo, three oboes, cor anglais, three clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, percussion (triangle, wood block, tambourine, side drum, bass drum, cymbals, tam-tam), piano, and strings, The symphony has four movements:",
+   "full": "three flutes, piccolo, three oboes, cor anglais, three clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, percussion (triangle, wood block, tambourine, side drum, bass drum, cymbals, tam-tam), piano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25476,7 +25476,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and strings, The symphony has four movements",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25512,7 +25512,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, timpani and strings. From the 1878 revision onwards, a single bass tuba is also incorporated into the instrumentation. The published score of 1889 introduces a part for third flute (doubling on the piccolo) and a pair of cymbals",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, timpani and strings. From the 1878 revision onwards, a single bass tuba is also incorporated into the instrumentation",
    "note": null,
    "arr": false,
    "est": false
@@ -25530,7 +25530,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones and one bass tuba along with timpani and strings. The tuba was added in 1878 (the same year Bruckner added one to his Fourth Symphony). See versions below",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones and one bass tuba along with timpani and strings. The tuba was added in 1878 (the same year Bruckner added one to his Fourth Symphony)",
    "note": null,
    "arr": false,
    "est": false
@@ -25584,7 +25584,7 @@
    "req": [
     "oboe"
    ],
-   "full": "three flutes, a piccolo in the climax of the Adagio, three oboes, three clarinets, three bassoons, three trumpets, three trombones, four Wagner tubas, one contrabass tuba, timpani, cymbals, triangle, three harps, and strings. The third part of each woodwind only appear in the Finale, while the third bassoon also doubles as contrabassoon in the Finale. Horns 5 to 8 also only appear in the Finale. T",
+   "full": "three flutes, a piccolo in the climax of the Adagio, three oboes, three clarinets, three bassoons, three trumpets, three trombones, four Wagner tubas, one contrabass tuba, timpani, cymbals, triangle, three harps, and strings. The third part of each woodwind only appear in the Finale, while the third bassoon also doubles as contrabassoon in the Finale. Horns 5 to 8 also only appear in the Finale",
    "note": null,
    "arr": false,
    "est": false
@@ -25602,7 +25602,7 @@
    "req": [
     "oboe"
    ],
-   "full": "three flutes, three oboes, three clarinets in B and A, three bassoons, three trumpets in F, three trombones, eight horns (5th to 8th doubling Wagner tubas), one contrabass tuba, timpani and strings, Performing time, Movements 1–3: ca. 55–65 min. (1: 535 bars, 2: 512 bars, 3: 243 bars), Movement 4 (completions by others):, William Carragan: ca. 22 minutes (717 bars), Nors S. Josephson (1992): ca. 2",
+   "full": "three flutes, three oboes, three clarinets in B and A, three bassoons, three trumpets in F, three trombones, eight horns (5th to 8th doubling Wagner tubas), one contrabass tuba, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25620,7 +25620,7 @@
    "req": [
     "oboe"
    ],
-   "full": "a two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and strings, It has four movements:",
+   "full": "a two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25769,7 +25769,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes, three oboes, one English horn, three clarinets in B-flat and A, one bass clarinet in B-flat and A, three bassoons, one contrabassoon; four horns in F, three trumpets in F, three trombones, one tuba, 6 onstage trumpets in F, 6 onstage trombones; a percussion section that includes four timpani (requiring two players), tenor drums, 4 onstage church bells, one onstage thunder machine; tw",
+   "full": "three flutes, three oboes, one English horn, three clarinets in B-flat and A, one bass clarinet in B-flat and A, three bassoons, one contrabassoon; four horns in F, three trumpets in F, three trombones, one tuba, 6 onstage trumpets in F, 6 onstage trombones; a percussion section that includes four timpani (requiring two players), tenor drums, 4 onstage church bells",
    "note": null,
    "arr": false,
    "est": false
@@ -25807,7 +25807,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani and strings, Schumann had an eager interest in the tradition of German-language opera, by his time having a well-established pedigree in the works of Mozart and Weber",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25879,7 +25879,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, ophicleide (sometimes replaced by a tuba), timpani, cymbals, bass drum, triangle, harp, and strings, Peter Ostwald in his biography Schumann: The Inner Voices of a Musical Genius records that Schumann \"confided to a friend that 'while writing Paradise and the Peri a voice occasionally whispered to me \"what you a",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, ophicleide (sometimes replaced by a tuba), timpani, cymbals, bass drum, triangle, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25897,7 +25897,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo piano, pairs of flutes, oboes, clarinets in B, bassoons, horns, trumpets and timpani, and strings, The work consists of two movements:",
+   "full": "solo piano, pairs of flutes, oboes, clarinets in B, bassoons, horns, trumpets and timpani, and strings",
    "note": null,
    "arr": false,
    "est": true
@@ -25951,7 +25951,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets (in B ), two bassoons, two French horns (in C), two trumpets (in C), three trombones (alto, tenor, and bass), timpani, and strings, A typical performance lasts between 35 and 40 minutes, The symphony is written in the traditional four-movement form, and as often in the nineteenth century the Scherzo precedes the Adagio",
+   "full": "two flutes, two oboes, two clarinets (in B ), two bassoons, two French horns (in C), two trumpets (in C), three trombones (alto, tenor, and bass), timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -25969,7 +25969,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and the usual strings, The 1851 (published) version of the work is in four movements which follow each other without pause:, {{ordered list, 450px|page, 734|Romanze: Ziemlich langsam (A minor–A major), 450px|page=735|Scherzo: Lebhaft (D minor), [[File:Orchesterwerke Romantik Themen.pdf|45",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, timpani, and the usual strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26059,7 +26059,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, double bassoon, serpent, 2 horns, 3 trumpets, timpani and strings, the piece is programmatic for its reference of the two poems by Goethe",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, double bassoon, serpent, 2 horns, 3 trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26077,7 +26077,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani and strings, Performances of the overture typically last between 10½ and 11 minutes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26131,7 +26131,7 @@
    "req": [
     "oboe"
    ],
-   "full": "timpani, triangle, cymbals) in the second movement. No. 8 exists in two forms: the original for string orchestra, and an arrangement that Mendelssohn wrote that added woodwinds, brass, and timpani. The work is scored for two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani in D and A, and strings. (A typical performance lasts half an hour), Symphonies 1 to 7 are the",
+   "full": "timpani, triangle, cymbals) in the second movement. the original for string orchestra, and an arrangement that Mendelssohn wrote that added woodwinds, brass, and timpani. The work is scored for two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani in D and A, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26203,7 +26203,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 2 horns in F, 2 trumpets, 3 trombones, timpani, celesta, and strings, Rendering has proved one of Berio's most enduring pieces and has been recorded several times, twice by Chailly alone",
+   "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 2 horns in F, 2 trumpets, 3 trombones, timpani, celesta, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26221,7 +26221,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piano, violin, viola, cello and double bass, According to Schubert's friend Albert Stadler, it was modelled on an arrangement of Johann Nepomuk Hummel's then-popular Septet in D Minor for Flute, Oboe, Horn, Viola, Cello, Bass and Piano, Op. 74",
+   "full": "piano, violin, viola, cello and double bass, According to Schubert's friend Albert Stadler, it was modelled on an arrangement of Johann Nepomuk Hummel's then-popular Septet in D Minor for Flute, Oboe, Horn, Viola, Cello, Bass and Piano",
    "note": null,
    "arr": false,
    "est": false
@@ -26257,7 +26257,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, 2 oboes, 2 bassoons, 2 horns in C, 2 trumpets in C, timpani and strings, The first movement begins with an Adagio introduction of 20 measures",
+   "full": "flute, 2 oboes, 2 bassoons, 2 horns in C, 2 trumpets in C, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26329,7 +26329,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 French horns, 2 trumpets, timpani, and a string section, Beethoven's own patriotic motivation is illustrated in the following letter he wrote about his participation in a charity concert for the soldiers of the preceding war:, {| style=\"width: 95%;\", It was a rare assembly of outstanding artists, in which each one, inspired by the sole thought of contr",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 French horns, 2 trumpets, timpani, and a string section",
    "note": null,
    "arr": false,
    "est": false
@@ -26455,7 +26455,7 @@
    "req": [
     "oboe"
    ],
-   "full": "one piccolo, two flutes, two oboes, two clarinets, two bassoons, one contrabassoon, four horns, two trumpets, two trombones, timpani, and strings. There is also an offstage trumpet",
+   "full": "one piccolo, two flutes, two oboes, two clarinets, two bassoons, one contrabassoon, four horns, two trumpets, two trombones, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26527,7 +26527,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets in A, two bassoons, two horns in D, E and A, two trumpets in D (first, third and fourth movements only), timpani (first, third and fourth movements only) and strings, Ferdinand Ries, working under Beethoven, made a transcription of the entire symphony for piano trio which bears the same opus number. Johann Nepomuk Hummel also made a transcription for a piano qu",
+   "full": "two flutes, two oboes, two clarinets in A, two bassoons, two horns in D, E and A, two trumpets in D (first, third and fourth movements only), timpani (first, third and fourth movements only) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26545,7 +26545,7 @@
    "req": [
     "oboe"
    ],
-   "full": "one flute, two oboes, two soprano clarinets in B, two bassoons, two horns in B and E, two trumpets in B and E, timpani and strings. It typically takes between 30 and 35 minutes to perform",
+   "full": "one flute, two oboes, two soprano clarinets in B, two bassoons, two horns in B and E, two trumpets in B and E, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26563,7 +26563,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets in B, two bassoons, two horns in F (in B basso for the second movement), two trumpets in F, timpani, and strings, It is approximately 25 minutes in duration",
+   "full": "two flutes, two oboes, two clarinets in B, two bassoons, two horns in F (in B basso for the second movement), two trumpets in F, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26601,7 +26601,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two clarinets in B, two horns in E, in F for the second movement, and strings. Later, Mozart re-scored the piece for a wind ensemble of pairs of oboes, clarinets, cor anglais, bassoons, horns and strings, although most performances use the earlier version. It is set in four movements:, All four movements are relatively short, beginning with a breezy Allegro, an Andante, a relatively traditional mi",
+   "full": "two clarinets in B, two horns in E, in F for the second movement, and strings. Later, Mozart re-scored the piece for a wind ensemble of pairs of oboes, clarinets, cor anglais, bassoons, horns and strings",
    "note": null,
    "arr": false,
    "est": true
@@ -26619,7 +26619,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two horns in D (and C and F), bassoon, mainly it colla parte with double bass, harpsichord and strings. It consists of seventeen movements, with several lasting less than one minute:, A galimatias is a term for nonsense, gobbledygook, a hodgepodge. Not all instruments feature in every movement. No. 8, molto adagio, contains the lyrics, de Eitelkeit! Eitelkeit! Ewig's Verderben! Wenn all",
+   "full": "two oboes, two horns in D (and C and F), bassoon, mainly it colla parte with double bass, harpsichord and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26673,7 +26673,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo oboe, solo clarinet, solo horn in E, solo bassoon, and an orchestra of two horns, two oboes, and strings. A typical performance lasts about 30 minutes",
+   "full": "solo oboe, solo clarinet, solo horn in E, solo bassoon, and an orchestra of two horns, two oboes, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -26691,7 +26691,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 horns in G and C, and strings; performances tend to include bassoons (always in unison with the cellos except for significant passages in the Adagio), which were part of Michael Haydn's original score but left out by Mozart, and a harpsichord playing figured bass, based on the cello line",
+   "full": "2 oboes, 2 horns in G and C, and strings. which were part of Michael Haydn's original score but left out by Mozart, and a harpsichord playing figured bass, based on the cello line",
    "note": null,
    "arr": false,
    "est": false
@@ -26925,7 +26925,7 @@
    "req": [
     "oboe"
    ],
-   "full": "one flute, two oboes, two bassoons, two horns in D, solo double bass, bass singer, and strings, The piece is in two sections; a slow 6/8 andante, finishing with an allegro in common time",
+   "full": "one flute, two oboes, two bassoons, two horns in D, solo double bass, bass singer, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27051,7 +27051,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two natural horns in C, solo flute, solo harp, and strings, The soloists in the piece will sometimes play with the orchestra, and at other times perform as a duo while the orchestra is resting",
+   "full": "two oboes, two natural horns in C, solo flute, solo harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27087,7 +27087,7 @@
    "req": [
     "oboe"
    ],
-   "full": "solo violin, solo viola, two oboes, two natural horns, and strings, the last including a divided viola section, which accounts for the work's rich harmony, The solo viola part is written in D major instead of E major, and the instrument is tuned a semitone sharper (scordatura technique), to give a more brilliant tone due to added tension on the instrument. This technique is less common when perfor",
+   "full": "solo violin, solo viola, two oboes, two natural horns, and strings, the last including a divided viola section",
    "note": null,
    "arr": false,
    "est": false
@@ -27123,7 +27123,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 violins, \"Bassi\", 2 oboes, 2 horns, 2 trumpets, timpani, 3 trombones (which reinforce the alto, tenor and bass choral parts) and organ. In most modern performances several players are used for some of the orchestral parts. Notable is the lack of violas, typical of music written for Salzburg, and the vague name \"basses\" for the stave shared by organ, bassoon (specified only in the Credo), cello a",
+   "full": "2 violins, \"Bassi\", 2 oboes, 2 horns, 2 trumpets, timpani, 3 trombones (which reinforce the alto, tenor and bass choral parts) and organ. typical of music written for Salzburg, and the vague name \"basses\" for the stave shared by organ, bassoon (specified only in the Credo), cello a",
    "note": null,
    "arr": false,
    "est": false
@@ -27141,7 +27141,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes (or 2 flutes), bassoon, 2 natural horns in F, organ, 1st and 2nd violins and violas, cello, and double bass, The occasionally divided viola section gives the orchestra a richer sound. This is something Mozart did more often, for example in his Sinfonia Concertante KV 364 in E-flat major for violin, viola and orchestra",
+   "full": "2 oboes (or 2 flutes), bassoon, 2 natural horns in F, organ, 1st and 2nd violins and violas, cello, and double bass, The occasionally divided viola section gives the orchestra a richer sound",
    "note": null,
    "arr": false,
    "est": false
@@ -27195,7 +27195,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons. Fiordiligi's aria \"Per pietà, ben mio, perdona\", act 2, contains a rare instance of clarinets in B-natural (key of the aria is E major which transposes to F major for the clarinet part, explaining the use of B clarinets). In most modern editions this is made into a part for A clarinets. The NMA keeps the notation for the B clarinet. There is evidence tha",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons. Fiordiligi's aria \"Per pietà, ben mio, perdona\", act 2, contains a rare instance of clarinets in B-natural (key of the aria is E major which transposes to F major for the clarinet part, explaining the use of B clarinets)",
    "note": null,
    "arr": false,
    "est": false
@@ -27213,7 +27213,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two horns, two trumpets, three trombones (at the end of act 2 only, alto, tenor, bass), timpani, basso continuo for the recitatives, and the usual string section. The composer also specified occasional special musical effects. For the ballroom scene at the end of the first act, Mozart calls for two onstage ensembles to play separate dance music in synchronization with the pit orchestra, each of th",
+   "full": "two horns, two trumpets, three trombones (at the end of act 2 only, alto, tenor, bass), timpani, basso continuo for the recitatives, and the usual string section",
    "note": null,
    "arr": false,
    "est": true
@@ -27231,7 +27231,7 @@
    "req": [
     "oboe"
    ],
-   "full": "pairs of flutes, oboes, clarinets, bassoons, horns, trumpets, a set of two timpani, and strings. They are augmented with the instruments needed for \"Turkish\" music: a 'tamburo grande' (or 'tamburo turco'), cymbals, triangles, and piccolo. The aria \" de Traurigkeit ward mir zum Lose italic, no \" is augmented by two basset horns, The orchestra for the premiere included a number of eminent musicians ",
+   "full": "pairs of flutes, oboes, clarinets, bassoons, horns, trumpets, a set of two timpani, and strings. a 'tamburo grande' (or 'tamburo turco'), cymbals, triangles, and piccolo. The aria \" de Traurigkeit ward mir zum Lose italic, no \" is augmented by two basset horns",
    "note": null,
    "arr": false,
    "est": true
@@ -27249,7 +27249,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, piccolo (only in the storm of act 2), 2 oboes, 2 clarinets, 2 bassoons. B clarinets (an instrument that is now obsolete) are used in No. 15 (pp. 283ff in NMA) and No. 19 (pp. 352ff), Brass: 4 horns (in D, in C, in B-flat (alto)/in B ( de hoch ), in G), 2 trumpets in D, 3 trombones (only accompanying the off-stage voice of Neptune in act 3), Percussion: timpani in D and in A, Basso contin",
+   "full": "2 flutes, piccolo (only in the storm of act 2), 2 oboes, 2 clarinets, 2 bassoons. 19 (pp. 352ff), Brass: 4 horns (in D, in C, in B-flat (alto)/in B ( de hoch ), in G), 2 trumpets in D, 3 trombones (only accompanying the off-stage voice of Neptune in act 3), Percussion: timpani in D and in A, Basso contin",
    "note": null,
    "arr": false,
    "est": false
@@ -27267,7 +27267,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes (one doubling on piccolo), two oboes, two clarinets (doubling basset horns), two bassoons, two horns, two trumpets, three trombones (alto, tenor, and bass), timpani and strings. It also requires a four-part chorus for several numbers (notably the finales of each act). Mozart also called for a it stromento d'acciaio (instrument of steel) to perform Papageno's magic bells. This instrument",
+   "full": "two flutes (one doubling on piccolo), two oboes, two clarinets (doubling basset horns), two bassoons, two horns, two trumpets, three trombones (alto, tenor, and bass), timpani and strings. It also requires a four-part chorus for several numbers (notably the finales of each act). Mozart also called for a it stromento d'acciaio (instrument of steel) to perform Papageno's magic bells",
    "note": null,
    "arr": false,
    "est": false
@@ -27285,7 +27285,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two clarini, timpani, and strings; the recitativi secchi are accompanied by a keyboard instrument, usually a fortepiano or a harpsichord, often joined by a cello. The instrumentation of the recitativi secchi is not given in the score, so it is up to the conductor and the performers. A typical performance lasts around three hours",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two clarini, timpani, and strings; the recitativi secchi are accompanied by a keyboard instrument, usually a fortepiano or a harpsichord, often joined by a cello",
    "note": null,
    "arr": false,
    "est": false
@@ -27303,7 +27303,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes and two horns. It is set in seven movements:, The work begins with a Marche (the French spelling here and in the fourth and fifth movements is Leopold's) full of busy triplets, and with the second half beginning in the relative minor. This is followed by a dashing Allegro with brilliant and often antiphonal violin parts, and some wide leaps of over an octave; by a gentle Andante (in C) f",
+   "full": "two oboes and two horns",
    "note": null,
    "arr": false,
    "est": false
@@ -27321,7 +27321,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 horns and trumpets in D and strings (with the addition of cellos and timpani in D and A for the march). It is set in eight movements:, The first of the eight movements that follow the introductory march is an Allegro in D. The three central movements are an Andante, a minuet in G for strings only (with a trio in D) and another Allegro all feature both oboe and horn as prominent soloists",
+   "full": "2 oboes, 2 horns and trumpets in D and strings (with the addition of cellos and timpani in D and A for the march)",
    "note": null,
    "arr": false,
    "est": false
@@ -27339,7 +27339,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes (doubling flutes), bassoon, two horns, two trumpets and strings, There are eight movements:, The March in D, K. 237/189c, was used as an introduction or exit for this work, The second, third and fourth movements all feature the solo violin prominently, forming a three-movement violin concerto within the serenade",
+   "full": "two oboes (doubling flutes), bassoon, two horns, two trumpets and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27429,7 +27429,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 horns, bassoon, strings, and continuo, The symphony is in four movements, the second of which is scored for strings alone",
+   "full": "2 oboes, 2 horns, bassoon, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -27447,7 +27447,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes (2nd movement only), two horns in A, strings (with divided violas in the first and second movements), and continuo, It has four movements:, \\relative c {, \\tempo \"Allegro moderato\", \\key a \\major, \\time 2/2, b4 e, a2( gis4) r |, a4 e' \\appoggiatura d8 cis4 b8( a) |, }",
+   "full": "two flutes, two oboes (2nd movement only), two horns in A, strings (with divided violas in the first and second movements), and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -27483,7 +27483,7 @@
    "req": [
     "oboe"
    ],
-   "full": "one flute, two oboes, two horns, two trumpets and strings, There are four movements:, The first movement, in D major and time, is written in sonata allegro form, with the notable deviation of the recapitulation being the mirror image of the exposition",
+   "full": "one flute, two oboes, two horns, two trumpets and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27537,7 +27537,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets and strings, The symphony has three movements:, \\relative c' {, \\tempo \"Molto presto\", \\key es \\major, 4\\f, }",
+   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27555,7 +27555,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes; 2 horns in C and F; 2 trumpets in C, silent in the second movement; and strings, It is written in four movements:, \\relative c {, \\override Score.NonMusicalPaperColumn #'line-break-permission ##f, \\tempo \"Allegro spiritoso\" 4, 144, \\time 3/4, f8.\\trill( e32 f g8) f-. e-. d-. |, e8.\\trill( d32 e f8) e-. d-. c-. |, }",
+   "full": "2 oboes; 2 horns in C and F; 2 trumpets in C, silent in the second movement; and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27591,7 +27591,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons, 2 horns, 2 trumpets, timpani, and strings. It was Mozart's first symphony to use clarinets, Sadie remarks that this is the largest orchestra for which Mozart had yet composed in his career. The number of string players is (as usual) not specified in the score, but Sadie remarks that at the premiere there were 22 violins, five violas, eight cellos, a",
+   "full": "2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons, 2 horns, 2 trumpets, timpani, and strings. but Sadie remarks that at the premiere there were 22 violins, five violas, eight cellos, a",
    "note": null,
    "arr": false,
    "est": false
@@ -27609,7 +27609,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 2 bassoons, 4 horns, 2 trumpets, strings, and timpani, and is in the form of an Italian overture, consisting of three brief movements that follow one another without break:, The form is not a true Italian overture or a da capo overture",
+   "full": "2 flutes, 2 oboes, 2 bassoons, 4 horns, 2 trumpets, strings, and timpani",
    "note": null,
    "arr": false,
    "est": false
@@ -27627,7 +27627,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two bassoons, two horns, and strings, the smallest orchestral force employed in his last ten symphonies, It has four movements:, The development section of the first movement is based on a theme that does not appear in the exposition: the four-note figure that is the principal theme of the Jupiter Symphony, The order of the first and second subjects in the second movement are reversed i",
+   "full": "two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27645,7 +27645,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani and strings, Although most symphonies have four movements, this symphony has only three, which was still common in the early classical period:, The symphony features the fanfares and flourishes typical of the \"festive symphony\" or \"trumpet symphony\", which is characteristic of Austrian symphonic writing in C major",
+   "full": "2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27663,7 +27663,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani and strings, There are four movements:, Every movement except the minuet is in sonata form, The first movement briefly quotes the famous Hallelujah Chorus from Handel's Messiah in the exposition, The slow movement has a siciliano character and meter which was rare in Mozart's earlier symphonies (only used in one of the slow movements of No. 31)",
+   "full": "2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -27863,7 +27863,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, 2 bassoons, 2 trumpets in C, timpani, strings and organ, the latter supplying figured bass for most of the duration, The setting is divided into six movements, Kyrie Adagio (ossia Largo), C major, common time, \"Kyrie eleison\" Allegro con spirito, C major, common time, \"Christe eleison\" Allegretto, A minor, 3/4, \"Kyrie eleison\" Vivace, C major, common time, Gloria Allegro di molto, C major",
+   "full": "2 oboes, 2 bassoons, 2 trumpets in C, timpani, strings and organ",
    "note": null,
    "arr": false,
    "est": false
@@ -27881,7 +27881,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 oboes, clarinets (a later revision expanded their part), 2 bassoons, 2 trumpets in B-flat, timpani, strings and organ, the latter supplying figured bass for most of the duration, The setting is divided into six movements, Kyrie Adagio - Allegro moderato, B-flat major, 3/4, Gloria Vivace, B-flat major, common time, \"Gratias agimus tibi\" Allegretto, G minor, 3/4, \"Qui tollis peccata mundi\" Più all",
+   "full": "2 oboes, clarinets (a later revision expanded their part), 2 bassoons, 2 trumpets in B-flat, timpani, strings and organ",
    "note": null,
    "arr": false,
    "est": false
@@ -28043,7 +28043,7 @@
    "req": [
     "oboe"
    ],
-   "full": "a chorus singing mostly in four parts, and three vocal soloists, representing archetypal country folk: Simon (bass), Lucas (tenor), and Hanne (soprano). The solo voices are thus the same three as in The Creation, The orchestral parts are for 2 flutes (1st doubling on piccolo in one aria), 2 oboes, 2 clarinets, 2 bassoons and contrabassoon, 4 horns, 3 trumpets, 1 alto trombone, 1 tenor trombone and",
+   "full": "a chorus singing mostly in four parts, and three vocal soloists. The orchestral parts are for 2 flutes (1st doubling on piccolo in one aria), 2 oboes, 2 clarinets, 2 bassoons and contrabassoon, 4 horns, 3 trumpets, 1 alto trombone, 1 tenor trombone",
    "note": null,
    "arr": false,
    "est": false
@@ -28169,7 +28169,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, bassoon, two horns, strings, and continuo, and exhibits many concertante features; indeed, the principal players of each of the string sections have solos, while the winds are given fairly difficult parts, The work is in four movements:, Adagio, – Allegro, Recitativo: Adagio in G major, {{music|time|4|4}",
+   "full": "two flutes, two oboes, bassoon, two horns, strings, and continuo, and exhibits many concertante features; indeed, the principal players of each of the string sections have solos, while the winds are given fairly difficult parts",
    "note": null,
    "arr": false,
    "est": false
@@ -28187,7 +28187,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two solo violins, solo violoncello and a solo violone and the large ensemble contains one flute, two oboes, bassoon, two horns, strings, and harpsichord. Haydn's use of the bassoon and harpsichord is reminiscent of the basso continuo used extensively throughout the Baroque period; however it is not as constantly driving",
+   "full": "two solo violins, solo violoncello and a solo violone and the large ensemble contains one flute, two oboes, bassoon, two horns, strings, and harpsichord. Haydn's use of the bassoon and harpsichord is reminiscent of the basso continuo used extensively throughout the Baroque period",
    "note": null,
    "arr": false,
    "est": false
@@ -28313,7 +28313,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, with a solo for two violas or cello in the trio of the minuet, It has four movements:, The opening movement is more similar to a baroque overture than sonata form though the movement still eludes either of these forms and has a unique character of its own",
+   "full": "two oboes, bassoon, two horns, strings, and continuo, with a solo for two violas or cello in the trio of the minuet",
    "note": null,
    "arr": false,
    "est": false
@@ -28367,7 +28367,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, Although the symphony is in three movements, it has been sometimes categorized as in the sonata da chiesa style due to the presence of an entire opening slow movement",
+   "full": "two oboes, bassoon, two horns, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28385,7 +28385,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, The symphony is homotonal and in three movements:",
+   "full": "two oboes, bassoon, two horns, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28403,7 +28403,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo, It is in four movements:, The winds are silent in the serenade-like second movement with the melody in the first violins, broken chords in the second violins and a pizzicato bassl",
+   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28421,7 +28421,7 @@
    "req": [
     "englishHorn"
    ],
-   "full": "two cors anglais (English horns), two horns, strings, and basso continuo. The use of the cor anglais in place of the (related, but higher-pitched) oboe is more than unusual; indeed McVeigh (2009:386) suggests that it is \"the only symphony in the entire history of the genre to use this scoring\". The horns play a prominent role in all but the second movement, and Haydn's choice of E major may have b",
+   "full": "two cors anglais (English horns), two horns, strings, and basso continuo. The use of the cor anglais in place of the (related, but higher-pitched) oboe is more than unusual",
    "note": null,
    "arr": false,
    "est": false
@@ -28439,7 +28439,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings with continuo, It is in four movements:, The slow movement is scored for strings only and contains numerous five-note 32nd-note slides in the lower strings",
+   "full": "two oboes, bassoon, two horns, and strings with continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28457,7 +28457,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two horns, and strings with continuo, The work is in four movements:, The second movement very likely derives from the Adagio movement of a now lost Flute Concerto in D major, listed in Haydn's Entwurfkatalog",
+   "full": "flute, two oboes, bassoon, two horns, and strings with continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28475,7 +28475,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, and unlike most C major symphonies by Haydn lacks trumpets and timpani, It is in three movements:, Unusually among Haydn's symphonies, this work lacks a slow movement, but it is partially compensated by the slow",
+   "full": "two oboes, bassoon, two horns, strings, and continuo, and unlike most C major symphonies by Haydn lacks trumpets and timpani",
    "note": null,
    "arr": false,
    "est": false
@@ -28493,7 +28493,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, basso continuo, and a string section, It is in three movements, ending with a minuet and trio:",
+   "full": "two oboes, bassoon, two horns, basso continuo, and a string section",
    "note": null,
    "arr": false,
    "est": false
@@ -28529,7 +28529,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings, It is in four movements:, Of the symphony as a whole, the critic Richard Wigmore (n.d.) writes: \"No. 28 is a quirky piece, even by the standards of this experimental period.\"",
+   "full": "two oboes, bassoon, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28547,7 +28547,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings with continuo, The work is in four movements:, In the slow movement, the melody is passed back and forth between the first and second violin parts",
+   "full": "two oboes, bassoon, two horns, and strings with continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28601,7 +28601,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo, The work is in four movements:, The work is one of the few symphonies of the Classical era to place the Minuet second (others include Haydn's 37th and 44th, and his brother Michael's [[Sym",
+   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28655,7 +28655,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, the slow movement features solos for violin and cello, The symphony is in four movements:",
+   "full": "two oboes, bassoon, two horns, strings, and continuo, the slow movement features solos for violin and cello",
    "note": null,
    "arr": false,
    "est": false
@@ -28691,7 +28691,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, trumpets, timpani and strings, with continuo, There are four movements:, The \"Echo\" slow movement is scored for strings only, The trio of the minuet contains a virtuosic solo oboe part that spans the entire range of the in",
+   "full": "two oboes, bassoon, two horns, trumpets, timpani and strings, with continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28709,7 +28709,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, four horns (two in B alto and two in G), and strings (violins divided into two, violas, cellos and double basses), There are four movements:, File:Haydn-39-1-theme.png, The opening movement features a nervously excited main theme interrupt",
+   "full": "two oboes, four horns (two in B alto and two in G), and strings (violins divided into two, violas, cellos and double basses)",
    "note": null,
    "arr": false,
    "est": false
@@ -28727,7 +28727,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two French horns, and strings, The work is in four movements:, Douglas Townsend found the development section of the first movement to be particularly interesting, as he found the string writing to foreshadow Haydn's later symphonies, and he considered the movement \"restless\" which looks forward to Haydn's Sturm und Drang era, The second movement is written in divertimento styl",
+   "full": "two oboes, bassoon, two French horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28745,7 +28745,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two French horns, two trumpets, timpani and strings, The work is in four movements:, The flute appears only in the slow movement where it is featured prominently in several elegant solo passages",
+   "full": "flute, two oboes, bassoon, two French horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28763,7 +28763,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two bassoons, two horns, and strings, The work is in four movements:, The first movement \"is marked by the lively acciaccature that appear in the first bar.\" Generally in this period, the winds were tacet for the slow movement, and here they are silent at first, but they com",
+   "full": "two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28781,7 +28781,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings, Since the nineteenth century it has been referred to by the subtitle Mercury",
+   "full": "two oboes, bassoon, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28799,7 +28799,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns (in E and G), strings, and basso continuo, It is in four movements:, File:Haydn-44-1-theme.png, The piece is typical of Haydn's Sturm und Drang (storm and stress) period",
+   "full": "two oboes, bassoon, two horns (in E and G), strings, and basso continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -28817,7 +28817,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns (in A, F♯ and E), and strings (violins in two sections (four in the final Adagio), violas, cellos and double basses), The turbulent first movement of the work opens in a manner typical of Haydn's Sturm und Drang period",
+   "full": "two oboes, bassoon, two horns (in A, F♯ and E), and strings (violins in two sections (four in the final Adagio), violas, cellos and double basses)",
    "note": null,
    "arr": false,
    "est": false
@@ -28835,7 +28835,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns and strings, The work is written in standard four-movement form:, The key of B major, which is highly unusual in the Classical period, Antony Hodgson, The Music of Joseph Haydn: The Symphonies",
+   "full": "two oboes, bassoon, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28853,7 +28853,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings., it is in four movements:, The opening movement begins with a hammerstroke and a dotted-rhythm fanfare of repeated notes which serves as the first theme for the sonata-form movement",
+   "full": "two oboes, bassoon, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28925,7 +28925,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two horns (B alto, E ), bassoon, and strings, the symphony is in four movements:, Sometimes described as \"a concertante piece featuring the two horns, which are given parts of staggering difficulty.\" The second, slow, movement contains high notes for the first horn (including a written F 6 for horn in E ) and very low notes for the second horn",
+   "full": "two oboes, two horns (B alto, E ), bassoon, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28943,7 +28943,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, continuo (harpsichord) and strings, It has four movements:, The symphony has several distinct features",
+   "full": "two oboes, bassoon, two horns, continuo (harpsichord) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28961,7 +28961,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two horns, timpani, and strings, The work is in four movements:, The second movement is in double variation form, beginning and ending in A major with the second theme in A minor, There are actually two other versions of the Finale",
+   "full": "flute, two oboes, bassoon, two horns, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -28997,7 +28997,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, and strings, It is in four movements:, The second movement is a theme with seven variations",
+   "full": "two oboes, bassoon, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29051,7 +29051,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two French horns, continuo (bassoon, harpsichord), and strings, It is in standard four-movement form:, The opening movement starts off energetically on an upbeat followed by octave drop",
+   "full": "two oboes, two French horns, continuo (bassoon, harpsichord), and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29069,7 +29069,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two French horns, two optional trumpets, timpani, and strings, It has six movements:, The slow introduction to the first movement overture opens with a fanfare similar to the one that opens the 50th symphony which also served as an overture to a stage work",
+   "full": "two oboes, bassoon, two French horns, two optional trumpets, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29087,7 +29087,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two French horns, timpani, and strings, There are four movements:, The opening movement is colorfully orchestrated",
+   "full": "flute, two oboes, two bassoons, two French horns, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29105,7 +29105,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two French horns, and strings, There are four movements:, The first movement contains material which Haydn reworked from an earlier Sinfonia (Overtura) in D, Hob",
+   "full": "flute, two oboes, bassoon, two French horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29141,7 +29141,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two horns, and strings, There are four movements:, The opening of the first movement begins with two lyrical measures played pianissimo followed by a tutti outburst of four chords which is the reverse order of the declamatory question/lyrical answer openings that Haydn had used in recent symphonies such as nos. 44, 46 and 65",
+   "full": "two oboes, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29177,7 +29177,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two bassoons, two horns, and strings, There are four movements:, This is the only symphony where Haydn opens in fast time without a slow introduction, At the end of the second movement, the entire string section is directed to play [[",
+   "full": "two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29195,7 +29195,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, two bassoons, two horns in C basso, two trumpets, timpani and strings, It is in the standard four-movement form:",
+   "full": "two oboes, two bassoons, two horns in C basso, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29231,7 +29231,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two horns and strings, It is in four movements:, After dark string sonorities reminiscent of Sturm und Drang in the slow introduction, the Allegro begins with a very light galante theme which is interrupted periodically by more darkly colored strings",
+   "full": "flute, two oboes, bassoon, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29285,7 +29285,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, bassoon, two horns, and strings, There are four movements:, The first movement opens in standard Italian style with three loud chords followed by a quiet response",
+   "full": "flute, two oboes, bassoon, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29321,7 +29321,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash; but they are all very easy, and without too much concertante &ndash; for the English gentlemen, and I intended to bring them over myself and produce them there: but a certain circumstance hindered that plan, and so I am willing to hand over these 3 Symphonies, It is not known how much Haydn knew of the tastes of English audie",
+   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash",
    "note": null,
    "arr": false,
    "est": false
@@ -29339,7 +29339,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash; but they are all very easy, and without too much concertante &ndash; for the English gentlemen, and I intended to bring them over myself and produce them there: but a certain circumstance hindered that plan, and so I am willing to hand over these 3 Symphonies, Boyer wanted exclusive rights, but Haydn refused, It is not known ",
+   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash",
    "note": null,
    "arr": false,
    "est": false
@@ -29357,7 +29357,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash; but they are all very easy, and without too much concertante &ndash; for the English gentlemen, and I intended to bring them over myself and produce them there: but a certain circumstance hindered that plan, and so I am willing to hand over these 3 Symphonies, It is not known how much Haydn knew of the tastes of English audie",
+   "full": "2 violins, viola, basso, 2 horns, 2 oboes, 1 flute and 1 bassoon &ndash",
    "note": null,
    "arr": false,
    "est": false
@@ -29375,7 +29375,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns and strings, There are four movements:, The second half of the slow second movement is not slow at all and has a tempo more typical of a finale, Much of the minuet is built on \"4 + 2\" six-bar phrases where the final two bars serve as a partial echo of the first four",
+   "full": "flute, two oboes, two bassoons, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29393,7 +29393,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns and strings, The work is in the typical four movements:, The first movement opens with a theme in the cellos accompanied by tremolos in the strings evoking a strong sense of Sturm und Drang",
+   "full": "flute, two oboes, two bassoons, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29411,7 +29411,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns and strings, It is composed of four movements:, In the first and third movements, Haydn explores \"ambiguities of tonality ... which eventually reach their peak of subtlety\" in the first movement of Symphony No. 94",
+   "full": "flute, two oboes, two bassoons, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29447,7 +29447,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns and strings, It is in standard four-movement form:, File:Haydn-83-1-theme.png, The symphony opens in stormy G minor with the minor triad further intensified by the added dissonance of the C",
+   "full": "flute, two oboes, two bassoons, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29465,7 +29465,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, and strings, It is in standard four-movement form:, The slow second movement is a hybrid between ternary and variation form",
+   "full": "flute, two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29483,7 +29483,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, and strings, It is in standard four-movement form, The first movement contains a reference to Symphony No. 45 “Farewell”",
+   "full": "flute, two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29519,7 +29519,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, and strings, It is in standard four-movement form:, The trio of the Minuet prominently features the solo oboe which rises to a high E",
+   "full": "flute, two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29537,7 +29537,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani, continuo (harpsichord) and strings, It is in standard four-movement form:, The first movement begins with a brief introduction which quickly settles to the dominant chord to prepare for the main body of the movement",
+   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani, continuo (harpsichord) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29555,7 +29555,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns and strings, It is in standard four-movement form:, The first movement opens with five forte staccato chords followed by a flowing piano melody",
+   "full": "flute, two oboes, two bassoons, two horns and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29573,7 +29573,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani, continuo (harpsichord) and strings, It is in standard four-movement form:, The second movement is in double variation form with a corresponding theme in F minor and consisting of instrument solos for each variation of the first theme, The finale contains one of Haydn's more famous jokes",
+   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani, continuo (harpsichord) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29627,7 +29627,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings, The work is in standard four-movement form:",
+   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29645,7 +29645,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani and strings, It is in standard four-movement form:, The first movement opens with the main theme, which consists of two contrasting parts—the first is strong in character and the second is more lyrical",
+   "full": "flute, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29663,7 +29663,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings, It is in standard four-movement form:",
+   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29681,7 +29681,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings, It is in standard four movement form:, The symphony begins with a slow introduction which deliberately avoids establishing C major",
+   "full": "two flutes, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29699,7 +29699,7 @@
    "req": [
     "oboe"
    ],
-   "full": "one flute, two oboes, two bassoons, two horns, two trumpets, timpani, strings, and cembalo. At the symphony’s premiere, Haydn likely played the cembalo part on a fortepiano, but in many modern performances the part is played on a harpsichord, which is what the German word cembalo means. The cembalo part is only scored for a brief solo in the fourth movement, but Haydn would have conducted the prem",
+   "full": "one flute, two oboes, two bassoons, two horns, two trumpets, timpani, strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29735,7 +29735,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani and strings, The work is in standard four-movement form:",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29771,7 +29771,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, and strings, It is in standard four-movement form:",
+   "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -29789,7 +29789,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns in B alto, strings, and continuo, The symphony has three movements:",
+   "full": "two oboes, bassoon, two horns in B alto, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -29807,7 +29807,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two oboes, bassoon, two horns, strings, and continuo, The work has four movements:, The trio of the minuet contains a dialogue between solo viola and solo bassoon",
+   "full": "two oboes, bassoon, two horns, strings, and continuo",
    "note": null,
    "arr": false,
    "est": false
@@ -29887,7 +29887,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes (the third doubling piccolo); two oboes, English horn; two clarinets in B-flat; bass clarinet in B-flat, two bassoons; four French horns in F; three trumpets in F; three tenor trombones; bass trombone; a percussion section with timpani, cymbals, triangle, snare drum, bass drum, bells, tam-tam, Japanese gong, and 4 \"Japanese Bells\"; keyboard glockenspiel; onstage \"little bell\"; onstage",
+   "full": "three flutes (the third doubling piccolo); two oboes, English horn; two clarinets in B-flat; bass clarinet in B-flat, two bassoons; four French horns in F; three trumpets in F; three tenor trombones; bass trombone; a percussion section with timpani, cymbals, triangle, snare drum, bass drum, bells, tam-tam, Japanese gong, and 4 \"Japanese Bells\"; keyboard glockenspiel; onstage \"little bell\"",
    "note": null,
    "arr": false,
    "est": false
@@ -29965,7 +29965,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso, timpani, bass drum, cymbals, percussion, 2 harps, and strings, The \"characters\" in the critical edition are designated as the \"Coro di Popolo\" (Chorus of People of all nations) and the tenor soloist is \"Un Bardo\" (a poet) (\"A Voice Among Them\")",
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso, timpani, bass drum, cymbals, percussion, 2 harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -30266,7 +30266,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes (fl. 2 doubling piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, harp, cimbasso, timpani, cymbals, bass drum, triangle, strings, Banda: Verdi did not fully orchestrate the parts of the on-stage band, but rather composed it in the style of a piano reduction, leaving the actual realization to the person in charge of the band. Over the years many versions were cr",
+   "full": "2 flutes (fl. 2 doubling piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, harp, cimbasso, timpani, cymbals, bass drum, triangle, strings, Banda: Verdi did not fully orchestrate the parts of the on-stage band, but rather composed it in the style of a piano reduction",
    "note": null,
    "arr": false,
    "est": false
@@ -30489,7 +30489,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes and piccolo, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings, and solo piano, The work consists of three movements, typically lasting about 28 minutes in total:",
+   "full": "2 flutes and piccolo, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings, and solo piano",
    "note": null,
    "arr": false,
    "est": false
@@ -30661,7 +30661,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, two flutes, two oboes, English Horn, two clarinets, bass clarinet, two bassoons, four French Horns, three trumpets, three trombones, tuba, timpani, military drum, cymbals, tam-tam, bass drum, bells, xylophone, harp, piano, and strings, During one of Khachaturian's numerous revisions of the symphony, he swapped places of the inner two movements. {{cite book|last1Woodstra|first1, Chris|last",
+   "full": "piccolo, two flutes, two oboes, English Horn, two clarinets, bass clarinet, two bassoons, four French Horns, three trumpets, three trombones, tuba, timpani, military drum, cymbals, tam-tam, bass drum, bells, xylophone, harp, piano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -30771,7 +30771,7 @@
    "req": [
     "oboe"
    ],
-   "full": "a piccolo, two flutes, two oboes, two clarinets in B and A (doubling on the piccolo clarinet and clarinet in D), two bassoons, four horns in F, two trumpets in D, three trombones, timpani, bass drum, cymbals, triangle, glockenspiel, harp, and strings, and is raised by a semitone to D minor / G major",
+   "full": "a piccolo, two flutes, two oboes, two clarinets in B and A (doubling on the piccolo clarinet and clarinet in D), two bassoons, four horns in F, two trumpets in D, three trombones, timpani, bass drum, cymbals, triangle, glockenspiel, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -30831,7 +30831,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 2 harps and strings, Especially noteworthy is Orpheus's instrumentation, which includes two harps; their representation of Orpheus's lyre in the opening 14 bars immediately focuses the listener's attention on this instrument. Harpist Jeanne Pohl, one of the new virtuoso players broug",
+   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 2 harps and strings, Especially noteworthy is Orpheus's instrumentation, which includes two harps",
    "note": null,
    "arr": false,
    "est": false
@@ -30867,7 +30867,7 @@
    "req": [
     "oboe"
    ],
-   "full": "flutes, oboes, clarinets, bassoons, and horns, The Fauré scholar Jean-Michel Nectoux writes that the Pavane has become one of the composer's best-known pieces, and \"there will be few to deny that it is one of the most attractive of his lesser works: the flute theme, once heard, is not easily forgotten\"",
+   "full": "flutes, oboes, clarinets, bassoons, and horns",
    "note": null,
    "arr": false,
    "est": true
@@ -30922,7 +30922,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes (the third doubling piccolo), two oboes (the first doubling cor anglais), two clarinets in B and A, two bassoons, four French horns in F (third and fourth also in E), two trumpets in F, piccolo trumpet in D, three trombones, tuba, timpani, and strings, Like César Franck's Symphony, Dukas' is in three movements rather than the conventional four:, {{Ordered list|type=upper-roman, Allegr",
+   "full": "three flutes (the third doubling piccolo), two oboes (the first doubling cor anglais), two clarinets in B and A, two bassoons, four French horns in F (third and fourth also in E), two trumpets in F, piccolo trumpet in D, three trombones, tuba, timpani, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -30980,7 +30980,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets in B, bass clarinet, 3 bassoons, 4 horns in F, 4 trumpets, 3 trombones, tuba, 3 timpani, 2 harps and strings, The symphony follows the three-movement form as established by Chausson's teacher and mentor César Franck, it also employs the cyclic form of recurring themes, The first movement follows a personal adaptation of sonata-form, dividing the",
+   "full": "2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets in B, bass clarinet, 3 bassoons, 4 horns in F, 4 trumpets, 3 trombones, tuba, 3 timpani, 2 harps and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31137,7 +31137,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes (second doubling piccolo), 2 oboes (second doubling cor anglais), 2 clarinets (second doubling bass clarinet), 2 bassoons (second doubling contrabassoon), 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 3 percussionists (vibraphone, xylophone, suspended cymbal, bass drum, castanets, snare drum), celesta, harp, and strings, The three movements are:",
+   "full": "2 flutes (second doubling piccolo), 2 oboes (second doubling cor anglais), 2 clarinets (second doubling bass clarinet), 2 bassoons (second doubling contrabassoon), 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 3 percussionists (vibraphone, xylophone, suspended cymbal, bass drum, castanets, snare drum), celesta, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31157,7 +31157,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piano solo, with two flutes, piccolo, two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, two percussion (tambourine, cymbals, side drum, bass drum, glockenspiel, xylophone) and strings, There are three movements:",
+   "full": "piano solo, with two flutes, piccolo, two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, two percussion (tambourine, cymbals, side drum, bass drum, glockenspiel, xylophone) and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31194,7 +31194,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes (second doubling piccolo), 2 oboes, 2 clarinets in B, bass clarinet in B, bassoon, 4 horns in F, 2 trumpets in B, percussion (glockenspiel, marimba, tubular bells, large cymbal, small cymbals, tabors, suspended cymbals, gong, jingles, side-drum, triangle, and church bells), piano and strings, with mixed chorus, The film included Shakespeare's song \"Tell Me Where is Fancy Bred\", imported f",
+   "full": "2 flutes (second doubling piccolo), 2 oboes, 2 clarinets in B, bass clarinet in B, bassoon, 4 horns in F, 2 trumpets in B, percussion (glockenspiel, marimba, tubular bells, large cymbal, small cymbals, tabors, suspended cymbals, gong, jingles, side-drum, triangle, and church bells), piano and strings, with mixed chorus",
    "note": null,
    "arr": false,
    "est": false
@@ -31214,7 +31214,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "3 flutes (two doubling piccolo), 2 oboes, 1 cor anglais, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, harpsichord and strings, In 1946, HMV recorded excerpts from the film script, spoken by Laurence Olivier, who had directed and starred in the film",
+   "full": "3 flutes (two doubling piccolo), 2 oboes, 1 cor anglais, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, harpsichord and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31232,7 +31232,7 @@
    "req": [
     "oboe"
    ],
-   "full": "Two flutes (second doubling piccolo), one or two oboes, two clarinets, one or two bassoons, four horns, two trumpets, three trombones, tuba, timpani, percussion (side drum, cymbals, bell), harp, and strings. A note in the score reads: \"Optional 2nd oboe and 2nd bassoon parts have been added by Vilém Tauský, with the composer's authorization.\", The work takes about eight minutes to perform",
+   "full": "Two flutes (second doubling piccolo), one or two oboes, two clarinets, one or two bassoons, four horns, two trumpets, three trombones, tuba, timpani, percussion (side drum, cymbals, bell), harp, and strings. \"Optional 2nd oboe and 2nd bassoon parts have been added by Vilém Tauský",
    "note": null,
    "arr": false,
    "est": false
@@ -31269,7 +31269,7 @@
    "req": [
     "oboe"
    ],
-   "full": "three flutes, three oboes, three clarinets, three bassoons, four horns, three trumpets, three trombones, tuba and percussion comprising timpani, side drum, cymbals, tambourine, castanets, bass drum and gong, Walton held firm views about incidental music for plays, films and broadcasts: \"film music is not good film music if it can be used for any other purpose ... the music should never be heard wi",
+   "full": "three flutes, three oboes, three clarinets, three bassoons, four horns, three trumpets, three trombones, tuba and percussion comprising timpani, side drum, cymbals, tambourine, castanets, bass drum and gong",
    "note": null,
    "arr": false,
    "est": false
@@ -31570,7 +31570,7 @@
    "req": [
     "oboe"
    ],
-   "full": "three flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, one tuba, timpani, three percussionists (snare drum, bass drum, tenor drum, tambourine, cymbals both crash and suspended, tam-tam, tubular bells), harp and strings, The three movements are:",
+   "full": "three flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, one tuba, timpani, three percussionists (snare drum, bass drum, tenor drum, tambourine, cymbals both crash and suspended, tam-tam, tubular bells), harp and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31726,7 +31726,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, three flutes, two oboes, English horn, three clarinets, bass clarinet, two bassoons, double bassoon, four horns, three trumpets, two tenor trombones, bass trombone, euphonium, bass tuba, percussion (timpani, bass drum, tambourine, cymbals, xylophone, and glockenspiel), celesta, piano, two harps, organ and strings, It is in three movements:, The opening movement is noted for its complex or",
+   "full": "piccolo, three flutes, two oboes, English horn, three clarinets, bass clarinet, two bassoons, double bassoon, four horns, three trumpets, two tenor trombones, bass trombone, euphonium, bass tuba, percussion (timpani, bass drum, tambourine, cymbals, xylophone, and glockenspiel), celesta, piano, two harps, organ and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31744,7 +31744,7 @@
    "req": [
     "oboe"
    ],
-   "full": "3 flutes (1 doubling piccolo), 2 oboes, 4 clarinets, 1 bass clarinet, 2 bassoons, 1 double bassoon, 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, bass drum, tenor drum, snare drum, tambourine, cymbals, gong, xylophone, glockenspiel, celesta, and anvil), 2 harps and strings, It is in three movements:, The opening movement begins with a soft bassoon solo which introduces the main melo",
+   "full": "3 flutes (1 doubling piccolo), 2 oboes, 4 clarinets, 1 bass clarinet, 2 bassoons, 1 double bassoon, 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, bass drum, tenor drum, snare drum, tambourine, cymbals, gong, xylophone, glockenspiel, celesta, and anvil), 2 harps and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31863,7 +31863,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "clarinet, as well as the four-fold scoring of the other woodwinds and two of the six horns\". This version was published posthumously in 1952, Original 1909 version, Woodwinds:, Piccolo, 3 Flutes (3rd doubling on 2nd piccolo), 3 Oboes, English horn, Clarinet in D, 3 Clarinets (3rd doubling on contrabass clarinet in A), Bass clarinet, 3 Bassoons, Contrabassoon, Brass:, 6 Horns, 3 Trumpets, 4 Trombon",
+   "full": "clarinet, as well as the four-fold scoring of the other woodwinds and two of the six horns\". Piccolo, 3 Flutes (3rd doubling on 2nd piccolo), 3 Oboes, English horn, Clarinet in D, 3 Clarinets (3rd doubling on contrabass clarinet in A), Bass clarinet, 3 Bassoons, Contrabassoon, Brass:, 6 Horns, 3 Trumpets, 4 Trombon",
    "note": null,
    "arr": false,
    "est": false
@@ -31979,7 +31979,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, 2 oboes, 4 clarinets, 2 bassoons, 3 saxophones, 2 horns, 2 trumpets, 3 trombones, tuba, percussion, mandolin, guitar, harp, piano, celesta, and strings, A performance lasts for about one hour. It contains music for flexatone",
+   "full": "2 flutes, 2 oboes, 4 clarinets, 2 bassoons, 3 saxophones, 2 horns, 2 trumpets, 3 trombones, tuba, percussion, mandolin, guitar, harp, piano, celesta, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -31997,7 +31997,7 @@
    "req": [
     "oboe"
    ],
-   "full": "1 flute (doubling piccolo), 1 oboe, 2 clarinets, 1 bassoon, Brass, 2 French horns, 2 trumpets, 1 trombone, Percussion, timpani, bass drum, snare drum, tam-tam, triangle, tambourine, glockenspiel, xylophone, piano, Strings, According to Malcolm MacDonald, the proportion of the orchestra, added piano and percussion notwithstanding, is \"almost",
+   "full": "1 flute (doubling piccolo), 1 oboe, 2 clarinets, 1 bassoon, Brass, 2 French horns, 2 trumpets, 1 trombone, Percussion, timpani, bass drum, snare drum, tam-tam, triangle, tambourine, glockenspiel, xylophone, piano, Strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32016,7 +32016,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "two flutes (2nd doubling piccolo), two oboes (2nd doubling cor anglais), two clarinets, two bassoons, two horns, two trumpets and strings, The chamber symphony are two movements:, Harmonically, the Second Chamber Symphony generally progresses by stepwise motion, juxtaposing the First Chamber Symphony’s forward movement through non-traditional suspensions and appoggiaturas",
+   "full": "two flutes (2nd doubling piccolo), two oboes (2nd doubling cor anglais), two clarinets, two bassoons, two horns, two trumpets and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32113,7 +32113,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piano and violin soloists accompanied by a wind ensemble of 13: piccolo, flute, oboe, English horn, E clarinet, A clarinet, bass clarinet, bassoon, contrabassoon, two French horns, trumpet, and trombone, It is in three movements:, According to AllMusic, the concerto is \"remarkable for the thoroughness of its organization; that is, it was composed with rigorous attention to minute details, and its ",
+   "full": "piano and violin soloists accompanied by a wind ensemble of 13: piccolo, flute, oboe, English horn, E clarinet, A clarinet, bass clarinet, bassoon, contrabassoon, two French horns, trumpet, and trombone",
    "note": null,
    "arr": false,
    "est": false
@@ -32171,7 +32171,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "voices, choirs (men's, women's, and children's), and large orchestra, including onstage musicians four times: a military band (act 1, scene 3), a chamber orchestra (act 2, scene 3), a tavern band (act 2, scene 4), and an out-of-tune, upright tavern piano (act 3, scene 3), Roles, {| class\"wikitable\", Role, Voice type, Premiere cast, 14 December 1925 Conductor: Erich Kleiber, Wozzeck, baritone, Leo ",
+   "full": "voices, choirs (men's, women's, and children's), and large orchestra, including onstage musicians four times: a military band (act 1, scene 3), a chamber orchestra (act 2, scene 3), a tavern band (act 2, scene 4), and an out-of-tune, upright tavern piano (act 3, scene 3)",
    "note": null,
    "arr": false,
    "est": false
@@ -32247,7 +32247,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "solo violin, two flutes (one doubling piccolo), two oboes (one doubling cor anglais), two clarinets, bass clarinet, two bassoons (one doubling contrabassoon), four horns, two trumpets, trombone, harp, strings, and a colorful percussion section of timpani, bass drum, cymbals, gong, tubular bell, glockenspiel, vibraphone, xylophone, and celesta, The three movements are:, The violin solo which opens ",
+   "full": "solo violin, two flutes (one doubling piccolo), two oboes (one doubling cor anglais), two clarinets, bass clarinet, two bassoons (one doubling contrabassoon), four horns, two trumpets, trombone, harp, strings, and a colorful percussion section of timpani, bass drum, cymbals, gong, tubular bell, glockenspiel, vibraphone, xylophone, and celesta",
    "note": null,
    "arr": false,
    "est": false
@@ -32307,7 +32307,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "three flutes, three oboes, cor anglais, piccolo clarinet in E-flat, three clarinets in B-flat, bass clarinet in B-flat, three bassoons, contrabassoon, Brass: six horns in F, piccolo trumpet in D, three trumpets in C, three trombones, bass trombone, tuba, saxhorn, contrabass tuba, Soloists: flute, clarinet, xylorimba, vibraphone, marimba, cello, piano, Choir: twenty soprani, ten mezzosoprani, twent",
+   "full": "three flutes, three oboes, cor anglais, piccolo clarinet in E-flat, three clarinets in B-flat, bass clarinet in B-flat, three bassoons, contrabassoon, Brass: six horns in F, piccolo trumpet in D, three trumpets in C, three trombones, bass trombone, tuba, saxhorn, contrabass tuba, Soloists: flute, clarinet, xylorimba, vibraphone, marimba, cello, piano, Choir",
    "note": null,
    "arr": false,
    "est": false
@@ -32327,7 +32327,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piano solo, horn solo, xylorimba solo and glockenspiel solo) and orchestra, The string section consists of only 6 violins, 3 violas, 3 cellos, and 1 double bass with fifth-string lower extension, The woodwind requires 1 piccolo, 2 flutes, 1 alto flute, 2 oboes, 1 cor anglais, 1 E-flat clarinet, 2 B-flat clarinets, 1 bass clarinet, 2 bassoons, and 1 contrabassoon. Messiaen remarks: \"all of the wood",
+   "full": "piano solo, horn solo, xylorimba solo and glockenspiel solo) and orchestra, The string section consists of only 6 violins, 3 violas, 3 cellos, and 1 double bass with fifth-string lower extension, The woodwind requires 1 piccolo, 2 flutes, 1 alto flute, 2 oboes, 1 cor anglais, 1 E-flat clarinet, 2 B-flat clarinets, 1 bass clarinet, 2 bassoons, and 1 contrabassoon",
    "note": null,
    "arr": false,
    "est": false
@@ -32484,7 +32484,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 1 oboe, 1 cor anglais, 2 clarinets in B♭, 2 bassoons, 1 sarrusophone, 2 horns in F, 2 trumpets in C, 3 trombones, 1 tuba, 1 contrabass tuba, and strings, Satie experimented with different instrumental textures to give each piece a particular sound and carefully balance the dynamics of the whole",
+   "full": "2 flutes, 1 oboe, 1 cor anglais, 2 clarinets in B♭, 2 bassoons, 1 sarrusophone, 2 horns in F, 2 trumpets in C, 3 trombones, 1 tuba, 1 contrabass tuba, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32594,7 +32594,7 @@
    "req": [
     "oboe"
    ],
-   "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, contrabassoon, four horns, two trumpets, three trombones, tuba, timpani, triangle, snare drum, bass drum and strings, The five movements are:, The piece departs from the conventional four-movement symphonic structure by the insertion of a slow Lento maestoso movement as an introductio",
+   "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, contrabassoon, four horns, two trumpets, three trombones, tuba, timpani, triangle, snare drum, bass drum and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32859,7 +32859,7 @@
    "req": [
     "oboe"
    ],
-   "full": "an flute, one clarinet, one oboe, one bassoon, One trumpet, two horns in F, Bass drum, snare drum, cymbals, tambourine, Strings and solo piano, Note that this orchestration is relatively small-scale in comparison to much of Glass' other symphonic work",
+   "full": "an flute, one clarinet, one oboe, one bassoon, One trumpet, two horns in F, Bass drum, snare drum, cymbals, tambourine, Strings and solo piano",
    "note": null,
    "arr": false,
    "est": false
@@ -32877,7 +32877,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, 2 clarinets, E clarinet, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, percussion, harp, piano, and strings (including 8 first violins, 6 second violins, 4 violas, 4 cellos and 2 double basses), The symphony has three movements:, \"Some Are\", the David Bowie song on which the second movement was based, was not included on the original release of Low,",
+   "full": "2 flutes, piccolo, 2 oboes, 2 clarinets, E clarinet, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, percussion, harp, piano, and strings (including 8 first violins, 6 second violins, 4 violas, 4 cellos and 2 double basses)",
    "note": null,
    "arr": false,
    "est": false
@@ -32897,7 +32897,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, two flutes, two oboes doubling cor anglais, E clarinet, two B clarinets, bass/contrabass clarinet, two bassoons, four horns, three trumpets, three trombones, tuba, four percussionists, timpani, two harps, piano, celesta, and strings. It has three continuous movements with contrasting themes and lasts approximately 40 minutes, According to James M Keller, \"Structural experimentation and or",
+   "full": "piccolo, two flutes, two oboes doubling cor anglais, E clarinet, two B clarinets, bass/contrabass clarinet, two bassoons, four horns, three trumpets, three trombones, tuba, four percussionists, timpani, two harps, piano, celesta, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32915,7 +32915,7 @@
    "req": [
     "oboe"
    ],
-   "full": "2 flutes, piccolo, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 3 trumpets, 2 trombones, bass trombone, tuba, percussion, harp, piano, celesta, and strings, The symphony is in six movements:, \"Abdulmajid\", the David Bowie song on which the second movement was based, was not included on the original release of Heroes, but was recorded around the Heroes recording sessions",
+   "full": "2 flutes, piccolo, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 3 trumpets, 2 trombones, bass trombone, tuba, percussion, harp, piano, celesta, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -32953,7 +32953,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 B clarinets, E clarinet, 2 bassoons, 4 horns 3 trumpets, 3 trombones, tuba, timpani, rattle, tom-tom, wood block, glockenspiel, piano, celesta, harp, strings, organ, and chorus, At 30 minutes long, it has three movements:",
+   "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 B clarinets, E clarinet, 2 bassoons, 4 horns 3 trumpets, 3 trombones, tuba, timpani, rattle, tom-tom, wood block, glockenspiel, piano, celesta, harp, strings, organ, and chorus",
    "note": null,
    "arr": false,
    "est": false
@@ -33007,7 +33007,7 @@
    "req": [
     "oboe"
    ],
-   "full": "two flutes (one flute doubling on piccolo), two oboes, two clarinets and one bass clarinet, two bassoons, four horns, three trumpets, two trombones and one bass trombone, one tuba, four percussionists, two harps, one pianist doubling on piano and celesta, and string orchestra, The piece is approximately 35 minutes long and consists of 8 movements. Movement 1 is titled \"Lyceum Address, Part 1, \" an",
+   "full": "two flutes (one flute doubling on piccolo), two oboes, two clarinets and one bass clarinet, two bassoons, four horns, three trumpets, two trombones and one bass trombone, one tuba, four percussionists, two harps, one pianist doubling on piano and celesta, and string orchestra",
    "note": null,
    "arr": false,
    "est": false
@@ -33268,7 +33268,7 @@
    "req": [
     "oboe"
    ],
-   "full": "4 flutes, of which 2 also piccolo, 4 oboes, 3 clarinets, 1 bass clarinets, 3 bassoons, 1 contra bassoon, 2 alto saxophones, 1 baritone saxophone, 6 horns, 4 trumpets, 4 trombones, 2 tubas, 4 male / female percussion, bass guitar, harp, celesta, harmonium, piano, organ, 24 violins, 10 violas, 10 cellos and 8 double bass, The work was put on LP soon after the premiere by the Polish National Radio Sy",
+   "full": "4 flutes, of which 2 also piccolo, 4 oboes, 3 clarinets, 1 bass clarinets, 3 bassoons, 1 contra bassoon, 2 alto saxophones, 1 baritone saxophone, 6 horns, 4 trumpets, 4 trombones, 2 tubas, 4 male / female percussion, bass guitar, harp, celesta, harmonium, piano, organ, 24 violins, 10 violas, 10 cellos and 8 double bass",
    "note": null,
    "arr": false,
    "est": false
@@ -33304,7 +33304,7 @@
    "req": [
     "englishHorn"
    ],
-   "full": "soloists, five choruses (nuns, soldiers, guards, children, and monks), orchestra, and tape. The orchestra itself is of a great size too, making use of a very particular blending of instruments. The orchestra is composed of the following instrumentation, Woodwinds, 4 flutes (alternating 2 piccolos and 1 alto flute), 2 English horns, 1 E clarinet, 1 contrabass clarinet, 2 alto saxophones, 2 baritone",
+   "full": "soloists, five choruses (nuns, soldiers, guards, children, and monks), orchestra, and tape. The orchestra is composed of the following instrumentation, Woodwinds, 4 flutes (alternating 2 piccolos and 1 alto flute), 2 English horns, 1 E clarinet, 1 contrabass clarinet, 2 alto saxophones, 2 baritone",
    "note": null,
    "arr": false,
    "est": false
@@ -33441,7 +33441,7 @@
     "oboeDamore",
     "englishHorn"
    ],
-   "full": "flute (doubling piccolo), oboe (doubling English horn and oboe d'amore), clarinet, bass clarinet, horn, tenor trombone, harpsichord (doubling harmonium), piano (doubling celesta), and string quintet, The Chamber Concerto uses micropolyphonic textures, which Ligeti describes as, \"One clearly discernible interval combination is gradually blurred, and from this cloudiness it is possible to discern a ",
+   "full": "flute (doubling piccolo), oboe (doubling English horn and oboe d'amore), clarinet, bass clarinet, horn, tenor trombone, harpsichord (doubling harmonium), piano (doubling celesta), and string quintet",
    "note": null,
    "arr": false,
    "est": false
@@ -33460,7 +33460,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "solo cello with a small orchestra of flute (doubling piccolo), oboe (doubling cor anglais), 2 clarinets (second doubling bass clarinet), bassoon, horn, trumpet, trombone, harp and strings, The movements are as follows:, A performance typically lasts approximately 16 minutes, The work has been described as an \"anti-concerto\" due to the nature of the relationship between the soloist and the orchestr",
+   "full": "solo cello with a small orchestra of flute (doubling piccolo), oboe (doubling cor anglais), 2 clarinets (second doubling bass clarinet), bassoon, horn, trumpet, trombone, harp and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -33631,7 +33631,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "a piano, three flutes (one doubling piccolo), two oboes and English horn, two clarinets, two bassoons, four horns, two trumpets, three trombones and tuba, timpani, cymbals, triangle, celesta, harp, and strings, The piano has an important solo part, but Falla did not describe the work as a concerto. It was first published by Max Eschig with the description \"symphonic impressions\" (the full title in",
+   "full": "a piano, three flutes (one doubling piccolo), two oboes and English horn, two clarinets, two bassoons, four horns, two trumpets, three trombones and tuba, timpani, cymbals, triangle, celesta, harp, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -33960,7 +33960,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, percussion (timpani, tam-tam, bass drum, cymbals, triangle, side drum, and glockenspiel), celesta, 2 harps, and strings, It has four movements:",
+   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, percussion (timpani, tam-tam, bass drum, cymbals, triangle, side drum, and glockenspiel), celesta, 2 harps, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -34140,7 +34140,7 @@
     "oboe",
     "englishHorn"
    ],
-   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 4 trombones, tuba, percussion (timpani, tam-tam, cymbals, triangle, matraca [a wooden rattle], bass drum, marimba, xylophone, celesta, and vibraphone), 2 harps, piano, and strings, The symphony is in four movements:",
+   "full": "2 flutes, 2 oboes, cor anglais, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 4 trombones, tuba, percussion (timpani, tam-tam, cymbals, triangle, matraca [a wooden rattle], bass drum, marimba, xylophone, celesta, and vibraphone), 2 harps, piano, and strings",
    "note": null,
    "arr": false,
    "est": false
@@ -100591,7 +100591,7 @@
    "req": [
     "oboe"
    ],
-   "full": "''Voices'': Henriette (soprano), Klara (soprano), Lisette (soprano), Heinzenfeld (tenor), Valer (tenor), Friseur (baritone), Hasenkopf (bass), Hausmeister (bass), Johann (bass)<br>''Orchestra'': 2 flutes, 2 oboes, 2 clarinets, 2 bassoons + 2 horns, 2 trumpets + timpani + strings",
+   "full": "''Voices''. 2 flutes, 2 oboes, 2 clarinets, 2 bassoons + 2 horns, 2 trumpets + timpani + strings",
    "note": null,
    "arr": false,
    "est": false

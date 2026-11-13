@@ -600,8 +600,7 @@
    "year": 1717,
    "genre": "Concerto",
    "oboes": "oboe",
-   "full": "oboe, strings, continuo",
-   "note": "Transcribed for keyboard by J.S. Bach as BWV 974."
+   "full": "oboe, strings, continuo"
   },
   {
    "c": "albinoni-tomaso",
@@ -621,7 +620,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes",
    "full": "1 or 2 oboes, strings, continuo",
-   "note": "Includes the celebrated D minor concerto Op. 9 No. 2 for solo oboe."
+   "note": "No. 2 is for solo oboe."
   },
   {
    "c": "telemann-georg-philipp",
@@ -685,7 +684,7 @@
    "genre": "Concerto",
    "oboes": "oboe",
    "full": "solo oboe, 2 oboes, 2 horns, strings",
-   "note": "The same work Mozart later transposed to D major as the Flute Concerto No. 2."
+   "note": "Also exists in D major as the Flute Concerto No. 2."
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -775,8 +774,7 @@
    "year": 1808,
    "genre": "Symphony",
    "oboes": "2 oboes",
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 2 horns, 2 trumpets, 3 trombones, timpani, strings",
-   "note": "Contains the celebrated unaccompanied oboe cadenza in the first movement."
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 2 horns, 2 trumpets, 3 trombones, timpani, strings"
   },
   {
    "c": "beethoven-ludwig-van",
@@ -812,8 +810,7 @@
    "year": 1795,
    "genre": "Chamber",
    "oboes": "2 oboes, english horn",
-   "full": "2 oboes, english horn",
-   "note": "The cornerstone of the oboe-trio repertoire."
+   "full": "2 oboes, english horn"
   },
   {
    "c": "beethoven-ludwig-van",
@@ -876,8 +873,7 @@
    "year": 1829,
    "genre": "Overture",
    "oboes": "2 oboes (2nd doubling english horn)",
-   "full": "piccolo, flute, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, percussion, strings",
-   "note": "The 'Ranz des vaches' pastorale is the repertoire's most famous English horn solo."
+   "full": "piccolo, flute, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, percussion, strings"
   },
   {
    "c": "rossini-gioacchino",
@@ -886,8 +882,7 @@
    "year": 1812,
    "genre": "Overture",
    "oboes": "2 oboes",
-   "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings",
-   "note": "A standard oboe audition excerpt."
+   "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings"
   },
   {
    "c": "berlioz-hector",
@@ -897,7 +892,7 @@
    "genre": "Symphony",
    "oboes": "2 oboes (2nd doubling english horn)",
    "full": "2 flutes (2nd doubling piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, 2 tubas, timpani, percussion, 2 harps, strings",
-   "note": "In the third movement the oboe plays offstage, answered by the English horn."
+   "note": "The oboe plays offstage in the third movement."
   },
   {
    "c": "berlioz-hector",
@@ -906,8 +901,7 @@
    "year": 1844,
    "genre": "Overture",
    "oboes": "2 oboes (1st doubling english horn)",
-   "full": "2 flutes (piccolo), 2 oboes (1st doubling english horn), 2 clarinets, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, timpani, percussion, strings",
-   "note": "Opens with an extended English horn cantilena."
+   "full": "2 flutes (piccolo), 2 oboes (1st doubling english horn), 2 clarinets, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, timpani, percussion, strings"
   },
   {
    "c": "berlioz-hector",
@@ -944,7 +938,7 @@
    "genre": "Opera",
    "oboes": "3 oboes (3rd doubling english horn)",
    "full": "3 flutes (piccolo), 3 oboes (3rd doubling english horn), 3 clarinets, bass clarinet, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, harp, strings",
-   "note": "The Act III shepherd's tune is a landmark English horn solo, played offstage."
+   "note": "The English horn plays offstage in Act III."
   },
   {
    "c": "wagner-richard",
@@ -971,8 +965,7 @@
    "year": 1888,
    "genre": "Symphony",
    "oboes": "2 oboes, english horn",
-   "full": "2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, harp, strings",
-   "note": "The Allegretto's principal theme is given to the English horn."
+   "full": "2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 4 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, harp, strings"
   },
   {
    "c": "brahms-johannes",
@@ -1017,8 +1010,7 @@
    "year": 1878,
    "genre": "Concerto",
    "oboes": "2 oboes",
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, strings",
-   "note": "The slow movement opens with one of the great orchestral oboe solos."
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, strings"
   },
   {
    "c": "saint-saens-camille",
@@ -1063,8 +1055,7 @@
    "year": 1878,
    "genre": "Symphony",
    "oboes": "2 oboes",
-   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "The second movement opens with a celebrated solo oboe melody."
+   "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion, strings"
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -1100,8 +1091,7 @@
    "year": 1876,
    "genre": "Ballet",
    "oboes": "2 oboes, english horn",
-   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings",
-   "note": "The great swan theme is announced by solo oboe."
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings"
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -1119,8 +1109,7 @@
    "year": 1893,
    "genre": "Symphony",
    "oboes": "2 oboes (2nd doubling english horn)",
-   "full": "piccolo, 2 flutes, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, strings",
-   "note": "The Largo's 'Goin' Home' melody is the most celebrated English horn solo in the repertoire."
+   "full": "piccolo, 2 flutes, 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, strings"
   },
   {
    "c": "dvorak-antonin",
@@ -1174,8 +1163,7 @@
    "year": 1880,
    "genre": "Orchestral",
    "oboes": "2 oboes, english horn",
-   "full": "2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings",
-   "note": "The Eastern caravan theme is introduced by the English horn."
+   "full": "2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings"
   },
   {
    "c": "elgar-edward",
@@ -1193,8 +1181,7 @@
    "year": 1930,
    "genre": "Chamber",
    "oboes": "oboe",
-   "full": "solo oboe (orchestrated by Gordon Jacob)",
-   "note": "Written for Léon Goossens; Elgar's last completed work for solo instrument."
+   "full": "solo oboe (orchestrated by Gordon Jacob)"
   },
   {
    "c": "mahler-gustav",
@@ -1266,8 +1253,7 @@
    "year": 1945,
    "genre": "Concerto",
    "oboes": "oboe",
-   "full": "solo oboe, 2 flutes, english horn, 2 clarinets, 2 bassoons, 2 horns, strings",
-   "note": "Written at the suggestion of the American soldier-oboist John de Lancie."
+   "full": "solo oboe, 2 flutes, english horn, 2 clarinets, 2 bassoons, 2 horns, strings"
   },
   {
    "c": "strauss-richard",
@@ -1276,8 +1262,7 @@
    "year": 1888,
    "genre": "Tone poem",
    "oboes": "2 oboes, english horn",
-   "full": "3 flutes (piccolo), 2 oboes, english horn, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings",
-   "note": "Contains the most frequently requested orchestral oboe audition solo."
+   "full": "3 flutes (piccolo), 2 oboes, english horn, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings"
   },
   {
    "c": "strauss-richard",
@@ -1314,7 +1299,7 @@
    "genre": "Tone poem",
    "oboes": "oboe, english horn",
    "full": "solo english horn, oboe, bass clarinet, 2 bassoons, 4 horns, 3 trombones, timpani, bass drum, harp, strings",
-   "note": "Sibelius omits flutes and soprano clarinets, but keeps one oboe; the swan itself is the solo English horn."
+   "note": "No flutes or soprano clarinets; one oboe, and a solo English horn."
   },
   {
    "c": "sibelius-jean",
@@ -1341,8 +1326,7 @@
    "year": 1944,
    "genre": "Concerto",
    "oboes": "oboe",
-   "full": "solo oboe, string orchestra",
-   "note": "Written for Léon Goossens."
+   "full": "solo oboe, string orchestra"
   },
   {
    "c": "vaughan-williams-ralph",
@@ -1370,7 +1354,7 @@
    "genre": "Orchestral",
    "oboes": "3 oboes (3rd doubling bass oboe), english horn",
    "full": "4 flutes (3rd and 4th doubling piccolos, 4th also alto flute), 3 oboes (3rd doubling bass oboe), english horn, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tenor tuba, tuba, timpani, percussion, celesta, 2 harps, organ, female chorus, strings",
-   "note": "One of the very few standard-repertoire works with a written bass oboe part — taken by the third oboist."
+   "note": "The bass oboe part is taken by the third oboist."
   },
   {
    "c": "ravel-maurice",
@@ -1380,7 +1364,7 @@
    "genre": "Orchestral",
    "oboes": "2 oboes (2nd doubling oboe d'amore), english horn",
    "full": "piccolo, 2 flutes, 2 oboes (2nd doubling oboe d'amore), english horn, E-flat clarinet, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, soprano/sopranino/tenor saxophones, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, harp, celesta, strings",
-   "note": "The oboe d'amore solo is among the very few written for the instrument after the Baroque."
+   "note": "Includes a part for oboe d'amore."
   },
   {
    "c": "ravel-maurice",
@@ -1389,8 +1373,7 @@
    "year": 1919,
    "genre": "Orchestral",
    "oboes": "2 oboes (2nd doubling english horn)",
-   "full": "2 flutes (piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 2 horns, trumpet, harp, strings",
-   "note": "The Prélude and Menuet are cornerstone oboe audition excerpts."
+   "full": "2 flutes (piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, 2 horns, trumpet, harp, strings"
   },
   {
    "c": "ravel-maurice",
@@ -1408,8 +1391,7 @@
    "year": 1931,
    "genre": "Concerto",
    "oboes": "oboe, english horn",
-   "full": "piccolo, flute, oboe, english horn, E-flat clarinet, clarinet, 2 bassoons, 2 horns, trumpet, trombone, timpani, percussion, harp, strings",
-   "note": "The English horn carries the long-breathed theme over the piano in the Adagio assai."
+   "full": "piccolo, flute, oboe, english horn, E-flat clarinet, clarinet, 2 bassoons, 2 horns, trumpet, trombone, timpani, percussion, harp, strings"
   },
   {
    "c": "respighi-ottorino",
@@ -1465,8 +1447,7 @@
    "year": 1936,
    "genre": "Orchestral",
    "oboes": "oboe",
-   "full": "flute, oboe, clarinet, bassoon, 3 horns, trumpet, trombone, timpani, percussion, strings",
-   "note": "The oboe portrays the duck."
+   "full": "flute, oboe, clarinet, bassoon, 3 horns, trumpet, trombone, timpani, percussion, strings"
   },
   {
    "c": "prokofiev-sergei",
@@ -1493,8 +1474,7 @@
    "year": 1943,
    "genre": "Symphony",
    "oboes": "2 oboes, english horn",
-   "full": "2 flutes, piccolo, alto flute, 2 oboes, english horn, 2 clarinets, E-flat clarinet, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "The first movement contains an extended unaccompanied English horn recitative."
+   "full": "2 flutes, piccolo, alto flute, 2 oboes, english horn, 2 clarinets, E-flat clarinet, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, strings"
   },
   {
    "c": "shostakovich-dmitri",
@@ -1522,7 +1502,7 @@
    "genre": "Orchestral",
    "oboes": "english horn",
    "full": "solo trumpet, solo english horn, string orchestra",
-   "note": "One of the few concert works to place the English horn as an equal soloist."
+   "note": "Solo parts for English horn and trumpet."
   },
   {
    "c": "copland-aaron",
@@ -1540,8 +1520,7 @@
    "year": 1978,
    "genre": "Concerto",
    "oboes": "oboe",
-   "full": "solo oboe, string orchestra",
-   "note": "The completed slow movement of Barber's unfinished Oboe Concerto."
+   "full": "solo oboe, string orchestra"
   },
   {
    "c": "barber-samuel",
@@ -1559,8 +1538,7 @@
    "year": 1951,
    "genre": "Solo",
    "oboes": "oboe",
-   "full": "solo oboe (unaccompanied)",
-   "note": "The central work of the unaccompanied oboe repertoire."
+   "full": "solo oboe (unaccompanied)"
   },
   {
    "c": "britten-benjamin",
@@ -1596,8 +1574,7 @@
    "year": 1962,
    "genre": "Chamber",
    "oboes": "oboe",
-   "full": "oboe, piano",
-   "note": "Poulenc's last completed work, dedicated to the memory of Prokofiev."
+   "full": "oboe, piano"
   },
   {
    "c": "poulenc-francis",
@@ -1652,7 +1629,7 @@
    "genre": "Orchestral",
    "oboes": "3 oboes",
    "full": "4 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, piano, celesta, harp, strings, chorus",
-   "note": "A three-movement choral symphony setting poems by John Donne and Emily Dickinson; the chorus calls for a minimum of 90 singers. Hand-entered because IMSLP has no record for this living composer."
+   "note": "The chorus calls for a minimum of 90 singers."
   },
   {
    "c": "adams-john",
@@ -1671,7 +1648,7 @@
    "genre": "Orchestral",
    "oboes": "2 oboes, english horn",
    "full": "2 piccolos, 2 flutes, 2 oboes, english horn, clarinets, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, strings",
-   "note": "Also exists in a concert band transcription by Odom, catalogued separately by the Wind Repertory Project."
+   "note": "Also exists in a concert band transcription by Odom."
   },
   {
    "c": "adams-john",
@@ -1717,8 +1694,7 @@
    "year": null,
    "genre": "Opera",
    "oboes": "2 oboes, english horn",
-   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, cimbalom, bass guitar, piano, harp, strings, chorus",
-   "note": "Subtitled a 'Passion oratorio'; billed as an opera in some stagings."
+   "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, cimbalom, bass guitar, piano, harp, strings, chorus"
   },
   {
    "c": "adams-john",
@@ -1728,7 +1704,7 @@
    "genre": "Orchestral",
    "oboes": "3 oboes",
    "full": "piccolo, 3 flutes, 3 oboes, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, 2 tubas, timpani, percussion, piano, celesta, quarter-tone piano, 2 harps, strings, chorus, prerecorded tape",
-   "note": "Written to commemorate the September 11 attacks, for the New York Philharmonic; the live performers play alongside a prerecorded tape of voices and city sounds."
+   "note": "The live performers play alongside a prerecorded tape."
   },
   {
    "c": "adams-john",
@@ -1738,7 +1714,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes, english horn",
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, timpani, percussion, harp, piano, celesta, strings",
-   "note": "The soloist is an amplified string quartet rather than a single instrument; built from fragments of late Beethoven."
+   "note": "The soloist is an amplified string quartet rather than a single instrument."
   },
   {
    "c": "adams-john",
@@ -1748,7 +1724,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes",
    "full": "2 flutes, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, percussion, cimbalom, celesta, 2 harps, strings",
-   "note": "Subtitled 'Dramatic Symphony for Violin and Orchestra'."
+   "note": "Solo part for violin."
   },
   {
    "c": "adams-john",
@@ -1767,8 +1743,7 @@
    "year": null,
    "genre": "Orchestral",
    "oboes": "2 oboes",
-   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani, percussion, piano, harp, strings",
-   "note": "An 'outtake' from Act III of Nixon in China, written as a standalone orchestral foxtrot."
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani, percussion, piano, harp, strings"
   },
   {
    "c": "adams-john",
@@ -1805,7 +1780,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes, english horn",
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, 3 horns, 3 trumpets, 2 trombones, timpani, percussion, harp, celesta, strings",
-   "note": "Piano concerto; the title refers to the mechanical rhythms of player-piano rolls."
+   "note": "Piano concerto."
   },
   {
    "c": "adams-john",
@@ -1823,8 +1798,7 @@
    "year": null,
    "genre": "Orchestral",
    "oboes": "3 oboes, english horn",
-   "full": "piccolo, 3 flutes, 3 oboes, english horn, 3 clarinets, bass clarinet, alto saxophone, 2 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, jazz drum set, piano, celesta, 2 harps, strings",
-   "note": "Written for the Los Angeles Philharmonic's 2009 season opener under Gustavo Dudamel."
+   "full": "piccolo, 3 flutes, 3 oboes, english horn, 3 clarinets, bass clarinet, alto saxophone, 2 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tuba, timpani, percussion, jazz drum set, piano, celesta, 2 harps, strings"
   },
   {
    "c": "adams-john",
@@ -1854,7 +1828,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes, english horn",
    "full": "piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 trombones, percussion, piano, honky-tonk piano, bass guitar, strings",
-   "note": "Piano concerto; the title borrows a line from Brecht and Weill."
+   "note": "Piano concerto."
   },
   {
    "c": "adams-john",
@@ -1864,7 +1838,7 @@
    "genre": "Concerto",
    "oboes": "2 oboes",
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, percussion, strings",
-   "note": "Piano concertante work; no trumpets or trombones in the scoring. Not in the trumpet repertoire finder for that reason."
+   "note": "Piano concertante work; no trumpets or trombones in the scoring."
   },
   {
    "c": "adams-john",
@@ -1874,7 +1848,7 @@
    "genre": "Chamber",
    "oboes": "english horn",
    "full": "english horn, bassoon, trombone, banjo, piano, keyboard samplers, strings",
-   "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe. Not in the trumpet repertoire finder, which this piece has no part for."
+   "note": "A 13-player chamber ensemble for solo clarinet. The only oboe-family instrument is the cor anglais (English horn) — there is no plain oboe."
   },
   {
    "c": "miller-alexander-lamont",
@@ -1884,7 +1858,7 @@
    "genre": "Wind ensemble",
    "oboes": "2 oboes",
    "full": "2 flutes, 2 oboes, 2 bassoons, 2 bass clarinets, trumpet, 4 horns, trombone, percussion",
-   "note": "For wind ensemble, in three movements (Ice Music, Water Music, Steam Music). No B-flat clarinets — the clarinet choir is bass clarinets only. The Wind Repertory Project notes its own percussion listing as incomplete ('percussion detail desired'). Hand-entered because IMSLP has no record for this living composer, and the composer's five other works for winds have no instrumentation catalogued anywhere yet."
+   "note": "No B-flat clarinets — the clarinet choir is bass clarinets only. The percussion parts are not further specified."
   }
  ]
 }
