@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-17T03:22:53.857Z",
+ "generated": "2026-11-17T04:00:05.495Z",
  "source": "IMSLP |Year/Date of Composition= and English Wikipedia infoboxes / article leads",
  "counts": {
   "imslpPages": 6134,
   "imslpYears": 3233,
-  "wikipediaPages": 907,
-  "wikipediaYears": 758,
-  "calls": 1031
+  "wikipediaPages": 908,
+  "wikipediaYears": 759,
+  "calls": 909
  },
  "works": {
   "imslp": {
@@ -3250,7 +3250,7 @@
     "how": "lead"
    },
    "A German Requiem (Brahms)": {
-    "year": 1865,
+    "year": 1868,
     "how": "infobox"
    },
    "A London Symphony": {
@@ -3506,7 +3506,7 @@
     "how": "lead"
    },
    "Concert champêtre": {
-    "year": 1927,
+    "year": 1928,
     "how": "infobox"
    },
    "Concerto Fantasy for Two Timpanists and Orchestra": {
@@ -3798,7 +3798,7 @@
     "how": "lead"
    },
    "Gurre-Lieder": {
-    "year": 1900,
+    "year": 1903,
     "how": "infobox"
    },
    "Hammersmith (Holst)": {
@@ -3854,7 +3854,7 @@
     "how": "lead"
    },
    "Images pour orchestre": {
-    "year": 1905,
+    "year": 1912,
     "how": "infobox"
    },
    "Impromptu (Sibelius)": {
@@ -3942,7 +3942,7 @@
     "how": "lead"
    },
    "Kammerkonzert (Berg)": {
-    "year": 1923,
+    "year": 1925,
     "how": "infobox"
    },
    "Karelia Suite": {
@@ -3954,7 +3954,7 @@
     "how": "lead"
    },
    "Kindertotenlieder": {
-    "year": 1901,
+    "year": 1904,
     "how": "infobox"
    },
    "King Lear (Shostakovich film score)": {
@@ -3974,7 +3974,7 @@
     "how": "lead"
    },
    "Kullervo (Sibelius)": {
-    "year": 1891,
+    "year": 1892,
     "how": "infobox"
    },
    "La Belle Excentrique": {
@@ -4062,7 +4062,7 @@
     "how": "infobox"
    },
    "Lemminkäinen Suite": {
-    "year": 1893,
+    "year": 1895,
     "how": "infobox"
    },
    "Les Espaces du sommeil": {
@@ -4082,7 +4082,7 @@
     "how": "lead"
    },
    "Lieder eines fahrenden Gesellen": {
-    "year": 1884,
+    "year": 1885,
     "how": "infobox"
    },
    "Lieutenant Kijé (Prokofiev)": {
@@ -4202,7 +4202,7 @@
     "how": "lead"
    },
    "Má vlast": {
-    "year": 1874,
+    "year": 1879,
     "how": "infobox"
    },
    "Nabucco": {
@@ -4218,7 +4218,7 @@
     "how": "lead"
    },
    "Nocturnes (Debussy)": {
-    "year": 1892,
+    "year": 1899,
     "how": "infobox"
    },
    "Nonet (Villa-Lobos)": {
@@ -4306,7 +4306,7 @@
     "how": "infobox"
    },
    "Pan and Syrinx": {
-    "year": 1917,
+    "year": 1918,
     "how": "infobox"
    },
    "Paradise and the Peri": {
@@ -4406,15 +4406,15 @@
     "how": "infobox"
    },
    "Piano Concerto No. 1 (Mendelssohn)": {
-    "year": 1830,
+    "year": 1831,
     "how": "infobox"
    },
    "Piano Concerto No. 1 (Tchaikovsky)": {
-    "year": 1874,
+    "year": 1875,
     "how": "infobox"
    },
    "Piano Concerto No. 2 (Brahms)": {
-    "year": 1878,
+    "year": 1881,
     "how": "infobox"
    },
    "Piano Concerto No. 2 (Glass)": {
@@ -4446,7 +4446,7 @@
     "how": "lead"
    },
    "Piano Concerto in G major (Ravel)": {
-    "year": 1929,
+    "year": 1931,
     "how": "infobox"
    },
    "Piano Variations (Copland)": {
@@ -4478,7 +4478,7 @@
     "how": "lead"
    },
    "Poèmes pour Mi": {
-    "year": 1936,
+    "year": 1937,
     "how": "infobox"
    },
    "Prelude for Orchestra (Walton)": {
@@ -4598,11 +4598,11 @@
     "how": "lead"
    },
    "Russian Easter Festival Overture": {
-    "year": 1887,
+    "year": 1888,
     "how": "infobox"
    },
    "Rückert-Lieder": {
-    "year": 1901,
+    "year": 1902,
     "how": "infobox"
    },
    "Sabre Dance": {
@@ -4614,11 +4614,11 @@
     "how": "infobox"
    },
    "Saga-Drøm": {
-    "year": 1907,
+    "year": 1908,
     "how": "infobox"
    },
    "Scaramouche (Sibelius)": {
-    "year": 1912,
+    "year": 1913,
     "how": "infobox"
    },
    "Scheherazade (Rimsky-Korsakov)": {
@@ -4642,7 +4642,7 @@
     "how": "lead"
    },
    "Schicksalslied": {
-    "year": 1868,
+    "year": 1871,
     "how": "infobox"
    },
    "Scythian Suite": {
@@ -4690,7 +4690,7 @@
     "how": "infobox"
    },
    "Seven Early Songs (Berg)": {
-    "year": 1905,
+    "year": 1908,
     "how": "infobox"
    },
    "Sevillana (Elgar)": {
@@ -4742,7 +4742,7 @@
     "how": "lead"
    },
    "Six Humoresques": {
-    "year": 1917,
+    "year": 1918,
     "how": "infobox"
    },
    "Six Studies in English Folk Song": {
@@ -4825,6 +4825,10 @@
     "year": 1922,
     "how": "lead"
    },
+   "Symphony No. 1 (Beethoven)": {
+    "year": 1800,
+    "how": "infobox"
+   },
    "Symphony No. 1 (Bernstein)": {
     "year": 1942,
     "how": "infobox"
@@ -4862,7 +4866,7 @@
     "how": "infobox"
    },
    "Symphony No. 1 (Martinů)": {
-    "year": 1941,
+    "year": 1942,
     "how": "infobox"
    },
    "Symphony No. 1 (Mendelssohn)": {
@@ -4878,7 +4882,7 @@
     "how": "infobox"
    },
    "Symphony No. 1 (Prokofiev)": {
-    "year": 1916,
+    "year": 1917,
     "how": "infobox"
    },
    "Symphony No. 1 (Rachmaninoff)": {
@@ -5030,11 +5034,11 @@
     "how": "lead"
    },
    "Symphony No. 2 (Beethoven)": {
-    "year": 1801,
+    "year": 1802,
     "how": "infobox"
    },
    "Symphony No. 2 (Bernstein)": {
-    "year": 1948,
+    "year": 1949,
     "how": "infobox"
    },
    "Symphony No. 2 (Borodin)": {
@@ -5062,7 +5066,7 @@
     "how": "infobox"
    },
    "Symphony No. 2 (Khachaturian)": {
-    "year": 1943,
+    "year": 1944,
     "how": "infobox"
    },
    "Symphony No. 2 (Lutosławski)": {
@@ -5082,11 +5086,11 @@
     "how": "lead"
    },
    "Symphony No. 2 (Penderecki)": {
-    "year": 1979,
+    "year": 1980,
     "how": "infobox"
    },
    "Symphony No. 2 (Prokofiev)": {
-    "year": 1924,
+    "year": 1925,
     "how": "infobox"
    },
    "Symphony No. 2 (Rachmaninoff)": {
@@ -5094,7 +5098,7 @@
     "how": "lead"
    },
    "Symphony No. 2 (Schumann)": {
-    "year": 1845,
+    "year": 1846,
     "how": "infobox"
    },
    "Symphony No. 2 (Shostakovich)": {
@@ -5162,7 +5166,7 @@
     "how": "lead"
    },
    "Symphony No. 3 (Beethoven)": {
-    "year": 1802,
+    "year": 1804,
     "how": "infobox"
    },
    "Symphony No. 3 (Bernstein)": {
@@ -5198,7 +5202,7 @@
     "how": "infobox"
    },
    "Symphony No. 3 (Mendelssohn)": {
-    "year": 1829,
+    "year": 1842,
     "how": "infobox"
    },
    "Symphony No. 3 (Nielsen)": {
@@ -5206,7 +5210,7 @@
     "how": "lead"
    },
    "Symphony No. 3 (Penderecki)": {
-    "year": 1988,
+    "year": 1995,
     "how": "infobox"
    },
    "Symphony No. 3 (Prokofiev)": {
@@ -5430,7 +5434,7 @@
     "how": "lead"
    },
    "Symphony No. 5 (Beethoven)": {
-    "year": 1804,
+    "year": 1808,
     "how": "infobox"
    },
    "Symphony No. 5 (Bruckner)": {
@@ -5514,7 +5518,7 @@
     "how": "lead"
    },
    "Symphony No. 6 (Beethoven)": {
-    "year": 1802,
+    "year": 1808,
     "how": "infobox"
    },
    "Symphony No. 6 (Bruckner)": {
@@ -5534,7 +5538,7 @@
     "how": "infobox"
    },
    "Symphony No. 6 (Martinů)": {
-    "year": 1951,
+    "year": 1953,
     "how": "infobox"
    },
    "Symphony No. 6 (Nielsen)": {
@@ -5542,7 +5546,7 @@
     "how": "lead"
    },
    "Symphony No. 6 (Prokofiev)": {
-    "year": 1945,
+    "year": 1947,
     "how": "infobox"
    },
    "Symphony No. 6 (Shostakovich)": {
@@ -5586,7 +5590,7 @@
     "how": "lead"
    },
    "Symphony No. 7 (Beethoven)": {
-    "year": 1811,
+    "year": 1812,
     "how": "infobox"
    },
    "Symphony No. 7 (Bruckner)": {
@@ -5954,7 +5958,7 @@
     "how": "infobox"
    },
    "The Creation (Haydn)": {
-    "year": 1796,
+    "year": 1798,
     "how": "infobox"
    },
    "The Devils of Loudun (opera)": {
@@ -6022,7 +6026,7 @@
     "how": "lead"
    },
    "The Planets": {
-    "year": 1914,
+    "year": 1917,
     "how": "infobox"
    },
    "The Poem of Ecstasy": {
@@ -6058,7 +6062,7 @@
     "how": "infobox"
    },
    "The Swan of Tuonela": {
-    "year": 1893,
+    "year": 1895,
     "how": "infobox"
    },
    "The Tale of the Stone Flower (Prokofiev)": {
@@ -6074,7 +6078,7 @@
     "how": "lead"
    },
    "The Wood Nymph": {
-    "year": 1894,
+    "year": 1895,
     "how": "infobox"
    },
    "The Year 1941 (Prokofiev)": {
@@ -6090,7 +6094,7 @@
     "how": "lead"
    },
    "Three Pieces for Orchestra (Berg)": {
-    "year": 1913,
+    "year": 1915,
     "how": "infobox"
    },
    "Three Russian Songs, Op. 41 (Rachmaninoff)": {
@@ -6118,7 +6122,7 @@
     "how": "lead"
    },
    "Triple Concerto (Beethoven)": {
-    "year": 1803,
+    "year": 1804,
     "how": "infobox"
    },
    "Tristan und Isolde": {
@@ -6150,7 +6154,7 @@
     "how": "infobox"
    },
    "Two Serenades": {
-    "year": 1912,
+    "year": 1913,
     "how": "infobox"
    },
    "Uirapuru (Villa-Lobos)": {
@@ -6250,7 +6254,7 @@
     "how": "infobox"
    },
    "War Requiem": {
-    "year": 1961,
+    "year": 1962,
     "how": "infobox"
    },
    "War and Peace (opera)": {
