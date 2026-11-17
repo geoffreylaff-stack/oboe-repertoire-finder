@@ -1869,6 +1869,149 @@
    "oboes": "2 oboes",
    "full": "2 flutes, 2 oboes, 2 bassoons, 2 bass clarinets, trumpet, 4 horns, trombone, percussion",
    "note": "No B-flat clarinets — the clarinet choir is bass clarinets only. The percussion parts are not further specified."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Testament",
+   "cat": "",
+   "year": 2018,
+   "genre": "Choral",
+   "oboes": "oboe",
+   "full": "2 flutes, oboe, 2 clarinets, 2 bassoons, 4 horns, timpani, percussion, bass-baritone, SATB chorus, strings",
+   "note": "Solo bass-baritone and SATB chorus."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Rocomoji",
+   "cat": "",
+   "year": 2017,
+   "genre": "Concerto",
+   "oboes": "2 oboes, english horn",
+   "full": "2 oboes, English horn, 2 bassoons, contrabassoon, percussion, harp, strings",
+   "note": "A concerto for double reeds: the oboes, English horn, bassoons and contrabassoon are the soloists."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Scherzo Crypto",
+   "cat": "",
+   "year": 2014,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, piccolo, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 3 percussion, harp, celesta, strings"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "A Whisper of Leaves",
+   "cat": "",
+   "year": 2014,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, timpani, percussion, harp, strings"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Remix in D",
+   "cat": "",
+   "year": 2009,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, trumpet, timpani, percussion, harp, strings"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Fireworks",
+   "cat": "",
+   "year": 2004,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "3 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, 4 percussion, harp, piano, strings",
+   "note": "The composer's listing marks the third player of each woodwind section as taking an auxiliary instrument, without naming it."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Fireworks (reduced orchestration)",
+   "cat": "",
+   "year": 2015,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, timpani, 2 percussion, harp, piano, strings",
+   "note": "The 2015 revision of the 2004 score for a smaller orchestra."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Dream Window",
+   "cat": "",
+   "year": 2002,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "3 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, 4 percussion, harp, celesta, strings",
+   "note": "The composer's listing marks the third player of each woodwind section as taking an auxiliary instrument, without naming it."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "into",
+   "cat": "",
+   "year": 2001,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "3 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, timpani, 3 percussion, harp, strings",
+   "note": "The composer's listing marks the third player of each woodwind section as taking an auxiliary instrument, without naming it."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Let Freedom Ring",
+   "cat": "",
+   "year": 1997,
+   "genre": "Orchestral",
+   "oboes": "3 oboes",
+   "full": "3 flutes, 3 oboes, 3 clarinets, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, 2 percussion, harp, piano, strings, narrator",
+   "note": "With narrator. The composer's listing marks the third player of each woodwind section as taking an auxiliary instrument, without naming it."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Karawitan",
+   "cat": "",
+   "year": 1995,
+   "genre": "Orchestral",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani, strings"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Madame Bovary",
+   "cat": "",
+   "year": 2013,
+   "genre": "Concerto",
+   "oboes": "english horn",
+   "full": "3 flutes, English horn, 3 clarinets, 3 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 4 percussion, harp, celesta, strings, solo cello",
+   "note": "Solo cello. The oboe section is a single player, listed as English horn. The flute, clarinet and bassoon sections each have a third player on an auxiliary instrument the composer's listing does not name."
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "A Thousand Less than Three",
+   "cat": "",
+   "year": 2016,
+   "genre": "Chamber",
+   "oboes": "2 oboes, english horn",
+   "full": "2 oboes, English horn, 4 percussion"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Music for Foxworth",
+   "cat": "",
+   "year": 2011,
+   "genre": "Chamber",
+   "oboes": "oboe",
+   "full": "oboe, violin, viola, cello"
+  },
+  {
+   "c": "miller-alexander-lamont",
+   "title": "Madrigal and Fugue",
+   "cat": "",
+   "year": 1994,
+   "genre": "Chamber",
+   "oboes": "oboe",
+   "full": "flute, oboe, bassoon"
   }
  ]
 }
