@@ -849,6 +849,15 @@
    "full": "flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, strings"
   },
   {
+   "c": "beethoven-ludwig-van",
+   "title": "Leonore Overture No. 2",
+   "cat": "Op. 72a",
+   "year": 1805,
+   "genre": "Overture",
+   "oboes": "2 oboes",
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings"
+  },
+  {
    "c": "schubert-franz",
    "title": "Symphony No. 8 in B minor, 'Unfinished'",
    "cat": "D. 759",

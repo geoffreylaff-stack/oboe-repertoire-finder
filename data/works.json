@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-01T05:02:04.496Z",
  "stats": {
-  "works": 6846,
+  "works": 6847,
   "composers": 1671
  },
  "composers": [
@@ -1193,7 +1193,7 @@
    "aliases": [
     "beethoven"
    ],
-   "n": 42,
+   "n": 43,
    "nArr": 23
   },
   {
@@ -16086,6 +16086,25 @@
    "arr": false,
    "est": false,
    "sy": 1806
+  },
+  {
+   "c": "beethoven-ludwig-van",
+   "t": "Leonore Overture No. 2",
+   "cat": "Op. 72a",
+   "y": 1805,
+   "g": "Overture",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings",
+   "note": null,
+   "arr": false,
+   "est": false,
+   "sy": 1805
   },
   {
    "c": "schubert-franz",
