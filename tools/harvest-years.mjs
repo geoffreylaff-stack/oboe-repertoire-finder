@@ -66,11 +66,21 @@ async function get(url, attempt = 0) {
   }
 }
 
-/** The first plausible four-digit year in a field: "c.1750", "1924–25", "1937 (April)". */
+/**
+ * The year a field gives: "c.1750", "1937 (between April and July)". A range
+ * is a work's span of composition, and a work is dated by when it was
+ * finished, so "1924–25" is 1925 and "1946–1951/53" is 1953 — the date
+ * Shostakovich's Tenth is always given.
+ */
 export function yearOf(raw) {
-  const m = /(?<!\d)(1[0-9]{3}|20[0-9]{2})(?!\d)/.exec(String(raw ?? ''));
+  const m = /(?<!\d)(1[0-9]{3}|20[0-9]{2})((?:\s*[–—\-\/]\s*\d{2,4}(?!\d))*)/.exec(String(raw ?? ''));
   if (!m) return null;
-  const y = Number(m[1]);
+  let y = Number(m[1]);
+  const last = m[2] ? /(\d{2,4})\s*$/.exec(m[2])?.[1] : null;
+  if (last) {
+    const end = last.length === 4 ? Number(last) : Math.floor(y / 100) * 100 + Number(last.slice(-2));
+    if (end >= y && end - y <= 60) y = end; // otherwise not a range ("1820/21" fine, "1750-3" left as is)
+  }
   return y >= 1000 && y <= new Date().getFullYear() ? y : null;
 }
 
@@ -94,8 +104,10 @@ export function wikipediaYear(wikitext) {
   const fromField = field ? yearOf(field[1].replace(/<ref[\s\S]*$/i, '')) : null;
   if (fromField) return { year: fromField, how: 'infobox' };
   const lead = prose(wikitext).slice(0, 4000);
-  const m = /\b(?:composed|written|completed|wrote|composition)\b[^.\n]{0,80}?(?<!\d)(1[0-9]{3}|20[0-9]{2})(?!\d)/i.exec(lead);
-  const fromLead = m ? yearOf(m[1]) : null;
+  // The wording between the verb and the year must not move on to a
+  // premiere or a publication ("composed for…, first performed in 1850").
+  const m = /\b(?:composed|written|completed|wrote)\b([^.\n]{0,80}?)(?<!\d)((?:1[0-9]{3}|20[0-9]{2})(?:\s*[–—\-\/]\s*\d{2,4}(?!\d))*)/i.exec(lead);
+  const fromLead = m && !/premi|perform|publish|staged|produc/i.test(m[1]) ? yearOf(m[2]) : null;
   return fromLead ? { year: fromLead, how: 'lead' } : null;
 }
 
