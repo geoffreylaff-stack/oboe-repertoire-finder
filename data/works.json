@@ -18252,7 +18252,7 @@
    "c": "rachmaninoff-sergei",
    "t": "Scherzo in D minor",
    "cat": null,
-   "y": null,
+   "y": 1888,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -18264,7 +18264,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets (B♭), 2 bassoons, horn (F), trumpet (B♭), 2 timpani, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1888
   },
   {
    "c": "rachmaninoff-sergei",
@@ -18333,7 +18334,7 @@
    "c": "rachmaninoff-sergei",
    "t": "Rhapsody on a Theme of Paganini",
    "cat": null,
-   "y": null,
+   "y": 1934,
    "g": "Piano",
    "s": "two oboes, english horn",
    "counts": {
@@ -18347,13 +18348,14 @@
    "full": "piano and orchestra:, Woodwinds, 2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets in B, 2 bassoons, Brass, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, Percussion, timpani, snare drum, triangle, cymbals, bass drum, glockenspiel, Strings, concert harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1934
   },
   {
    "c": "rachmaninoff-sergei",
    "t": "Isle of the Dead",
    "cat": null,
-   "y": 1909,
+   "y": 1908,
    "g": "Tone poem",
    "s": "two oboes, english horn",
    "counts": {
@@ -18368,7 +18370,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1909
+   "sy": 1908
   },
   {
    "c": "rachmaninoff-sergei",
@@ -18393,7 +18395,7 @@
    "c": "rachmaninoff-sergei",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": 1906,
+   "y": 1907,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -18407,13 +18409,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1906
+   "sy": 1907
   },
   {
    "c": "rachmaninoff-sergei",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": 1935,
+   "y": 1936,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -18427,13 +18429,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1935
+   "sy": 1936
   },
   {
    "c": "rachmaninoff-sergei",
    "t": "Piano Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1892,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -18445,13 +18447,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 french horns, 2 trumpets, 3 trombones, Timpani, Percussions (Triangle and Cymbals), String section, Solo piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1892
   },
   {
    "c": "rachmaninoff-sergei",
    "t": "Piano Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1901,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -18463,13 +18466,14 @@
    "full": "piano and orchestra:, Woodwinds:, 2 flutes, 2 oboes, 2 clarinets in B (in the first and third movements) and A (in the second and third movements), 2 bassoons, Brass:, 4 horns in F, 2 trumpets in B, 3 trombones (2 tenor, 1 bass), 1 tuba, Percussion:, timpani, bass drum, cymbals, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1901
   },
   {
    "c": "rachmaninoff-sergei",
    "t": "Piano Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1909,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -18481,7 +18485,8 @@
    "full": "piano and orchestra, Woodwinds, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, Brass, 4 horns in F, 2 trumpets, 3 trombones (2 tenor, 1 bass), 1 tuba, Percussion:, timpani, bass drum, snare drum, cymbals, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1909
   },
   {
    "c": "stravinsky-igor",
@@ -18544,7 +18549,7 @@
    "c": "stravinsky-igor",
    "t": "Movements for Piano and Orchestra",
    "cat": null,
-   "y": null,
+   "y": 1959,
    "g": "Orchestral",
    "s": "oboe, english horn",
    "counts": {
@@ -18558,13 +18563,14 @@
    "full": "2 flutes (2nd doubling piccolo), oboe, English horn, clarinet, bass clarinet, bassoon, 2 trumpets, 3 trombones, harp, celesta, strings and solo piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1959
   },
   {
    "c": "stravinsky-igor",
    "t": "Scherzo à la russe",
    "cat": null,
-   "y": 1945,
+   "y": 1944,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -18577,7 +18583,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1945
+   "sy": 1944
   },
   {
    "c": "stravinsky-igor",
@@ -18625,7 +18631,7 @@
    "c": "stravinsky-igor",
    "t": "Agon",
    "cat": null,
-   "y": null,
+   "y": 1957,
    "g": "Ballet",
    "s": "two oboes, english horn",
    "counts": {
@@ -18639,13 +18645,14 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones (2 tenor, 1 bass), harp, piano, mandolin, timpani, tom-tom, xylophone, castanets, and strings. Each section is scored for a different combination of instruments",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1957
   },
   {
    "c": "stravinsky-igor",
    "t": "Orpheus",
    "cat": null,
-   "y": null,
+   "y": 1948,
    "g": "Ballet",
    "s": "oboe (doubling english horn)",
    "counts": {
@@ -18658,13 +18665,14 @@
    "full": "tuba is omitted entirely",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1948
   },
   {
    "c": "stravinsky-igor",
    "t": "Pulcinella",
    "cat": null,
-   "y": 1919,
+   "y": 1920,
    "g": "Ballet",
    "s": "two oboes",
    "counts": {
@@ -18677,7 +18685,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1919
+   "sy": 1920
   },
   {
    "c": "stravinsky-igor",
@@ -18724,7 +18732,7 @@
    "c": "stravinsky-igor",
    "t": "Mass",
    "cat": null,
-   "y": 1944,
+   "y": 1948,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -18739,7 +18747,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1944
+   "sy": 1948
   },
   {
    "c": "stravinsky-igor",
@@ -18787,7 +18795,7 @@
    "c": "stravinsky-igor",
    "t": "Capriccio for Piano and Orchestra",
    "cat": null,
-   "y": 1926,
+   "y": 1929,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -18802,7 +18810,7 @@
    "note": null,
    "arr": false,
    "est": true,
-   "sy": 1926
+   "sy": 1929
   },
   {
    "c": "stravinsky-igor",
@@ -18869,7 +18877,7 @@
    "c": "stravinsky-igor",
    "t": "The Flood",
    "cat": null,
-   "y": null,
+   "y": 1962,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -18883,13 +18891,14 @@
    "full": "3 flutes (3rd doubling piccolo), alto flute, 2 oboes, cor anglais, 2 clarinets, bass clarinet, contrabass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones (1st doubling alto trombone), tuba, percussion (timpani, bass drum, cymbals, xylorimba, and 3 tom-toms), harp, celesta, piano, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1962
   },
   {
    "c": "stravinsky-igor",
    "t": "Oedipus rex",
    "cat": null,
-   "y": null,
+   "y": 1927,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -18903,13 +18912,14 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 3 clarinets in B and A (3rd doubling clarinet in E ), 2 bassoons, contrabassoon, 4 horns in F, 4 trumpets in C, 3 trombones, tuba, timpani, tambourine, \"military\" snare drum, bass drum, cymbals, piano, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1927
   },
   {
    "c": "stravinsky-igor",
    "t": "Renard",
    "cat": null,
-   "y": 1916,
+   "y": 1922,
    "g": "Opera",
    "s": "oboe (doubling english horn)",
    "counts": {
@@ -18923,7 +18933,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1916
+   "sy": 1922
   },
   {
    "c": "stravinsky-igor",
@@ -18969,7 +18979,7 @@
    "c": "stravinsky-igor",
    "t": "Canticum Sacrum",
    "cat": null,
-   "y": 1955,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -18983,14 +18993,13 @@
    "full": "1 flute (which plays only in the second movement), 2 oboes, cor anglais, 2 bassoons, contrabassoon, 3 trumpets in C, bass trumpet in C, 2 tenor trombones, bass trombone, contrabass trombone, organ, harp, violas, and double basses. Clarinets, horns, violins, and cellos are all absent",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1955
+   "est": false
   },
   {
    "c": "stravinsky-igor",
    "t": "Symphony in C",
    "cat": null,
-   "y": 1938,
+   "y": 1940,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -19003,7 +19012,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1938
+   "sy": 1940
   },
   {
    "c": "stravinsky-igor",
@@ -19167,7 +19176,7 @@
    "c": "shostakovich-dmitri",
    "t": "Song of the Forests",
    "cat": null,
-   "y": 1949,
+   "y": null,
    "g": "Orchestral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -19180,8 +19189,7 @@
    "full": "Woodwind: 3 flutes (3rd doubling piccolo), 3 oboes (3rd doubling english horn), 3 clarinets, 2 bassoons, Brass: 4 horns, 3 trumpets, 3 trombones, tuba, Percussion:, timpani, triangle, snare drum, cymbals, glockenspiel, Other: celesta, 2 harps, strings, Brass band: 6 trumpets, 6 trombones",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1949
+   "est": false
   },
   {
    "c": "shostakovich-dmitri",
@@ -19225,7 +19233,7 @@
    "c": "shostakovich-dmitri",
    "t": "The Bolt",
    "cat": null,
-   "y": 1930,
+   "y": null,
    "g": "Ballet",
    "s": "two oboes, english horn",
    "counts": {
@@ -19239,14 +19247,13 @@
    "full": "piccolo, 2 flutes (2nd doubling piccolo), 2 oboes, cor anglais, 2 B♭ clarinets, E♭ clarinet (doubling bass clarinet), 2 bassoons, double bassoon, Brass: 6 French horns, 3 trumpets, 3 trombones, 1 baritone or euphonium, 1 tuba, Percussion: timpani, bass drum, cymbals, snare drum, triangle, tambourine, tam-tam, glockenspiel, xylophone, Strings, Additional inst",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1930
+   "est": false
   },
   {
    "c": "shostakovich-dmitri",
    "t": "The Golden Age",
    "cat": null,
-   "y": null,
+   "y": 1930,
    "g": "Ballet",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -19259,7 +19266,8 @@
    "full": "Woodwinds: two flutes (2nd doubling piccolo), two oboes (2nd doubling cor anglais [English horn]), three clarinets in B-flat (2nd doubling E clarinet, 3rd doubling bass clarinet), two saxophones (alto and baritone, doubling on soprano and tenor saxophones), and two bassoons (2nd doubling contrabassoon), Brass: four French horns, three trumpets, three trombones, euphonium, and bass tuba, Percussion",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1930
   },
   {
    "c": "shostakovich-dmitri",
@@ -19284,7 +19292,7 @@
    "c": "shostakovich-dmitri",
    "t": "Cello Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1966,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -19297,7 +19305,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1959.001
+   "sy": 1966
   },
   {
    "c": "shostakovich-dmitri",
@@ -19399,7 +19407,7 @@
    "c": "shostakovich-dmitri",
    "t": "The Nose",
    "cat": null,
-   "y": 1928,
+   "y": 1930,
    "g": "Opera",
    "s": "oboe (doubling english horn)",
    "counts": {
@@ -19413,7 +19421,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1928
+   "sy": 1930
   },
   {
    "c": "shostakovich-dmitri",
@@ -19696,7 +19704,7 @@
    "c": "prokofiev-sergei",
    "t": "The Tale of the Stone Flower",
    "cat": null,
-   "y": 1948,
+   "y": 1950,
    "g": "Orchestral",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -19710,13 +19718,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1948
+   "sy": 1950
   },
   {
    "c": "prokofiev-sergei",
    "t": "War and Peace",
    "cat": null,
-   "y": 1942,
+   "y": 1945,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -19731,13 +19739,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1942
+   "sy": 1945
   },
   {
    "c": "prokofiev-sergei",
    "t": "Cinderella",
    "cat": null,
-   "y": 1940,
+   "y": 1944,
    "g": "Ballet",
    "s": "two oboes, english horn",
    "counts": {
@@ -19752,7 +19760,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1940
+   "sy": 1944
   },
   {
    "c": "prokofiev-sergei",
@@ -19797,7 +19805,7 @@
    "c": "prokofiev-sergei",
    "t": "Flourish, Mighty Land",
    "cat": null,
-   "y": 1947,
+   "y": null,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -19811,8 +19819,7 @@
    "full": "Piccolo, 2 Flutes, 2 Oboes, English Horn, 2 Clarinets, Bass Clarinet, 2 Bassoons, Contrabassoon, 4 Horns, 3 Trumpets, 3 Trombones, Tuba, Timpani, Percussion (Triangle, Tambourine, Castanets, Snare Drum, Cymbals, Bass Drum), Harp, Piano, Strings, Chorus",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1947
+   "est": false
   },
   {
    "c": "prokofiev-sergei",
@@ -19838,7 +19845,7 @@
    "c": "prokofiev-sergei",
    "t": "Zdravitsa",
    "cat": null,
-   "y": 1939,
+   "y": null,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -19852,14 +19859,13 @@
    "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion (woodblocks, snare drum, tambourine, triangle, cymbals, bass drum, tam-tam, xylophone, tubular bells), harp, piano, strings, and a choir",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1939
+   "est": false
   },
   {
    "c": "prokofiev-sergei",
    "t": "Cello Concerto",
    "cat": null,
-   "y": 1933,
+   "y": 1938,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -19872,13 +19878,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1933
+   "sy": 1938
   },
   {
    "c": "prokofiev-sergei",
    "t": "Symphony-Concerto",
    "cat": null,
-   "y": null,
+   "y": 1952,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -19890,13 +19896,14 @@
    "full": "two flutes (second doubling piccolo), two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, percussion (timpani, cymbals, tambourine, triangle, bass drum, and snare drum), celesta, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1952
   },
   {
    "c": "prokofiev-sergei",
    "t": "Violin Concerto No. 1",
    "cat": null,
-   "y": 1915,
+   "y": 1917,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -19909,7 +19916,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1915
+   "sy": 1917
   },
   {
    "c": "prokofiev-sergei",
@@ -19934,7 +19941,7 @@
    "c": "prokofiev-sergei",
    "t": "Ivan the Terrible",
    "cat": null,
-   "y": 1945,
+   "y": 1944,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -19949,7 +19956,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1945
+   "sy": 1944
   },
   {
    "c": "prokofiev-sergei",
@@ -20163,7 +20170,7 @@
    "c": "prokofiev-sergei",
    "t": "Piano Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1913,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -20176,13 +20183,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1930.998
+   "sy": 1913
   },
   {
    "c": "prokofiev-sergei",
    "t": "Piano Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1921,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -20195,13 +20202,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1930.999
+   "sy": 1921
   },
   {
    "c": "prokofiev-sergei",
    "t": "Piano Concerto No. 5",
    "cat": null,
-   "y": null,
+   "y": 1932,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -20214,7 +20221,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1931.001
+   "sy": 1932
   },
   {
    "c": "mahler-gustav",
@@ -20469,7 +20476,7 @@
    "c": "strauss-richard",
    "t": "Divertimento for Chamber Orchestra after Keyboard Pieces by Couperin",
    "cat": null,
-   "y": null,
+   "y": 1940,
    "g": "Ballet",
    "s": "oboe, english horn",
    "counts": {
@@ -20483,13 +20490,14 @@
    "full": "2 flutes, oboe, cor anglais (oboe), 2 clarinets, 2 bassoons, 2 horns, trumpet, trombone, Timpani, Percussion: bass drum, cymbals, tambourine, triangle, Harpsichord, organ, harp, celesta, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1940
   },
   {
    "c": "strauss-richard",
    "t": "Josephs Legende",
    "cat": null,
-   "y": 1912,
+   "y": 1914,
    "g": "Ballet",
    "s": "two oboes, english horn, heckelphone",
    "counts": {
@@ -20506,7 +20514,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1912
+   "sy": 1914
   },
   {
    "c": "strauss-richard",
@@ -20611,7 +20619,7 @@
    "c": "strauss-richard",
    "t": "Die ägyptische Helena",
    "cat": null,
-   "y": null,
+   "y": 1928,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -20625,13 +20633,14 @@
    "full": "4 flutes, piccolo, 2 oboes, English horn, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon, Brass: 6 horns, 6 trumpets, 3 trombones, tuba, Percussion: timpani, bass drum, tam-tam (gong), snare drum, 1 pair of crash cymbals, suspended cymbal, glockenspiel, Other instruments: celesta, 2 harps, organ, 16 1st violins, 14 2nd violins, 12 violas, 10 cellos, 8 double basses, Stage band: 6 oboes, 6 c",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1928
   },
   {
    "c": "strauss-richard",
    "t": "Arabella",
    "cat": null,
-   "y": null,
+   "y": 1933,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -20645,13 +20654,14 @@
    "full": "Woodwinds: 2 flutes, piccolo, 2 oboes, English horn, 3 clarinets (1st and 2nd play clarinets in B-flat and A, the third part is for clarinet in C), bass clarinet (part in B-flat and A), 3 bassoons, contrabassoon, Brass: 4 horns, 3 trumpets, 3 trombones, bass tuba, Other: timpani, snare drum, bass drum, triangle, 1 pair of crash cymbals, suspended cymbal harp, 16 1st violins, 14 2nd violins, 12 vio",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1933
   },
   {
    "c": "strauss-richard",
    "t": "Ariadne auf Naxos",
    "cat": null,
-   "y": 1916,
+   "y": 1912,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -20664,7 +20674,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1916
+   "sy": 1912
   },
   {
    "c": "strauss-richard",
@@ -20690,7 +20700,7 @@
    "c": "strauss-richard",
    "t": "Die Frau ohne Schatten",
    "cat": null,
-   "y": 1914,
+   "y": 1919,
    "g": "Opera",
    "s": "three oboes, english horn",
    "counts": {
@@ -20705,13 +20715,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1914
+   "sy": 1919
   },
   {
    "c": "strauss-richard",
    "t": "Intermezzo",
    "cat": null,
-   "y": null,
+   "y": 1924,
    "g": "Opera",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -20724,7 +20734,8 @@
    "full": "2 flutes (flute 2 doubles piccolo), 2 oboes (oboe 2 doubles English Horn), 2 clarinets in B-flat (clarinet 2 doubles bass clarinet in A), 2 bassoons (2nd bassoon must play low A in act 2), Brass: 3 horns (in F, E, D, E-flat, and A), 2 trumpets (in C), 2 trombones, Percussion: timpani, suspended cymbals, crash cymbals, snare drum, triangle, bass drum, pair of [sleigh] bells, Keyboards: piano, harmo",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1924
   },
   {
    "c": "strauss-richard",
@@ -20750,7 +20761,7 @@
    "c": "strauss-richard",
    "t": "Salome",
    "cat": null,
-   "y": null,
+   "y": 1905,
    "g": "Opera",
    "s": "two oboes, english horn, heckelphone",
    "counts": {
@@ -20766,13 +20777,14 @@
    "full": "piccolo, 3 flutes, 2 oboes, English horn, heckelphone, E-flat clarinet, 2 clarinets in B-flat, 2 clarinets in A, bass clarinet, 3 bassoons, contrabassoon, Brass: 6 horns, 4 trumpets, 4 trombones, tuba, Percussion (8–9 players): 5 timpani, snare drum, bass drum, 1 pair of crash cymbals, suspended cymbal. triangle, tam-tam (gong), tambourine, 1 pair of castanets, glockenspiel, xylophone, Keyboards: ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1905
   },
   {
    "c": "strauss-richard",
    "t": "Die schweigsame Frau",
    "cat": null,
-   "y": null,
+   "y": 1935,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -20786,7 +20798,8 @@
    "full": "3 flutes, piccolo, 2 oboes, English horn, D-clarinet, 2 clarinets in B-flat and A, bass clarinet, 3 bassoons, contrabassoon, 4 French horns, 3 trumpets, 3 trombones, tuba, Timpani, glockenspiel, xylophone, 4 large bells, 1 set of small bells, snare drum, bass drum, 1 pair of crash cymbals, suspended cymbal, tam-tam (gong), triangle, tambourine, rattle, 1 pair of castanets, Celesta, harp, harpsicho",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1935
   },
   {
    "c": "strauss-richard",
@@ -20934,7 +20947,7 @@
    "c": "strauss-richard",
    "t": "An Alpine Symphony",
    "cat": null,
-   "y": null,
+   "y": 1915,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn), heckelphone",
    "counts": {
@@ -20949,13 +20962,14 @@
    "full": "flute flutes (3rd and 4th doubling piccolos), 3 oboes (3rd doubling English horn), 1 heckelphone, 1 clarinet in E, 2 clarinets in B, 1 bass clarinet (doubling clarinet in C), 4 bassoons (4th doubling contrabassoon), Brass, 8 French horns (horns 5–8 double Wagner tubas), 4 trumpets, 4 trombones, 2 tubas, 12 offstage horns, 2 offstage trumpets, 2 offstage trombones, Percussion, timpani (2 players), ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1915
   },
   {
    "c": "strauss-richard",
    "t": "Symphonia Domestica",
    "cat": null,
-   "y": null,
+   "y": 1903,
    "g": "Symphony",
    "s": "two oboes, oboe d'amore, english horn",
    "counts": {
@@ -20971,13 +20985,14 @@
    "full": "piccolo, 3 flutes, 2 oboes, oboe d'amore, English horn, clarinet in D, 3 clarinets (2 in B, 1 in A), bass clarinet in B, 4 bassoons, contrabassoon, 4 saxophones (soprano in C, alto in F, baritone in F, bass in C) that are ad libitum (optional), 8 horns in F, 4 trumpets in F and C, 3 trombones, tuba, timpani, bass drum, triangle, cymbals, glockenspiel, 2 harps, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1903
   },
   {
    "c": "strauss-richard",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1880,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -20989,13 +21004,14 @@
    "full": "Two flutes, two oboes, two clarinets, two bassoons, Four french horns, two trumpets, three trombones, Timpani, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1880
   },
   {
    "c": "strauss-richard",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1885,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -21007,13 +21023,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 2 trumpets in F and C, 3 trombones, tuba, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1885
   },
   {
    "c": "strauss-richard",
    "t": "Aus Italien",
    "cat": null,
-   "y": null,
+   "y": 1886,
    "g": "Orchestral",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -21026,13 +21043,14 @@
    "full": "piccolo, 2 flutes, 2 oboes (2nd doubling English horn), 2 clarinets in B, 2 bassoons, contrabassoon, Brass: 4 horns in F, 2 trumpets in C, 3 trombones, Percussion: timpani, snare drum, tambourine, cymbals, triangle, Strings, harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1886
   },
   {
    "c": "strauss-richard",
    "t": "Death and Transfiguration",
    "cat": null,
-   "y": null,
+   "y": 1889,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -21046,13 +21064,14 @@
    "full": "Woodwinds, 3 flutes, 2 oboes, 1 English horn, 2 clarinets in B, 1 bass clarinet, 2 bassoons, 1 contrabassoon, Brass, 4 horns in F, 3 trumpets in F and C, 3 trombones, 1 tuba, Percussion, timpani, tam-tam, Strings, violins I, II, violas, celli, double basses, 2 harps",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1889
   },
   {
    "c": "strauss-richard",
    "t": "Macbeth",
    "cat": null,
-   "y": null,
+   "y": 1888,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -21066,13 +21085,14 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, bass trumpet, 3 trombones, tuba, timpani, bass drum, snare drum, cymbals, tam-tam and strings, 450px|page=857",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1888
   },
   {
    "c": "ravel-maurice",
    "t": "Alborada del gracioso",
    "cat": null,
-   "y": 1905,
+   "y": 1904,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -21087,7 +21107,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1905
+   "sy": 1904
   },
   {
    "c": "ravel-maurice",
@@ -21134,7 +21154,7 @@
    "c": "ravel-maurice",
    "t": "Piano Concerto for the Left Hand",
    "cat": null,
-   "y": 1929,
+   "y": 1930,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -21149,13 +21169,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1929
+   "sy": 1930
   },
   {
    "c": "ravel-maurice",
    "t": "Shéhérazade",
    "cat": null,
-   "y": 1888,
+   "y": 1903,
    "g": "Vocal",
    "s": "two oboes, english horn",
    "counts": {
@@ -21170,13 +21190,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1888
+   "sy": 1903
   },
   {
    "c": "ravel-maurice",
    "t": "Miroirs",
    "cat": null,
-   "y": 1904,
+   "y": 1905,
    "g": "Suite",
    "s": "two oboes, english horn",
    "counts": {
@@ -21191,13 +21211,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1904
+   "sy": 1905
   },
   {
    "c": "ravel-maurice",
    "t": "Valses nobles et sentimentales",
    "cat": null,
-   "y": null,
+   "y": 1911,
    "g": "Suite",
    "s": "two oboes, english horn",
    "counts": {
@@ -21211,13 +21231,14 @@
    "full": "two flutes, two oboes, cor anglais, two clarinets (in B and A), two bassoons, four horns (in F), two trumpets, three trombones, tuba, timpani, tambourine, cymbals, snare drum, glockenspiel, triangle, bass drum, celesta, two harps, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1911
   },
   {
    "c": "ravel-maurice",
    "t": "Menuet antique",
    "cat": null,
-   "y": null,
+   "y": 1895,
    "g": "Piano",
    "s": "two oboes, english horn",
    "counts": {
@@ -21231,13 +21252,14 @@
    "full": "2 flutes, piccolo, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1895
   },
   {
    "c": "debussy-claude",
    "t": "Jeux",
    "cat": null,
-   "y": 1912,
+   "y": null,
    "g": "Ballet",
    "s": "three oboes, english horn",
    "counts": {
@@ -21251,14 +21273,13 @@
    "full": "2 flutes, 3 oboes, English horn, 3 clarinets, bass clarinet, 3 bassoons, sarrusophone, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, triangle, tambourine, cymbals, xylophone, celesta, 2 harps, and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1912
+   "est": false
   },
   {
    "c": "debussy-claude",
    "t": "Six sonatas for various instruments",
    "cat": null,
-   "y": 1915,
+   "y": 1917,
    "g": "Chamber",
    "s": "oboe",
    "counts": {
@@ -21271,7 +21292,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1915
+   "sy": 1917
   },
   {
    "c": "debussy-claude",
@@ -21298,7 +21319,7 @@
    "c": "debussy-claude",
    "t": "Fantaisie for piano and orchestra",
    "cat": null,
-   "y": 1889,
+   "y": 1890,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -21313,7 +21334,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1889
+   "sy": 1890
   },
   {
    "c": "debussy-claude",
@@ -21340,7 +21361,7 @@
    "c": "debussy-claude",
    "t": "Pelléas et Mélisande",
    "cat": null,
-   "y": null,
+   "y": 1902,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -21354,13 +21375,14 @@
    "full": "3 flutes (one doubles piccolo), 2 oboes, cor anglais, 2 clarinets, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, cymbals, triangle, glockenspiel, bell, 2 harps, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1902
   },
   {
    "c": "debussy-claude",
    "t": "Petite Suite",
    "cat": null,
-   "y": 1886,
+   "y": 1889,
    "g": "Piano",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -21374,7 +21396,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1886
+   "sy": 1889
   },
   {
    "c": "debussy-claude",
@@ -21812,7 +21834,7 @@
    "c": "sibelius-jean",
    "t": "Cantata for the Coronation of Nicholas II",
    "cat": null,
-   "y": null,
+   "y": 1896,
    "g": "Choral",
    "s": "oboe",
    "counts": {
@@ -21824,13 +21846,14 @@
    "full": "1 flute (doubling on piccolo), 1 oboe, 2 clarinets, and 1 bassoon, 2 horns, 2 trumpets, and 3 trombones, Bass drum, cymbals, and triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1896
   },
   {
    "c": "sibelius-jean",
    "t": "Cantata for the University Graduation Ceremonies of 1894",
    "cat": null,
-   "y": null,
+   "y": 1894,
    "g": "Choral",
    "s": "oboe",
    "counts": {
@@ -21842,13 +21865,14 @@
    "full": "2 flutes, 1 oboe, 2 clarinets, and 1 bassoon, 2 horns, 2 trumpets, 3 trombones, and tuba, Timpani, bass drum, cymbals, and triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1894
   },
   {
    "c": "sibelius-jean",
    "t": "The Captive Queen",
    "cat": null,
-   "y": null,
+   "y": 1906,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -21860,13 +21884,14 @@
    "full": "2 flutes (one doubling piccolo), 2 oboes, 1 clarinet (in B ), 1 bass clarinet (in B ), and 1 bassoon, 4 horns (in F), 2 trumpets (in F), and 3 trombones, Timpani, bass drum, cymbals, and triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1906
   },
   {
    "c": "sibelius-jean",
    "t": "Hymn of the Earth",
    "cat": null,
-   "y": null,
+   "y": 1920,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -21878,13 +21903,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, 4 horns (in F), 2 trumpets (in B ), and 3 trombones, Timpani, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1920
   },
   {
    "c": "sibelius-jean",
    "t": "My Own Land",
    "cat": null,
-   "y": null,
+   "y": 1918,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -21896,13 +21922,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, 4 horns (in F), 2 trumpets (in B ), and 3 trombones, Timpani and glockenspiel, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1918
   },
   {
    "c": "sibelius-jean",
    "t": "The Origin of Fire",
    "cat": null,
-   "y": null,
+   "y": 1902,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -21914,13 +21941,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, and 2 bassoons, 4 horns, 2 trumpets, 3 trombones, and tuba, Timpani, glockenspiel, bass drum, cymbals, and triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1902
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1899,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -21933,13 +21961,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1901.999
+   "sy": 1899
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1907,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -21952,13 +21980,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902.001
+   "sy": 1907
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": null,
+   "y": 1911,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -21971,13 +21999,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902.002
+   "sy": 1911
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": null,
+   "y": 1915,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -21990,13 +22018,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902.003
+   "sy": 1915
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 6",
    "cat": null,
-   "y": null,
+   "y": 1923,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -22009,13 +22037,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902.004
+   "sy": 1923
   },
   {
    "c": "sibelius-jean",
    "t": "Symphony No. 7",
    "cat": null,
-   "y": null,
+   "y": 1924,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -22028,13 +22056,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902.005
+   "sy": 1924
   },
   {
    "c": "sibelius-jean",
    "t": "The Bard",
    "cat": null,
-   "y": null,
+   "y": 1913,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22046,13 +22074,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets (in B ), 1 bass clarinet (in B ), and 2 bassoons, 4 horns (in F), 2 trumpets (in B ), and 3 trombones, Timpani, bass drum, and tam-tam, Strings, and harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1913
   },
   {
    "c": "sibelius-jean",
    "t": "The Dryad",
    "cat": null,
-   "y": null,
+   "y": 1910,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22064,13 +22093,14 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, 2 clarinets (in B ), 1 bass clarinet (in B ), and 2 bassoons, 4 horns (in F), 3 trumpets (in B ), 3 trombones, and tuba, Bass drum, snare drum, castanets, and tambourine, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1910
   },
   {
    "c": "sibelius-jean",
    "t": "Luonnotar",
    "cat": null,
-   "y": null,
+   "y": 1913,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22082,13 +22112,14 @@
    "full": "2 flutes (each doubling on piccolo), 2 oboes, 2 clarinets (in A), 1 bass clarinet (in B ), and 2 bassoons, 4 horns (in F), 2 trumpets (in B ), and 3 trombones, Timpani (2 players), Strings, and 2 harps",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1913
   },
   {
    "c": "sibelius-jean",
    "t": "Nightride and Sunrise",
    "cat": null,
-   "y": null,
+   "y": 1908,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22100,13 +22131,14 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, 2 clarinets (in B ), 1 bass clarinet (in B ), 2 bassoons, and 1 contrabassoon, 4 horns (in F), 2 trumpets (in F), 3 trombones, and tuba, Timpani, bass drum, snare drum, suspended cymbal, tambourine, and triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1908
   },
   {
    "c": "sibelius-jean",
    "t": "The Oceanides",
    "cat": null,
-   "y": null,
+   "y": 1914,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -22120,13 +22152,14 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets (in B ), 1 bass clarinet (in B ), 2 bassoons, and contrabassoon, 4 horns (in F), 3 trumpets (in B ), and 3 trombones, Timpani (2 players), triangle, and glockenspiel (\"stahlstäbe\"), Strings, and 2 harps, The original version of the piece called for one fewer trumpet",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1914
   },
   {
    "c": "sibelius-jean",
    "t": "En saga",
    "cat": null,
-   "y": null,
+   "y": 1892,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22138,13 +22171,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets (in B ), and 2 bassoons, 4 horns (in F), 3 trumpets (in F), 3 trombones, and tuba, Bass drum, cymbals (suspended and clash), and triangle, Strings, Uncommonly for a Sibelius score, there is no part for timpani, the place of which the bass drum takes",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1892
   },
   {
    "c": "sibelius-jean",
    "t": "Spring Song",
    "cat": null,
-   "y": null,
+   "y": 1894,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22156,13 +22190,14 @@
    "full": "2 flutes (each doubling piccolo), 2 oboes, 2 clarinets (in B ), and 2 bassoons, 4 horns (in F), 3 trumpets (in F), 3 trombones, and tuba, Timpani and tubular bells (\"glocken\"), Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1894
   },
   {
    "c": "sibelius-jean",
    "t": "Tapiola",
    "cat": null,
-   "y": null,
+   "y": 1926,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -22176,7 +22211,8 @@
    "full": "3 flutes (the third doubling on piccolo), 2 oboes, 1 cor anglais, 2 clarinets (in A), 1 bass clarinet (in B ), 2 bassoons, and 1 contrabassoon, 4 horns (in E ), 3 trumpets (in B ), and 3 trombones, Timpani, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1926
   },
   {
    "c": "bartok-bela",
@@ -22222,7 +22258,7 @@
    "c": "bartok-bela",
    "t": "The Miraculous Mandarin",
    "cat": null,
-   "y": 1918,
+   "y": null,
    "g": "Suite",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -22235,14 +22271,13 @@
    "full": "3 flutes (2nd and 3rd doubling piccolo), 3 oboes (3rd doubling English horn), 3 clarinets (second doubling E clarinet and third doubling bass clarinet), 3 bassoons (third doubling contrabassoon), Brass, 4 horns (second and fourth doubling Wagner tuba), 3 trumpets in C, 3 trombones, bass tuba, Percussion, timpani, snare drum, tenor drum, bass drum, cymbals, triangle, tam-tam, xylophone, Keyboards, ",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1918
+   "est": false
   },
   {
    "c": "bartok-bela",
    "t": "Concerto for Orchestra",
    "cat": null,
-   "y": null,
+   "y": 1943,
    "g": "Concerto",
    "s": "three oboes (doubling english horn)",
    "counts": {
@@ -22255,13 +22290,14 @@
    "full": "3 flutes (one doubling piccolo), 3 oboes (one doubling cor anglais), 3 clarinets (one doubling bass clarinet), 3 bassoons (one doubling contrabassoon), Brass:, 4 horns, 3 trumpets, 3 trombones, 1 tuba, Percussion:, timpani, side drum, bass drum, cymbals, triangle, tam-tam, Strings:, 2 harps, violins I, II, violas, cellos, double basses",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1943
   },
   {
    "c": "bartok-bela",
    "t": "Viola Concerto",
    "cat": null,
-   "y": null,
+   "y": 1945,
    "g": "Concerto",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -22274,13 +22310,14 @@
    "full": "flute, oboe, 2 clarinets, bassoon, horns, 2 trumpets, timpani, strings, Serly's edition is orchestrated for piccolo, 2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 3 horns in F, 3 trumpets in B, 2 trombones, tuba, timpani, percussion and strings, Peter Bartók's edition is orchestrated for piccolo, 2 flutes, 2 oboes (2nd doubling cor anglais), 2 clarinets in B, 2 bassoons (2nd doubling contrabass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1945
   },
   {
    "c": "bartok-bela",
    "t": "Violin Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1938,
    "g": "Concerto",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -22293,7 +22330,8 @@
    "full": "2 flutes (2nd doubling piccolo), 2 oboes (2nd doubling English horn), 2 clarinets (2nd doubling bass clarinet), 2 bassoons (2nd doubling contrabassoon), 4 horns, 2 trumpets, 3 trombones, timpani, side drum, bass drum, cymbals, triangle, tamtam (gong), celesta, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1938
   },
   {
    "c": "bartok-bela",
@@ -22317,7 +22355,7 @@
    "c": "bartok-bela",
    "t": "Piano Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1926,
    "g": "Concerto",
    "s": "two oboes (doubling english horn)",
    "counts": {
@@ -22330,13 +22368,14 @@
    "full": "a solo piano, two flutes (one doubling on piccolo), two oboes (one doubling on cor anglais), two clarinets (one doubling on bass clarinet), two bassoons, four horns (in F), two trumpets (in C), three trombones, timpani, two snare drums (one with snares and one without), bass drum, four cymbals, triangle, tamtam, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1926
   },
   {
    "c": "bartok-bela",
    "t": "Piano Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1931,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -22348,13 +22387,14 @@
    "full": "a solo piano, two flutes (one doubling on piccolo), two oboes, two clarinets (in B ), two bassoons (one doubling on contrabassoon), four horns (in F), three trumpets (in C), three trombones, tuba, percussion (timpani, snare drum, bass drum, triangle, and cymbals), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1931
   },
   {
    "c": "bartok-bela",
    "t": "Piano Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1945,
    "g": "Concerto",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -22367,7 +22407,8 @@
    "full": "2 flutes (2nd doubling piccolo), 2 oboes (2nd doubling cor anglais), 2 clarinets in A and B (2nd doubling bass clarinet), 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, timpani, percussion, strings, and piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1945
   },
   {
    "c": "bartok-bela",
@@ -22449,7 +22490,7 @@
    "c": "britten-benjamin",
    "t": "Soirées musicales",
    "cat": null,
-   "y": 1935,
+   "y": 1937,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -22462,7 +22503,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1935
+   "sy": 1937
   },
   {
    "c": "britten-benjamin",
@@ -22507,7 +22548,7 @@
    "c": "britten-benjamin",
    "t": "Billy Budd",
    "cat": null,
-   "y": null,
+   "y": 1951,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -22521,7 +22562,8 @@
    "full": "4 flutes (2nd, 3rd and 4th doubling piccolos), 2 oboes, cor anglais, 2 clarinets (2nd doubling E-flat clarinet and 2nd bass clarinet), bass clarinet (doubling 3rd clarinet), alto saxophone, 2 bassoons, double bassoon, 4 horns, 4 trumpets (3rd in D), 3 trombones, tuba, timpani, percussion (six players xylophone, glockenspiel, triangle, block, tambourine, side drum, tenor drum, bass drum, whip, cymb",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1951
   },
   {
    "c": "britten-benjamin",
@@ -22569,7 +22611,7 @@
    "c": "britten-benjamin",
    "t": "Nocturne",
    "cat": null,
-   "y": null,
+   "y": 1958,
    "g": "Vocal",
    "s": "english horn",
    "counts": {
@@ -22581,7 +22623,8 @@
    "full": "flute, cor anglais, clarinet, bassoon, harp, French horn and timpani. Nocturne was Britten's fourth and final orchestral song cycle, after Our Hunting Fathers (Op. 8, 1936), Les Illuminations (Op. 18, 1939) and Serenade for Tenor, Horn and Strings (Op. 31, 1943)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1958
   },
   {
    "c": "britten-benjamin",
@@ -22644,7 +22687,7 @@
    "c": "britten-benjamin",
    "t": "Piano Concerto",
    "cat": null,
-   "y": null,
+   "y": 1938,
    "g": "Concerto",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -22657,13 +22700,14 @@
    "full": "2 flutes (both doubling piccolo), 2 oboes (2nd doubling English horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, percussion (timpani, glockenspiel, cymbals, whip, bass drum, snare drum, tambourine, and tenor drum), harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1938
   },
   {
    "c": "britten-benjamin",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1939,
    "g": "Concerto",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -22676,13 +22720,14 @@
    "full": "solo violin and an orchestra of 3 flutes (2nd and 3rd doubling piccolo), 2 oboes (2nd doubling cor anglais), 2 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, percussion (timpani, glockenspiel, cymbals, triangle, bass drum, side drum, and tenor drum), harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1939
   },
   {
    "c": "copland-aaron",
    "t": "Appalachian Spring",
    "cat": null,
-   "y": 1945,
+   "y": 1944,
    "g": "Ballet",
    "s": "two oboes",
    "counts": {
@@ -22695,13 +22740,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1945
+   "sy": 1944
   },
   {
    "c": "copland-aaron",
    "t": "Billy the Kid",
    "cat": null,
-   "y": null,
+   "y": 1938,
    "g": "Ballet",
    "s": "two oboes",
    "counts": {
@@ -22713,13 +22758,14 @@
    "full": "Woodwinds, Brass, Percussion, Strings, piccolo, 4 horns in F, piano, harp, 2 flutes, 3 trumpets in B♭, timpani, 1st and 2nd violins, 2 oboes, 3 trombones, bass drum, violas, 2 clarinets in B♭, tuba, cymbals, cellos, 2 bassoons, triangle, contrabasses, snare drum, woodblock, sleigh bells, gourd (or guiro), glockenspiel, xylophone, slapstick",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1938
   },
   {
    "c": "copland-aaron",
    "t": "Rodeo",
    "cat": null,
-   "y": null,
+   "y": 1942,
    "g": "Ballet",
    "s": "two oboes, english horn",
    "counts": {
@@ -22733,7 +22779,8 @@
    "full": "3 flutes (2nd and 3rd doubling 2 piccolos), 2 oboes, English horn, 2 B clarinets, bass clarinet, 2 bassoons, contrabassoon, Brass, 4 horns, 3 B trumpets, 3 trombones, 1 tuba, Percussion, timpani, glockenspiel, xylophone, 1 pair of crash cymbals, suspended cymbal, triangle, woodblock, whip, bass drum, snare drum, piano (doubling on celesta), Strings, harp, 16 1st violins, 16 2nd violins, 12 violas,",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1942
   },
   {
    "c": "copland-aaron",
@@ -22781,7 +22828,7 @@
    "c": "copland-aaron",
    "t": "Letter from Home",
    "cat": null,
-   "y": null,
+   "y": 1944,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -22793,7 +22840,8 @@
    "full": "flute, oboe, four saxophones, French horn, three trumpets, three trombones, tuba, guitar, piano, harp, percussion, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1944
   },
   {
    "c": "copland-aaron",
@@ -22881,7 +22929,7 @@
    "c": "copland-aaron",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1946,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -22894,13 +22942,14 @@
    "full": "piccolo, 3 flutes (3rd doubling 2nd piccolo), 3 oboes (3rd doubling cor anglais), 2 clarinets in B, clarinet in E, bass clarinet, 2 bassoons, contrabassoon, 4 horns in F, 4 trumpets in B, 3 trombones, tuba, timpani, cymbals, bass drum, tenor drum, snare drum, triangle, tamtam, glockenspiel, xylophone, anvil, claves, ratchet, whip, tubular bells, wood block, piano, celesta, 2 harps, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1946
   },
   {
    "c": "copland-aaron",
    "t": "Short Symphony",
    "cat": null,
-   "y": null,
+   "y": 1933,
    "g": "Symphony",
    "s": "two oboes, heckelphone (doubling english horn)",
    "counts": {
@@ -22915,13 +22964,14 @@
    "full": "piccolo, 2 flutes (flute 1 doubling flute in G), 2 oboes, heckelphone (doubling cor anglais), 2 clarinets, bass clarinet, 2 bassoons, double bassoon, Brass:, 4 horns, 2 trumpets, piano, Strings:, violins I, II, violas, cellos, double bass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1933
   },
   {
    "c": "copland-aaron",
    "t": "Symphony for Organ and Orchestra",
    "cat": null,
-   "y": null,
+   "y": 1924,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -22935,7 +22985,8 @@
    "full": "Organ and Orchestra is scored for piccolo, two flutes, two oboes, English horn, two clarinets in B, bass clarinet in B, two bassoons, contrabassoon, four horns, three trumpets in C, 3 trombones, tuba, timpani, percussion, two harps, celesta, strings, and organ, The First Symphony (the non-organ version) is scored for piccolo, two flutes, two oboes, English horn, two clarinets in B, bass clarinet i",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1924
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -22979,7 +23030,7 @@
    "c": "tchaikovsky-pyotr",
    "t": "Moscow",
    "cat": null,
-   "y": 1883,
+   "y": null,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -22991,8 +23042,7 @@
    "full": "3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, harp and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1883
+   "est": false
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -23076,7 +23126,7 @@
    "c": "tchaikovsky-pyotr",
    "t": "Cherevichki",
    "cat": null,
-   "y": 1885,
+   "y": 1887,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -23089,13 +23139,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1885
+   "sy": 1887
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Enchantress",
    "cat": null,
-   "y": 1885,
+   "y": 1887,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23110,13 +23160,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1885
+   "sy": 1887
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Eugene Onegin",
    "cat": null,
-   "y": null,
+   "y": 1879,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -23128,13 +23178,14 @@
    "full": "Piccolo, 2 Flutes, 2 Oboes, 2 Clarinets (A, B-flat), 2 Bassoons, Brass: 4 Horns (F), 2 Trumpets (F), 3 Trombones, Strings, Harp, Percussion: Timpani",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1879
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Iolanta",
    "cat": null,
-   "y": null,
+   "y": 1892,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23148,13 +23199,14 @@
    "full": "strings, Woodwinds: 3 flutes (3rd doubling piccolo), 2 oboes, Cor Anglais, 2 clarinets (B-flat & A), 2 bassoons, Brass: 4 horns (all in F), 2 trumpets (B-flat, A), 3 trombones, tuba, Percussion: timpani, Other: 2 harps",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1892
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Maid of Orleans",
    "cat": null,
-   "y": 1879,
+   "y": 1881,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23169,13 +23221,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1879
+   "sy": 1881
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Mazeppa",
    "cat": null,
-   "y": 1881,
+   "y": 1884,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23190,13 +23242,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1881
+   "sy": 1884
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Oprichnik",
    "cat": null,
-   "y": null,
+   "y": 1874,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -23208,13 +23260,14 @@
    "full": "Strings, Woodwinds: Piccolo, 2 Flutes, 2 Oboes, 2 Clarinets (in B-flat, and A), 2 bassoons, Brass: 4 Horns (in F), 2 Trumpets (in D, F, and C), 3 Trombones, Tuba, Percussion: Timpani, Triangle, Cymbals, Bass Drum, Other: Harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1874
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Queen of Spades",
    "cat": null,
-   "y": null,
+   "y": 1890,
    "g": "Opera",
    "s": "two oboes (1st doubling english horn)",
    "counts": {
@@ -23227,7 +23280,8 @@
    "full": "strings, Woodwinds: three flutes (3rd doubling piccolo), two oboes (first doubling cor anglais), two clarinets (B-flat, A), bass clarinet (B-flat), two bassoons, Brass: four horns (F), two trumpets (B-flat, A), three trombones, tuba, Percussion: timpani, snare drum, bass drum, Other: harp, piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1890
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -23252,7 +23306,7 @@
    "c": "tchaikovsky-pyotr",
    "t": "Vakula the Smith",
    "cat": null,
-   "y": null,
+   "y": 1874,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -23264,13 +23318,14 @@
    "full": "Strings, Woodwinds: Piccolo, 2 Flutes, 2 Oboes, 2 Clarinets (B-flat and A), 2 Bassoons, Brass: 4 Horns (all F), 2 Trumpets (F and E), 3 Trombones, Tuba, Percussion: Timpani, Triangle, Tambourine, Cymbals, Bass Drum, Other: Harp, On/Offstage: Wind Band (off)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1874
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Voyevoda",
    "cat": null,
-   "y": 1867,
+   "y": 1869,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23285,7 +23340,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1867
+   "sy": 1869
   },
   {
    "c": "tchaikovsky-pyotr",
@@ -23312,7 +23367,7 @@
    "c": "tchaikovsky-pyotr",
    "t": "Orchestral Suite No. 1",
    "cat": null,
-   "y": 1878,
+   "y": 1879,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -23325,13 +23380,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1878
+   "sy": 1879
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Orchestral Suite No. 2",
    "cat": null,
-   "y": null,
+   "y": 1883,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -23346,13 +23401,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1881
+   "sy": 1883
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Orchestral Suite No. 3",
    "cat": null,
-   "y": null,
+   "y": 1884,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -23430,7 +23485,7 @@
    "c": "tchaikovsky-pyotr",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1878,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -23442,13 +23497,14 @@
    "full": "solo violin, two flutes, two oboes, two clarinets in A and B, two bassoons, four horns in F, two trumpets in D, optional trombone, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1878
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "1812 Overture",
    "cat": null,
-   "y": null,
+   "y": 1880,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -23462,13 +23518,14 @@
    "full": "an organ. the brass band or its substitute is meant to play during the finale only, Woodwinds: 1 piccolo, 2 flutes, 2 oboes, 1 cor anglais, 2 clarinets in B and 2 bassoons, Brass: 4 horns in F, 2 cornets in B, 2 trumpets in E, 3 trombones (2 tenor, 1 bass) and 1 tuba, Percussion: timpani, orchestral bass drum, snare drum, cymbals, tambourine, t",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1880
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Francesca da Rimini",
    "cat": null,
-   "y": null,
+   "y": 1877,
    "g": "Tone poem",
    "s": "two oboes, english horn",
    "counts": {
@@ -23482,13 +23539,14 @@
    "full": "3 flutes (third doubling piccolo), 2 oboes, English horn, 2 clarinets in A, 2 bassoons, 4 horns, 2 cornets in A, 2 trumpets in E, 3 trombones, tuba, timpani, bass drum, cymbals, tam tam, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1877
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "The Tempest",
    "cat": null,
-   "y": null,
+   "y": 1873,
    "g": "Tone poem",
    "s": "two oboes",
    "counts": {
@@ -23500,13 +23558,14 @@
    "full": "Piccolo, 2 Flutes, 2 Oboes, 2 Clarinets (B♭), 2 Bassoons + 4 Horns (F), 2 Trumpets (F), 3 Trombones, Tuba + Timpani, Cymbals, Bass Drum + Strings, 450px|page=960",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1873
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Manfred Symphony",
    "cat": null,
-   "y": null,
+   "y": 1885,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -23520,13 +23579,14 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, 1 cor anglais, 2 clarinets in A, B, bass clarinet, 3 bassoons (3rd doubling contrabassoon in some performances), Brass, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, Percussion, timpani, bass drum, cymbals, tam-tam, triangle, tambourine, bells, Keyboards, harmonium (usually played on organ) featured in the climactic coda of the finale, Strings, violin",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1885
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1866,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -23539,13 +23599,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877.997
+   "sy": 1866
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1872,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -23558,13 +23618,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877.998
+   "sy": 1872
   },
   {
    "c": "tchaikovsky-pyotr",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1875,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -23577,13 +23637,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877.999
+   "sy": 1875
   },
   {
    "c": "dvorak-antonin",
    "t": "Romance in F minor",
    "cat": null,
-   "y": 1873,
+   "y": 1879,
    "g": "Chamber",
    "s": "two oboes",
    "counts": {
@@ -23596,7 +23656,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1873
+   "sy": 1879
   },
   {
    "c": "dvorak-antonin",
@@ -23661,7 +23721,7 @@
    "c": "dvorak-antonin",
    "t": "Armida",
    "cat": null,
-   "y": null,
+   "y": 1904,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23675,13 +23735,14 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 4 trumpets (including 2 off-stage), 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1904
   },
   {
    "c": "dvorak-antonin",
    "t": "Rusalka",
    "cat": null,
-   "y": 1899,
+   "y": 1901,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -23696,7 +23757,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1899
+   "sy": 1901
   },
   {
    "c": "dvorak-antonin",
@@ -23721,7 +23782,7 @@
    "c": "dvorak-antonin",
    "t": "Symphonic Variations",
    "cat": null,
-   "y": 1877,
+   "y": 1887,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -23734,7 +23795,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877
+   "sy": 1887
   },
   {
    "c": "dvorak-antonin",
@@ -23838,7 +23899,7 @@
    "c": "dvorak-antonin",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1879,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -23850,13 +23911,14 @@
    "full": "solo violin and an orchestra consisting of two flutes, two oboes, two clarinets (in A), two bassoons, four horns, two trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1879
   },
   {
    "c": "dvorak-antonin",
    "t": "Carnival Overture",
    "cat": null,
-   "y": null,
+   "y": 1891,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -23870,7 +23932,8 @@
    "full": "two flutes, piccolo, two oboes, English horn, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, triangle, cymbals, tambourine, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1891
   },
   {
    "c": "dvorak-antonin",
@@ -23896,7 +23959,7 @@
    "c": "dvorak-antonin",
    "t": "Othello",
    "cat": null,
-   "y": null,
+   "y": 1892,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -23910,13 +23973,14 @@
    "full": "two flutes (Flute I doubling piccolo), two oboes, English horn, two clarinets in A, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, bass drum, cymbals, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1892
   },
   {
    "c": "dvorak-antonin",
    "t": "The Golden Spinning Wheel",
    "cat": null,
-   "y": null,
+   "y": 1896,
    "g": "Tone poem",
    "s": "two oboes, english horn",
    "counts": {
@@ -23930,13 +23994,14 @@
    "full": "piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1896
   },
   {
    "c": "dvorak-antonin",
    "t": "The Noon Witch",
    "cat": null,
-   "y": null,
+   "y": 1896,
    "g": "Tone poem",
    "s": "two oboes",
    "counts": {
@@ -23948,13 +24013,14 @@
    "full": "piccolo, two flutes, two oboes, two clarinets in A, bass clarinet in A, two bassoons, four horns (in F and E), two trumpets in C, three trombones, tuba, timpani, crash cymbals, bass drum, triangle, tubular bells (in C & A), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1896
   },
   {
    "c": "dvorak-antonin",
    "t": "The Water Goblin",
    "cat": null,
-   "y": null,
+   "y": 1896,
    "g": "Tone poem",
    "s": "two oboes, english horn",
    "counts": {
@@ -23968,13 +24034,14 @@
    "full": "piccolo, two flutes, two oboes, English horn, two clarinets, bass clarinet, two bassoons, four horns, two trumpets, three trombones (alto, tenor, and bass), tuba, timpani, bass drum, cymbals, triangle, tamtam, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1896
   },
   {
    "c": "dvorak-antonin",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": null,
+   "y": 1875,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -23987,13 +24054,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877.75
+   "sy": 1875
   },
   {
    "c": "dvorak-antonin",
    "t": "Symphony No. 6",
    "cat": null,
-   "y": null,
+   "y": 1880,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -24006,13 +24073,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1881.5
+   "sy": 1880
   },
   {
    "c": "dvorak-antonin",
    "t": "Symphony No. 7",
    "cat": null,
-   "y": null,
+   "y": 1885,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -24025,7 +24092,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1885.25
+   "sy": 1885
   },
   {
    "c": "brahms-johannes",
@@ -24107,7 +24174,7 @@
    "c": "brahms-johannes",
    "t": "Triumphlied",
    "cat": null,
-   "y": 1871,
+   "y": null,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -24119,8 +24186,7 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpanis and strings. An organ may be included ad libitum",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1871
+   "est": false
   },
   {
    "c": "brahms-johannes",
@@ -24297,7 +24363,7 @@
    "c": "berlioz-hector",
    "t": "Grande Symphonie funèbre et triomphale",
    "cat": null,
-   "y": null,
+   "y": 1840,
    "g": "Choral",
    "s": "five oboes",
    "counts": {
@@ -24309,7 +24375,8 @@
    "full": "organ, and strings:, 4 piccolos, 5 flutes, 5 oboes, 5 E clarinets, 26 B clarinets, 2 bass clarinets, 8 bassoons, contrabassoon (optional), 12 French horns, 8 trumpets, 4 cornets, 10 trombones, bass trombone (optional), 6 ophicleides (or modern tubas), 8 snare drums, timpani (optional), 3 pairs of crash cymbals, bass drum, tam tam (gong), Turkish crescent, 3 tenor drums, 200 choral singers, organ, ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1840
   },
   {
    "c": "berlioz-hector",
@@ -24335,7 +24402,7 @@
    "c": "berlioz-hector",
    "t": "Béatrice et Bénédict",
    "cat": null,
-   "y": 1858,
+   "y": 1862,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -24348,13 +24415,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1858
+   "sy": 1862
   },
   {
    "c": "berlioz-hector",
    "t": "Les Troyens",
    "cat": null,
-   "y": 1856,
+   "y": 1863,
    "g": "Opera",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -24368,13 +24435,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1856
+   "sy": 1863
   },
   {
    "c": "berlioz-hector",
    "t": "Messe solennelle",
    "cat": null,
-   "y": null,
+   "y": 1824,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -24386,13 +24453,14 @@
    "full": "Piccolo (opt.), 2 flutes, 2 oboes, 2 clarinets (C) 2 bassoons, 4 horns, 4 trumpets, 3 trombones (ATB), serpent, buccin (or ophicleide), timpani, cymbals Tamtam, Harps (opt.), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1824
   },
   {
    "c": "berlioz-hector",
    "t": "Requiem",
    "cat": null,
-   "y": null,
+   "y": 1837,
    "g": "Choral",
    "s": "two oboes, two english horns",
    "counts": {
@@ -24406,13 +24474,14 @@
    "full": "4 flutes, 2 oboes, 2 cors anglais, 4 clarinets in B, 8 bassoons, Brass:, 12 horns (4 parts + 2 extra in Mvt 2, in D, E, A, and C), 4 cornets in B, 4 tubas, Percussion:, 16 timpani (6 pairs, 4 single), 2 bass drums, 10 pairs of cymbals, 4 tam-tams, 4 brass choirs:, Orchestra 1 to the North, 4 cornets, 4 trombones, 2 tubas, Orchestra 2 to the East, 4 trumpets (in E), 4 trombones",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1837
   },
   {
    "c": "berlioz-hector",
    "t": "Te Deum",
    "cat": null,
-   "y": null,
+   "y": 1849,
    "g": "Choral",
    "s": "four oboes (doubling english horn)",
    "counts": {
@@ -24425,7 +24494,8 @@
    "full": "4 flutes, 4 oboes (one doubling on cor anglais), 4 clarinets (one doubling on bass clarinet), 4 bassoons, Brass, 4 horns, 2 trumpets, 2 cornets, 6 trombones, 2 ophicleides/tubas, Percussion, timpani, 4 tenor drums, bass drum, 5 cymbals, Voice, tenor solo, 2 large 3-part (STB) mixed choirs, 1 large unison children's choir, Keyboards, organ, Strings, 12 harps, violins I, violins II, violas, cellos, ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1849
   },
   {
    "c": "rimsky-korsakov-nikolai",
@@ -24488,7 +24558,7 @@
    "c": "rimsky-korsakov-nikolai",
    "t": "The Golden Cockerel",
    "cat": null,
-   "y": 1908,
+   "y": null,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24502,14 +24572,13 @@
    "full": "Woodwinds: 1 Piccolo, 2 Flutes, 2 Oboes, 1 Cor anglais, 2 Clarinets (in A-B), 1 Bass clarinet (in A-B), 2 Bassoons, 1 Contrabassoon, Brass: 4 French horns (in F), 2 Trumpets (in C), 1 Trumpet contralto (in F), 3 Trombones, 1 Tuba, Percussion: Timpani, Triangle, Snare drum, Tambourine, Glockenspiel, Cymbals, Bass drum, Xylophone, Tam-tam, Other: Celesta, 2 Harps, Strings: Violins, Violas, Cellos, D",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1908
+   "est": false
   },
   {
    "c": "rimsky-korsakov-nikolai",
    "t": "Mlada",
    "cat": null,
-   "y": 1889,
+   "y": 1890,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24524,7 +24593,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1889
+   "sy": 1890
   },
   {
    "c": "rimsky-korsakov-nikolai",
@@ -24569,7 +24638,7 @@
    "c": "respighi-ottorino",
    "t": "Concerto in modo misolidio",
    "cat": null,
-   "y": 1925,
+   "y": null,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -24583,8 +24652,7 @@
    "full": "piano solo, 2 flutes, piccolo, 2 oboes, cor anglais, 2 clarinets (in B and A), 2 bassoons, 4 horns (in F), 2 trumpets (in B ), 3 trombones, tuba, timpani, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1925
+   "est": false
   },
   {
    "c": "respighi-ottorino",
@@ -24609,7 +24677,7 @@
    "c": "respighi-ottorino",
    "t": "Violin Concerto in A major",
    "cat": null,
-   "y": 1908,
+   "y": 1903,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -24622,13 +24690,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1908
+   "sy": 1903
   },
   {
    "c": "respighi-ottorino",
    "t": "Belfagor",
    "cat": null,
-   "y": null,
+   "y": 1923,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24642,13 +24710,14 @@
    "full": "piccolo, 2 flutes, 2 oboes, English horn, E-flat clarinet, 2 clarinets, 2 bassoons, double bassoon, 4 horns, 3 trumpets, 3 trombones, bass tuba, timpani, triangle, ratchet, drum, bass drum, cymbals, tam-tam, xylophone, handbells, bells, celesta, harp, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1923
   },
   {
    "c": "respighi-ottorino",
    "t": "La bella dormente nel bosco",
    "cat": null,
-   "y": null,
+   "y": 1922,
    "g": "Opera",
    "s": "oboe, english horn",
    "counts": {
@@ -24662,13 +24731,14 @@
    "full": "flute, oboe, clarinet, bassoon, horn, trumpet, trombone, triangle, drum, cymbals, bell, handbells, celesta, harpsichord, strings, La bella dormente nel bosco (version 1934) is instead scored for the following instruments:, flute, oboe, English horn, clarinet, bassoon, horn, trumpet, trombone, piano, drum kit, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1922
   },
   {
    "c": "respighi-ottorino",
    "t": "La campana sommersa",
    "cat": null,
-   "y": null,
+   "y": 1927,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24682,13 +24752,14 @@
    "full": "3 flutes (3 doubling on piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 2 tenor trombones, bass trombone, bass tuba, timpani, bass drum, handbells, cymbals, tam-tam, triangle, Basque drum, xylophone, anvils and drum sticks, harp, celesta, organ, bell, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1927
   },
   {
    "c": "respighi-ottorino",
    "t": "La fiamma",
    "cat": null,
-   "y": null,
+   "y": 1934,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24702,7 +24773,8 @@
    "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, double bassoon, 4 horns, 3 trumpets, 3 trombones, bass tuba, timpani, bass drum, tam-tam, harp, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1934
   },
   {
    "c": "respighi-ottorino",
@@ -24728,7 +24800,7 @@
    "c": "respighi-ottorino",
    "t": "Maria egiziaca",
    "cat": null,
-   "y": null,
+   "y": 1932,
    "g": "Opera",
    "s": "oboe",
    "counts": {
@@ -24740,13 +24812,14 @@
    "full": "flute, oboe, 2 clarinets, bassoon, 2 horns, trumpet, 2 trombones, harpsichord (or piano), strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1932
   },
   {
    "c": "respighi-ottorino",
    "t": "Marie Victoire",
    "cat": null,
-   "y": 1912,
+   "y": 1913,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24761,13 +24834,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1912
+   "sy": 1913
   },
   {
    "c": "respighi-ottorino",
    "t": "Re Enzo",
    "cat": null,
-   "y": null,
+   "y": 1905,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -24779,13 +24852,14 @@
    "full": "oboes, clarinets, bassoons, 2 horns, 2 trumpets, 3 trombones, timpani, triangle, bells, cymbals, bass drum, harp, strings, On stage: band, trumpets, harps, mandolins",
    "note": null,
    "arr": false,
-   "est": true
+   "est": true,
+   "sy": 1905
   },
   {
    "c": "respighi-ottorino",
    "t": "Semirâma",
    "cat": null,
-   "y": null,
+   "y": 1910,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -24799,7 +24873,8 @@
    "full": "piccolo, 2 flutes, 2 oboes, English horn, E-flat clarinet, 2 clarinets, 2 bassoons, double bassoon, 6 horns, 3 trumpets, 3 trombones, bass tuba, timpani, triangle, sistrum, cymbals, celesta, bass drum, xylophone, tam-tam, harp, strings, On stage: 2 oboes, harp, sistrum",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1910
   },
   {
    "c": "respighi-ottorino",
@@ -24826,7 +24901,7 @@
    "c": "respighi-ottorino",
    "t": "The Birds",
    "cat": null,
-   "y": null,
+   "y": 1927,
    "g": "Suite",
    "s": "oboe",
    "counts": {
@@ -24838,7 +24913,8 @@
    "full": "Woodwinds: 2 Flutes (2nd doubling Piccolo), Oboe, 2 Clarinets, 2 Bassoons, Brass: 2 Horns, 2 Trumpets, Keyboard: Celesta, Strings, Harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1927
   },
   {
    "c": "respighi-ottorino",
@@ -24948,7 +25024,7 @@
    "c": "holst-gustav",
    "t": "The Hymn of Jesus",
    "cat": null,
-   "y": 1919,
+   "y": 1917,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -24963,7 +25039,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1919
+   "sy": 1917
   },
   {
    "c": "holst-gustav",
@@ -25007,7 +25083,7 @@
    "c": "holst-gustav",
    "t": "The Perfect Fool",
    "cat": null,
-   "y": 1918,
+   "y": 1923,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -25022,7 +25098,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1918
+   "sy": 1923
   },
   {
    "c": "holst-gustav",
@@ -25068,7 +25144,7 @@
    "c": "vaughan-williams-ralph",
    "t": "English Folk Song Suite",
    "cat": null,
-   "y": null,
+   "y": 1923,
    "g": "Suite",
    "s": "two oboes",
    "counts": {
@@ -25080,13 +25156,14 @@
    "full": "flute and piccolo, concert flute and piccolo, E clarinet, solo B clarinet, ripieno 1st B clarinet, 2nd B clarinet, 3rd B clarinet, E alto clarinet, B bass clarinet, oboes and C clarinets, 1st bassoon, 2nd bassoon, E alto saxophone, B tenor saxophone, E baritone saxophone, B bass saxophone and contrabass clarinet, 1st B cornets, 2nd B cornets, B trumpets, 1st and 2nd horns in F (E in the score), 3r",
    "note": null,
    "arr": false,
-   "est": true
+   "est": true,
+   "sy": 1923
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Six Studies in English Folk Song",
    "cat": null,
-   "y": 1926,
+   "y": null,
    "g": "Orchestral",
    "s": "english horn",
    "counts": {
@@ -25098,14 +25175,13 @@
    "full": "piano, Vaughan Williams wrote that his aim in setting the songs was for them to be “treated with love.” It has been transcribed by the composer and others for violin, viola, English horn, clarinet, bassoon, alto sax, euphonium, and tuba",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1926
+   "est": false
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Five Tudor Portraits",
    "cat": null,
-   "y": null,
+   "y": 1935,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25119,7 +25195,8 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, 1 cor anglais, 2 clarinets, 2 bassoons, 1 double bassoon, 4 French horns, 2 trumpets, 3 trombones, 1 tuba, timpani (chromatic ad lib.), percussion (2 players), harp and strings. the following instruments being dispensable at need: flute 2, oboe 2, double bassoon, French horns 3 and 4, tuba, percussion 2.",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1935
   },
   {
    "c": "vaughan-williams-ralph",
@@ -25144,7 +25221,7 @@
    "c": "vaughan-williams-ralph",
    "t": "Magnificat",
    "cat": null,
-   "y": null,
+   "y": 1932,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25158,13 +25235,14 @@
    "full": "two flutes (the first player has a very prominent solo part; the second player doubles on piccolo), two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, timpani, triangle, cymbals, bass drum, tambourine, Indian drum, glockenspiel, celesta, harp, organ, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1932
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "A Sea Symphony",
    "cat": null,
-   "y": 1903,
+   "y": 1909,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25179,13 +25257,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1903
+   "sy": 1909
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Sinfonia antartica",
    "cat": null,
-   "y": 1948,
+   "y": 1952,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25200,13 +25278,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1948
+   "sy": 1952
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Toward the Unknown Region",
    "cat": null,
-   "y": 1904,
+   "y": 1907,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25221,7 +25299,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1904
+   "sy": 1907
   },
   {
    "c": "vaughan-williams-ralph",
@@ -25246,7 +25324,7 @@
    "c": "vaughan-williams-ralph",
    "t": "Suite for Viola and Orchestra",
    "cat": null,
-   "y": 1933,
+   "y": 1934,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -25259,13 +25337,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1933
+   "sy": 1934
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "A London Symphony",
    "cat": null,
-   "y": 1925,
+   "y": 1913,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -25280,7 +25358,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1925
+   "sy": 1913
   },
   {
    "c": "vaughan-williams-ralph",
@@ -25307,7 +25385,7 @@
    "c": "vaughan-williams-ralph",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": null,
+   "y": 1935,
    "g": "Symphony",
    "s": "three oboes (2nd doubling english horn)",
    "counts": {
@@ -25321,13 +25399,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1952.996
+   "sy": 1935
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": null,
+   "y": 1943,
    "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
@@ -25342,13 +25420,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1952.997
+   "sy": 1943
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Symphony No. 6",
    "cat": null,
-   "y": null,
+   "y": 1947,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -25363,13 +25441,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1952.998
+   "sy": 1947
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Symphony No. 8",
    "cat": null,
-   "y": 1953,
+   "y": 1955,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -25382,13 +25460,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1953
+   "sy": 1955
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Dona nobis pacem",
    "cat": null,
-   "y": null,
+   "y": 1936,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -25400,13 +25478,14 @@
    "full": "3 flutes (one doubling piccolo), 2 oboes, 2 clarinets, 2 bassoons, contra bassoon, 4 french horns, 4 trumpets (2 optional), 4 tenor trombones (2 optional), bass trombone, tuba, timpani, percussion, harp, organ, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1936
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Hodie",
    "cat": null,
-   "y": null,
+   "y": 1954,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25420,13 +25499,14 @@
    "full": "three flutes (the third doubling piccolo), two oboes, cor anglais, two clarinets in B, two bassoons, contrabassoon; four French horns in F, three trumpets in B, two trombones, bass trombone, tuba; a percussion section that includes timpani, bass drum, snare drum, tenor drum, tubular bells, cymbals, glockenspiel and triangle; celesta, piano, organ; strings; SATB choir and boys' choir; and soprano, ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1954
   },
   {
    "c": "vaughan-williams-ralph",
    "t": "Tuba Concerto",
    "cat": null,
-   "y": null,
+   "y": 1954,
    "g": "Concerto",
    "s": "oboe",
    "counts": {
@@ -25438,7 +25518,8 @@
    "full": "two flutes (2nd doubling on piccolo), oboe, 2 clarinets (in B ), bassoon, 2 horns (in F), 2 trumpets (in B ), 2 trombones, timpani, triangle, snare drum, bass drum, cymbals, and strings, A version exists for euphonium, transposed to B minor by David Childs, with Vaughan Williams's orchestration transposed and rearranged by Rodney Newton",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1954
   },
   {
    "c": "elgar-edward",
@@ -25501,7 +25582,7 @@
    "c": "elgar-edward",
    "t": "The Dream of Gerontius",
    "cat": null,
-   "y": 1900,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25515,14 +25596,13 @@
    "full": "double chorus with semichorus, and usually three soloists. Gerontius is sung by a tenor, and the Angel is a mezzo-soprano. The Priest's part is written for a baritone, while the Angel of the Agony is more suited to a bass",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1900
+   "est": false
   },
   {
    "c": "elgar-edward",
    "t": "Enigma Variations",
    "cat": null,
-   "y": null,
+   "y": 1899,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -25534,13 +25614,14 @@
    "full": "2 flutes (one doubling piccolo), 2 oboes, 2 clarinets in B, 2 bassoons, contrabassoon, 4 horns in F, 3 trumpets in F, 3 trombones, tuba, timpani, side drum, triangle, bass drum, cymbals, organ (ad lib) and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1899
   },
   {
    "c": "elgar-edward",
    "t": "Falstaff",
    "cat": null,
-   "y": null,
+   "y": 1913,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -25554,13 +25635,14 @@
    "full": "two flutes and piccolo, two oboes and cor anglais, two clarinets and bass clarinet, two bassoons and contrabassoon, four horns, three trumpets, three trombones, tuba, timpani, percussion (side drum, triangle, tabor, tambourine, bass drum, cymbals), two harps (second harp ad lib), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1913
   },
   {
    "c": "elgar-edward",
    "t": "Imperial March",
    "cat": null,
-   "y": null,
+   "y": 1897,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -25572,7 +25654,8 @@
    "full": "2 flutes (2nd doubling piccolo), 2 oboes, 2 clarinets in B, 2 bassoons, contrabassoon, 4 horns, 2 trumpets in B, 3 trombones, tuba, 3 timpani, percussion (bass drum, cymbals, and side drum) and the string section",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1897
   },
   {
    "c": "elgar-edward",
@@ -25597,7 +25680,7 @@
    "c": "elgar-edward",
    "t": "Romance for bassoon",
    "cat": null,
-   "y": null,
+   "y": 1910,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -25609,7 +25692,8 @@
    "full": "solo bassoon, 2 flutes, 2 oboes, 2 clarinets in B♭, 2 bassoons (2nd ad lib), 3 horns in F, 3 trombones ad lib, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1910
   },
   {
    "c": "elgar-edward",
@@ -25634,7 +25718,7 @@
    "c": "elgar-edward",
    "t": "Cello Concerto",
    "cat": null,
-   "y": null,
+   "y": 1919,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -25646,13 +25730,14 @@
    "full": "solo cello, 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons, 4 horns in F, 2 trumpets in C, 3 trombones, tuba, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1919
   },
   {
    "c": "elgar-edward",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1910,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -25664,13 +25749,14 @@
    "full": "solo violin, two flutes, two oboes, two clarinets in A, two bassoons, contrabassoon (ad lib), four horns in F, two trumpets in A, three trombones, tuba (ad lib), 3 timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1910
   },
   {
    "c": "elgar-edward",
    "t": "In the South",
    "cat": null,
-   "y": 1903,
+   "y": 1904,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -25685,13 +25771,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1903
+   "sy": 1904
   },
   {
    "c": "elgar-edward",
    "t": "Overture in D minor",
    "cat": null,
-   "y": null,
+   "y": 1923,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -25705,13 +25791,14 @@
    "full": "violins, oboe, and basso continuo, Elgar's arrangement is written for a full symphony orchestra consisting of piccolo, 2 flutes, 2 oboes, cor anglais, 2 clarinets in B, bass clarinet, 2 bassoons, contrabassoon, 4 horns in F, 3 trumpets in C, 3 trombones, tuba, 3 timpani, percussion (bass drum, cymbals, side drum), string section, and organ (ad. lib.)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1923
   },
   {
    "c": "elgar-edward",
    "t": "Nursery Suite",
    "cat": null,
-   "y": null,
+   "y": 1930,
    "g": "Suite",
    "s": "two oboes",
    "counts": {
@@ -25723,7 +25810,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 4 horns in F, 2 trumpets (both in B & C), 3 trombones, tuba, timpani (3), 2 percussionists (first with triangle, tambourine and glockenspiel, second with snare drum, triangle, tambourine, bass drum and cymbals), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1930
   },
   {
    "c": "elgar-edward",
@@ -25750,7 +25838,7 @@
    "c": "elgar-edward",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": 1906,
+   "y": 1908,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -25765,7 +25853,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1906
+   "sy": 1908
   },
   {
    "c": "elgar-edward",
@@ -25983,7 +26071,7 @@
    "c": "saint-saens-camille",
    "t": "Suite algérienne",
    "cat": null,
-   "y": null,
+   "y": 1880,
    "g": "Suite",
    "s": "two oboes",
    "counts": {
@@ -25995,7 +26083,8 @@
    "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns (2 natural, 2 valved), 2 trumpets (valved), 2 cornets, 3 trombones, tuba, timpani, snare drum, triangle, tambourine, cymbals, bass drum and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1880
   },
   {
    "c": "saint-saens-camille",
@@ -26039,7 +26128,7 @@
    "c": "saint-saens-camille",
    "t": "Cello Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1872,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26051,13 +26140,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1872
   },
   {
    "c": "saint-saens-camille",
    "t": "Cello Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1902,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26069,13 +26159,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1902
   },
   {
    "c": "saint-saens-camille",
    "t": "Violin Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1859,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26087,13 +26178,14 @@
    "full": "solo violin, 2 flutes/piccolo, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1859
   },
   {
    "c": "saint-saens-camille",
    "t": "Violin Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1880,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26105,13 +26197,14 @@
    "full": "solo violin, 2 flutes/piccolo, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, 3 trombones, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1880
   },
   {
    "c": "saint-saens-camille",
    "t": "Piano Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1858,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26123,13 +26216,14 @@
    "full": "solo piano, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1858
   },
   {
    "c": "saint-saens-camille",
    "t": "Piano Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1868,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26141,13 +26235,14 @@
    "full": "solo piano, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, crash cymbals and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1868
   },
   {
    "c": "saint-saens-camille",
    "t": "Piano Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1869,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26159,13 +26254,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, 3 trombones, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1869
   },
   {
    "c": "saint-saens-camille",
    "t": "Piano Concerto No. 4",
    "cat": null,
-   "y": null,
+   "y": 1875,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26177,13 +26273,14 @@
    "full": "solo piano, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, 3 trombones, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1875
   },
   {
    "c": "saint-saens-camille",
    "t": "Piano Concerto No. 5",
    "cat": null,
-   "y": null,
+   "y": 1896,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26195,7 +26292,8 @@
    "full": "solo piano, piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, tam tam, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1896
   },
   {
    "c": "bizet-georges",
@@ -26281,7 +26379,7 @@
    "c": "barber-samuel",
    "t": "Piano Concerto",
    "cat": null,
-   "y": 1960,
+   "y": 1962,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -26296,13 +26394,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1960
+   "sy": 1962
   },
   {
    "c": "barber-samuel",
    "t": "Violin Concerto",
    "cat": null,
-   "y": 1954,
+   "y": 1939,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -26315,7 +26413,7 @@
    "note": null,
    "arr": false,
    "est": true,
-   "sy": 1954
+   "sy": 1939
   },
   {
    "c": "bernstein-leonard",
@@ -26361,7 +26459,7 @@
    "c": "bernstein-leonard",
    "t": "Mass",
    "cat": null,
-   "y": 1972,
+   "y": 1971,
    "g": "Sacred vocal",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -26375,13 +26473,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1972
+   "sy": 1971
   },
   {
    "c": "bernstein-leonard",
    "t": "Slava! A Political Overture",
    "cat": null,
-   "y": null,
+   "y": 1977,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -26395,7 +26493,8 @@
    "full": "piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet, E-flat clarinet, soprano saxophone, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, snare drum, tenor drum, bass drum, chimes, crash cymbals, suspended cymbals, glockenspiel, ratchet, slide whistle, steel pipe, tambourine, triangle, vibraphone, xylophone, marimba, whip, wood block, electric guitar, pi",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1977
   },
   {
    "c": "bernstein-leonard",
@@ -26566,7 +26665,7 @@
    "c": "gershwin-george",
    "t": "Porgy and Bess",
    "cat": null,
-   "y": null,
+   "y": 1935,
    "g": "Opera",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -26579,13 +26678,14 @@
    "full": "2 flutes (second doubling piccolo), 2 oboes (second doubling English horn), 3 clarinets in B (second and third doubling alto saxophones in E ), 1 bass clarinet in B (doubling fourth clarinet in B and tenor saxophone in B ), 1 bassoon, Brass, 3 horns in F, 3 trumpets in B, 2 trombones, 1 tuba, Percussion, timpani, xylophone, triangle, cymbals, snare drum, tom-toms, bass drum, African drums, small d",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1935
   },
   {
    "c": "gershwin-george",
    "t": "Concerto in F",
    "cat": null,
-   "y": null,
+   "y": 1925,
    "g": "Piano",
    "s": "two oboes, english horn",
    "counts": {
@@ -26599,13 +26699,14 @@
    "full": "solo piano, the work calls for 2 flutes, piccolo, 2 oboes, English horn, 2 clarinets in B, bass clarinet, 2 bassoons, 4 horns in F, 3 trumpets in B, 3 trombones, tuba, timpani, 3 percussionists (first player: bass drum, glockenspiel, xylophone and triangle; second player: snare drum, woodblock, whip; third player: cymbals, (crash & suspended), triangle and gong), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1925
   },
   {
    "c": "gershwin-george",
    "t": "Rhapsody in Blue",
    "cat": null,
-   "y": null,
+   "y": 1924,
    "g": "Piano",
    "s": "oboe, heckelphone",
    "counts": {
@@ -26619,7 +26720,8 @@
    "full": null,
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1924
   },
   {
    "c": "hindemith-paul",
@@ -26646,7 +26748,7 @@
    "c": "hindemith-paul",
    "t": "Hérodiade",
    "cat": null,
-   "y": 1944,
+   "y": null,
    "g": "Ballet",
    "s": "oboe",
    "counts": {
@@ -26658,8 +26760,7 @@
    "full": "oboe and horn and the reduction of strings to one on a part (as opposed to pairs):, 1 flute, 1 oboe, 1 clarinet, 1 bassoon, 1 horn, 1 piano, 2 violins, 1 viola, 1 violoncello, 1 string bass",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1944
+   "est": false
   },
   {
    "c": "hindemith-paul",
@@ -26842,7 +26943,7 @@
    "c": "poulenc-francis",
    "t": "La voix humaine",
    "cat": null,
-   "y": 1958,
+   "y": 1959,
    "g": "Opera",
    "s": "oboe, english horn",
    "counts": {
@@ -26857,13 +26958,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1958
+   "sy": 1959
   },
   {
    "c": "poulenc-francis",
    "t": "Stabat Mater",
    "cat": null,
-   "y": null,
+   "y": 1950,
    "g": "Choral",
    "s": "two oboes, english horn",
    "counts": {
@@ -26877,7 +26978,8 @@
    "full": "Piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets (B♭), bass clarinet, 3 bassoons, 4 French horns, 3 trumpets (C), 3 trombones, tuba, Timpani, 2 Harps, Strings, Soprano solo, SATBarB Chorus (divisi)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1950
   },
   {
    "c": "milhaud-darius",
@@ -26959,7 +27061,7 @@
    "c": "milhaud-darius",
    "t": "Little Symphony No. 2",
    "cat": null,
-   "y": 1918,
+   "y": null,
    "g": "Chamber",
    "s": "english horn",
    "counts": {
@@ -26972,13 +27074,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1918
+   "sy": 1917.001
   },
   {
    "c": "milhaud-darius",
    "t": "Little Symphony No. 5",
    "cat": null,
-   "y": 1922,
+   "y": null,
    "g": "Chamber",
    "s": "oboe, english horn",
    "counts": {
@@ -26993,7 +27095,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1922
+   "sy": 1917.004
   },
   {
    "c": "nielsen-carl",
@@ -27076,7 +27178,7 @@
    "c": "nielsen-carl",
    "t": "Violin Concerto",
    "cat": null,
-   "y": 1877,
+   "y": 1911,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -27089,13 +27191,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1877
+   "sy": 1911
   },
   {
    "c": "nielsen-carl",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": 1891,
+   "y": 1892,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -27108,7 +27210,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1891
+   "sy": 1892
   },
   {
    "c": "nielsen-carl",
@@ -27175,7 +27277,7 @@
    "c": "nielsen-carl",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": 1920,
+   "y": 1922,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -27188,7 +27290,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1920
+   "sy": 1922
   },
   {
    "c": "nielsen-carl",
@@ -27371,7 +27473,7 @@
    "c": "martinu-bohuslav",
    "t": "What Men Live By",
    "cat": null,
-   "y": 1952,
+   "y": 1953,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -27384,7 +27486,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1952
+   "sy": 1953
   },
   {
    "c": "martinu-bohuslav",
@@ -27510,7 +27612,7 @@
    "c": "kodaly-zoltan",
    "t": "Dances of Galánta",
    "cat": null,
-   "y": null,
+   "y": 1933,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -27522,13 +27624,14 @@
    "full": "two flutes, piccolo, two oboes, two clarinets in A, two bassoons, four horns, two trumpets, timpani, triangle, glockenspiel, snare drum, and string orchestra",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1933
   },
   {
    "c": "kodaly-zoltan",
    "t": "Háry János",
    "cat": null,
-   "y": null,
+   "y": 1926,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -27540,7 +27643,8 @@
    "full": "three flutes (all doubling piccolo), 2 oboes, 2 clarinets in B-flat (one doubling clarinet in E-flat and one doubling alto saxophone), 2 bassoons, 4 horns in F, 3 trumpets in C, 3 cornets in B-flat (used, alongside the trumpets, in the last movement only), 3 trombones, tuba, timpani, snare drum, bass drum, cymbals, triangle, tambourine, tam-tam, glockenspiel, chimes, xylophone, celesta, piano, cim",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1926
   },
   {
    "c": "bruckner-anton",
@@ -27755,7 +27859,7 @@
    "c": "wagner-richard",
    "t": "Das Liebesmahl der Apostel",
    "cat": null,
-   "y": null,
+   "y": 1843,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -27767,13 +27871,14 @@
    "full": "Choir, Tenor baritone bass, 12 bass (The Twelve Apostles), 16 tenor 12 baritone 12 bass (Voices from above), Orchestra, Woodwinds: piccolo, 2 flutes, 2 oboes, 2 clarinets, 4 bassoons, serpent, Brass: 4 horns, 4 trumpets, 3 trombones, tuba, Percussion: 4 timpani, Strings: 16 first violins, 16 second violins, 12 violas, 12 cellos, 8 basses",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1843
   },
   {
    "c": "wagner-richard",
    "t": "Siegfried Idyll",
    "cat": null,
-   "y": null,
+   "y": 1870,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -27785,7 +27890,8 @@
    "full": "flute, oboe, two clarinets, bassoon, two horns, trumpet, two violins, viola, cello and double bass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1870
   },
   {
    "c": "wagner-richard",
@@ -27810,7 +27916,7 @@
    "c": "wagner-richard",
    "t": "Der fliegende Holländer",
    "cat": null,
-   "y": 1840,
+   "y": 1843,
    "g": "Opera",
    "s": "two oboes (doubling english horn)",
    "counts": {
@@ -27824,13 +27930,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1840
+   "sy": 1843
   },
   {
    "c": "wagner-richard",
    "t": "Lohengrin",
    "cat": null,
-   "y": null,
+   "y": 1850,
    "g": "Opera",
    "s": "three oboes, english horn",
    "counts": {
@@ -27844,13 +27950,14 @@
    "full": "3 flutes (3rd doubles piccolo), 3 oboes, English horn, 3 clarinets in B-flat, A and C, 2 bass clarinets in B-flat and A, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, cymbals, tambourine, harp, strings, on-stage, 3 flutes, piccolo, 3 oboes, 3 clarinets in B-flat, A and C, 3 bassoons, 4 horns, 12 trumpets, 4 trombones, ti",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1850
   },
   {
    "c": "wagner-richard",
    "t": "Die Meistersinger von Nürnberg",
    "cat": null,
-   "y": null,
+   "y": 1868,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -27862,13 +27969,14 @@
    "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle, glockenspiel, harp, strings, on-stage, more trumpets and horns, stierhorn, lute, military drums, organ (Act I)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1868
   },
   {
    "c": "wagner-richard",
    "t": "Parsifal",
    "cat": null,
-   "y": 1874,
+   "y": 1882,
    "g": "Opera",
    "s": "three oboes, english horn",
    "counts": {
@@ -27883,13 +27991,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1874
+   "sy": 1882
   },
   {
    "c": "wagner-richard",
    "t": "Tannhäuser",
    "cat": null,
-   "y": null,
+   "y": 1845,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -27903,13 +28011,14 @@
    "full": "3 flutes (one doubles piccolo), 2 oboes, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, bass tuba, timpani, bass drum, cymbals, triangle, tambourine, castanets, harp, strings, off-stage, cor anglais, 4 oboes, 6 clarinets, 4 bassoons, 12 horns, 12 trumpets, 4 trombones, snare drum, cymbals, tambourine",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1845
   },
   {
    "c": "schumann-robert",
    "t": "Genoveva",
    "cat": null,
-   "y": null,
+   "y": 1850,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -27921,7 +28030,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1850
   },
   {
    "c": "schumann-robert",
@@ -28098,7 +28208,7 @@
    "c": "schumann-robert",
    "t": "Cello Concerto",
    "cat": null,
-   "y": null,
+   "y": 1850,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -28110,13 +28220,14 @@
    "full": "solo cello, two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1850
   },
   {
    "c": "schumann-robert",
    "t": "Konzertstück for Four Horns and Orchestra",
    "cat": null,
-   "y": null,
+   "y": 1849,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -28128,13 +28239,14 @@
    "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, two horns ad libitum, two trumpets, three trombones, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1849
   },
   {
    "c": "schumann-robert",
    "t": "Piano Concerto",
    "cat": null,
-   "y": null,
+   "y": 1841,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -28146,13 +28258,14 @@
    "full": "two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, strings, and solo piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1841
   },
   {
    "c": "schumann-robert",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1853,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -28164,7 +28277,8 @@
    "full": "solo violin, two flutes, two oboes, two clarinets in B, two bassoons, two horns in F, two trumpets in B, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1853
   },
   {
    "c": "mendelssohn-felix",
@@ -28227,7 +28341,7 @@
    "c": "mendelssohn-felix",
    "t": "Oedipus at Colonus",
    "cat": null,
-   "y": null,
+   "y": 1845,
    "g": "Incidental music",
    "s": "oboe",
    "counts": {
@@ -28239,13 +28353,14 @@
    "full": "flute, oboe, clarinet, bassoon, cornet, trombone, timpani, violin, viola, contrabass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1845
   },
   {
    "c": "mendelssohn-felix",
    "t": "Calm Sea and Prosperous Voyage",
    "cat": null,
-   "y": null,
+   "y": 1828,
    "g": "Overture",
    "s": "two oboes",
    "counts": {
@@ -28257,7 +28372,8 @@
    "full": "piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, double bassoon, serpent, 2 horns, 3 trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1828
   },
   {
    "c": "mendelssohn-felix",
@@ -28488,7 +28604,7 @@
    "c": "schubert-franz",
    "t": "Magnificat",
    "cat": null,
-   "y": null,
+   "y": 1816,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -28500,13 +28616,14 @@
    "full": "2 oboes, 2 bassoons, 2 trumpets, violin I and II, viola, timpani and basso continuo (cello, double bass and organ)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1816
   },
   {
    "c": "schubert-franz",
    "t": "Stabat Mater in F minor",
    "cat": null,
-   "y": null,
+   "y": 1816,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -28518,13 +28635,14 @@
    "full": "2 flutes, 2 oboes, 2 bassoons, contrabassoon, 2 french horns, 3 trombones, violin I and II, viola, cello and double bass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1816
   },
   {
    "c": "schubert-franz",
    "t": "Stabat Mater in G minor",
    "cat": null,
-   "y": null,
+   "y": 1815,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -28536,13 +28654,14 @@
    "full": "2 oboes, 2 clarinets, 2 bassoons, 3 trombones, violin I and II, viola, and basso continuo (cello, double bass and organ)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1815
   },
   {
    "c": "schubert-franz",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1813,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -28555,13 +28674,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1821.993
+   "sy": 1813
   },
   {
    "c": "schubert-franz",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1815,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -28574,13 +28693,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1821.994
+   "sy": 1815
   },
   {
    "c": "schubert-franz",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1815,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -28593,13 +28712,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1821.995
+   "sy": 1815
   },
   {
    "c": "schubert-franz",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": null,
+   "y": 1816,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -28612,13 +28731,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1821.997
+   "sy": 1816
   },
   {
    "c": "schubert-franz",
    "t": "Symphony No. 6",
    "cat": null,
-   "y": null,
+   "y": 1818,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -28631,13 +28750,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1821.998
+   "sy": 1818
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Jena Symphony",
    "cat": null,
-   "y": null,
+   "y": 1793,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -28649,7 +28768,8 @@
    "full": "flute, 2 oboes, 2 bassoons, 2 horns in C, 2 trumpets in C, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1793
   },
   {
    "c": "beethoven-ludwig-van",
@@ -28712,7 +28832,7 @@
    "c": "beethoven-ludwig-van",
    "t": "Germania",
    "cat": null,
-   "y": null,
+   "y": 1814,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -28724,13 +28844,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 French horns, 2 trumpets, timpani, and a string section",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1814
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Romance No. 1",
    "cat": null,
-   "y": 1801,
+   "y": 1802,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -28743,7 +28864,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1801
+   "sy": 1802
   },
   {
    "c": "beethoven-ludwig-van",
@@ -28844,7 +28965,7 @@
    "c": "beethoven-ludwig-van",
    "t": "Fidelio",
    "cat": null,
-   "y": null,
+   "y": 1805,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -28856,13 +28977,14 @@
    "full": "one piccolo, two flutes, two oboes, two clarinets, two bassoons, one contrabassoon, four horns, two trumpets, two trombones, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1805
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Coriolan Overture",
    "cat": null,
-   "y": null,
+   "y": 1807,
    "g": "Overture",
    "s": "two oboes",
    "counts": {
@@ -28874,7 +28996,8 @@
    "full": "two flutes, two oboes, two clarinets in B, two bassoons, two horns in E, two trumpets in C, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1807
   },
   {
    "c": "beethoven-ludwig-van",
@@ -28993,7 +29116,7 @@
    "c": "beethoven-ludwig-van",
    "t": "Cantata on the Death of Emperor Joseph II",
    "cat": null,
-   "y": null,
+   "y": 1790,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -29005,7 +29128,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings and SATB chorus with solo soprano and bass (there is also a solo semichorus SSATB)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1790
   },
   {
    "c": "beethoven-ludwig-van",
@@ -29065,7 +29189,7 @@
    "c": "beethoven-ludwig-van",
    "t": "Mass in C major",
    "cat": null,
-   "y": null,
+   "y": 1807,
    "g": "Choral",
    "s": "two oboes",
    "counts": {
@@ -29077,7 +29201,8 @@
    "full": "flutes, oboes, clarinets, bassoons, horns, trumpets, timpani, strings and organ",
    "note": null,
    "arr": false,
-   "est": true
+   "est": true,
+   "sy": 1807
   },
   {
    "c": "beethoven-ludwig-van",
@@ -29113,7 +29238,8 @@
    "full": "solo piano and an orchestra consisting of flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1799.998
   },
   {
    "c": "beethoven-ludwig-van",
@@ -29131,13 +29257,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns and strings; it is the only one of Beethoven's seven completed concertos that omits clarinets, trumpets and timpani",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1799.999
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Piano Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1800,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -29149,13 +29276,14 @@
    "full": "2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, 2 horns in E, E and C, 2 trumpets in C, timpani, strings, and piano soloist",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1800
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Piano Concerto No. 4",
    "cat": null,
-   "y": null,
+   "y": 1806,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -29167,13 +29295,14 @@
    "full": "solo piano and an orchestra consisting of one flute, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1806
   },
   {
    "c": "beethoven-ludwig-van",
    "t": "Piano Concerto No. 5",
    "cat": null,
-   "y": null,
+   "y": 1809,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -29185,13 +29314,14 @@
    "full": "two flutes, two oboes, two clarinets in B (clarinet 1 playing in A in movement 2), two bassoons, two horns, two trumpets, timpani in E and B, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1809
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Betulia liberata",
    "cat": null,
-   "y": 1771,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -29203,8 +29333,7 @@
    "full": "two oboes, two bassoons, four horns, two trumpets in D, strings, and basso continuo",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1771
+   "est": false
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29383,7 +29512,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Symphony, K. 76",
    "cat": null,
-   "y": 1788,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -29395,8 +29524,7 @@
    "full": "two oboes, two horns in F, two bassoons and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1788
+   "est": false
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29478,7 +29606,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Symphony, K. Anh. C 11.04",
    "cat": null,
-   "y": 1788,
+   "y": 1771,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -29491,13 +29619,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1788
+   "sy": 1771
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Symphony, K. Anh. C 11.18",
    "cat": null,
-   "y": 1765,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -29509,8 +29637,7 @@
    "full": "two oboes, two bassoons, two horns in A, and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1765
+   "est": false
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29630,7 +29757,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Vorrei spiegarvi, oh Dio!",
    "cat": null,
-   "y": null,
+   "y": 1783,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -29642,13 +29769,14 @@
    "full": "2 oboes, 2 bassoons, 2 horns (1 each in D and in A), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1783
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Quintet for Piano and Winds",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Chamber",
    "s": "oboe",
    "counts": {
@@ -29660,7 +29788,8 @@
    "full": "piano, oboe, clarinet, horn and bassoon",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29799,7 +29928,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Ascanio in Alba",
    "cat": null,
-   "y": null,
+   "y": 1771,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -29811,7 +29940,8 @@
    "full": "pairs of flutes, oboes, bassoons, trumpets and horns, as well as timpani, a string section and basso continuo (harpsichord, cello)",
    "note": null,
    "arr": false,
-   "est": true
+   "est": true,
+   "sy": 1771
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29835,7 +29965,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Così fan tutte",
    "cat": null,
-   "y": null,
+   "y": 1790,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -29847,7 +29977,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons. Fiordiligi's aria \"Per pietà, ben mio, perdona\", act 2, contains a rare instance of clarinets in B-natural (key of the aria is E major which transposes to F major for the clarinet part, explaining the use of B clarinets)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1790
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -29871,7 +30002,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Die Entführung aus dem Serail",
    "cat": null,
-   "y": 1781,
+   "y": 1782,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -29884,13 +30015,13 @@
    "note": null,
    "arr": false,
    "est": true,
-   "sy": 1781
+   "sy": 1782
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Idomeneo",
    "cat": null,
-   "y": null,
+   "y": 1781,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -29902,13 +30033,14 @@
    "full": "2 flutes, piccolo (only in the storm of act 2), 2 oboes, 2 clarinets, 2 bassoons. 19 (pp. 352ff), Brass: 4 horns (in D, in C, in B-flat (alto)/in B ( de hoch ), in G), 2 trumpets in D, 3 trombones (only accompanying the off-stage voice of Neptune in act 3), Percussion: timpani in D and in A, Basso contin",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1781
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "The Magic Flute",
    "cat": null,
-   "y": null,
+   "y": 1791,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -29920,7 +30052,8 @@
    "full": "two flutes (one doubling on piccolo), two oboes, two clarinets (doubling basset horns), two bassoons, two horns, two trumpets, three trombones (alto, tenor, and bass), timpani and strings. It also requires a four-part chorus for several numbers (notably the finales of each act). Mozart also called for a it stromento d'acciaio (instrument of steel) to perform Papageno's magic bells",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1791
   },
   {
    "c": "mozart-wolfgang-amadeus",
@@ -30476,7 +30609,7 @@
    "c": "mozart-wolfgang-amadeus",
    "t": "Horn Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1791,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30488,13 +30621,14 @@
    "full": "solo horn in D, two oboes, two bassoons, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1791
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Horn Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1783,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30506,13 +30640,14 @@
    "full": "solo horn and an orchestra of two oboes, two horns, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1783
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concertos Nos. 1–4",
    "cat": null,
-   "y": null,
+   "y": 1767,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30524,13 +30659,14 @@
    "full": "two oboes (silent in the second movement), two horns in F, piano (or harpsichord) and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1767
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 5",
    "cat": null,
-   "y": null,
+   "y": 1773,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30542,13 +30678,14 @@
    "full": "2 oboes, 2 horns in D, 2 trumpets in D, timpani, and strings and was the only concerto with trumpets and timpani until No",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1773
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 6",
    "cat": null,
-   "y": null,
+   "y": 1776,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30560,13 +30697,14 @@
    "full": "two flutes, two oboes, two French horns, solo piano, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1776
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 10",
    "cat": null,
-   "y": null,
+   "y": 1779,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30578,13 +30716,14 @@
    "full": "two oboes, two bassoons, two horns in E, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1779
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 11",
    "cat": null,
-   "y": null,
+   "y": 1782,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30596,13 +30735,14 @@
    "full": "piano or harpsichord), two oboes, two bassoons (second movement only), two horns and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1782
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 12",
    "cat": null,
-   "y": null,
+   "y": 1782,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30614,13 +30754,14 @@
    "full": "solo piano (or harpsichord), two oboes, two bassoons (optional), two horns, and strings (consisting of strings)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1782
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 13",
    "cat": null,
-   "y": null,
+   "y": 1783,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30632,13 +30773,14 @@
    "full": "piano (or harpsichord); orchestra: 2 oboes, 2 bassoons + 2 French horns, 2 trumpets + timpani + strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1783
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 15",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30650,13 +30792,14 @@
    "full": "solo piano, flute (third movement only), two oboes, two bassoons, two French horns, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 16",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30668,13 +30811,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 17",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30686,13 +30830,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns in G (and C for Andante), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 18",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30704,13 +30849,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns (in B, second movement in G), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 19",
    "cat": null,
-   "y": null,
+   "y": 1784,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30722,13 +30868,14 @@
    "full": "flute, two oboes, two bassoons, two horns, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1784
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 20",
    "cat": null,
-   "y": null,
+   "y": 1785,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30740,13 +30887,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1785
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 21",
    "cat": null,
-   "y": null,
+   "y": 1785,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30758,13 +30906,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns in C, two trumpets in C, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1785
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 22",
    "cat": null,
-   "y": null,
+   "y": 1785,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30776,13 +30925,14 @@
    "full": "oboes, horns and strings",
    "note": null,
    "arr": false,
-   "est": true
+   "est": true,
+   "sy": 1785
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 24",
    "cat": null,
-   "y": null,
+   "y": 1786,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30794,13 +30944,14 @@
    "full": "one flute, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1786
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 25",
    "cat": null,
-   "y": null,
+   "y": 1786,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30812,13 +30963,14 @@
    "full": "solo piano, flute, two oboes, two bassoons, two horns in C, two trumpets in C, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1786
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 26",
    "cat": null,
-   "y": null,
+   "y": 1788,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30830,13 +30982,14 @@
    "full": "solo piano, one flute, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani (in D, A), and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1788
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Piano Concerto No. 27",
    "cat": null,
-   "y": null,
+   "y": 1788,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30848,13 +31001,14 @@
    "full": "flute, two oboes, two bassoons, two horns in B, solo piano and strings. 23 have trumpet and timpani",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1788
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Rondo for Piano and Orchestra in D major",
    "cat": null,
-   "y": null,
+   "y": 1782,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30866,13 +31020,14 @@
    "full": "Piano Concerto No. Other than the solo piano, the Concerto's instrumentation consists of two oboes, two trumpets, two French horns, timpani and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1782
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Violin Concerto No. 3",
    "cat": null,
-   "y": null,
+   "y": 1775,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30884,13 +31039,14 @@
    "full": "solo violin, two flutes (second movement only), two oboes (tacet in the second movement), two horns in G and D, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1775
   },
   {
    "c": "mozart-wolfgang-amadeus",
    "t": "Violin Concerto No. 4",
    "cat": null,
-   "y": null,
+   "y": 1775,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -30902,7 +31058,8 @@
    "full": "solo violin, strings, 2 oboes and 2 horns in D",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1775
   },
   {
    "c": "haydn-joseph",
@@ -31023,7 +31180,7 @@
    "c": "haydn-joseph",
    "t": "Armida",
    "cat": null,
-   "y": 1770,
+   "y": 1784,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31036,13 +31193,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1770
+   "sy": 1784
   },
   {
    "c": "haydn-joseph",
    "t": "La fedeltà premiata",
    "cat": null,
-   "y": 1780,
+   "y": 1781,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31055,13 +31212,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1780
+   "sy": 1781
   },
   {
    "c": "haydn-joseph",
    "t": "Il mondo della luna",
    "cat": null,
-   "y": 1750,
+   "y": 1777,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31074,13 +31231,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1750
+   "sy": 1777
   },
   {
    "c": "haydn-joseph",
    "t": "Orlando paladino",
    "cat": null,
-   "y": null,
+   "y": 1782,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31092,13 +31249,14 @@
    "full": "flute, two oboes, two bassoons, two horns/trumpets, timpani, strings, continuo",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1782
   },
   {
    "c": "haydn-joseph",
    "t": "Philemon und Baucis",
    "cat": null,
-   "y": null,
+   "y": 1773,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31110,13 +31268,14 @@
    "full": "2 oboes, bassoon, 2 horns, 2 clarini (natural trumpets), timpani, 2 violins, viola, and continuo",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1773
   },
   {
    "c": "haydn-joseph",
    "t": "Lo speziale",
    "cat": null,
-   "y": null,
+   "y": 1768,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31128,13 +31287,14 @@
    "full": "two flutes, two oboes, bassoon, two horns, strings, continuo",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1768
   },
   {
    "c": "haydn-joseph",
    "t": "La vera costanza",
    "cat": null,
-   "y": null,
+   "y": 1779,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -31146,7 +31306,8 @@
    "full": "flutes, two oboes, two bassoons, two horns, timpani, strings, continuo",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1779
   },
   {
    "c": "haydn-joseph",
@@ -31189,7 +31350,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31202,13 +31363,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1759.4
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": 1760,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31221,13 +31382,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760
+   "sy": 1759.8
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31240,13 +31401,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1760.2
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": 1760,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31259,7 +31420,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760
+   "sy": 1760.6
   },
   {
    "c": "haydn-joseph",
@@ -31341,7 +31502,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 10",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31354,13 +31515,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1762.333
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 11",
    "cat": null,
-   "y": 1760,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31373,7 +31534,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760
+   "sy": 1762.667
   },
   {
    "c": "haydn-joseph",
@@ -31417,7 +31578,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 14",
    "cat": null,
-   "y": 1761,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31430,13 +31591,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1761
+   "sy": 1763.111
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 15",
    "cat": null,
-   "y": 1760,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31449,13 +31610,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760
+   "sy": 1763.222
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 16",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31468,13 +31629,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1763.333
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 17",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31487,13 +31648,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1763.444
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 18",
    "cat": null,
-   "y": 1766,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31506,13 +31667,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1766
+   "sy": 1763.556
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 19",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31525,13 +31686,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1757
+   "sy": 1763.667
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 20",
    "cat": null,
-   "y": 1761,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31544,7 +31705,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1761
+   "sy": 1763.778
   },
   {
    "c": "haydn-joseph",
@@ -31569,7 +31730,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 23",
    "cat": null,
-   "y": null,
+   "y": 1764,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31582,13 +31743,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1764.001
+   "sy": 1764
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 24",
    "cat": null,
-   "y": null,
+   "y": 1764,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31601,13 +31762,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1764.002
+   "sy": 1764
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 25",
    "cat": null,
-   "y": 1763,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31620,7 +31781,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1763
+   "sy": 1766.5
   },
   {
    "c": "haydn-joseph",
@@ -31740,25 +31901,6 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 32",
    "cat": null,
-   "y": 1757,
-   "g": "Symphony",
-   "s": "two oboes",
-   "counts": {
-    "oboe": 2
-   },
-   "req": [
-    "oboe"
-   ],
-   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo",
-   "note": null,
-   "arr": false,
-   "est": false,
-   "sy": 1757
-  },
-  {
-   "c": "haydn-joseph",
-   "t": "Symphony No. 33",
-   "cat": null,
    "y": 1760,
    "g": "Symphony",
    "s": "two oboes",
@@ -31776,9 +31918,28 @@
   },
   {
    "c": "haydn-joseph",
-   "t": "Symphony No. 35",
+   "t": "Symphony No. 33",
    "cat": null,
    "y": null,
+   "g": "Symphony",
+   "s": "two oboes",
+   "counts": {
+    "oboe": 2
+   },
+   "req": [
+    "oboe"
+   ],
+   "full": "two oboes, bassoon, two horns, two trumpets, timpani, strings, and continuo",
+   "note": null,
+   "arr": false,
+   "est": false,
+   "sy": 1762.333
+  },
+  {
+   "c": "haydn-joseph",
+   "t": "Symphony No. 35",
+   "cat": null,
+   "y": 1767,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31791,7 +31952,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760.5
+   "sy": 1767
   },
   {
    "c": "haydn-joseph",
@@ -31810,13 +31971,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1760.75
+   "sy": 1767.001
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 37",
    "cat": null,
-   "y": 1761,
+   "y": 1758,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31829,7 +31990,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1761
+   "sy": 1758
   },
   {
    "c": "haydn-joseph",
@@ -31854,7 +32015,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 39",
    "cat": null,
-   "y": 1765,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -31867,7 +32028,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1765
+   "sy": 1769.001
   },
   {
    "c": "haydn-joseph",
@@ -32196,7 +32357,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 58",
    "cat": null,
-   "y": 1767,
+   "y": 1774,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32209,7 +32370,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1767
+   "sy": 1774
   },
   {
    "c": "haydn-joseph",
@@ -32253,7 +32414,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 61",
    "cat": null,
-   "y": null,
+   "y": 1776,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32266,13 +32427,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1777.5
+   "sy": 1776
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 62",
    "cat": null,
-   "y": 1780,
+   "y": 1781,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32285,7 +32446,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1780
+   "sy": 1781
   },
   {
    "c": "haydn-joseph",
@@ -32329,7 +32490,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 66",
    "cat": null,
-   "y": null,
+   "y": 1779,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32342,13 +32503,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1777.667
+   "sy": 1779
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 67",
    "cat": null,
-   "y": 1779,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32361,7 +32522,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1779
+   "sy": 1779.001
   },
   {
    "c": "haydn-joseph",
@@ -32386,7 +32547,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 70",
    "cat": null,
-   "y": null,
+   "y": 1779,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32399,13 +32560,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1778
+   "sy": 1779
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony No. 71",
    "cat": null,
-   "y": 1780,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32424,7 +32585,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 72",
    "cat": null,
-   "y": 1763,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32437,7 +32598,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1763
+   "sy": 1781
   },
   {
    "c": "haydn-joseph",
@@ -32481,7 +32642,7 @@
    "c": "haydn-joseph",
    "t": "Symphony No. 75",
    "cat": null,
-   "y": 1779,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -32494,7 +32655,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1779
+   "sy": 1781
   },
   {
    "c": "haydn-joseph",
@@ -32994,7 +33155,7 @@
    "c": "haydn-joseph",
    "t": "Symphony A",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -33006,14 +33167,13 @@
    "full": "two oboes, bassoon, two horns in B alto, strings, and continuo",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1757
+   "est": false
   },
   {
    "c": "haydn-joseph",
    "t": "Symphony B",
    "cat": null,
-   "y": 1757,
+   "y": null,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -33025,14 +33185,13 @@
    "full": "two oboes, bassoon, two horns, strings, and continuo",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1757
+   "est": false
   },
   {
    "c": "puccini-giacomo",
    "t": "La bohème",
    "cat": null,
-   "y": 1893,
+   "y": 1896,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33047,13 +33206,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1893
+   "sy": 1896
   },
   {
    "c": "puccini-giacomo",
    "t": "La fanciulla del West",
    "cat": null,
-   "y": null,
+   "y": 1910,
    "g": "Opera",
    "s": "three oboes, english horn",
    "counts": {
@@ -33067,7 +33226,8 @@
    "full": "piccolo; three flutes; three oboes; one English horn; three clarinets in B-flat; one bass clarinet in B-flat; three bassoons; one contrabassoon; four French horns in F; three trumpets in F; three tenor trombones; one bass trombone; a percussion section with timpani, cymbals, one triangle, one snare drum, one bass drum, and one glockenspiel; three onstage fonicas; one celesta; two harps; and string",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1910
   },
   {
    "c": "puccini-giacomo",
@@ -33093,7 +33253,7 @@
    "c": "puccini-giacomo",
    "t": "Madama Butterfly",
    "cat": null,
-   "y": null,
+   "y": 1904,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33107,13 +33267,14 @@
    "full": "three flutes (the third doubling piccolo); two oboes, English horn; two clarinets in B-flat; bass clarinet in B-flat, two bassoons; four French horns in F; three trumpets in F; three tenor trombones; bass trombone; a percussion section with timpani, cymbals, triangle, snare drum, bass drum, bells, tam-tam, Japanese gong, and 4 \"Japanese Bells\"; keyboard glockenspiel; onstage \"little bell\"",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1904
   },
   {
    "c": "puccini-giacomo",
    "t": "Manon Lescaut",
    "cat": null,
-   "y": 1889,
+   "y": 1893,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33128,7 +33289,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1889
+   "sy": 1893
   },
   {
    "c": "puccini-giacomo",
@@ -33214,7 +33375,7 @@
    "c": "verdi-giuseppe",
    "t": "Requiem",
    "cat": null,
-   "y": null,
+   "y": 1874,
    "g": "Sacred vocal",
    "s": "two oboes",
    "counts": {
@@ -33226,13 +33387,14 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, 2 clarinets, 4 bassoons, brass: 4 horns, 8 trumpets (4 offstage), 3 trombones, ophicleide (an obsolete instrument usually replaced by a tuba or cimbasso in modern performances), percussion: timpani, bass drum (in addition to the standard orchestral bass drum, some performances, at the conductor's discretion, will utilise a so-called 'Verdi' bass drum, subs",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1874
   },
   {
    "c": "verdi-giuseppe",
    "t": "Aida",
    "cat": null,
-   "y": null,
+   "y": 1871,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33246,13 +33408,14 @@
    "full": "3 flutes, 3 flûtes d'amour, (3rd also piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso, timpani, triangle, bass drum, cymbals, tam-tam, harp, strings; on-stage banda: 6 Egyptian trumpets, military band, harp",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1871
   },
   {
    "c": "verdi-giuseppe",
    "t": "Alzira",
    "cat": null,
-   "y": null,
+   "y": 1845,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33264,13 +33427,14 @@
    "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, one cimbasso, timpani, bass drum and cymbals, snare drum, triangle, offstage band, offstage bass drum, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1845
   },
   {
    "c": "verdi-giuseppe",
    "t": "Un ballo in maschera",
    "cat": null,
-   "y": null,
+   "y": 1859,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33284,13 +33448,14 @@
    "full": "flute, piccolo, two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, cimbasso, timpani, cymbals, bass drum, harp and strings, together with offstage wind band, offstage bell and small onstage string orchestra (four to six first violins, two second violins, two violas, two cellos and two double basses)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1859
   },
   {
    "c": "verdi-giuseppe",
    "t": "Il corsaro",
    "cat": null,
-   "y": 1846,
+   "y": 1848,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33303,13 +33468,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1846
+   "sy": 1848
   },
   {
    "c": "verdi-giuseppe",
    "t": "Don Carlos",
    "cat": null,
-   "y": null,
+   "y": 1867,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33323,13 +33488,14 @@
    "full": "3 flutes, piccolo, 2 oboes, English horn, 2 clarinets, 4 bassoons, contrabassoon, Brass: 4 horns, 2 cornets, 2 trumpets, 3 trombones, ophicleide, Percussion: timpani, bass drum, triangle, bells, cannon, tambourine, castanets, Other: harp, harmonium, Stage band: Offstage horns (left and right) in E-flat and B-flat, D clarinet, 2 clarinets in A, 2 flugelhorns, 2 trumpets in D, 4 horns in D, 2 tubas,",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1867
   },
   {
    "c": "verdi-giuseppe",
    "t": "Ernani",
    "cat": null,
-   "y": null,
+   "y": 1844,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33341,13 +33507,14 @@
    "full": "one piccolo, one flute, two oboes, two clarinets, one bass clarinet, two bassoons, four horns, two trumpets, three trombones, one cimbasso, one harp, timpani, bass drum and cymbals, snare drum, on-stage band with on-stage bass drum, one offstage horn, six offstage trumpets, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1844
   },
   {
    "c": "verdi-giuseppe",
    "t": "La forza del destino",
    "cat": null,
-   "y": 1835,
+   "y": 1862,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33360,13 +33527,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1835
+   "sy": 1862
   },
   {
    "c": "verdi-giuseppe",
    "t": "Luisa Miller",
    "cat": null,
-   "y": null,
+   "y": 1849,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33378,13 +33545,14 @@
    "full": "piccolo, two flutes, two oboes, 2 clarinets, two bassoons, four horns, four offstage horns, two trumpets, three trombones, one cimbasso, one harp, timpani, a bell representing a church bell, a bell representing the castle clock, bass drum and cymbals, organ and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1849
   },
   {
    "c": "verdi-giuseppe",
    "t": "I masnadieri",
    "cat": null,
-   "y": null,
+   "y": 1847,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33396,7 +33564,8 @@
    "full": "piccolo, flute, two oboes, two clarinets, two bassoons, four horns, two trumpets, three trombones, cimbasso, timpani, bass drum cymbals, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1847
   },
   {
    "c": "verdi-giuseppe",
@@ -33421,7 +33590,7 @@
    "c": "verdi-giuseppe",
    "t": "Otello",
    "cat": null,
-   "y": 1881,
+   "y": 1887,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33436,13 +33605,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1881
+   "sy": 1887
   },
   {
    "c": "verdi-giuseppe",
    "t": "Rigoletto",
    "cat": null,
-   "y": 1832,
+   "y": 1851,
    "g": "Opera",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -33456,13 +33625,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1832
+   "sy": 1851
   },
   {
    "c": "verdi-giuseppe",
    "t": "Stiffelio",
    "cat": null,
-   "y": null,
+   "y": 1850,
    "g": "Opera",
    "s": "two oboes (doubling english horn)",
    "counts": {
@@ -33475,13 +33644,14 @@
    "full": "1 flute (doubling on piccolo), 2 oboes (one doubling on English horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso, timpani, snare drum, bass drum, cymbals, organ, strings (violin I and II, viola, cello, double bass)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1850
   },
   {
    "c": "verdi-giuseppe",
    "t": "La traviata",
    "cat": null,
-   "y": null,
+   "y": 1853,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33493,13 +33663,14 @@
    "full": "2 flutes (fl. 2 doubling piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, harp, cimbasso, timpani, cymbals, bass drum, triangle, strings, Banda: Verdi did not fully orchestrate the parts of the on-stage band, but rather composed it in the style of a piano reduction",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1853
   },
   {
    "c": "verdi-giuseppe",
    "t": "Il trovatore",
    "cat": null,
-   "y": 1836,
+   "y": 1853,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33512,7 +33683,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1836
+   "sy": 1853
   },
   {
    "c": "mussorgsky-modest",
@@ -33537,7 +33708,7 @@
    "c": "mussorgsky-modest",
    "t": "Boris Godunov",
    "cat": null,
-   "y": 1868,
+   "y": 1874,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -33552,13 +33723,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1868
+   "sy": 1874
   },
   {
    "c": "mussorgsky-modest",
    "t": "Khovanshchina",
    "cat": null,
-   "y": 1872,
+   "y": null,
    "g": "Opera",
    "s": "two oboes (2nd doubling english horn, 3rd doubling english horn)",
    "counts": {
@@ -33571,8 +33742,7 @@
    "full": "strings, Woodwinds: 3 flutes (3rd doubling piccolo), 2 oboes (2nd doubling english horn), 2 clarinets, 2 bassoons, Brass: 4 horns, 2 trumpets, 3 trombones, 1 tuba, Percussion: timpani, bass drum, snare drum, triangle, tambourine, cymbals, tam-tam, bells, Other: piano, harp, On/Offstage: 3 trumpets, wind band, Shostakovich Orchestration:, Strings: violin",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1872
+   "est": false
   },
   {
    "c": "mussorgsky-modest",
@@ -33598,7 +33768,7 @@
    "c": "borodin-alexander",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": 1869,
+   "y": 1876,
    "g": "Symphony",
    "s": "two oboes (doubling english horn)",
    "counts": {
@@ -33612,7 +33782,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1869
+   "sy": 1876
   },
   {
    "c": "glazunov-alexander",
@@ -33657,7 +33827,7 @@
    "c": "glazunov-alexander",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1890,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -33670,7 +33840,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1894.998
+   "sy": 1890
   },
   {
    "c": "glazunov-alexander",
@@ -33733,7 +33903,7 @@
    "c": "scriabin-alexander",
    "t": "The Poem of Ecstasy",
    "cat": null,
-   "y": 1905,
+   "y": 1908,
    "g": "Orchestral",
    "s": "three oboes, english horn",
    "counts": {
@@ -33748,13 +33918,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1905
+   "sy": 1908
   },
   {
    "c": "scriabin-alexander",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": 1899,
+   "y": 1900,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -33767,13 +33937,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1899
+   "sy": 1900
   },
   {
    "c": "scriabin-alexander",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": 1902,
+   "y": 1904,
    "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
@@ -33788,7 +33958,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1902
+   "sy": 1904
   },
   {
    "c": "khachaturian-aram",
@@ -33813,7 +33983,7 @@
    "c": "khachaturian-aram",
    "t": "Gayane",
    "cat": null,
-   "y": 1939,
+   "y": null,
    "g": "Ballet",
    "s": "two oboes, english horn",
    "counts": {
@@ -33827,8 +33997,7 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 3 clarinets (3rd doubling bass clarinet), alto saxophone, 2 bassoons, Brass: 4 horns, cornet, 3 trumpets, alto trumpet, 3 trombones, bass tuba, Timpani and percussion: triangle, tambourine, 2 side drums, cymbals, bass drum, tam-tam, doli, daira, Glockenspiel, xylophone, marimba, vibraphone, chimes, keyboards: celesta, piano, strings: 2 harps,",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1939
+   "est": false
   },
   {
    "c": "khachaturian-aram",
@@ -33932,7 +34101,7 @@
    "c": "smetana-bedrich",
    "t": "Libuše",
    "cat": null,
-   "y": 1872,
+   "y": 1881,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -33945,7 +34114,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1872
+   "sy": 1881
   },
   {
    "c": "smetana-bedrich",
@@ -33970,7 +34139,7 @@
    "c": "liszt-franz",
    "t": "Dante Symphony",
    "cat": null,
-   "y": null,
+   "y": 1856,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -33984,13 +34153,14 @@
    "full": "one piccolo (doubling as 3rd flute in the second movement), two flutes, two oboes, one English horn, two clarinets in B and A, one bass clarinet in B and A, two bassoons, four horns in F, two trumpets in B and D, two tenor trombones, one bass trombone, one tuba, two sets of timpani (requiring two players), cymbals, bass drum, tamtam, two harps (the second harp only in the second movement), strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1856
   },
   {
    "c": "liszt-franz",
    "t": "Faust Symphony",
    "cat": null,
-   "y": null,
+   "y": 1857,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -34002,7 +34172,8 @@
    "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, four French horns, three trumpets, three trombones, tuba, timpani, cymbals, triangle, organ, harp, and strings. A tenor soloist and TTB male choir (two tenor parts and single bass part) are also employed in the final movement",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1857
   },
   {
    "c": "liszt-franz",
@@ -34027,7 +34198,7 @@
    "c": "liszt-franz",
    "t": "Sardanapalo",
    "cat": null,
-   "y": null,
+   "y": 1852,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -34041,7 +34212,8 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, 1 cor anglais, 2 clarinets, 1 bass clarinet, 2 bassoons, 1 contrabassoon, 4 horns, 3 trumpets, 2 trombones, 1 bass trombone, 1 tuba, percussion, 2 harps, strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1852
   },
   {
    "c": "liszt-franz",
@@ -34089,7 +34261,7 @@
    "c": "liszt-franz",
    "t": "Piano Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1849,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -34101,13 +34273,14 @@
    "full": "Solo piano, Woodwinds:, piccolo, 2 flutes, 2 oboes, 2 clarinets in B, 2 bassoons, Brass:, 2 horns in F, 2 trumpets in B, 3 trombones (two tenor, one bass), Percussion:, timpani, cymbals, triangle, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1849
   },
   {
    "c": "liszt-franz",
    "t": "Piano Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1861,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -34119,13 +34292,14 @@
    "full": "solo piano, three flutes (one doubling piccolo), two oboes, two clarinets in A, two bassoons, two horns in E, two trumpets in E, three trombones (two tenor, one bass), tuba, timpani in D and A, cymbals and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1861
   },
   {
    "c": "faure-gabriel",
    "t": "Masques et bergamasques",
    "cat": null,
-   "y": null,
+   "y": 1919,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -34137,7 +34311,8 @@
    "full": "2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1919
   },
   {
    "c": "faure-gabriel",
@@ -34200,7 +34375,7 @@
    "c": "dukas-paul",
    "t": "Symphony in C",
    "cat": null,
-   "y": 1894,
+   "y": 1896,
    "g": "Symphony",
    "s": "two oboes (1st doubling english horn)",
    "counts": {
@@ -34214,13 +34389,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1894
+   "sy": 1896
   },
   {
    "c": "dukas-paul",
    "t": "Ariane et Barbe-bleue",
    "cat": null,
-   "y": null,
+   "y": 1907,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -34234,7 +34409,8 @@
    "full": "3 flutes (3rd doubling piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion (including glockenspiel, cymbals, triangle, side drum, bass drum), harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1907
   },
   {
    "c": "chausson-ernest",
@@ -34280,7 +34456,7 @@
    "c": "delius-frederick",
    "t": "Requiem",
    "cat": null,
-   "y": 1913,
+   "y": 1916,
    "g": "Choral",
    "s": "two oboes, english horn, bass oboe",
    "counts": {
@@ -34297,7 +34473,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1913
+   "sy": 1916
   },
   {
    "c": "delius-frederick",
@@ -34324,7 +34500,7 @@
    "c": "delius-frederick",
    "t": "Piano Concerto",
    "cat": null,
-   "y": null,
+   "y": 1904,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -34338,13 +34514,14 @@
    "full": "Solo piano, 3 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1904
   },
   {
    "c": "delius-frederick",
    "t": "Brigg Fair",
    "cat": null,
-   "y": null,
+   "y": 1908,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -34358,13 +34535,14 @@
    "full": "3 flutes, 2 oboes, cor anglais, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon, 6 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion (bass drum, triangle, tubular bells), harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1908
   },
   {
    "c": "delius-frederick",
    "t": "Summer Night on the River",
    "cat": null,
-   "y": null,
+   "y": 1911,
    "g": "Tone poem",
    "s": "oboe",
    "counts": {
@@ -34376,13 +34554,14 @@
    "full": "two flutes, one oboe, two clarinets in B, two bassoons, two horns in F and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1911
   },
   {
    "c": "walton-william",
    "t": "Façade",
    "cat": null,
-   "y": null,
+   "y": 1922,
    "g": "Orchestral",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -34395,13 +34574,14 @@
    "full": "2 flutes (both doubling piccolo), 2 oboes (2nd doubling cor anglais), 2 clarinets (2nd doubling bass clarinet), alto saxophone, 2 bassoons, 2 horns, 2 trumpets, trombone, tuba, timpani, 4 percussionists (side drum, large ide drum, field drum, bass drum, bass drum with cymbal, drum kit, wood block, castanets, maracas, tambourine, triangle, cymbals, suspended cymbal, tam-tam, glockenspiel, xylophone",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1922
   },
   {
    "c": "walton-william",
    "t": "In Honour of the City of London",
    "cat": null,
-   "y": 1931,
+   "y": null,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -34413,8 +34593,7 @@
    "full": "two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, two percussionists (side drum, bass drum, cymbals, tambourine, glockenspiel, triangle and tubular bells), two harps, and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1931
+   "est": false
   },
   {
    "c": "walton-william",
@@ -34460,7 +34639,7 @@
    "c": "walton-william",
    "t": "Sinfonia Concertante",
    "cat": null,
-   "y": null,
+   "y": 1928,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -34474,7 +34653,8 @@
    "full": "piano solo, with two flutes, piccolo, two oboes, cor anglais, two clarinets, two bassoons, four horns, two trumpets, three trombones, tuba, timpani, two percussion (tambourine, cymbals, side drum, bass drum, glockenspiel, xylophone) and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1928
   },
   {
    "c": "walton-william",
@@ -34500,7 +34680,7 @@
    "c": "walton-william",
    "t": "As You Like It",
    "cat": null,
-   "y": null,
+   "y": 1935,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -34512,13 +34692,14 @@
    "full": "2 flutes (second doubling piccolo), 2 oboes, 2 clarinets in B, bass clarinet in B, bassoon, 4 horns in F, 2 trumpets in B, percussion (glockenspiel, marimba, tubular bells, large cymbal, small cymbals, tabors, suspended cymbals, gong, jingles, side-drum, triangle, and church bells), piano and strings, with mixed chorus",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1935
   },
   {
    "c": "walton-william",
    "t": "Suite from Henry V",
    "cat": null,
-   "y": null,
+   "y": 1944,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -34532,13 +34713,14 @@
    "full": "3 flutes (two doubling piccolo), 2 oboes, 1 cor anglais, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, harpsichord and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1944
   },
   {
    "c": "walton-william",
    "t": "Spitfire Prelude and Fugue",
    "cat": null,
-   "y": null,
+   "y": 1942,
    "g": "Orchestral",
    "s": "two oboes",
    "counts": {
@@ -34550,13 +34732,14 @@
    "full": "Two flutes (second doubling piccolo), one or two oboes, two clarinets, one or two bassoons, four horns, two trumpets, three trombones, tuba, timpani, percussion (side drum, cymbals, bell), harp, and strings. \"Optional 2nd oboe and 2nd bassoon parts have been added by Vilém Tauský",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1942
   },
   {
    "c": "walton-william",
    "t": "The Bear",
    "cat": null,
-   "y": null,
+   "y": 1967,
    "g": "Opera",
    "s": "oboe (doubling english horn)",
    "counts": {
@@ -34569,13 +34752,14 @@
    "full": "Woodwind, flute (doubling piccolo), oboe (doubling English horn), clarinet, bassoon, Brass, French horn, trumpet, trombone, Percussion, timpani, side drum, tenor drum, bass drum, triangle, tambourine, cymbals, suspended cymbal, gong, jingles, 3 wood blocks, whip, rattle, xylophone, vibraphone, tubular bells (in F-sharp and C), crotales, bongos, Keyboard, piano, Strings, first violin, second violin",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1967
   },
   {
    "c": "walton-william",
    "t": "Christopher Columbus",
    "cat": null,
-   "y": null,
+   "y": 1942,
    "g": "Orchestral",
    "s": "three oboes",
    "counts": {
@@ -34587,13 +34771,14 @@
    "full": "three flutes, three oboes, three clarinets, three bassoons, four horns, three trumpets, three trombones, tuba and percussion comprising timpani, side drum, cymbals, tambourine, castanets, bass drum and gong",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1942
   },
   {
    "c": "walton-william",
    "t": "Crown Imperial",
    "cat": null,
-   "y": 1936,
+   "y": 1937,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -34608,13 +34793,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1936
+   "sy": 1937
   },
   {
    "c": "walton-william",
    "t": "Improvisations on an Impromptu of Benjamin Britten",
    "cat": null,
-   "y": null,
+   "y": 1969,
    "g": "Orchestral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -34627,13 +34812,14 @@
    "full": "three flutes (third doubling piccolo), three oboes (third doubling cor anglais), three clarinets (third doubling bass clarinet), three bassoons (third doubling contrabassoon), four horns, three trumpets, three trombones, tuba, timpani, three percussionists (glockenspiel, xylophone, clash cymbals, suspended cymbal, bass drum, tambourine, three bongos, side drum), harp and, strings, The sections of ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1969
   },
   {
    "c": "walton-william",
    "t": "Orb and Sceptre",
    "cat": null,
-   "y": 1936,
+   "y": 1953,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -34648,7 +34834,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1936
+   "sy": 1953
   },
   {
    "c": "walton-william",
@@ -34675,7 +34861,7 @@
    "c": "walton-william",
    "t": "Prelude for Orchestra",
    "cat": null,
-   "y": 1977,
+   "y": 1962,
    "g": "Orchestral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -34689,7 +34875,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1977
+   "sy": 1962
   },
   {
    "c": "walton-william",
@@ -34714,7 +34900,7 @@
    "c": "walton-william",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1960,
    "g": "Orchestral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -34728,13 +34914,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1935.001
+   "sy": 1960
   },
   {
    "c": "walton-william",
    "t": "Variations on a Theme by Hindemith",
    "cat": null,
-   "y": null,
+   "y": 1963,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -34748,13 +34934,14 @@
    "full": "three flutes (one doubling piccolo), two oboes, one cor anglais, two clarinets, one bass clarinet, three bassoons (one doubling contrabassoon), four horns, three trumpets, three trombones, one tuba, timpani, side drum, bass drum, glockenspiel, cymbals, suspended cymbal, tambourine, triangle, xylophone, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1963
   },
   {
    "c": "walton-william",
    "t": "Johannesburg Festival Overture",
    "cat": null,
-   "y": null,
+   "y": 1956,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -34768,13 +34955,14 @@
    "full": "three flutes (third doubling piccolo), two oboes, cor anglais, three clarinets in A, three bassoons (third doubling contrabassoon) – four horns in F, three trumpets in B-flat, three trombones, tuba – timpani, three or four percussion (side drum, cymbals, suspended cymbal, bass drum, xylophone, tambourine, triangle, tenor drum, maracas, rumba sticks, castanets, glockenspiel) – harp – strings, The w",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1956
   },
   {
    "c": "walton-william",
    "t": "Scapino",
    "cat": null,
-   "y": null,
+   "y": 1941,
    "g": "Overture",
    "s": "two oboes, english horn",
    "counts": {
@@ -34788,13 +34976,14 @@
    "full": "three flutes (one doubling piccolo), two oboes, one cor anglais, two clarinets, one bass clarinet, two bassoons, four horns, three trumpets, three trombones, one tuba and one harp, with a percussion section comprising timpani, cymbals, triangle, castanets, Chinese temple blocks, glockenspiel, xylophone, side drum, bass drum, tam-tam and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1941
   },
   {
    "c": "tippett-michael",
    "t": "The Midsummer Marriage",
    "cat": null,
-   "y": null,
+   "y": 1955,
    "g": "Opera",
    "s": "two oboes",
    "counts": {
@@ -34806,7 +34995,8 @@
    "full": "2 flutes (both doubling on piccolos), 2 oboes, 2 clarinets, 2 Bassoons, 4 French horns, 2 trumpets, 3 trombones, timpani and two percussionists playing: snare drum, bass drum, cymbals, triangle, gong, tubular bells, harp, celesta and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1955
   },
   {
    "c": "tippett-michael",
@@ -34890,7 +35080,7 @@
    "c": "arnold-malcolm",
    "t": "Clarinet Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1974,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -34902,13 +35092,14 @@
    "full": "solo clarinet, piccolo, two oboes, two bassoons, two horns, timpani, trap set, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1974
   },
   {
    "c": "arnold-malcolm",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": 1971,
+   "y": 1960,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -34921,7 +35112,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1971
+   "sy": 1960
   },
   {
    "c": "arnold-malcolm",
@@ -34946,7 +35137,7 @@
    "c": "arnold-malcolm",
    "t": "Symphony No. 7",
    "cat": null,
-   "y": null,
+   "y": 1973,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -34959,13 +35150,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1967.001
+   "sy": 1973
   },
   {
    "c": "arnold-malcolm",
    "t": "Symphony No. 8",
    "cat": null,
-   "y": null,
+   "y": 1978,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -34978,13 +35169,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1967.002
+   "sy": 1978
   },
   {
    "c": "arnold-malcolm",
    "t": "Symphony No. 9",
    "cat": null,
-   "y": null,
+   "y": 1986,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -34997,7 +35188,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1967.003
+   "sy": 1986
   },
   {
    "c": "bax-arnold",
@@ -35253,7 +35444,7 @@
    "c": "schoenberg-arnold",
    "t": "Die glückliche Hand",
    "cat": null,
-   "y": null,
+   "y": 1924,
    "g": "Orchestral",
    "s": "three oboes, english horn",
    "counts": {
@@ -35267,7 +35458,8 @@
    "full": "piccolo, 3 flutes (3rd doubling on 2nd piccolo), 3 oboes, English horn, D clarinet, 3 clarinets (in B and A), bass clarinet, 3 bassoons, contrabassoon, Brass, 4 horns, 3 trumpets, 4 trombones, bass tuba, Percussion, timpani, cymbals, bass drum, snare drum, tamtam, high and low bells, triangle, xylophone, glockenspiel, metal tubes, tambourine, hammer, celesta, Strings, harp, violins I, violins II, ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1924
   },
   {
    "c": "schoenberg-arnold",
@@ -35334,7 +35526,7 @@
    "c": "schoenberg-arnold",
    "t": "Moses und Aron",
    "cat": null,
-   "y": 1930,
+   "y": 1932,
    "g": "Opera",
    "s": "three oboes, english horn",
    "counts": {
@@ -35349,7 +35541,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1930
+   "sy": 1932
   },
   {
    "c": "schoenberg-arnold",
@@ -35433,7 +35625,7 @@
    "c": "berg-alban",
    "t": "Altenberg Lieder",
    "cat": null,
-   "y": 1911,
+   "y": 1912,
    "g": "Orchestral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -35447,7 +35639,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1911
+   "sy": 1912
   },
   {
    "c": "berg-alban",
@@ -35553,7 +35745,7 @@
    "c": "berg-alban",
    "t": "Wozzeck",
    "cat": null,
-   "y": null,
+   "y": 1925,
    "g": "Opera",
    "s": "four oboes, english horn",
    "counts": {
@@ -35567,7 +35759,8 @@
    "full": "voices, choirs (men's, women's, and children's), and large orchestra, including onstage musicians four times: a military band (act 1, scene 3), a chamber orchestra (act 2, scene 3), a tavern band (act 2, scene 4), and an out-of-tune, upright tavern piano (act 3, scene 3)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1925
   },
   {
    "c": "webern-anton",
@@ -35594,7 +35787,7 @@
    "c": "korngold-erich-wolfgang",
    "t": "Sinfonietta",
    "cat": null,
-   "y": null,
+   "y": 1912,
    "g": "Orchestral",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
@@ -35607,7 +35800,8 @@
    "full": "2 flutes, piccolo (also third flute), 2 oboes (the second also cor anglais), 2 clarinets, bass clarinet in B, 2 bassoons, contrabassoon, 4 horns in F, 3 trumpets in C, 3 trombones, tuba, timpani, glockenspiel, triangle, snare drum, cymbals, bells in F and B, 2 harps, celesta, upright piano and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1912
   },
   {
    "c": "korngold-erich-wolfgang",
@@ -35632,7 +35826,7 @@
    "c": "korngold-erich-wolfgang",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1945,
    "g": "Concerto",
    "s": "two oboes (doubling english horn)",
    "counts": {
@@ -35645,7 +35839,8 @@
    "full": "solo violin, two flutes (one doubling piccolo), two oboes (one doubling cor anglais), two clarinets, bass clarinet, two bassoons (one doubling contrabassoon), four horns, two trumpets, trombone, harp, strings, and a colorful percussion section of timpani, bass drum, cymbals, gong, tubular bell, glockenspiel, vibraphone, xylophone, and celesta",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1945
   },
   {
    "c": "korngold-erich-wolfgang",
@@ -35671,7 +35866,7 @@
    "c": "korngold-erich-wolfgang",
    "t": "Die tote Stadt",
    "cat": null,
-   "y": null,
+   "y": 1920,
    "g": "Opera",
    "s": "two oboes, english horn",
    "counts": {
@@ -35685,13 +35880,14 @@
    "full": "3 flutes (2nd and 3rd doubling piccolo), 2 oboes, cor anglais, 2 clarinets (A, B-flat), bass clarinet (A, B-flat), 2 bassoons, contrabassoon, brass: 4 horns, 3 trumpets, bass trumpet, 3 trombones, bass tuba, percussion: timpani, snare drum, military drum, triangle, cymbals, bass drum, xylophone, glockenspiel, tam-tam, tambourine, rute, ratchet, celesta, piano, harmonium, strings: 2 harps, violins ",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1920
   },
   {
    "c": "messiaen-olivier",
    "t": "La Transfiguration de Notre Seigneur Jésus-Christ",
    "cat": null,
-   "y": 1965,
+   "y": 1969,
    "g": "Choral",
    "s": "three oboes, english horn",
    "counts": {
@@ -35706,13 +35902,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1965
+   "sy": 1969
   },
   {
    "c": "messiaen-olivier",
    "t": "Des canyons aux étoiles...",
    "cat": null,
-   "y": null,
+   "y": 1971,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -35726,7 +35922,8 @@
    "full": "piano solo, horn solo, xylorimba solo and glockenspiel solo) and orchestra, The string section consists of only 6 violins, 3 violas, 3 cellos, and 1 double bass with fifth-string lower extension, The woodwind requires 1 piccolo, 2 flutes, 1 alto flute, 2 oboes, 1 cor anglais, 1 E-flat clarinet, 2 B-flat clarinets, 1 bass clarinet, 2 bassoons, and 1 contrabassoon",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1971
   },
   {
    "c": "messiaen-olivier",
@@ -35836,7 +36033,7 @@
    "c": "satie-erik",
    "t": "La Belle Excentrique",
    "cat": null,
-   "y": 1920,
+   "y": 1921,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -35849,7 +36046,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1920
+   "sy": 1921
   },
   {
    "c": "satie-erik",
@@ -35876,7 +36073,7 @@
    "c": "satie-erik",
    "t": "En habit de cheval",
    "cat": null,
-   "y": 1912,
+   "y": 1911,
    "g": "Orchestral",
    "s": "oboe, english horn",
    "counts": {
@@ -35891,7 +36088,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1912
+   "sy": 1911
   },
   {
    "c": "satie-erik",
@@ -36006,13 +36203,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1905
+   "sy": 1906
   },
   {
    "c": "ives-charles",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": 1908,
+   "y": 1910,
    "g": "Symphony",
    "s": "oboe",
    "counts": {
@@ -36025,7 +36222,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1908
+   "sy": 1910
   },
   {
    "c": "ives-charles",
@@ -36070,7 +36267,7 @@
    "c": "hanson-howard",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1930,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -36085,7 +36282,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1934.001
+   "sy": 1930
   },
   {
    "c": "hanson-howard",
@@ -36106,7 +36303,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1934.002
+   "sy": 1930.001
   },
   {
    "c": "hanson-howard",
@@ -36152,7 +36349,7 @@
    "c": "piston-walter",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": null,
+   "y": 1950,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -36166,13 +36363,14 @@
    "full": "1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets in B, 1 bass clarinet, 2 bassoons, 1 contrabassoon, Brass, 4 horns in F, 3 trumpets in C, 3 trombones, 1 tuba, Percussion, timpani, triangle, wood block, snare drum, cymbals, bass drum, Strings, 2 harps",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1950
   },
   {
    "c": "grofe-ferde",
    "t": "Grand Canyon Suite",
    "cat": null,
-   "y": 1929,
+   "y": 1931,
    "g": "Suite",
    "s": "two oboes, english horn",
    "counts": {
@@ -36187,7 +36385,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1929
+   "sy": 1931
   },
   {
    "c": "grofe-ferde",
@@ -36213,7 +36411,7 @@
    "c": "glass-philip",
    "t": "Itaipu",
    "cat": null,
-   "y": 1989,
+   "y": null,
    "g": "Orchestral",
    "s": "three oboes",
    "counts": {
@@ -36225,8 +36423,7 @@
    "full": "Woodwinds, piccolo, 2 flutes, 3 oboes, 3 clarinets in B, 2 bassoons, contrabassoon, Brass, 6 horns in F, 4 trumpets in B, 2 trombones, bass trombone, tuba, Percussion, tambourine, tubular bells, cowbell, maracas, triangle, wood block, cymbal, snare drum, tenor drum, bass drum, Mixed chorus, Keyboards, piano, Strings, 2 harps",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1989
+   "est": false
   },
   {
    "c": "glass-philip",
@@ -36308,7 +36505,7 @@
    "c": "glass-philip",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1994,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -36323,7 +36520,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1993.333
+   "sy": 1994
   },
   {
    "c": "glass-philip",
@@ -36348,7 +36545,7 @@
    "c": "glass-philip",
    "t": "Symphony No. 5",
    "cat": null,
-   "y": null,
+   "y": 1999,
    "g": "Symphony",
    "s": "two oboes",
    "counts": {
@@ -36361,13 +36558,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1998.667
+   "sy": 1999
   },
   {
    "c": "glass-philip",
    "t": "Symphony No. 7",
    "cat": null,
-   "y": null,
+   "y": 2005,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -36382,7 +36579,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 2004
+   "sy": 2005
   },
   {
    "c": "glass-philip",
@@ -36445,7 +36642,7 @@
    "c": "glass-philip",
    "t": "Violin Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1987,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -36457,13 +36654,14 @@
    "full": "solo violin; two flutes (one doubling piccolo), two oboes, two B clarinets, E♭ clarinet, bass clarinet, two bassoons; four horns, three trumpets, two tenor trombones, bass trombone, tuba; timpani, snare drum, bass drum, wood block, triangle, cymbals, harp and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1987
   },
   {
    "c": "lutos-awski-witold",
    "t": "Chantefleurs et Chantefables",
    "cat": null,
-   "y": 1989,
+   "y": 1991,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -36476,7 +36674,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1989
+   "sy": 1991
   },
   {
    "c": "lutos-awski-witold",
@@ -36501,7 +36699,7 @@
    "c": "lutos-awski-witold",
    "t": "Mi-parti",
    "cat": null,
-   "y": 1975,
+   "y": 1976,
    "g": "Orchestral",
    "s": "three oboes",
    "counts": {
@@ -36514,13 +36712,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1975
+   "sy": 1976
   },
   {
    "c": "lutos-awski-witold",
    "t": "Twenty Polish Christmas Carols",
    "cat": null,
-   "y": null,
+   "y": 1946,
    "g": "Orchestral",
    "s": "oboe, english horn",
    "counts": {
@@ -36534,7 +36732,8 @@
    "full": "Soprano, SSAA (sopranos and altos ), 1 flute, 1 oboe / cor anglais, 2 clarinets (II also bass clarinet), 1 bassoon, Two horns, one trumpet, one trombone, Percussion, 1 harp, piano, Strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1946
   },
   {
    "c": "lutos-awski-witold",
@@ -36559,7 +36758,7 @@
    "c": "lutos-awski-witold",
    "t": "Cello Concerto",
    "cat": null,
-   "y": null,
+   "y": 1970,
    "g": "Concerto",
    "s": "three oboes",
    "counts": {
@@ -36571,7 +36770,8 @@
    "full": "solo cello and a large orchestra comprising three flutes (all doubling piccolo), three oboes, three clarinets (3rd doubling bass clarinet), three bassoons (3rd doubling contrabassoon), four horns, three trumpets, three trombones, tuba, timpani, percussion, piano, celesta, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1970
   },
   {
    "c": "lutos-awski-witold",
@@ -36597,7 +36797,7 @@
    "c": "lutos-awski-witold",
    "t": "Piano Concerto",
    "cat": null,
-   "y": null,
+   "y": 1988,
    "g": "Concerto",
    "s": "three oboes",
    "counts": {
@@ -36609,13 +36809,14 @@
    "full": "a solo piano and a large orchestra consisting of three flutes (doubling piccolo), three oboes, three clarinets (doubling E clarinet and bass clarinet), three bassoons (doubling contrabassoon), four horns, two trumpets, three trombones, tuba, timpani, three percussionists, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1988
   },
   {
    "c": "lutos-awski-witold",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1947,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -36630,7 +36831,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1966.999
+   "sy": 1947
   },
   {
    "c": "lutos-awski-witold",
@@ -36657,7 +36858,7 @@
    "c": "lutos-awski-witold",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1983,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -36671,13 +36872,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1967.001
+   "sy": 1983
   },
   {
    "c": "lutos-awski-witold",
    "t": "Symphony No. 4",
    "cat": null,
-   "y": null,
+   "y": 1992,
    "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -36691,7 +36892,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1967.002
+   "sy": 1992
   },
   {
    "c": "penderecki-krzysztof",
@@ -36716,7 +36917,7 @@
    "c": "penderecki-krzysztof",
    "t": "Kosmogonia",
    "cat": null,
-   "y": null,
+   "y": 1970,
    "g": "Choral",
    "s": "four oboes",
    "counts": {
@@ -36728,13 +36929,14 @@
    "full": "4 flutes, of which 2 also piccolo, 4 oboes, 3 clarinets, 1 bass clarinets, 3 bassoons, 1 contra bassoon, 2 alto saxophones, 1 baritone saxophone, 6 horns, 4 trumpets, 4 trombones, 2 tubas, 4 male / female percussion, bass guitar, harp, celesta, harmonium, piano, organ, 24 violins, 10 violas, 10 cellos and 8 double bass",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1970
   },
   {
    "c": "penderecki-krzysztof",
    "t": "Polish Requiem",
    "cat": null,
-   "y": 1981,
+   "y": null,
    "g": "Choral",
    "s": "three oboes",
    "counts": {
@@ -36746,14 +36948,13 @@
    "full": "three flutes (third doubling piccolo), three oboes, three clarinets in B, one bass clarinet, three bassoons, one contrabassoon; six horns in F, four trumpets in C, four trombones, one tuba; a percussion section consisting of 2 timpanists, three suspended cymbals, cymbals, 2 tam-tams, bass drum, snare drum, tenor drum, military snare drum, six tom-toms, five timbales, alto wood block, tubular bells",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1981
+   "est": false
   },
   {
    "c": "penderecki-krzysztof",
    "t": "The Devils of Loudun",
    "cat": null,
-   "y": 1968,
+   "y": 1969,
    "g": "Opera",
    "s": "two english horns",
    "counts": {
@@ -36766,7 +36967,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1968
+   "sy": 1969
   },
   {
    "c": "penderecki-krzysztof",
@@ -36895,7 +37096,7 @@
    "c": "ligeti-gyorgy",
    "t": "Chamber Concerto",
    "cat": null,
-   "y": 1969,
+   "y": 1970,
    "g": "Chamber",
    "s": "oboe (doubling english horn, doubling oboe d'amore)",
    "counts": {
@@ -36910,7 +37111,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1969
+   "sy": 1970
   },
   {
    "c": "ligeti-gyorgy",
@@ -36936,7 +37137,7 @@
    "c": "ligeti-gyorgy",
    "t": "Piano Concerto",
    "cat": null,
-   "y": 1986,
+   "y": 1988,
    "g": "Concerto",
    "s": "oboe",
    "counts": {
@@ -36949,13 +37150,13 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1986
+   "sy": 1988
   },
   {
    "c": "ligeti-gyorgy",
    "t": "Violin Concerto",
    "cat": null,
-   "y": null,
+   "y": 1990,
    "g": "Concerto",
    "s": "oboe",
    "counts": {
@@ -36967,13 +37168,14 @@
    "full": "a solo violin accompanied by an orchestra with the following instrumentation, Woodwinds:, 2 flutes (1st doubling alto flute and Recorder (musical instrument) treble recorder, 2nd doubling piccolo and descant recorder), 1 oboe (doubling Ocarina soprano ocarina in C), 2 clarinets in B (1st doubling E clarinet and sopranino ocarina in high F, 2nd doubling bass clarinet in B and alto ocarina in low G)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1990
   },
   {
    "c": "ligeti-gyorgy",
    "t": "Le Grand Macabre",
    "cat": null,
-   "y": 1977,
+   "y": 1978,
    "g": "Opera",
    "s": "three oboes (2nd doubling oboe d'amore, 3rd doubling english horn)",
    "counts": {
@@ -36988,7 +37190,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1977
+   "sy": 1978
   },
   {
    "c": "part-arvo",
@@ -37052,7 +37254,7 @@
    "c": "bloch-ernest",
    "t": "Schelomo",
    "cat": null,
-   "y": 1915,
+   "y": 1916,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -37067,7 +37269,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1915
+   "sy": 1916
   },
   {
    "c": "enescu-george",
@@ -37094,7 +37296,7 @@
    "c": "enescu-george",
    "t": "Chamber Symphony",
    "cat": null,
-   "y": null,
+   "y": 1954,
    "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
@@ -37108,13 +37310,14 @@
    "full": "flute, oboe, cor anglais, clarinet, bassoon, horn, trumpet, violin, viola, cello, doublebass, and piano",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1954
   },
   {
    "c": "enescu-george",
    "t": "Symphony No. 1",
    "cat": null,
-   "y": null,
+   "y": 1905,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -37128,13 +37331,14 @@
    "full": "3 flutes (third doubling piccolo), 2 oboes, cor anglais, E clarinet, 2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, percussion (triangle, tambourine, cymbals, bass drum), 2 harps, 20 first violins, 18 or 20 second violins, 14 violas, 12 cellos, and 12 contrabasses",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1905
   },
   {
    "c": "enescu-george",
    "t": "Symphony No. 2",
    "cat": null,
-   "y": null,
+   "y": 1914,
    "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
@@ -37148,13 +37352,14 @@
    "full": "3 flutes (third doubling piccolo), 2 oboes, English horn, 3 clarinets (third doubling bass clarinet and piccolo clarinet in D), 3 bassoons, 4 horns, 3 trumpets in C, 3 trombones, tuba, timpani, triangle, bass drum, tomtoms, snare drum, cymbals, castanets, tam-tam, tambourine, glockenspiel, celesta, piano and harmonium, harp (or several, ad. lib.), strings (20, 20, 14, 12, 12)",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1914
   },
   {
    "c": "enescu-george",
    "t": "Symphony No. 3",
    "cat": null,
-   "y": null,
+   "y": 1918,
    "g": "Symphony",
    "s": "four oboes (3rd and 4th doubling english horn)",
    "counts": {
@@ -37167,7 +37372,8 @@
    "full": "4 flutes (3rd and 4th doubling 1st and 2nd piccolo), 4 oboes (3rd and 4th doubling 1st and 2nd cor anglais), 3 clarinets (3rd doubling E clarinet and bass clarinet), 4 bassoons (4th doubling contrabassoon), 6 horns, piccolo trumpet in D, 3 trumpets in C, 2 cornets in B, valve trombone, 3 tenor trombones, bass trombone, 3 tubas, 2 sets of timpani, 6 percussionists (snare drum, tambourine, triangle,",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1918
   },
   {
    "c": "falla-manuel-de",
@@ -37272,7 +37478,7 @@
    "c": "villa-lobos-heitor",
    "t": "Bachianas Brasileiras",
    "cat": null,
-   "y": 1930,
+   "y": null,
    "g": "Orchestral",
    "s": "oboe",
    "counts": {
@@ -37284,14 +37490,13 @@
    "full": "flute, oboe, clarinet, tenor and baritone saxophones, bassoon, contrabassoon, 2 horns, trombone, timpani, ganzá, chocalho, pandeira, reco, matraca, caixa, triangle, cymbals, tam-tam, bass drum, celesta, piano, and strings",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1930
+   "est": false
   },
   {
    "c": "villa-lobos-heitor",
    "t": "Miniaturas",
    "cat": null,
-   "y": 1907,
+   "y": 1917,
    "g": "Orchestral",
    "s": "two oboes, english horn",
    "counts": {
@@ -37306,7 +37511,7 @@
    "note": null,
    "arr": false,
    "est": false,
-   "sy": 1907
+   "sy": 1917
   },
   {
    "c": "villa-lobos-heitor",
@@ -37728,7 +37933,7 @@
    "c": "villa-lobos-heitor",
    "t": "Cello Concerto No. 1",
    "cat": null,
-   "y": null,
+   "y": 1913,
    "g": "Concerto",
    "s": "two oboes",
    "counts": {
@@ -37740,13 +37945,14 @@
    "full": "piccolo, two flutes, two oboes, two clarinets, two bassoons, four horns, three trumpets, three trombones, tuba, timpani, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1913
   },
   {
    "c": "villa-lobos-heitor",
    "t": "Cello Concerto No. 2",
    "cat": null,
-   "y": null,
+   "y": 1953,
    "g": "Concerto",
    "s": "two oboes, english horn",
    "counts": {
@@ -37760,13 +37966,14 @@
    "full": "piccolo, two flutes, two oboes, cor anglais, two clarinets, bass clarinet, two bassoons, contrabassoon, four horns, two trumpets, three trombones, tuba, timpani, percussion (tam-tam, side drum, tambourine, suspended cymbal), celesta, harp, and strings",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1953
   },
   {
    "c": "orff-carl",
    "t": "Carmina Burana",
    "cat": null,
-   "y": 1935,
+   "y": null,
    "g": "Choral",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -37779,14 +37986,13 @@
    "full": "flute flutes (second and third doubling first and second piccolos), 3 oboes (third doubling English horn), 3 clarinets in B and A (second doubling bass clarinet, third doubling sopranino clarinet in E ), 2 bassoons, 1 contrabassoon, Brass, 4 horns in F, 3 trumpets in B and C, 2 trombones, 1 bass trombone, 1 tuba, Percussion, 5 timpani, 2 snare drums, bass drum, triangle, cymbals, suspended cymbal,",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1935
+   "est": false
   },
   {
    "c": "orff-carl",
    "t": "Trionfo di Afrodite",
    "cat": null,
-   "y": 1951,
+   "y": null,
    "g": "Choral",
    "s": "three oboes (2nd and 3rd doubling english horn)",
    "counts": {
@@ -37799,8 +38005,7 @@
    "full": "3 Flutes (all 3 doubling Piccolos), 3 Oboes (2nd and 3rd doubling English horns), 3 Clarinets in B-flat (3rd doubling Clarinet in E-flat), 3 Bassoons (3rd doubling Contrabassoon), Brass, 6 Horns in F, 3 Trumpets, 3 Trombones, 2 Tubas, width, 33%|, Percussion (requiring 10–12 players, not counting Timpani), 6 Timpani (2 players), 4 Standard Cymbals (2 suspended, 1 pair crash), Tam-Tam, Tubular bell",
    "note": null,
    "arr": false,
-   "est": false,
-   "sy": 1951
+   "est": false
   },
   {
    "c": "orff-carl",
@@ -37827,7 +38032,7 @@
    "c": "orff-carl",
    "t": "Die Kluge",
    "cat": null,
-   "y": null,
+   "y": 1943,
    "g": "Opera",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
@@ -37840,13 +38045,14 @@
    "full": "3 flutes (all 3 doubling piccolos), 3 oboes (3rd doubling English horn), 3 clarinets in B-flat, A, C and E-flat (1 doubling bass clarinet), 2 bassoons, contrabassoon, Brass: 4 horns in F, 3 trumpets, 3 trombones, tuba, Percussion (4 players): timpani, bass drum, 2 snare drums, tenor drum, tambourine, triangle, lithophone, sand rattle, antique cymbals, various Turkish cymbals, tamtam, ratchet, slei",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1943
   },
   {
    "c": "orff-carl",
    "t": "Prometheus",
    "cat": null,
-   "y": null,
+   "y": 1968,
    "g": "Opera",
    "s": "six oboes, english horn",
    "counts": {
@@ -37860,7 +38066,8 @@
    "full": "6 flutes, all also piccolos, 1 also alto flute, 6 oboes, oboes 5–6 also cor anglais, 6 trumpets, 6 trombones, 4 harps, 4 tenor banjos, 1 organ, 1 regal, 1 electric organ, 4 grand pianos with 8 players, 9 double basses, The large percussion section requires 15 to 18 players:, 5 timpani, 2 small timpani with wooden cover, 1 snare drum with resonant strings, 3 Basque drums, 2 bass drums, 1 with a cym",
    "note": null,
    "arr": false,
-   "est": false
+   "est": false,
+   "sy": 1968
   },
   {
    "c": "abel-carl-friedrich",

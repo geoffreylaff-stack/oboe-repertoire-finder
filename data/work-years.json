@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-17T04:00:05.495Z",
+ "generated": "2026-11-17T05:04:49.883Z",
  "source": "IMSLP |Year/Date of Composition= and English Wikipedia infoboxes / article leads",
  "counts": {
   "imslpPages": 6134,
   "imslpYears": 3233,
-  "wikipediaPages": 908,
-  "wikipediaYears": 759,
-  "calls": 909
+  "wikipediaPages": 1069,
+  "wikipediaYears": 1005,
+  "calls": 1070
  },
  "works": {
   "imslp": {
@@ -3245,25 +3245,29 @@
    "Ò_Divino_Jesus_(Gonima,_Manuel)": 1739
   },
   "wikipedia": {
+   "1812 Overture": {
+    "year": 1880,
+    "how": "infobox"
+   },
    "A Fugal Overture": {
     "year": 1922,
-    "how": "lead"
+    "how": "category"
    },
    "A German Requiem (Brahms)": {
     "year": 1868,
     "how": "infobox"
    },
    "A London Symphony": {
-    "year": 1925,
-    "how": "lead"
+    "year": 1913,
+    "how": "category"
    },
    "A Sea Symphony": {
-    "year": 1903,
-    "how": "lead"
+    "year": 1909,
+    "how": "category"
    },
    "Abraham and Isaac (Stravinsky)": {
     "year": 1963,
-    "how": "lead"
+    "how": "category"
    },
    "Academic Festival Overture": {
     "year": 1880,
@@ -3273,17 +3277,37 @@
     "year": 1891,
     "how": "infobox"
    },
+   "Agon (ballet)": {
+    "year": 1957,
+    "how": "category"
+   },
+   "Aida": {
+    "year": 1871,
+    "how": "category"
+   },
    "Alborada del gracioso": {
-    "year": 1905,
-    "how": "lead"
+    "year": 1904,
+    "how": "category"
    },
    "Alexander Nevsky (Prokofiev)": {
     "year": 1938,
-    "how": "lead"
+    "how": "category"
+   },
+   "Also sprach Zarathustra": {
+    "year": 1896,
+    "how": "infobox"
    },
    "Altenberg Lieder": {
-    "year": 1911,
-    "how": "lead"
+    "year": 1912,
+    "how": "category"
+   },
+   "Alzira (opera)": {
+    "year": 1845,
+    "how": "category"
+   },
+   "An Alpine Symphony": {
+    "year": 1915,
+    "how": "infobox"
    },
    "An American in Paris": {
     "year": 1928,
@@ -3291,7 +3315,7 @@
    },
    "Ancient Airs and Dances": {
     "year": 1917,
-    "how": "lead"
+    "how": "category"
    },
    "Antar (Rimsky-Korsakov)": {
     "year": 1868,
@@ -3299,19 +3323,39 @@
    },
    "Antigonae": {
     "year": 1949,
-    "how": "lead"
+    "how": "category"
    },
    "Appalachian Spring": {
-    "year": 1945,
-    "how": "lead"
+    "year": 1944,
+    "how": "category"
+   },
+   "Arabella": {
+    "year": 1933,
+    "how": "category"
    },
    "Ariadne auf Naxos": {
-    "year": 1916,
-    "how": "lead"
+    "year": 1912,
+    "how": "category"
+   },
+   "Ariane et Barbe-bleue": {
+    "year": 1907,
+    "how": "category"
+   },
+   "Armida (Dvořák)": {
+    "year": 1904,
+    "how": "category"
    },
    "Armida (Haydn)": {
-    "year": 1770,
-    "how": "lead"
+    "year": 1784,
+    "how": "category"
+   },
+   "As You Like It (Walton)": {
+    "year": 1935,
+    "how": "category"
+   },
+   "Ascanio in Alba": {
+    "year": 1771,
+    "how": "category"
    },
    "Atmosphères": {
     "year": 1961,
@@ -3321,13 +3365,13 @@
     "year": 1929,
     "how": "infobox"
    },
+   "Aus Italien": {
+    "year": 1886,
+    "how": "category"
+   },
    "Babel (Stravinsky)": {
     "year": 1944,
     "how": "infobox"
-   },
-   "Bachianas Brasileiras": {
-    "year": 1930,
-    "how": "lead"
    },
    "Bassoon Concerto (Mozart)": {
     "year": 1774,
@@ -3337,13 +3381,25 @@
     "year": 1929,
     "how": "infobox"
    },
+   "Belfagor": {
+    "year": 1923,
+    "how": "category"
+   },
    "Bella mia fiamma, addio": {
     "year": 1787,
-    "how": "lead"
+    "how": "category"
    },
    "Betulia liberata": {
-    "year": 1771,
-    "how": "lead"
+    "year": 1734,
+    "how": "category"
+   },
+   "Billy Budd (opera)": {
+    "year": 1951,
+    "how": "category"
+   },
+   "Billy the Kid (ballet)": {
+    "year": 1938,
+    "how": "category"
    },
    "Bluebird Pas de Deux": {
     "year": 1941,
@@ -3354,24 +3410,40 @@
     "how": "infobox"
    },
    "Boris Godunov (opera)": {
-    "year": 1868,
-    "how": "lead"
+    "year": 1874,
+    "how": "category"
+   },
+   "Brigg Fair": {
+    "year": 1908,
+    "how": "category"
    },
    "Burleske": {
     "year": 1886,
-    "how": "lead"
+    "how": "category"
    },
    "Béatrice et Bénédict": {
-    "year": 1858,
-    "how": "lead"
+    "year": 1862,
+    "how": "category"
+   },
+   "Calm Sea and Prosperous Voyage (Mendelssohn)": {
+    "year": 1828,
+    "how": "category"
    },
    "Cantata for the 20th Anniversary of the October Revolution": {
     "year": 1937,
     "how": "infobox"
    },
-   "Canticum Sacrum": {
-    "year": 1955,
-    "how": "lead"
+   "Cantata for the Coronation of Nicholas II": {
+    "year": 1896,
+    "how": "infobox"
+   },
+   "Cantata for the University Graduation Ceremonies of 1894": {
+    "year": 1894,
+    "how": "infobox"
+   },
+   "Cantata on the Death of Emperor Joseph II": {
+    "year": 1790,
+    "how": "infobox"
    },
    "Capriccio Espagnol": {
     "year": 1887,
@@ -3379,23 +3451,23 @@
    },
    "Capriccio Italien": {
     "year": 1880,
-    "how": "lead"
+    "how": "category"
    },
    "Capriccio for Piano and Orchestra": {
-    "year": 1926,
-    "how": "lead"
+    "year": 1929,
+    "how": "category"
    },
    "Capricorn Concerto": {
     "year": 1944,
-    "how": "lead"
+    "how": "category"
    },
    "Carmen": {
     "year": 1993,
     "how": "infobox"
    },
-   "Carmina Burana (Orff)": {
-    "year": 1935,
-    "how": "lead"
+   "Carnival Overture (Dvořák)": {
+    "year": 1891,
+    "how": "category"
    },
    "Cassation in D major, K. 100": {
     "year": 1769,
@@ -3411,7 +3483,7 @@
    },
    "Catfish Row": {
     "year": 1936,
-    "how": "lead"
+    "how": "category"
    },
    "Cecilia, vergine romana": {
     "year": 2000,
@@ -3419,31 +3491,67 @@
    },
    "Cello Concerto (Barber)": {
     "year": 1945,
-    "how": "lead"
+    "how": "category"
+   },
+   "Cello Concerto (Elgar)": {
+    "year": 1919,
+    "how": "category"
    },
    "Cello Concerto (Ligeti)": {
     "year": 1966,
-    "how": "lead"
+    "how": "category"
+   },
+   "Cello Concerto (Lutosławski)": {
+    "year": 1970,
+    "how": "category"
    },
    "Cello Concerto (Prokofiev)": {
-    "year": 1933,
-    "how": "lead"
+    "year": 1938,
+    "how": "category"
+   },
+   "Cello Concerto (Schumann)": {
+    "year": 1850,
+    "how": "infobox"
    },
    "Cello Concerto (Walton)": {
     "year": 1956,
-    "how": "lead"
+    "how": "category"
+   },
+   "Cello Concerto No. 1 (Saint-Saëns)": {
+    "year": 1872,
+    "how": "category"
    },
    "Cello Concerto No. 1 (Shostakovich)": {
     "year": 1959,
-    "how": "lead"
+    "how": "category"
+   },
+   "Cello Concerto No. 1 (Villa-Lobos)": {
+    "year": 1913,
+    "how": "infobox"
+   },
+   "Cello Concerto No. 2 (Saint-Saëns)": {
+    "year": 1902,
+    "how": "category"
+   },
+   "Cello Concerto No. 2 (Shostakovich)": {
+    "year": 1966,
+    "how": "category"
+   },
+   "Cello Concerto No. 2 (Villa-Lobos)": {
+    "year": 1953,
+    "how": "infobox"
    },
    "Central Park in the Dark": {
     "year": 1906,
-    "how": "lead"
+    "how": "category"
    },
    "Chamber Concerto (Ligeti)": {
-    "year": 1969,
-    "how": "lead"
+    "year": 1970,
+    "how": "category"
+   },
+   "Chamber Symphony (Enescu)": {
+    "year": 1954,
+    "how": "infobox"
    },
    "Chamber Symphony No. 1 (Schoenberg)": {
     "year": 2007,
@@ -3451,31 +3559,35 @@
    },
    "Chamber Symphony No. 2 (Schoenberg)": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "Chanson de Matin": {
     "year": 1889,
-    "how": "lead"
+    "how": "category"
    },
    "Chanson de Nuit": {
     "year": 1889,
-    "how": "lead"
+    "how": "category"
    },
    "Chantefleurs et Chantefables": {
-    "year": 1989,
-    "how": "lead"
+    "year": 1991,
+    "how": "category"
    },
    "Cherevichki": {
-    "year": 1885,
-    "how": "lead"
+    "year": 1887,
+    "how": "category"
    },
    "Choral Fantasy (Beethoven)": {
     "year": 1808,
     "how": "infobox"
    },
+   "Christopher Columbus (play)": {
+    "year": 1942,
+    "how": "category"
+   },
    "Chronochromie": {
     "year": 1960,
-    "how": "lead"
+    "how": "category"
    },
    "Chôros No. 11": {
     "year": 1928,
@@ -3498,12 +3610,16 @@
     "how": "infobox"
    },
    "Cinderella (Prokofiev)": {
-    "year": 1940,
-    "how": "lead"
+    "year": 1944,
+    "how": "category"
+   },
+   "Clarinet Concerto No. 2 (Arnold)": {
+    "year": 1974,
+    "how": "category"
    },
    "Concert Fantasia (Tchaikovsky)": {
     "year": 1884,
-    "how": "lead"
+    "how": "category"
    },
    "Concert champêtre": {
     "year": 1928,
@@ -3511,27 +3627,31 @@
    },
    "Concerto Fantasy for Two Timpanists and Orchestra": {
     "year": 2000,
-    "how": "lead"
+    "how": "category"
    },
    "Concerto for Flute, Harp, and Orchestra (Mozart)": {
     "year": 1778,
     "how": "infobox"
    },
+   "Concerto for Orchestra (Bartók)": {
+    "year": 1943,
+    "how": "infobox"
+   },
    "Concerto for Orchestra (Lutosławski)": {
     "year": 1954,
-    "how": "lead"
+    "how": "category"
    },
    "Concerto for Piano and Wind Instruments (Stravinsky)": {
     "year": 1924,
-    "how": "lead"
+    "how": "category"
    },
    "Concerto for Two Pianos and Orchestra (Poulenc)": {
     "year": 1932,
     "how": "infobox"
    },
-   "Concerto in modo misolidio": {
+   "Concerto in F (Gershwin)": {
     "year": 1925,
-    "how": "lead"
+    "how": "category"
    },
    "Concertone for two Violins and Orchestra": {
     "year": 1774,
@@ -3539,19 +3659,27 @@
    },
    "Concierto de Aranjuez": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "Connotations (Copland)": {
     "year": 1962,
     "how": "infobox"
    },
+   "Coriolan Overture": {
+    "year": 1807,
+    "how": "category"
+   },
    "Coronation Mass (Mozart)": {
     "year": 1779,
     "how": "infobox"
    },
+   "Così fan tutte": {
+    "year": 1790,
+    "how": "category"
+   },
    "Crown Imperial (march)": {
-    "year": 1936,
-    "how": "lead"
+    "year": 1937,
+    "how": "category"
    },
    "Cuban Overture": {
     "year": 1932,
@@ -3563,23 +3691,35 @@
    },
    "Dance Suite from Keyboard Pieces by François Couperin": {
     "year": 1923,
-    "how": "lead"
+    "how": "category"
+   },
+   "Dances of Galánta": {
+    "year": 1933,
+    "how": "category"
    },
    "Danse macabre (Saint-Saëns)": {
     "year": 1874,
-    "how": "lead"
+    "how": "category"
    },
    "Danses concertantes (Stravinsky)": {
     "year": 1942,
-    "how": "lead"
+    "how": "category"
+   },
+   "Dante Symphony": {
+    "year": 1856,
+    "how": "category"
    },
    "Danzón cubano": {
     "year": 1942,
     "how": "infobox"
    },
    "Daphnis et Chloé": {
-    "year": 1906,
-    "how": "lead"
+    "year": 1909,
+    "how": "category"
+   },
+   "Das Liebesmahl der Apostel": {
+    "year": 1843,
+    "how": "category"
    },
    "Das Lied von der Erde": {
     "year": 1908,
@@ -3588,6 +3728,10 @@
    "Das klagende Lied": {
     "year": 1878,
     "how": "infobox"
+   },
+   "Death and Transfiguration": {
+    "year": 1889,
+    "how": "category"
    },
    "Decet (Enescu)": {
     "year": 1906,
@@ -3599,23 +3743,27 @@
    },
    "Der Schwanendreher": {
     "year": 1935,
-    "how": "lead"
+    "how": "category"
    },
    "Der fliegende Holländer": {
-    "year": 1840,
-    "how": "lead"
+    "year": 1843,
+    "how": "category"
    },
    "Des Dichters Abendgang": {
     "year": 1900,
     "how": "infobox"
    },
+   "Des canyons aux étoiles...": {
+    "year": 1971,
+    "how": "category"
+   },
    "Die Entführung aus dem Serail": {
-    "year": 1781,
-    "how": "lead"
+    "year": 1782,
+    "how": "category"
    },
    "Die Frau ohne Schatten": {
-    "year": 1914,
-    "how": "lead"
+    "year": 1919,
+    "how": "category"
    },
    "Die Harmonie der Welt Symphony": {
     "year": 1951,
@@ -3625,9 +3773,33 @@
     "year": 2003,
     "how": "infobox"
    },
+   "Die Kluge": {
+    "year": 1943,
+    "how": "category"
+   },
+   "Die Meistersinger von Nürnberg": {
+    "year": 1868,
+    "how": "category"
+   },
    "Die Tageszeiten": {
     "year": 1927,
     "how": "infobox"
+   },
+   "Die glückliche Hand": {
+    "year": 1924,
+    "how": "category"
+   },
+   "Die schweigsame Frau": {
+    "year": 1935,
+    "how": "category"
+   },
+   "Die tote Stadt": {
+    "year": 1920,
+    "how": "category"
+   },
+   "Die ägyptische Helena": {
+    "year": 1928,
+    "how": "category"
    },
    "Divertimento (Bernstein)": {
     "year": 1980,
@@ -3637,13 +3809,29 @@
     "year": 1771,
     "how": "infobox"
    },
+   "Divertimento for Chamber Orchestra after Keyboard Pieces by Couperin": {
+    "year": 1940,
+    "how": "category"
+   },
+   "Don Carlos": {
+    "year": 1867,
+    "how": "category"
+   },
    "Don Giovanni": {
     "year": 1912,
     "how": "infobox"
    },
+   "Don Juan (Strauss)": {
+    "year": 1888,
+    "how": "category"
+   },
    "Don Quixote (Strauss)": {
     "year": 1897,
-    "how": "lead"
+    "how": "category"
+   },
+   "Dona nobis pacem (Vaughan Williams)": {
+    "year": 1936,
+    "how": "infobox"
    },
    "Double Concerto (Brahms)": {
     "year": 1887,
@@ -3651,19 +3839,23 @@
    },
    "Double Concerto (Delius)": {
     "year": 1915,
-    "how": "lead"
+    "how": "category"
    },
    "Double Concerto (Holst)": {
     "year": 1929,
-    "how": "lead"
+    "how": "category"
    },
    "Dream Children (Elgar)": {
     "year": 1902,
-    "how": "lead"
+    "how": "category"
    },
    "Ebony Concerto (Stravinsky)": {
     "year": 1945,
-    "how": "lead"
+    "how": "category"
+   },
+   "Ein Heldenleben": {
+    "year": 1898,
+    "how": "category"
    },
    "El Salón México": {
     "year": 2017,
@@ -3671,15 +3863,31 @@
    },
    "El retablo de maese Pedro": {
     "year": 1923,
-    "how": "lead"
+    "how": "category"
    },
    "En habit de cheval": {
-    "year": 1912,
-    "how": "lead"
+    "year": 1911,
+    "how": "category"
+   },
+   "En saga": {
+    "year": 1892,
+    "how": "infobox"
    },
    "English Dances (Arnold)": {
     "year": 1950,
-    "how": "lead"
+    "how": "category"
+   },
+   "English Folk Song Suite": {
+    "year": 1923,
+    "how": "category"
+   },
+   "Enigma Variations": {
+    "year": 1899,
+    "how": "category"
+   },
+   "Ernani": {
+    "year": 1844,
+    "how": "category"
    },
    "Erwartung": {
     "year": 2011,
@@ -3691,7 +3899,11 @@
    },
    "Et exspecto resurrectionem mortuorum": {
     "year": 1964,
-    "how": "lead"
+    "how": "category"
+   },
+   "Eugene Onegin (opera)": {
+    "year": 1879,
+    "how": "category"
    },
    "Everyman (Sibelius)": {
     "year": 1916,
@@ -3701,13 +3913,17 @@
     "year": 1773,
     "how": "infobox"
    },
+   "Falstaff (Elgar)": {
+    "year": 1913,
+    "how": "category"
+   },
    "Fanfare for the Inauguration of John F. Kennedy": {
     "year": 1961,
     "how": "infobox"
    },
    "Fantaisie for piano and orchestra (Debussy)": {
-    "year": 1889,
-    "how": "lead"
+    "year": 1890,
+    "how": "category"
    },
    "Fantaisie, Op. 111 (Fauré)": {
     "year": 1918,
@@ -3719,19 +3935,39 @@
    },
    "Fatum (Tchaikovsky)": {
     "year": 1868,
-    "how": "lead"
+    "how": "category"
+   },
+   "Faust Symphony": {
+    "year": 1857,
+    "how": "category"
+   },
+   "Façade (entertainment)": {
+    "year": 1922,
+    "how": "category"
    },
    "Festive Overture": {
     "year": 1954,
-    "how": "lead"
+    "how": "category"
    },
    "Feuersnot": {
     "year": 1901,
-    "how": "lead"
+    "how": "category"
+   },
+   "Fidelio": {
+    "year": 1805,
+    "how": "category"
    },
    "Fierrabras (opera)": {
     "year": 1823,
-    "how": "lead"
+    "how": "category"
+   },
+   "Fifteen Hungarian Peasant Songs": {
+    "year": 1980,
+    "how": "infobox"
+   },
+   "Finlandia": {
+    "year": 1899,
+    "how": "infobox"
    },
    "Five Fragments": {
     "year": 1935,
@@ -3741,17 +3977,17 @@
     "year": 1909,
     "how": "infobox"
    },
+   "Five Tudor Portraits": {
+    "year": 1935,
+    "how": "category"
+   },
    "Flos Campi": {
     "year": 1925,
-    "how": "lead"
-   },
-   "Flourish, Mighty Land (Prokofiev)": {
-    "year": 1947,
-    "how": "lead"
+    "how": "category"
    },
    "Flute Concerto (Nielsen)": {
     "year": 1926,
-    "how": "lead"
+    "how": "category"
    },
    "Fountains of Rome (symphonic poem)": {
     "year": 2007,
@@ -3761,17 +3997,25 @@
     "year": 1948,
     "how": "infobox"
    },
+   "Francesca da Rimini (Tchaikovsky)": {
+    "year": 1877,
+    "how": "category"
+   },
    "Gallimathias musicum": {
     "year": 1766,
     "how": "infobox"
    },
-   "Gayane (ballet)": {
-    "year": 1939,
-    "how": "lead"
-   },
    "Geneviève de Brabant (Satie)": {
     "year": 1900,
-    "how": "lead"
+    "how": "category"
+   },
+   "Genoveva": {
+    "year": 1850,
+    "how": "category"
+   },
+   "Germania (Beethoven)": {
+    "year": 1814,
+    "how": "category"
    },
    "Gesang der Parzen": {
     "year": 1882,
@@ -3783,19 +4027,23 @@
    },
    "Glagolitic Mass": {
     "year": 1926,
-    "how": "lead"
+    "how": "category"
    },
    "Gloriana": {
     "year": 1953,
-    "how": "lead"
+    "how": "category"
    },
    "Grand Canyon Suite": {
-    "year": 1929,
-    "how": "lead"
+    "year": 1931,
+    "how": "category"
+   },
+   "Grande Symphonie funèbre et triomphale": {
+    "year": 1840,
+    "how": "category"
    },
    "Greeting Prelude": {
     "year": 1955,
-    "how": "lead"
+    "how": "category"
    },
    "Gurre-Lieder": {
     "year": 1903,
@@ -3807,11 +4055,11 @@
    },
    "Harold en Italie": {
     "year": 1834,
-    "how": "lead"
+    "how": "category"
    },
    "Harpsichord Concerto (Glass)": {
     "year": 2002,
-    "how": "lead"
+    "how": "category"
    },
    "Heimliche Aufforderung": {
     "year": 1894,
@@ -3825,8 +4073,20 @@
     "year": 1851,
     "how": "infobox"
    },
+   "Hodie": {
+    "year": 1954,
+    "how": "infobox"
+   },
    "Horn Concerto (Hindemith)": {
     "year": 1949,
+    "how": "infobox"
+   },
+   "Horn Concerto No. 1 (Mozart)": {
+    "year": 1791,
+    "how": "infobox"
+   },
+   "Horn Concerto No. 2 (Mozart)": {
+    "year": 1783,
     "how": "infobox"
    },
    "Hungarian Pictures": {
@@ -3835,39 +4095,55 @@
    },
    "Hungarian Rhapsody No. 2": {
     "year": 1847,
-    "how": "lead"
+    "how": "category"
    },
-   "Hérodiade (ballet)": {
-    "year": 1944,
-    "how": "lead"
+   "Hymn of the Earth": {
+    "year": 1920,
+    "how": "infobox"
+   },
+   "Háry János": {
+    "year": 1926,
+    "how": "category"
+   },
+   "I masnadieri": {
+    "year": 1847,
+    "how": "category"
+   },
+   "Idomeneo": {
+    "year": 1781,
+    "how": "category"
    },
    "Il corsaro": {
-    "year": 1846,
-    "how": "lead"
+    "year": 1848,
+    "how": "category"
    },
    "Il mondo della luna": {
-    "year": 1750,
-    "how": "lead"
+    "year": 1777,
+    "how": "category"
    },
    "Il trovatore": {
-    "year": 1836,
-    "how": "lead"
+    "year": 1853,
+    "how": "category"
    },
    "Images pour orchestre": {
     "year": 1912,
     "how": "infobox"
    },
+   "Imperial March (Elgar)": {
+    "year": 1897,
+    "how": "category"
+   },
    "Impromptu (Sibelius)": {
     "year": 1902,
     "how": "infobox"
    },
+   "Improvisations on an Impromptu of Benjamin Britten": {
+    "year": 1969,
+    "how": "category"
+   },
    "In Autumn": {
     "year": 1865,
-    "how": "lead"
-   },
-   "In Honour of the City of London": {
-    "year": 1931,
-    "how": "lead"
+    "how": "category"
    },
    "In memoriam (Sibelius)": {
     "year": 1909,
@@ -3875,71 +4151,79 @@
    },
    "In the Faëry Hills": {
     "year": 1909,
-    "how": "lead"
+    "how": "category"
    },
    "In the South (Alassio)": {
-    "year": 1903,
-    "how": "lead"
+    "year": 1904,
+    "how": "category"
    },
    "In the Steppes of Central Asia": {
     "year": 1880,
-    "how": "lead"
+    "how": "category"
    },
    "Inno delle nazioni": {
     "year": 1862,
     "how": "infobox"
    },
+   "Intermezzo (opera)": {
+    "year": 1924,
+    "how": "category"
+   },
    "Intervision (Shostakovich)": {
     "year": 1971,
-    "how": "lead"
+    "how": "category"
    },
    "Introduction and Allegro appassionato (Schumann)": {
     "year": 1849,
-    "how": "lead"
+    "how": "category"
    },
    "Introduction and Concert Allegro (Schumann)": {
     "year": 1853,
-    "how": "lead"
+    "how": "category"
    },
    "Introduction and Rondo Capriccioso": {
     "year": 1863,
-    "how": "lead"
+    "how": "category"
    },
    "Introdução aos Chôros": {
     "year": 1929,
     "how": "infobox"
    },
-   "Isle of the Dead (Rachmaninoff)": {
-    "year": 1909,
-    "how": "lead"
+   "Iolanta": {
+    "year": 1892,
+    "how": "category"
    },
-   "Itaipu (Glass)": {
-    "year": 1989,
-    "how": "lead"
+   "Isle of the Dead (Rachmaninoff)": {
+    "year": 1908,
+    "how": "category"
    },
    "Ivan the Terrible (Prokofiev)": {
-    "year": 1945,
-    "how": "lead"
+    "year": 1944,
+    "how": "category"
    },
    "Japanese Festival Music": {
     "year": 1940,
-    "how": "lead"
+    "how": "category"
    },
    "Japanese Suite": {
     "year": 1915,
     "how": "infobox"
    },
-   "Jeux": {
-    "year": 1912,
-    "how": "lead"
+   "Jena Symphony": {
+    "year": 1793,
+    "how": "category"
+   },
+   "Johannesburg Festival Overture": {
+    "year": 1956,
+    "how": "category"
    },
    "Josephs Legende": {
-    "year": 1912,
-    "how": "lead"
+    "year": 1914,
+    "how": "category"
    },
    "Julius Caesar (overture)": {
     "year": 1851,
-    "how": "lead"
+    "how": "category"
    },
    "Kammerkonzert (Berg)": {
     "year": 1925,
@@ -3947,11 +4231,11 @@
    },
    "Karelia Suite": {
     "year": 1893,
-    "how": "lead"
+    "how": "category"
    },
    "Khovanshchina": {
-    "year": 1872,
-    "how": "lead"
+    "year": 1886,
+    "how": "category"
    },
    "Kindertotenlieder": {
     "year": 1904,
@@ -3963,31 +4247,39 @@
    },
    "King Stephen (Beethoven)": {
     "year": 1811,
-    "how": "lead"
+    "how": "category"
    },
    "Klaviermusik mit Orchester": {
     "year": 1923,
     "how": "infobox"
    },
+   "Konzertstück for Four Horns and Orchestra": {
+    "year": 1849,
+    "how": "category"
+   },
+   "Kosmogonia": {
+    "year": 1970,
+    "how": "category"
+   },
    "Kossuth (Bartók)": {
     "year": 1903,
-    "how": "lead"
+    "how": "category"
    },
    "Kullervo (Sibelius)": {
     "year": 1892,
     "how": "infobox"
    },
    "La Belle Excentrique": {
-    "year": 1920,
-    "how": "lead"
+    "year": 1921,
+    "how": "category"
    },
    "La Cheminée du roi René": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "La Création du monde": {
     "year": 1923,
-    "how": "lead"
+    "how": "category"
    },
    "La Damnation de Faust": {
     "year": 1845,
@@ -3998,36 +4290,60 @@
     "how": "infobox"
    },
    "La Transfiguration de Notre Seigneur Jésus-Christ": {
-    "year": 1965,
-    "how": "lead"
+    "year": 1969,
+    "how": "category"
+   },
+   "La bella dormente nel bosco": {
+    "year": 1922,
+    "how": "category"
    },
    "La bohème": {
-    "year": 1893,
-    "how": "lead"
+    "year": 1896,
+    "how": "category"
+   },
+   "La campana sommersa": {
+    "year": 1927,
+    "how": "category"
    },
    "La clemenza di Tito": {
     "year": 2006,
     "how": "infobox"
    },
+   "La fanciulla del West": {
+    "year": 1910,
+    "how": "category"
+   },
    "La fedeltà premiata": {
-    "year": 1780,
-    "how": "lead"
+    "year": 1781,
+    "how": "category"
+   },
+   "La fiamma": {
+    "year": 1934,
+    "how": "category"
    },
    "La forza del destino": {
-    "year": 1835,
-    "how": "lead"
+    "year": 1862,
+    "how": "category"
    },
    "La mer (Debussy)": {
     "year": 1903,
     "how": "infobox"
    },
+   "La traviata": {
+    "year": 1853,
+    "how": "category"
+   },
    "La valse": {
     "year": 1920,
     "how": "infobox"
    },
+   "La vera costanza": {
+    "year": 1779,
+    "how": "category"
+   },
    "La voix humaine": {
-    "year": 1958,
-    "how": "lead"
+    "year": 1959,
+    "how": "category"
    },
    "Lamentate": {
     "year": 2002,
@@ -4035,23 +4351,23 @@
    },
    "Larmes de couteau": {
     "year": 1928,
-    "how": "lead"
+    "how": "category"
    },
    "Le Bœuf Angora": {
     "year": 1901,
-    "how": "lead"
+    "how": "category"
    },
    "Le Bœuf sur le toit": {
     "year": 1920,
-    "how": "lead"
+    "how": "category"
    },
    "Le Chasseur maudit (Franck)": {
     "year": 1882,
-    "how": "lead"
+    "how": "category"
    },
    "Le Grand Macabre": {
-    "year": 1977,
-    "how": "lead"
+    "year": 1978,
+    "how": "category"
    },
    "Le Tombeau de Couperin": {
     "year": 1917,
@@ -4067,19 +4383,23 @@
    },
    "Les Espaces du sommeil": {
     "year": 1975,
-    "how": "lead"
+    "how": "category"
    },
    "Les Troyens": {
-    "year": 1856,
-    "how": "lead"
+    "year": 1863,
+    "how": "category"
    },
    "Les Éolides": {
     "year": 1876,
-    "how": "lead"
+    "how": "category"
+   },
+   "Letter from Home (Copland)": {
+    "year": 1944,
+    "how": "category"
    },
    "Libuše (opera)": {
-    "year": 1872,
-    "how": "lead"
+    "year": 1881,
+    "how": "category"
    },
    "Lieder eines fahrenden Gesellen": {
     "year": 1885,
@@ -4095,39 +4415,87 @@
    },
    "Little Symphony No. 1 (Milhaud)": {
     "year": 1917,
-    "how": "lead"
+    "how": "category"
    },
-   "Little Symphony No. 2 (Milhaud)": {
-    "year": 1918,
-    "how": "lead"
-   },
-   "Little Symphony No. 5 (Milhaud)": {
-    "year": 1922,
-    "how": "lead"
+   "Lo speziale": {
+    "year": 1768,
+    "how": "category"
    },
    "Lobgesang": {
     "year": 1840,
     "how": "infobox"
    },
+   "Lohengrin (opera)": {
+    "year": 1850,
+    "how": "category"
+   },
+   "Lucrezia (opera)": {
+    "year": 1937,
+    "how": "category"
+   },
+   "Luisa Miller": {
+    "year": 1849,
+    "how": "category"
+   },
+   "Lulu (opera)": {
+    "year": 1937,
+    "how": "category"
+   },
+   "Luonnotar (Sibelius)": {
+    "year": 1913,
+    "how": "infobox"
+   },
    "Lyric Movement": {
     "year": 1933,
-    "how": "lead"
+    "how": "category"
+   },
+   "Macbeth (Strauss)": {
+    "year": 1888,
+    "how": "category"
+   },
+   "Madama Butterfly": {
+    "year": 1904,
+    "how": "category"
+   },
+   "Magnificat (Schubert)": {
+    "year": 1816,
+    "how": "infobox"
+   },
+   "Magnificat (Vaughan Williams)": {
+    "year": 1932,
+    "how": "category"
+   },
+   "Manfred Symphony": {
+    "year": 1885,
+    "how": "infobox"
    },
    "Manon Lescaut (Puccini)": {
-    "year": 1889,
-    "how": "lead"
+    "year": 1893,
+    "how": "category"
+   },
+   "Maria egiziaca": {
+    "year": 1932,
+    "how": "category"
    },
    "Marie Victoire": {
-    "year": 1912,
-    "how": "lead"
+    "year": 1913,
+    "how": "category"
+   },
+   "Masques et bergamasques": {
+    "year": 1919,
+    "how": "category"
    },
    "Mass (Bernstein)": {
-    "year": 1972,
-    "how": "lead"
+    "year": 1971,
+    "how": "category"
    },
    "Mass (Stravinsky)": {
-    "year": 1944,
-    "how": "lead"
+    "year": 1948,
+    "how": "category"
+   },
+   "Mass in C major (Beethoven)": {
+    "year": 1807,
+    "how": "category"
    },
    "Mass in D major (Dvořák)": {
     "year": 1887,
@@ -4139,31 +4507,39 @@
    },
    "Maurerische Trauermusik": {
     "year": 1785,
-    "how": "lead"
+    "how": "category"
    },
    "Mazeppa (opera)": {
-    "year": 1881,
-    "how": "lead"
+    "year": 1884,
+    "how": "category"
    },
    "Mazeppa (symphonic poem)": {
     "year": 1851,
-    "how": "lead"
+    "how": "category"
+   },
+   "Menuet antique": {
+    "year": 1895,
+    "how": "infobox"
    },
    "Messa per Rossini": {
     "year": 1869,
     "how": "infobox"
    },
+   "Messe solennelle (Berlioz)": {
+    "year": 1824,
+    "how": "category"
+   },
    "Mi-parti": {
-    "year": 1975,
-    "how": "lead"
+    "year": 1976,
+    "how": "category"
    },
    "Miniaturas (Villa-Lobos)": {
-    "year": 1907,
-    "how": "lead"
+    "year": 1917,
+    "how": "category"
    },
    "Miroirs": {
-    "year": 1904,
-    "how": "lead"
+    "year": 1905,
+    "how": "category"
    },
    "Missa Cellensis in honorem Beatissimae Virginis Mariae": {
     "year": 1766,
@@ -4171,10 +4547,14 @@
    },
    "Missa Sancti Bernardi von Offida": {
     "year": 1796,
-    "how": "lead"
+    "how": "category"
    },
    "Missa Sancti Nicolai": {
     "year": 1772,
+    "how": "infobox"
+   },
+   "Missa solemnis (Beethoven)": {
+    "year": 1937,
     "how": "infobox"
    },
    "Mississippi Suite": {
@@ -4182,8 +4562,8 @@
     "how": "infobox"
    },
    "Mlada (Rimsky-Korsakov)": {
-    "year": 1889,
-    "how": "lead"
+    "year": 1890,
+    "how": "category"
    },
    "Momoprecoce": {
     "year": 1929,
@@ -4193,13 +4573,17 @@
     "year": 1937,
     "how": "infobox"
    },
-   "Moscow (Tchaikovsky)": {
-    "year": 1883,
-    "how": "lead"
-   },
    "Moses und Aron": {
-    "year": 1930,
-    "how": "lead"
+    "year": 1932,
+    "how": "category"
+   },
+   "Movements for Piano and Orchestra": {
+    "year": 1959,
+    "how": "category"
+   },
+   "My Own Land": {
+    "year": 1918,
+    "how": "infobox"
    },
    "Má vlast": {
     "year": 1879,
@@ -4211,11 +4595,19 @@
    },
    "Night on Bald Mountain": {
     "year": 1867,
-    "how": "lead"
+    "how": "category"
+   },
+   "Nightride and Sunrise": {
+    "year": 1908,
+    "how": "infobox"
    },
    "Nights in the Gardens of Spain": {
     "year": 1915,
-    "how": "lead"
+    "how": "category"
+   },
+   "Nocturne (Britten)": {
+    "year": 1958,
+    "how": "category"
    },
    "Nocturnes (Debussy)": {
     "year": 1899,
@@ -4227,15 +4619,27 @@
    },
    "November Woods": {
     "year": 1917,
-    "how": "lead"
+    "how": "category"
    },
    "Novorossiysk Chimes": {
     "year": 1960,
-    "how": "lead"
+    "how": "category"
+   },
+   "Nursery Suite": {
+    "year": 1930,
+    "how": "category"
    },
    "October (Shostakovich)": {
     "year": 1967,
     "how": "infobox"
+   },
+   "Oedipus at Colonus (Mendelssohn)": {
+    "year": 1845,
+    "how": "category"
+   },
+   "Oedipus rex (opera)": {
+    "year": 1927,
+    "how": "category"
    },
    "On Guard for Peace": {
     "year": 1950,
@@ -4247,31 +4651,47 @@
    },
    "Or che il dover – Tali e cotanti sono": {
     "year": 1766,
-    "how": "lead"
+    "how": "category"
    },
    "Orb and Sceptre": {
-    "year": 1936,
-    "how": "lead"
+    "year": 1953,
+    "how": "category"
    },
    "Orchestral Suite No. 1 (Tchaikovsky)": {
-    "year": 1878,
-    "how": "lead"
+    "year": 1879,
+    "how": "category"
+   },
+   "Orchestral Suite No. 2 (Tchaikovsky)": {
+    "year": 1883,
+    "how": "category"
+   },
+   "Orchestral Suite No. 3 (Tchaikovsky)": {
+    "year": 1884,
+    "how": "category"
    },
    "Orchestral Suite No. 4 Mozartiana (Tchaikovsky)": {
     "year": 1887,
-    "how": "lead"
+    "how": "category"
    },
    "Orlando paladino": {
-    "year": 1100,
-    "how": "lead"
+    "year": 1782,
+    "how": "category"
    },
    "Orpheus (Liszt)": {
     "year": 1854,
-    "how": "lead"
+    "how": "category"
+   },
+   "Orpheus (ballet)": {
+    "year": 1948,
+    "how": "category"
    },
    "Otello": {
-    "year": 1881,
-    "how": "lead"
+    "year": 1887,
+    "how": "category"
+   },
+   "Othello (Dvořák)": {
+    "year": 1892,
+    "how": "category"
    },
    "Our Hunting Fathers": {
     "year": 2013,
@@ -4282,8 +4702,8 @@
     "how": "infobox"
    },
    "Overture in D minor (Handel, arr. Elgar)": {
-    "year": 1718,
-    "how": "lead"
+    "year": 1923,
+    "how": "category"
    },
    "Overture in E major and Ballet Scene": {
     "year": 1891,
@@ -4295,7 +4715,7 @@
    },
    "Overture to a Picaresque Comedy": {
     "year": 1930,
-    "how": "lead"
+    "how": "category"
    },
    "Overture, Scherzo and Finale": {
     "year": 1841,
@@ -4314,28 +4734,28 @@
     "how": "infobox"
    },
    "Parsifal": {
-    "year": 1874,
-    "how": "lead"
+    "year": 1882,
+    "how": "category"
    },
    "Partita for Orchestra": {
     "year": 1957,
-    "how": "lead"
+    "how": "category"
    },
    "Passacaglia (Webern)": {
     "year": 1908,
-    "how": "lead"
+    "how": "category"
    },
    "Pastoral Symphony (Vaughan Williams)": {
     "year": 1922,
-    "how": "lead"
+    "how": "category"
    },
    "Pastorale (Stravinsky)": {
     "year": 1907,
-    "how": "lead"
+    "how": "category"
    },
    "Pavane (Fauré)": {
     "year": 1887,
-    "how": "lead"
+    "how": "category"
    },
    "Peer Gynt (Grieg)": {
     "year": 1875,
@@ -4343,43 +4763,59 @@
    },
    "Pelleas und Melisande (Schoenberg)": {
     "year": 1903,
-    "how": "lead"
+    "how": "category"
    },
    "Pelléas et Mélisande (Sibelius)": {
     "year": 1905,
     "how": "infobox"
    },
+   "Pelléas et Mélisande (opera)": {
+    "year": 1902,
+    "how": "category"
+   },
    "Per questa bella mano": {
     "year": 1791,
-    "how": "lead"
+    "how": "category"
    },
    "Peter and the Wolf": {
     "year": 1936,
     "how": "infobox"
    },
    "Petite Suite (Debussy)": {
-    "year": 1886,
-    "how": "lead"
+    "year": 1889,
+    "how": "category"
    },
    "Petrushka (ballet)": {
     "year": 1911,
-    "how": "lead"
+    "how": "category"
    },
    "Phaéton (Saint-Saëns)": {
     "year": 1873,
     "how": "infobox"
    },
+   "Philemon und Baucis (Haydn)": {
+    "year": 1773,
+    "how": "category"
+   },
    "Piano Concerto (Barber)": {
-    "year": 1960,
-    "how": "lead"
+    "year": 1962,
+    "how": "category"
+   },
+   "Piano Concerto (Britten)": {
+    "year": 1938,
+    "how": "category"
    },
    "Piano Concerto (Copland)": {
     "year": 1926,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto (Delius)": {
+    "year": 1904,
+    "how": "category"
    },
    "Piano Concerto (Dvořák)": {
     "year": 1876,
-    "how": "lead"
+    "how": "category"
    },
    "Piano Concerto (Grieg)": {
     "year": 1868,
@@ -4387,30 +4823,102 @@
    },
    "Piano Concerto (Khachaturian)": {
     "year": 1936,
-    "how": "lead"
+    "how": "category"
    },
    "Piano Concerto (Ligeti)": {
-    "year": 1986,
-    "how": "lead"
+    "year": 1988,
+    "how": "category"
+   },
+   "Piano Concerto (Lutosławski)": {
+    "year": 1988,
+    "how": "category"
    },
    "Piano Concerto (Respighi)": {
     "year": 1902,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto (Schumann)": {
+    "year": 1841,
+    "how": "infobox"
    },
    "Piano Concerto (Scriabin)": {
     "year": 1896,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto No. 1 (Bartók)": {
+    "year": 1926,
+    "how": "category"
+   },
+   "Piano Concerto No. 1 (Beethoven)": {
+    "year": 2001,
+    "how": "infobox"
    },
    "Piano Concerto No. 1 (Brahms)": {
     "year": 1858,
     "how": "infobox"
    },
+   "Piano Concerto No. 1 (Liszt)": {
+    "year": 1849,
+    "how": "category"
+   },
    "Piano Concerto No. 1 (Mendelssohn)": {
     "year": 1831,
     "how": "infobox"
    },
+   "Piano Concerto No. 1 (Rachmaninoff)": {
+    "year": 1892,
+    "how": "category"
+   },
+   "Piano Concerto No. 1 (Saint-Saëns)": {
+    "year": 1858,
+    "how": "category"
+   },
    "Piano Concerto No. 1 (Tchaikovsky)": {
     "year": 1875,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 10 (Mozart)": {
+    "year": 1779,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 11 (Mozart)": {
+    "year": 1782,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 12 (Mozart)": {
+    "year": 1782,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 13 (Mozart)": {
+    "year": 1783,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 15 (Mozart)": {
+    "year": 1784,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 16 (Mozart)": {
+    "year": 1784,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 17 (Mozart)": {
+    "year": 1784,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 18 (Mozart)": {
+    "year": 1784,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 19 (Mozart)": {
+    "year": 1784,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 2 (Bartók)": {
+    "year": 1931,
+    "how": "category"
+   },
+   "Piano Concerto No. 2 (Beethoven)": {
+    "year": 2001,
     "how": "infobox"
    },
    "Piano Concerto No. 2 (Brahms)": {
@@ -4419,91 +4927,191 @@
    },
    "Piano Concerto No. 2 (Glass)": {
     "year": 2004,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto No. 2 (Liszt)": {
+    "year": 1861,
+    "how": "category"
    },
    "Piano Concerto No. 2 (Mendelssohn)": {
     "year": 1837,
     "how": "infobox"
    },
+   "Piano Concerto No. 2 (Prokofiev)": {
+    "year": 1913,
+    "how": "category"
+   },
+   "Piano Concerto No. 2 (Rachmaninoff)": {
+    "year": 1901,
+    "how": "category"
+   },
+   "Piano Concerto No. 2 (Saint-Saëns)": {
+    "year": 1868,
+    "how": "category"
+   },
    "Piano Concerto No. 2 (Shostakovich)": {
     "year": 1957,
-    "how": "lead"
+    "how": "category"
    },
    "Piano Concerto No. 2 (Tchaikovsky)": {
     "year": 1880,
     "how": "infobox"
    },
+   "Piano Concerto No. 20 (Mozart)": {
+    "year": 1785,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 21 (Mozart)": {
+    "year": 1785,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 22 (Mozart)": {
+    "year": 1785,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 24 (Mozart)": {
+    "year": 1786,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 25 (Mozart)": {
+    "year": 1786,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 26 (Mozart)": {
+    "year": 1788,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 27 (Mozart)": {
+    "year": 1788,
+    "how": "category"
+   },
+   "Piano Concerto No. 3 (Bartók)": {
+    "year": 1945,
+    "how": "category"
+   },
+   "Piano Concerto No. 3 (Beethoven)": {
+    "year": 1800,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 3 (Prokofiev)": {
+    "year": 1921,
+    "how": "category"
+   },
+   "Piano Concerto No. 3 (Rachmaninoff)": {
+    "year": 1909,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 3 (Saint-Saëns)": {
+    "year": 1869,
+    "how": "category"
+   },
    "Piano Concerto No. 3 (Tchaikovsky)": {
     "year": 1893,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto No. 4 (Beethoven)": {
+    "year": 1806,
+    "how": "infobox"
    },
    "Piano Concerto No. 4 (Prokofiev)": {
     "year": 1931,
-    "how": "lead"
+    "how": "category"
+   },
+   "Piano Concerto No. 4 (Saint-Saëns)": {
+    "year": 1875,
+    "how": "category"
+   },
+   "Piano Concerto No. 5 (Beethoven)": {
+    "year": 1809,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 5 (Mozart)": {
+    "year": 1773,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 5 (Prokofiev)": {
+    "year": 1932,
+    "how": "category"
+   },
+   "Piano Concerto No. 5 (Saint-Saëns)": {
+    "year": 1896,
+    "how": "infobox"
+   },
+   "Piano Concerto No. 6 (Mozart)": {
+    "year": 1776,
+    "how": "infobox"
    },
    "Piano Concerto for the Left Hand (Ravel)": {
-    "year": 1929,
-    "how": "lead"
+    "year": 1930,
+    "how": "category"
    },
    "Piano Concerto in G major (Ravel)": {
     "year": 1931,
     "how": "infobox"
    },
+   "Piano Concertos Nos. 1–4 (Mozart)": {
+    "year": 1767,
+    "how": "infobox"
+   },
    "Piano Variations (Copland)": {
     "year": 1930,
-    "how": "lead"
+    "how": "category"
    },
    "Pictures at an Exhibition (Stokowski orchestration)": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "Pines of Rome": {
     "year": 1924,
     "how": "infobox"
    },
-   "Polish Requiem": {
-    "year": 1981,
-    "how": "lead"
-   },
    "Pomp and Circumstance Marches": {
     "year": 1901,
-    "how": "lead"
+    "how": "category"
    },
    "Popoli di Tessaglia!": {
     "year": 1779,
-    "how": "lead"
+    "how": "category"
+   },
+   "Porgy and Bess": {
+    "year": 1935,
+    "how": "category"
    },
    "Poème (Chausson)": {
     "year": 1896,
-    "how": "lead"
+    "how": "category"
    },
    "Poèmes pour Mi": {
     "year": 1937,
     "how": "infobox"
    },
    "Prelude for Orchestra (Walton)": {
-    "year": 1977,
-    "how": "lead"
+    "year": 1962,
+    "how": "category"
    },
    "Pribaoutki": {
     "year": 1914,
-    "how": "lead"
+    "how": "category"
+   },
+   "Prometheus (Orff)": {
+    "year": 1968,
+    "how": "category"
    },
    "Pulcinella (ballet)": {
-    "year": 1919,
-    "how": "lead"
+    "year": 1920,
+    "how": "category"
    },
    "Pushkin Waltzes (Prokofiev)": {
     "year": 1949,
-    "how": "lead"
+    "how": "category"
    },
    "Quintet for Piano and Winds (Beethoven)": {
     "year": 1796,
     "how": "infobox"
    },
    "Quintet for Piano and Winds (Mozart)": {
-    "year": 1796,
-    "how": "lead"
+    "year": 1784,
+    "how": "category"
    },
    "Quinteto (em forma de chôros)": {
     "year": 1928,
@@ -4513,37 +5121,57 @@
     "year": 1907,
     "how": "infobox"
    },
+   "Re Enzo (opera)": {
+    "year": 1905,
+    "how": "category"
+   },
    "Regina coeli (Mozart)": {
     "year": 1779,
     "how": "infobox"
    },
    "Renard (Stravinsky)": {
-    "year": 1916,
-    "how": "lead"
+    "year": 1922,
+    "how": "category"
    },
    "Rendering (Berio)": {
     "year": 1990,
     "how": "infobox"
    },
+   "Requiem (Berlioz)": {
+    "year": 1837,
+    "how": "category"
+   },
    "Requiem (Delius)": {
-    "year": 1913,
-    "how": "lead"
+    "year": 1916,
+    "how": "category"
    },
    "Requiem (Dvořák)": {
     "year": 1890,
-    "how": "lead"
+    "how": "category"
    },
    "Requiem (Saint-Saëns)": {
     "year": 2004,
     "how": "infobox"
    },
+   "Requiem (Verdi)": {
+    "year": 1874,
+    "how": "category"
+   },
    "Rhapsodie for saxophone and orchestra": {
     "year": 1911,
     "how": "infobox"
    },
+   "Rhapsody in Blue": {
+    "year": 1924,
+    "how": "infobox"
+   },
+   "Rhapsody on a Theme of Paganini": {
+    "year": 1934,
+    "how": "category"
+   },
    "Rigoletto": {
-    "year": 1832,
-    "how": "lead"
+    "year": 1851,
+    "how": "category"
    },
    "Rinaldo (cantata)": {
     "year": 1863,
@@ -4551,27 +5179,35 @@
    },
    "Ritual Fire Dance": {
     "year": 1915,
-    "how": "lead"
+    "how": "category"
    },
    "Rivolgete a lui lo sguardo": {
     "year": 1789,
-    "how": "lead"
+    "how": "category"
+   },
+   "Rodeo (ballet)": {
+    "year": 1942,
+    "how": "category"
    },
    "Roman Festivals (Respighi)": {
     "year": 1928,
     "how": "infobox"
    },
    "Romance No. 1 (Beethoven)": {
-    "year": 1801,
-    "how": "lead"
+    "year": 1802,
+    "how": "category"
    },
    "Romance No. 2 (Beethoven)": {
     "year": 1798,
-    "how": "lead"
+    "how": "category"
+   },
+   "Romance for bassoon (Elgar)": {
+    "year": 1910,
+    "how": "category"
    },
    "Romance in F minor (Dvořák)": {
-    "year": 1873,
-    "how": "lead"
+    "year": 1879,
+    "how": "category"
    },
    "Romance, Op. 37 (Saint-Saëns)": {
     "year": 1871,
@@ -4583,19 +5219,23 @@
    },
    "Roméo et Juliette (Berlioz)": {
     "year": 1839,
-    "how": "lead"
+    "how": "category"
    },
    "Rondo for Piano and Orchestra (Beethoven)": {
     "year": 1793,
-    "how": "lead"
+    "how": "category"
+   },
+   "Rondo for Piano and Orchestra in D major (Mozart)": {
+    "year": 1782,
+    "how": "category"
    },
    "Ruhe, meine Seele!": {
     "year": 1894,
     "how": "infobox"
    },
    "Rusalka (opera)": {
-    "year": 1899,
-    "how": "lead"
+    "year": 1901,
+    "how": "category"
    },
    "Russian Easter Festival Overture": {
     "year": 1888,
@@ -4617,6 +5257,18 @@
     "year": 1908,
     "how": "infobox"
    },
+   "Salome (opera)": {
+    "year": 1905,
+    "how": "category"
+   },
+   "Sardanapalo": {
+    "year": 1852,
+    "how": "category"
+   },
+   "Scapino (Walton)": {
+    "year": 1941,
+    "how": "category"
+   },
    "Scaramouche (Sibelius)": {
     "year": 1913,
     "how": "infobox"
@@ -4626,20 +5278,24 @@
     "how": "infobox"
    },
    "Schelomo": {
-    "year": 1915,
-    "how": "lead"
+    "year": 1916,
+    "how": "category"
    },
    "Scherzo fantastique": {
     "year": 1908,
-    "how": "lead"
+    "how": "category"
+   },
+   "Scherzo in D minor (Rachmaninoff)": {
+    "year": 1888,
+    "how": "category"
    },
    "Scherzo in F-sharp minor (Shostakovich)": {
     "year": 1921,
     "how": "infobox"
    },
    "Scherzo à la russe (Stravinsky)": {
-    "year": 1945,
-    "how": "lead"
+    "year": 1944,
+    "how": "category"
    },
    "Schicksalslied": {
     "year": 1871,
@@ -4659,11 +5315,15 @@
    },
    "Second Suite in F for Military Band": {
     "year": 1911,
-    "how": "lead"
+    "how": "category"
+   },
+   "Semirâma": {
+    "year": 1910,
+    "how": "category"
    },
    "Sept haïkaï": {
     "year": 1962,
-    "how": "lead"
+    "how": "category"
    },
    "Serenade No. 10 (Mozart)": {
     "year": 1784,
@@ -4679,15 +5339,19 @@
    },
    "Serenade No. 4 (Mozart)": {
     "year": 1774,
-    "how": "lead"
+    "how": "category"
    },
    "Serenade No. 5 (Mozart)": {
     "year": 1775,
-    "how": "lead"
+    "how": "category"
    },
    "Serenade No. 9 (Mozart)": {
     "year": 1779,
     "how": "infobox"
+   },
+   "Serenade for Wind Instruments (Dvořák)": {
+    "year": 1878,
+    "how": "category"
    },
    "Seven Early Songs (Berg)": {
     "year": 1908,
@@ -4695,19 +5359,31 @@
    },
    "Sevillana (Elgar)": {
     "year": 1884,
-    "how": "lead"
+    "how": "category"
+   },
+   "Short Symphony": {
+    "year": 1933,
+    "how": "infobox"
    },
    "Shylock (Fauré)": {
     "year": 1889,
-    "how": "lead"
+    "how": "category"
    },
    "Shéhérazade (Ravel)": {
-    "year": 1888,
-    "how": "lead"
+    "year": 1903,
+    "how": "category"
+   },
+   "Siegfried Idyll": {
+    "year": 1870,
+    "how": "category"
    },
    "Sinfonia Concertante (Haydn)": {
     "year": 1792,
     "how": "infobox"
+   },
+   "Sinfonia Concertante (Walton)": {
+    "year": 1928,
+    "how": "category"
    },
    "Sinfonia Concertante for Four Winds": {
     "year": 1778,
@@ -4718,8 +5394,8 @@
     "how": "infobox"
    },
    "Sinfonia antartica": {
-    "year": 1948,
-    "how": "lead"
+    "year": 1952,
+    "how": "category"
    },
    "Sinfonia da Requiem": {
     "year": 1996,
@@ -4727,11 +5403,15 @@
    },
    "Sinfonietta (Britten)": {
     "year": 1932,
-    "how": "lead"
+    "how": "category"
    },
    "Sinfonietta (Janáček)": {
     "year": 1926,
     "how": "infobox"
+   },
+   "Sinfonietta (Korngold)": {
+    "year": 1912,
+    "how": "category"
    },
    "Sinfonietta (Poulenc)": {
     "year": 1947,
@@ -4739,55 +5419,91 @@
    },
    "Sinfonietta (Prokofiev)": {
     "year": 1909,
-    "how": "lead"
+    "how": "category"
    },
    "Six Humoresques": {
     "year": 1918,
     "how": "infobox"
    },
-   "Six Studies in English Folk Song": {
-    "year": 1926,
-    "how": "lead"
-   },
    "Six sonatas for various instruments": {
-    "year": 1915,
-    "how": "lead"
+    "year": 1917,
+    "how": "category"
+   },
+   "Slava! A Political Overture": {
+    "year": 1977,
+    "how": "category"
    },
    "Slavonic Dances": {
     "year": 1878,
-    "how": "lead"
+    "how": "category"
    },
    "Snöfrid": {
     "year": 1900,
     "how": "infobox"
    },
    "Soirées musicales": {
-    "year": 1935,
-    "how": "lead"
+    "year": 1937,
+    "how": "category"
    },
-   "Song of the Forests": {
-    "year": 1949,
-    "how": "lead"
+   "Spitfire Prelude and Fugue": {
+    "year": 1942,
+    "how": "category"
+   },
+   "Spring Song (Sibelius)": {
+    "year": 1894,
+    "how": "infobox"
+   },
+   "Stabat Mater (Poulenc)": {
+    "year": 1950,
+    "how": "infobox"
+   },
+   "Stabat Mater in F minor (Schubert)": {
+    "year": 1816,
+    "how": "category"
+   },
+   "Stabat Mater in G minor (Schubert)": {
+    "year": 1815,
+    "how": "category"
+   },
+   "Stiffelio": {
+    "year": 1850,
+    "how": "category"
    },
    "String symphonies (Mendelssohn)": {
     "year": 1821,
-    "how": "lead"
+    "how": "category"
+   },
+   "Suite algérienne": {
+    "year": 1880,
+    "how": "category"
    },
    "Suite for Variety Orchestra No. 1": {
     "year": 1956,
     "how": "infobox"
    },
    "Suite for Viola and Orchestra (Vaughan Williams)": {
-    "year": 1933,
-    "how": "lead"
+    "year": 1934,
+    "how": "category"
+   },
+   "Suite from Henry V": {
+    "year": 1944,
+    "how": "category"
+   },
+   "Summer Night on the River": {
+    "year": 1911,
+    "how": "category"
    },
    "Swan Lake": {
     "year": 1876,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphonia Domestica": {
+    "year": 1903,
+    "how": "category"
    },
    "Symphonic Dances (Rachmaninoff)": {
     "year": 1940,
-    "how": "lead"
+    "how": "category"
    },
    "Symphonic Dances from West Side Story": {
     "year": 1960,
@@ -4795,15 +5511,15 @@
    },
    "Symphonic Metamorphosis of Themes by Carl Maria von Weber": {
     "year": 1943,
-    "how": "lead"
+    "how": "category"
    },
    "Symphonic Song (Prokofiev)": {
     "year": 1933,
-    "how": "lead"
+    "how": "category"
    },
    "Symphonic Variations (Dvořák)": {
-    "year": 1877,
-    "how": "lead"
+    "year": 1887,
+    "how": "category"
    },
    "Symphonie fantastique": {
     "year": 1830,
@@ -4811,19 +5527,11 @@
    },
    "Symphonies of Wind Instruments": {
     "year": 1920,
-    "how": "lead"
-   },
-   "Symphony A (Haydn)": {
-    "year": 1757,
-    "how": "lead"
-   },
-   "Symphony B (Haydn)": {
-    "year": 1757,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 1 (Bax)": {
     "year": 1922,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 1 (Beethoven)": {
     "year": 1800,
@@ -4833,17 +5541,25 @@
     "year": 1942,
     "how": "infobox"
    },
+   "Symphony No. 1 (Brahms)": {
+    "year": 1876,
+    "how": "infobox"
+   },
    "Symphony No. 1 (Bruckner)": {
     "year": 1866,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 1 (Dvořák)": {
     "year": 1865,
     "how": "infobox"
    },
    "Symphony No. 1 (Elgar)": {
-    "year": 1906,
-    "how": "lead"
+    "year": 1908,
+    "how": "category"
+   },
+   "Symphony No. 1 (Enescu)": {
+    "year": 1905,
+    "how": "infobox"
    },
    "Symphony No. 1 (Glass)": {
     "year": 1992,
@@ -4851,7 +5567,7 @@
    },
    "Symphony No. 1 (Haydn)": {
     "year": 1759,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 1 (Ives)": {
     "year": 1902,
@@ -4860,6 +5576,10 @@
    "Symphony No. 1 (Khachaturian)": {
     "year": 1934,
     "how": "infobox"
+   },
+   "Symphony No. 1 (Lutosławski)": {
+    "year": 1947,
+    "how": "category"
    },
    "Symphony No. 1 (Mahler)": {
     "year": 1888,
@@ -4874,8 +5594,8 @@
     "how": "infobox"
    },
    "Symphony No. 1 (Nielsen)": {
-    "year": 1891,
-    "how": "lead"
+    "year": 1892,
+    "how": "category"
    },
    "Symphony No. 1 (Penderecki)": {
     "year": 1973,
@@ -4887,23 +5607,39 @@
    },
    "Symphony No. 1 (Rachmaninoff)": {
     "year": 1895,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 1 (Schubert)": {
+    "year": 1813,
+    "how": "category"
    },
    "Symphony No. 1 (Schumann)": {
     "year": 1841,
     "how": "infobox"
    },
    "Symphony No. 1 (Scriabin)": {
-    "year": 1899,
-    "how": "lead"
+    "year": 1900,
+    "how": "category"
    },
    "Symphony No. 1 (Shostakovich)": {
     "year": 1925,
     "how": "infobox"
    },
+   "Symphony No. 1 (Sibelius)": {
+    "year": 1899,
+    "how": "infobox"
+   },
+   "Symphony No. 1 (Strauss)": {
+    "year": 1880,
+    "how": "infobox"
+   },
+   "Symphony No. 1 (Tchaikovsky)": {
+    "year": 1866,
+    "how": "infobox"
+   },
    "Symphony No. 1 (Tippett)": {
     "year": 1945,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 1 (Villa-Lobos)": {
     "year": 1916,
@@ -4911,15 +5647,11 @@
    },
    "Symphony No. 1 (Walton)": {
     "year": 1935,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 10 (Glass)": {
     "year": 2012,
     "how": "infobox"
-   },
-   "Symphony No. 10 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
    },
    "Symphony No. 10 (Mahler)": {
     "year": 1910,
@@ -4953,10 +5685,6 @@
     "year": 1795,
     "how": "infobox"
    },
-   "Symphony No. 11 (Haydn)": {
-    "year": 1760,
-    "how": "lead"
-   },
    "Symphony No. 11 (Shostakovich)": {
     "year": 1957,
     "how": "infobox"
@@ -4967,7 +5695,7 @@
    },
    "Symphony No. 12 (Haydn)": {
     "year": 1763,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 12 (Shostakovich)": {
     "year": 1961,
@@ -4979,7 +5707,7 @@
    },
    "Symphony No. 13 (Haydn)": {
     "year": 1763,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 13 (Mozart)": {
     "year": 1771,
@@ -4989,10 +5717,6 @@
     "year": 1962,
     "how": "infobox"
    },
-   "Symphony No. 14 (Haydn)": {
-    "year": 1761,
-    "how": "lead"
-   },
    "Symphony No. 14 (Mozart)": {
     "year": 1771,
     "how": "infobox"
@@ -5001,29 +5725,9 @@
     "year": 2022,
     "how": "infobox"
    },
-   "Symphony No. 15 (Haydn)": {
-    "year": 1760,
-    "how": "lead"
-   },
    "Symphony No. 15 (Shostakovich)": {
     "year": 1970,
     "how": "infobox"
-   },
-   "Symphony No. 16 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
-   },
-   "Symphony No. 17 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
-   },
-   "Symphony No. 18 (Haydn)": {
-    "year": 1766,
-    "how": "lead"
-   },
-   "Symphony No. 19 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
    },
    "Symphony No. 19 (Mozart)": {
     "year": 1772,
@@ -5031,7 +5735,7 @@
    },
    "Symphony No. 2 (Bax)": {
     "year": 1926,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 2 (Beethoven)": {
     "year": 1802,
@@ -5042,8 +5746,12 @@
     "how": "infobox"
    },
    "Symphony No. 2 (Borodin)": {
-    "year": 1869,
-    "how": "lead"
+    "year": 1876,
+    "how": "category"
+   },
+   "Symphony No. 2 (Brahms)": {
+    "year": 1877,
+    "how": "infobox"
    },
    "Symphony No. 2 (Bruckner)": {
     "year": 1872,
@@ -5055,11 +5763,19 @@
    },
    "Symphony No. 2 (Elgar)": {
     "year": 1911,
-    "how": "lead"
+    "how": "category"
    },
-   "Symphony No. 2 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
+   "Symphony No. 2 (Enescu)": {
+    "year": 1914,
+    "how": "infobox"
+   },
+   "Symphony No. 2 (Glass)": {
+    "year": 1994,
+    "how": "category"
+   },
+   "Symphony No. 2 (Hanson)": {
+    "year": 1930,
+    "how": "category"
    },
    "Symphony No. 2 (Ives)": {
     "year": 1999,
@@ -5083,7 +5799,7 @@
    },
    "Symphony No. 2 (Nielsen)": {
     "year": 1902,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 2 (Penderecki)": {
     "year": 1980,
@@ -5094,8 +5810,12 @@
     "how": "infobox"
    },
    "Symphony No. 2 (Rachmaninoff)": {
-    "year": 1906,
-    "how": "lead"
+    "year": 1907,
+    "how": "category"
+   },
+   "Symphony No. 2 (Schubert)": {
+    "year": 1815,
+    "how": "category"
    },
    "Symphony No. 2 (Schumann)": {
     "year": 1846,
@@ -5105,17 +5825,29 @@
     "year": 1927,
     "how": "infobox"
    },
+   "Symphony No. 2 (Sibelius)": {
+    "year": 1902,
+    "how": "infobox"
+   },
+   "Symphony No. 2 (Strauss)": {
+    "year": 1885,
+    "how": "infobox"
+   },
+   "Symphony No. 2 (Tchaikovsky)": {
+    "year": 1872,
+    "how": "infobox"
+   },
    "Symphony No. 2 (Tippett)": {
     "year": 1957,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 2 (Villa-Lobos)": {
     "year": 1917,
     "how": "infobox"
    },
-   "Symphony No. 20 (Haydn)": {
-    "year": 1761,
-    "how": "lead"
+   "Symphony No. 2 (Walton)": {
+    "year": 1960,
+    "how": "category"
    },
    "Symphony No. 20 (Mozart)": {
     "year": 1772,
@@ -5125,13 +5857,17 @@
     "year": 1764,
     "how": "infobox"
    },
+   "Symphony No. 23 (Haydn)": {
+    "year": 1764,
+    "how": "category"
+   },
    "Symphony No. 23 (Mozart)": {
     "year": 1773,
     "how": "infobox"
    },
-   "Symphony No. 25 (Haydn)": {
-    "year": 1763,
-    "how": "lead"
+   "Symphony No. 24 (Haydn)": {
+    "year": 1764,
+    "how": "category"
    },
    "Symphony No. 25 (Mozart)": {
     "year": 1773,
@@ -5151,7 +5887,7 @@
    },
    "Symphony No. 28 (Haydn)": {
     "year": 1765,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 28 (Mozart)": {
     "year": 1773,
@@ -5159,11 +5895,11 @@
    },
    "Symphony No. 29 (Haydn)": {
     "year": 1765,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 3 (Bax)": {
     "year": 1929,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 3 (Beethoven)": {
     "year": 1804,
@@ -5173,25 +5909,37 @@
     "year": 1963,
     "how": "infobox"
    },
+   "Symphony No. 3 (Brahms)": {
+    "year": 1883,
+    "how": "infobox"
+   },
    "Symphony No. 3 (Bruckner)": {
     "year": 1873,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 3 (Copland)": {
+    "year": 1946,
+    "how": "category"
    },
    "Symphony No. 3 (Dvořák)": {
     "year": 1873,
     "how": "infobox"
    },
-   "Symphony No. 3 (Hanson)": {
-    "year": 1896,
-    "how": "lead"
+   "Symphony No. 3 (Enescu)": {
+    "year": 1918,
+    "how": "infobox"
    },
-   "Symphony No. 3 (Haydn)": {
-    "year": 1760,
-    "how": "lead"
+   "Symphony No. 3 (Glazunov)": {
+    "year": 1890,
+    "how": "category"
    },
    "Symphony No. 3 (Ives)": {
-    "year": 1908,
-    "how": "lead"
+    "year": 1910,
+    "how": "category"
+   },
+   "Symphony No. 3 (Lutosławski)": {
+    "year": 1983,
+    "how": "category"
    },
    "Symphony No. 3 (Mahler)": {
     "year": 1896,
@@ -5207,7 +5955,7 @@
    },
    "Symphony No. 3 (Nielsen)": {
     "year": 1911,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 3 (Penderecki)": {
     "year": 1995,
@@ -5222,15 +5970,19 @@
     "how": "infobox"
    },
    "Symphony No. 3 (Rachmaninoff)": {
-    "year": 1935,
-    "how": "lead"
+    "year": 1936,
+    "how": "category"
    },
    "Symphony No. 3 (Rimsky-Korsakov)": {
     "year": 1866,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 3 (Saint-Saëns)": {
     "year": 1886,
+    "how": "infobox"
+   },
+   "Symphony No. 3 (Schubert)": {
+    "year": 1815,
     "how": "infobox"
    },
    "Symphony No. 3 (Schumann)": {
@@ -5238,11 +5990,19 @@
     "how": "infobox"
    },
    "Symphony No. 3 (Scriabin)": {
-    "year": 1902,
-    "how": "lead"
+    "year": 1904,
+    "how": "category"
    },
    "Symphony No. 3 (Shostakovich)": {
     "year": 1930,
+    "how": "infobox"
+   },
+   "Symphony No. 3 (Sibelius)": {
+    "year": 1907,
+    "how": "infobox"
+   },
+   "Symphony No. 3 (Tchaikovsky)": {
+    "year": 1875,
     "how": "infobox"
    },
    "Symphony No. 3 (Villa-Lobos)": {
@@ -5266,16 +6026,12 @@
     "how": "infobox"
    },
    "Symphony No. 32 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
+    "year": 1760,
+    "how": "category"
    },
    "Symphony No. 32 (Mozart)": {
     "year": 1779,
     "how": "infobox"
-   },
-   "Symphony No. 33 (Haydn)": {
-    "year": 1760,
-    "how": "lead"
    },
    "Symphony No. 33 (Mozart)": {
     "year": 1779,
@@ -5284,6 +6040,10 @@
    "Symphony No. 34 (Mozart)": {
     "year": 1780,
     "how": "infobox"
+   },
+   "Symphony No. 35 (Haydn)": {
+    "year": 1767,
+    "how": "category"
    },
    "Symphony No. 35 (Mozart)": {
     "year": 1782,
@@ -5294,12 +6054,12 @@
     "how": "infobox"
    },
    "Symphony No. 37 (Haydn)": {
-    "year": 1761,
-    "how": "lead"
+    "year": 1758,
+    "how": "category"
    },
    "Symphony No. 37 (Mozart)": {
     "year": 1783,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 38 (Haydn)": {
     "year": 1769,
@@ -5309,25 +6069,25 @@
     "year": 1786,
     "how": "infobox"
    },
-   "Symphony No. 39 (Haydn)": {
-    "year": 1765,
-    "how": "lead"
-   },
    "Symphony No. 4 (Arnold)": {
-    "year": 1971,
-    "how": "lead"
+    "year": 1960,
+    "how": "category"
    },
    "Symphony No. 4 (Bax)": {
     "year": 1930,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 4 (Beethoven)": {
     "year": 1806,
     "how": "infobox"
    },
+   "Symphony No. 4 (Brahms)": {
+    "year": 1884,
+    "how": "infobox"
+   },
    "Symphony No. 4 (Bruckner)": {
     "year": 1874,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 4 (Dvořák)": {
     "year": 1874,
@@ -5335,15 +6095,15 @@
    },
    "Symphony No. 4 (Glass)": {
     "year": 1996,
-    "how": "lead"
-   },
-   "Symphony No. 4 (Haydn)": {
-    "year": 1757,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 4 (Ives)": {
     "year": 1910,
     "how": "infobox"
+   },
+   "Symphony No. 4 (Lutosławski)": {
+    "year": 1992,
+    "how": "category"
    },
    "Symphony No. 4 (Mahler)": {
     "year": 1900,
@@ -5359,7 +6119,11 @@
    },
    "Symphony No. 4 (Nielsen)": {
     "year": 1916,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 4 (Piston)": {
+    "year": 1950,
+    "how": "category"
    },
    "Symphony No. 4 (Prokofiev)": {
     "year": 1930,
@@ -5373,9 +6137,21 @@
     "year": 1935,
     "how": "infobox"
    },
+   "Symphony No. 4 (Sibelius)": {
+    "year": 1911,
+    "how": "infobox"
+   },
+   "Symphony No. 4 (Tchaikovsky)": {
+    "year": 1878,
+    "how": "infobox"
+   },
    "Symphony No. 4 (Tippett)": {
     "year": 1977,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 4 (Vaughan Williams)": {
+    "year": 1935,
+    "how": "category"
    },
    "Symphony No. 4 (Villa-Lobos)": {
     "year": 1919,
@@ -5383,7 +6159,7 @@
    },
    "Symphony No. 40 (Haydn)": {
     "year": 1763,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 40 (Mozart)": {
     "year": 1788,
@@ -5391,7 +6167,7 @@
    },
    "Symphony No. 41 (Haydn)": {
     "year": 1769,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 41 (Mozart)": {
     "year": 1788,
@@ -5399,7 +6175,7 @@
    },
    "Symphony No. 42 (Haydn)": {
     "year": 1771,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 43 (Haydn)": {
     "year": 1771,
@@ -5415,7 +6191,7 @@
    },
    "Symphony No. 46 (Haydn)": {
     "year": 1772,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 47 (Haydn)": {
     "year": 1772,
@@ -5431,7 +6207,7 @@
    },
    "Symphony No. 5 (Bax)": {
     "year": 1932,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 5 (Beethoven)": {
     "year": 1808,
@@ -5439,15 +6215,19 @@
    },
    "Symphony No. 5 (Bruckner)": {
     "year": 1876,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 5 (Dvořák)": {
+    "year": 1875,
+    "how": "infobox"
+   },
+   "Symphony No. 5 (Glass)": {
+    "year": 1999,
+    "how": "category"
    },
    "Symphony No. 5 (Glazunov)": {
     "year": 1895,
-    "how": "lead"
-   },
-   "Symphony No. 5 (Haydn)": {
-    "year": 1760,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 5 (Mahler)": {
     "year": 1902,
@@ -5462,24 +6242,40 @@
     "how": "infobox"
    },
    "Symphony No. 5 (Nielsen)": {
-    "year": 1920,
-    "how": "lead"
+    "year": 1922,
+    "how": "category"
    },
    "Symphony No. 5 (Prokofiev)": {
     "year": 1944,
+    "how": "infobox"
+   },
+   "Symphony No. 5 (Schubert)": {
+    "year": 1816,
     "how": "infobox"
    },
    "Symphony No. 5 (Shostakovich)": {
     "year": 1937,
     "how": "infobox"
    },
+   "Symphony No. 5 (Sibelius)": {
+    "year": 1915,
+    "how": "infobox"
+   },
+   "Symphony No. 5 (Tchaikovsky)": {
+    "year": 1888,
+    "how": "infobox"
+   },
+   "Symphony No. 5 (Vaughan Williams)": {
+    "year": 1943,
+    "how": "category"
+   },
    "Symphony No. 50 (Haydn)": {
     "year": 1773,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 51 (Haydn)": {
     "year": 1773,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 52 (Haydn)": {
     "year": 1982,
@@ -5491,7 +6287,7 @@
    },
    "Symphony No. 54 (Haydn)": {
     "year": 1774,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 55 (Haydn)": {
     "year": 1774,
@@ -5499,11 +6295,11 @@
    },
    "Symphony No. 56 (Haydn)": {
     "year": 1774,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 58 (Haydn)": {
-    "year": 1767,
-    "how": "lead"
+    "year": 1774,
+    "how": "category"
    },
    "Symphony No. 59 (Haydn)": {
     "year": 1769,
@@ -5511,11 +6307,11 @@
    },
    "Symphony No. 6 (Arnold)": {
     "year": 1967,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 6 (Bax)": {
     "year": 1935,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 6 (Beethoven)": {
     "year": 1808,
@@ -5525,9 +6321,13 @@
     "year": 1881,
     "how": "infobox"
    },
+   "Symphony No. 6 (Dvořák)": {
+    "year": 1880,
+    "how": "infobox"
+   },
    "Symphony No. 6 (Glazunov)": {
     "year": 1896,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 6 (Haydn)": {
     "year": 1761,
@@ -5543,19 +6343,31 @@
    },
    "Symphony No. 6 (Nielsen)": {
     "year": 1925,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 6 (Prokofiev)": {
     "year": 1947,
+    "how": "infobox"
+   },
+   "Symphony No. 6 (Schubert)": {
+    "year": 1818,
     "how": "infobox"
    },
    "Symphony No. 6 (Shostakovich)": {
     "year": 1939,
     "how": "infobox"
    },
+   "Symphony No. 6 (Sibelius)": {
+    "year": 1923,
+    "how": "infobox"
+   },
    "Symphony No. 6 (Tchaikovsky)": {
     "year": 1893,
     "how": "infobox"
+   },
+   "Symphony No. 6 (Vaughan Williams)": {
+    "year": 1947,
+    "how": "category"
    },
    "Symphony No. 6 (Villa-Lobos)": {
     "year": 1944,
@@ -5565,9 +6377,13 @@
     "year": 1775,
     "how": "infobox"
    },
+   "Symphony No. 61 (Haydn)": {
+    "year": 1776,
+    "how": "category"
+   },
    "Symphony No. 62 (Haydn)": {
-    "year": 1780,
-    "how": "lead"
+    "year": 1781,
+    "how": "category"
    },
    "Symphony No. 63 (Haydn)": {
     "year": 1781,
@@ -5577,17 +6393,21 @@
     "year": 1775,
     "how": "infobox"
    },
-   "Symphony No. 67 (Haydn)": {
+   "Symphony No. 66 (Haydn)": {
     "year": 1779,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 69 (Haydn)": {
     "year": 1776,
     "how": "infobox"
    },
+   "Symphony No. 7 (Arnold)": {
+    "year": 1973,
+    "how": "category"
+   },
    "Symphony No. 7 (Bax)": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 7 (Beethoven)": {
     "year": 1812,
@@ -5596,6 +6416,14 @@
    "Symphony No. 7 (Bruckner)": {
     "year": 1883,
     "how": "infobox"
+   },
+   "Symphony No. 7 (Dvořák)": {
+    "year": 1885,
+    "how": "infobox"
+   },
+   "Symphony No. 7 (Glass)": {
+    "year": 2005,
+    "how": "category"
    },
    "Symphony No. 7 (Haydn)": {
     "year": 1761,
@@ -5617,17 +6445,17 @@
     "year": 1941,
     "how": "infobox"
    },
+   "Symphony No. 7 (Sibelius)": {
+    "year": 1924,
+    "how": "infobox"
+   },
    "Symphony No. 7 (Villa-Lobos)": {
     "year": 1945,
     "how": "infobox"
    },
-   "Symphony No. 71 (Haydn)": {
-    "year": 1780,
-    "how": "lead"
-   },
-   "Symphony No. 72 (Haydn)": {
-    "year": 1763,
-    "how": "lead"
+   "Symphony No. 70 (Haydn)": {
+    "year": 1779,
+    "how": "category"
    },
    "Symphony No. 73 (Haydn)": {
     "year": 1782,
@@ -5635,27 +6463,27 @@
    },
    "Symphony No. 74 (Haydn)": {
     "year": 1780,
-    "how": "lead"
-   },
-   "Symphony No. 75 (Haydn)": {
-    "year": 1779,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 76 (Haydn)": {
     "year": 1782,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 77 (Haydn)": {
     "year": 1782,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 78 (Haydn)": {
     "year": 1782,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 79 (Haydn)": {
     "year": 1784,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 8 (Arnold)": {
+    "year": 1978,
+    "how": "category"
    },
    "Symphony No. 8 (Beethoven)": {
     "year": 1812,
@@ -5663,6 +6491,10 @@
    },
    "Symphony No. 8 (Bruckner)": {
     "year": 1892,
+    "how": "infobox"
+   },
+   "Symphony No. 8 (Dvořák)": {
+    "year": 1889,
     "how": "infobox"
    },
    "Symphony No. 8 (Haydn)": {
@@ -5690,8 +6522,8 @@
     "how": "infobox"
    },
    "Symphony No. 8 (Vaughan Williams)": {
-    "year": 1953,
-    "how": "lead"
+    "year": 1955,
+    "how": "category"
    },
    "Symphony No. 8 (Villa-Lobos)": {
     "year": 1950,
@@ -5699,11 +6531,11 @@
    },
    "Symphony No. 80 (Haydn)": {
     "year": 1784,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 81 (Haydn)": {
     "year": 1784,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 82 (Haydn)": {
     "year": 1786,
@@ -5735,7 +6567,11 @@
    },
    "Symphony No. 89 (Haydn)": {
     "year": 1787,
-    "how": "lead"
+    "how": "category"
+   },
+   "Symphony No. 9 (Arnold)": {
+    "year": 1986,
+    "how": "category"
    },
    "Symphony No. 9 (Beethoven)": {
     "year": 1824,
@@ -5745,9 +6581,13 @@
     "year": 1896,
     "how": "infobox"
    },
+   "Symphony No. 9 (Dvořák)": {
+    "year": 1893,
+    "how": "infobox"
+   },
    "Symphony No. 9 (Haydn)": {
     "year": 1762,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony No. 9 (Mahler)": {
     "year": 1909,
@@ -5805,33 +6645,37 @@
     "year": 1793,
     "how": "infobox"
    },
+   "Symphony for Organ and Orchestra (Copland)": {
+    "year": 1924,
+    "how": "category"
+   },
    "Symphony in A major (Saint-Saëns)": {
     "year": 1850,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in B-flat (Chausson)": {
     "year": 1890,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in B-flat for Band (Hindemith)": {
     "year": 1951,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in C (Bizet)": {
     "year": 1855,
     "how": "infobox"
    },
    "Symphony in C (Dukas)": {
-    "year": 1894,
-    "how": "lead"
+    "year": 1896,
+    "how": "category"
    },
    "Symphony in C (Stravinsky)": {
-    "year": 1938,
-    "how": "lead"
+    "year": 1940,
+    "how": "category"
    },
    "Symphony in C major (Wagner)": {
     "year": 1832,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in D minor (Bruckner)": {
     "year": 1869,
@@ -5843,7 +6687,7 @@
    },
    "Symphony in E-flat (Stravinsky)": {
     "year": 1907,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in F minor (Bruckner)": {
     "year": 1863,
@@ -5851,11 +6695,11 @@
    },
    "Symphony in F-sharp major (Korngold)": {
     "year": 1952,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony in Three Movements": {
     "year": 1945,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony of Psalms": {
     "year": 1930,
@@ -5863,71 +6707,67 @@
    },
    "Symphony, K. 111+120 (Mozart)": {
     "year": 1771,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 135+61h (Mozart)": {
     "year": 1772,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 161 (Mozart)": {
     "year": 1772,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 19a (Mozart)": {
     "year": 1765,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 208+102 (Mozart)": {
     "year": 1775,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 45a (Mozart)": {
     "year": 1766,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 45b (Mozart)": {
     "year": 1768,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 74g (Mozart)": {
     "year": 1771,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 75 (Mozart)": {
     "year": 1771,
-    "how": "lead"
-   },
-   "Symphony, K. 76 (Mozart)": {
-    "year": 1788,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 81 (Mozart)": {
     "year": 1770,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 95 (Mozart)": {
     "year": 1770,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 96 (Mozart)": {
     "year": 1771,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. 97 (Mozart)": {
     "year": 1770,
-    "how": "lead"
+    "how": "category"
    },
    "Symphony, K. Anh. C 11.04": {
-    "year": 1788,
-    "how": "lead"
+    "year": 1771,
+    "how": "category"
    },
-   "Symphony, K. Anh. C 11.18": {
-    "year": 1765,
-    "how": "lead"
+   "Symphony-Concerto (Prokofiev)": {
+    "year": 1952,
+    "how": "category"
    },
    "Sérénade mélancolique": {
     "year": 1875,
-    "how": "lead"
+    "how": "category"
    },
    "Tahiti Trot": {
     "year": 1927,
@@ -5937,24 +6777,48 @@
     "year": 1903,
     "how": "infobox"
    },
+   "Tannhäuser (opera)": {
+    "year": 1845,
+    "how": "category"
+   },
+   "Tapiola (Sibelius)": {
+    "year": 1926,
+    "how": "infobox"
+   },
    "Taras Bulba (rhapsody)": {
     "year": 1915,
-    "how": "lead"
+    "how": "category"
+   },
+   "Te Deum (Berlioz)": {
+    "year": 1849,
+    "how": "category"
+   },
+   "The Bard (Sibelius)": {
+    "year": 1913,
+    "how": "infobox"
    },
    "The Bartered Bride": {
     "year": 2006,
     "how": "infobox"
    },
+   "The Bear (opera)": {
+    "year": 1967,
+    "how": "category"
+   },
    "The Bells (symphony)": {
     "year": 1913,
-    "how": "lead"
+    "how": "category"
    },
-   "The Bolt (Shostakovich)": {
-    "year": 1930,
-    "how": "lead"
+   "The Birds (Respighi)": {
+    "year": 1927,
+    "how": "category"
    },
    "The Breaking of the Ice on the Oulu River": {
     "year": 1899,
+    "how": "infobox"
+   },
+   "The Captive Queen": {
+    "year": 1906,
     "how": "infobox"
    },
    "The Creation (Haydn)": {
@@ -5962,36 +6826,52 @@
     "how": "infobox"
    },
    "The Devils of Loudun (opera)": {
-    "year": 1968,
-    "how": "lead"
+    "year": 1969,
+    "how": "category"
    },
    "The Dream of Gerontius": {
-    "year": 1900,
-    "how": "lead"
+    "year": 1990,
+    "how": "category"
    },
    "The Dream of Jacob": {
     "year": 1974,
     "how": "infobox"
    },
+   "The Dryad (Sibelius)": {
+    "year": 1910,
+    "how": "infobox"
+   },
    "The Enchantress (opera)": {
-    "year": 1885,
-    "how": "lead"
+    "year": 1887,
+    "how": "category"
    },
    "The Firebird": {
     "year": 1910,
-    "how": "lead"
+    "how": "category"
+   },
+   "The Flood (Stravinsky)": {
+    "year": 1962,
+    "how": "category"
+   },
+   "The Golden Age (Shostakovich)": {
+    "year": 1930,
+    "how": "category"
    },
    "The Golden Cockerel": {
-    "year": 1908,
-    "how": "lead"
+    "year": 1909,
+    "how": "category"
+   },
+   "The Golden Spinning Wheel (Dvořák)": {
+    "year": 1896,
+    "how": "infobox"
    },
    "The Hebrides (overture)": {
     "year": 1830,
-    "how": "lead"
+    "how": "category"
    },
    "The Hymn of Jesus": {
-    "year": 1919,
-    "how": "lead"
+    "year": 1917,
+    "how": "category"
    },
    "The Language of the Birds (Sibelius)": {
     "year": 1911,
@@ -5999,11 +6879,15 @@
    },
    "The Lark Ascending (Vaughan Williams)": {
     "year": 1914,
-    "how": "lead"
+    "how": "category"
+   },
+   "The Magic Flute": {
+    "year": 1791,
+    "how": "category"
    },
    "The Maid of Orleans (opera)": {
-    "year": 1879,
-    "how": "lead"
+    "year": 1881,
+    "how": "category"
    },
    "The Maiden in the Tower": {
     "year": 1896,
@@ -6013,33 +6897,57 @@
     "year": 2006,
     "how": "infobox"
    },
-   "The Miraculous Mandarin": {
-    "year": 1918,
-    "how": "lead"
+   "The Midsummer Marriage": {
+    "year": 1955,
+    "how": "category"
+   },
+   "The Noon Witch": {
+    "year": 1896,
+    "how": "category"
    },
    "The Nose (opera)": {
-    "year": 1928,
-    "how": "lead"
+    "year": 1930,
+    "how": "category"
+   },
+   "The Nutcracker": {
+    "year": 1892,
+    "how": "category"
+   },
+   "The Oceanides": {
+    "year": 1914,
+    "how": "infobox"
+   },
+   "The Oprichnik": {
+    "year": 1874,
+    "how": "category"
+   },
+   "The Origin of Fire": {
+    "year": 1902,
+    "how": "infobox"
    },
    "The Perfect Fool": {
-    "year": 1918,
-    "how": "lead"
+    "year": 1923,
+    "how": "category"
    },
    "The Planets": {
     "year": 1917,
     "how": "infobox"
    },
    "The Poem of Ecstasy": {
-    "year": 1905,
-    "how": "lead"
+    "year": 1908,
+    "how": "category"
    },
    "The Queen of Spades (Prokofiev)": {
     "year": 1936,
     "how": "infobox"
    },
+   "The Queen of Spades (opera)": {
+    "year": 1890,
+    "how": "category"
+   },
    "The Quest (ballet)": {
     "year": 1943,
-    "how": "lead"
+    "how": "category"
    },
    "The Rite of Spring": {
     "year": 1949,
@@ -6047,15 +6955,15 @@
    },
    "The Ruins of Athens": {
     "year": 1811,
-    "how": "lead"
+    "how": "category"
    },
    "The Seasons (ballet)": {
     "year": 1899,
-    "how": "lead"
+    "how": "category"
    },
    "The Severn Suite": {
     "year": 1930,
-    "how": "lead"
+    "how": "category"
    },
    "The Sleeping Beauty (ballet)": {
     "year": 2009,
@@ -6066,16 +6974,24 @@
     "how": "infobox"
    },
    "The Tale of the Stone Flower (Prokofiev)": {
-    "year": 1948,
-    "how": "lead"
+    "year": 1950,
+    "how": "category"
+   },
+   "The Tempest (Tchaikovsky)": {
+    "year": 1873,
+    "how": "category"
    },
    "The Turn of the Screw (opera)": {
     "year": 1955,
     "how": "infobox"
    },
    "The Voyevoda (opera)": {
-    "year": 1867,
-    "how": "lead"
+    "year": 1869,
+    "how": "category"
+   },
+   "The Water Goblin": {
+    "year": 1896,
+    "how": "category"
    },
    "The Wood Nymph": {
     "year": 1895,
@@ -6083,15 +6999,15 @@
    },
    "The Year 1941 (Prokofiev)": {
     "year": 1941,
-    "how": "lead"
+    "how": "category"
    },
    "Third Essay for Orchestra (Barber)": {
     "year": 1978,
-    "how": "lead"
+    "how": "category"
    },
    "Three German Dances": {
     "year": 1791,
-    "how": "lead"
+    "how": "category"
    },
    "Three Pieces for Orchestra (Berg)": {
     "year": 1915,
@@ -6099,7 +7015,7 @@
    },
    "Three Russian Songs, Op. 41 (Rachmaninoff)": {
     "year": 1926,
-    "how": "lead"
+    "how": "category"
    },
    "Threni (Stravinsky)": {
     "year": 1958,
@@ -6110,32 +7026,24 @@
     "how": "infobox"
    },
    "Toward the Unknown Region": {
-    "year": 1904,
-    "how": "lead"
+    "year": 1907,
+    "how": "category"
    },
    "Tragic Overture (Brahms)": {
     "year": 1880,
     "how": "infobox"
-   },
-   "Trionfo di Afrodite": {
-    "year": 1951,
-    "how": "lead"
    },
    "Triple Concerto (Beethoven)": {
     "year": 1804,
     "how": "infobox"
    },
    "Tristan und Isolde": {
-    "year": 1857,
-    "how": "lead"
-   },
-   "Triumphlied": {
-    "year": 1871,
-    "how": "lead"
+    "year": 1865,
+    "how": "category"
    },
    "Trombone Concerto (Rimsky-Korsakov)": {
     "year": 1877,
-    "how": "lead"
+    "how": "category"
    },
    "Trout Quintet": {
     "year": 1819,
@@ -6145,6 +7053,10 @@
     "year": 1796,
     "how": "infobox"
    },
+   "Tuba Concerto (Vaughan Williams)": {
+    "year": 1954,
+    "how": "category"
+   },
    "Turandot": {
     "year": 2024,
     "how": "infobox"
@@ -6152,6 +7064,10 @@
    "Turangalîla-Symphonie": {
     "year": 1946,
     "how": "infobox"
+   },
+   "Twenty Polish Christmas Carols": {
+    "year": 1946,
+    "how": "category"
    },
    "Two Serenades": {
     "year": 1913,
@@ -6161,33 +7077,49 @@
     "year": 1917,
     "how": "infobox"
    },
+   "Un ballo in maschera": {
+    "year": 1859,
+    "how": "category"
+   },
    "Undina (Tchaikovsky)": {
     "year": 1869,
-    "how": "lead"
+    "how": "category"
    },
    "Va, dal furor portata": {
     "year": 1765,
-    "how": "lead"
+    "how": "category"
    },
    "Vakula the Smith": {
-    "year": 1832,
-    "how": "lead"
+    "year": 1874,
+    "how": "category"
+   },
+   "Valses nobles et sentimentales (Ravel)": {
+    "year": 1911,
+    "how": "category"
    },
    "Variations on a Theme by Haydn": {
     "year": 1873,
-    "how": "lead"
+    "how": "category"
+   },
+   "Variations on a Theme by Hindemith": {
+    "year": 1963,
+    "how": "category"
    },
    "Variations on a Theme by Paganini (Lutosławski)": {
     "year": 1941,
     "how": "infobox"
    },
+   "Viola Concerto (Bartók)": {
+    "year": 1945,
+    "how": "infobox"
+   },
    "Viola Concerto (Piston)": {
     "year": 1957,
-    "how": "lead"
+    "how": "category"
    },
    "Violin Concerto (Barber)": {
-    "year": 1954,
-    "how": "lead"
+    "year": 1939,
+    "how": "category"
    },
    "Violin Concerto (Berg)": {
     "year": 1935,
@@ -6197,6 +7129,18 @@
     "year": 1878,
     "how": "infobox"
    },
+   "Violin Concerto (Britten)": {
+    "year": 1939,
+    "how": "infobox"
+   },
+   "Violin Concerto (Dvořák)": {
+    "year": 1879,
+    "how": "infobox"
+   },
+   "Violin Concerto (Elgar)": {
+    "year": 1910,
+    "how": "category"
+   },
    "Violin Concerto (Glazunov)": {
     "year": 1904,
     "how": "infobox"
@@ -6205,49 +7149,93 @@
     "year": 1940,
     "how": "infobox"
    },
+   "Violin Concerto (Korngold)": {
+    "year": 1945,
+    "how": "category"
+   },
+   "Violin Concerto (Ligeti)": {
+    "year": 1990,
+    "how": "category"
+   },
    "Violin Concerto (Mendelssohn)": {
     "year": 1844,
     "how": "infobox"
    },
    "Violin Concerto (Nielsen)": {
-    "year": 1877,
-    "how": "lead"
+    "year": 1911,
+    "how": "category"
    },
    "Violin Concerto (Schoenberg)": {
     "year": 1936,
-    "how": "lead"
+    "how": "category"
+   },
+   "Violin Concerto (Schumann)": {
+    "year": 1853,
+    "how": "infobox"
    },
    "Violin Concerto (Stravinsky)": {
     "year": 1931,
-    "how": "lead"
+    "how": "category"
+   },
+   "Violin Concerto (Tchaikovsky)": {
+    "year": 1878,
+    "how": "category"
    },
    "Violin Concerto (Walton)": {
     "year": 1939,
-    "how": "lead"
+    "how": "category"
+   },
+   "Violin Concerto No. 1 (Glass)": {
+    "year": 1987,
+    "how": "category"
    },
    "Violin Concerto No. 1 (Prokofiev)": {
-    "year": 1915,
-    "how": "lead"
+    "year": 1917,
+    "how": "category"
+   },
+   "Violin Concerto No. 1 (Saint-Saëns)": {
+    "year": 1859,
+    "how": "infobox"
    },
    "Violin Concerto No. 1 (Shostakovich)": {
     "year": 1948,
-    "how": "lead"
+    "how": "category"
+   },
+   "Violin Concerto No. 2 (Bartók)": {
+    "year": 1938,
+    "how": "category"
    },
    "Violin Concerto No. 2 (Prokofiev)": {
     "year": 1935,
-    "how": "lead"
+    "how": "category"
    },
    "Violin Concerto No. 2 (Shostakovich)": {
     "year": 1967,
-    "how": "lead"
+    "how": "category"
+   },
+   "Violin Concerto No. 3 (Mozart)": {
+    "year": 1775,
+    "how": "infobox"
+   },
+   "Violin Concerto No. 3 (Saint-Saëns)": {
+    "year": 1880,
+    "how": "infobox"
+   },
+   "Violin Concerto No. 4 (Mozart)": {
+    "year": 1775,
+    "how": "infobox"
    },
    "Violin Concerto in A major (Respighi)": {
-    "year": 1908,
-    "how": "lead"
+    "year": 1903,
+    "how": "category"
    },
    "Von heute auf morgen": {
     "year": 1973,
     "how": "infobox"
+   },
+   "Vorrei spiegarvi, oh Dio!": {
+    "year": 1783,
+    "how": "category"
    },
    "Wandrers Sturmlied": {
     "year": 1884,
@@ -6258,28 +7246,24 @@
     "how": "infobox"
    },
    "War and Peace (opera)": {
-    "year": 1942,
-    "how": "lead"
+    "year": 1945,
+    "how": "category"
    },
    "What Men Live By (opera)": {
-    "year": 1952,
-    "how": "lead"
+    "year": 1953,
+    "how": "category"
    },
    "Wozzeck": {
-    "year": 1834,
-    "how": "lead"
+    "year": 1925,
+    "how": "category"
    },
    "Youth (wind sextet)": {
     "year": 1924,
-    "how": "lead"
-   },
-   "Zdravitsa": {
-    "year": 1939,
-    "how": "lead"
+    "how": "category"
    },
    "Zur Namensfeier": {
     "year": 1815,
-    "how": "lead"
+    "how": "category"
    }
   }
  }
