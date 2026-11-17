@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { writeIfChanged } from './stable-json.mjs';
 import { stripCommentary } from '../lib/commentary.mjs';
+import { assignSortYears } from '../lib/chronology.mjs';
 import {
   parseInstrumentation, formatOboeScoring, requiredInstruments, firstFamilyMentionIndex,
   normalizeStringSection,
@@ -66,11 +67,18 @@ const curated = await readJson(p('data/curated.json'), { composers: {}, works: [
 const wikipedia = await readJson(p('data/wikipedia.json'), { works: [] });
 const imslp = await readJson(p('data/imslp.json'), { composers: [], works: [] });
 const composerDates = await readJson(p('data/composer-dates.json'), { dates: {} });
+const workYears = await readJson(p('data/work-years.json'), { works: { imslp: {}, wikipedia: {} } });
 
 const composers = new Map();
 const byName = new Map(); // fold(display name) -> id
 const works = [];
 const seen = new Set();
+// Which work holds each dedup key, so a year found on a duplicate that lost
+// the merge (IMSLP usually dates a work Wikipedia supplied) still reaches it.
+const owner = new Map();
+const own = (w, keys) => { for (const k of keys) if (k && !owner.has(k)) owner.set(k, w); };
+// Harvested years, checked against the composer's lifetime once dates are known.
+const harvestedYear = new Set();
 
 /** "Sergei Rachmaninoff" -> "Rachmaninoff, Sergei" */
 function toSortForm(name) {
@@ -145,6 +153,7 @@ for (const w of curated.works ?? []) {
   }
   seen.add(workKey(w.c, w.title));
   for (const k of [catKey(w.c, w.cat), formKey(w.c, w.title)]) if (k) seen.add(k);
+  const curatedKeys = [workKey(w.c, w.title), catKey(w.c, w.cat), formKey(w.c, w.title)];
   works.push({
     c: w.c,
     t: w.title,
@@ -161,6 +170,7 @@ for (const w of curated.works ?? []) {
     src: 'curated',
     url: null,
   });
+  own(works.at(-1), curatedKeys);
   composers.get(w.c).n++;
 }
 
@@ -368,11 +378,12 @@ for (const w of wikipedia.works ?? []) {
   const reparsed = sourceText ? parseInstrumentation(sourceText) : null;
   const usable = reparsed?.total > 0;
 
+  const wikiYear = workYears.works?.wikipedia?.[w.page]?.year ?? null;
   works.push({
     c: c.id,
     t: title,
     cat: null,
-    y: null,
+    y: wikiYear,
     g: w.subcat ? (w.genre || 'Orchestral') : genreFromTitle(title, w.genre || 'Orchestral'),
     s: usable ? formatOboeScoring(reparsed) : w.scoring,
     counts: usable ? reparsed.counts : w.counts,
@@ -384,6 +395,8 @@ for (const w of wikipedia.works ?? []) {
     src: 'wikipedia',
     url: w.url,
   });
+  if (wikiYear) harvestedYear.add(works.at(-1));
+  own(works.at(-1), [key, fk]);
   c.n++;
 }
 
@@ -402,7 +415,13 @@ for (const w of imslp.works ?? []) {
   const key = workKey(cid, w.title);
   const ck = catKey(cid, w.catalogue);
   const fk = formKey(cid, w.title);
-  if (seen.has(key) || (ck && seen.has(ck)) || (fk && seen.has(fk))) continue; // a better source already covers it
+  const imslpYear = workYears.works?.imslp?.[w.id] ?? null;
+  if (seen.has(key) || (ck && seen.has(ck)) || (fk && seen.has(fk))) { // a better source already covers it
+    // …but may not have known when it was written.
+    const holder = [key, ck, fk].map((k) => k && owner.get(k)).find(Boolean);
+    if (imslpYear && holder && !holder.y) { holder.y = imslpYear; harvestedYear.add(holder); }
+    continue;
+  }
   seen.add(key);
   for (const k of [ck, fk]) if (k) seen.add(k);
 
@@ -415,7 +434,7 @@ for (const w of imslp.works ?? []) {
     c: c.id,
     t: w.title,
     cat: w.catalogue || null,
-    y: null,
+    y: imslpYear,
     g: w.arrangement ? 'Arrangement' : 'Other',
     s: usable ? formatOboeScoring(parsed) : w.scoring,
     counts: usable ? parsed.counts : w.counts,
@@ -427,11 +446,38 @@ for (const w of imslp.works ?? []) {
     src: 'imslp',
     url: w.url,
   });
+  if (imslpYear) harvestedYear.add(works.at(-1));
+  own(works.at(-1), [key, ck, fk]);
   if (w.arrangement) c.nArr++; else c.n++;
 }
 
 // Drop composers whose every entry is an arrangement or otherwise unshowable.
 for (const [id, c] of composers) if (!c.n && !c.nArr) composers.delete(id);
+
+// ── Work years ────────────────────────────────────────────────────────────────
+// A harvested year has to fall inside the composer's working life. Outside it,
+// the page has confused composition with publication, a revision or an
+// edition (or the article named some other year), and an absent date sorts
+// better than a wrong one.
+const lifespan = (dates) => {
+  const s = String(dates ?? '');
+  const both = /(\d{4})\s*[–-]\s*(\d{4})/.exec(s);
+  if (both) return { born: +both[1], died: +both[2] };
+  const born = /(?:^|b\.\s*)(\d{4})/.exec(s);
+  const died = /d\.\s*(\d{4})/.exec(s);
+  return { born: born ? +born[1] : null, died: died ? +died[1] : null };
+};
+let yearsKept = 0, yearsRejected = 0;
+for (const w of harvestedYear) {
+  // Curated composers carry their dates already; the rest are looked up the
+  // same way the composer-dates pass below does it.
+  const c = composers.get(w.c);
+  const { born, died } = c?.dates ? lifespan(c.dates) : (findDates(c) ?? {});
+  if ((born && w.y < born + 5) || (died && w.y > died)) { w.y = null; yearsRejected++; } else yearsKept++;
+}
+assignSortYears(works);
+process.stderr.write(`  work years: ${yearsKept} harvested (${yearsRejected} outside the composer's lifetime, dropped), `
+  + `${works.filter((w) => w.y).length} dated in all, ${works.filter((w) => !w.y && w.sy != null).length} placed by series or catalogue\n`);
 
 // `src` and `url` drive the merge and the build-time checks below, but they
 // name the upstream catalogues, so they are dropped from the shipped index
