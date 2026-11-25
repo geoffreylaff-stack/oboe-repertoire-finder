@@ -23912,7 +23912,7 @@
    "t": "Chamber Symphony",
    "cat": null,
    "y": null,
-   "g": "Chamber",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -25121,7 +25121,7 @@
    "t": "Symphony of Psalms",
    "cat": null,
    "y": 1930,
-   "g": "Choral",
+   "g": "Symphony",
    "s": "four oboes, english horn",
    "counts": {
     "oboe": 4,
@@ -26640,7 +26640,7 @@
    "t": "Symphony No. 3",
    "cat": null,
    "y": 1896,
-   "g": "Choral",
+   "g": "Symphony",
    "s": "four oboes (4th doubling english horn)",
    "counts": {
     "oboe": 4
@@ -26660,7 +26660,7 @@
    "t": "Symphony No. 8",
    "cat": null,
    "y": 1906,
-   "g": "Choral",
+   "g": "Symphony",
    "s": "four oboes, english horn",
    "counts": {
     "oboe": 4,
@@ -30197,7 +30197,7 @@
    "t": "Symphony No. 1",
    "cat": null,
    "y": 1865,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes (doubling english horn)",
    "counts": {
     "oboe": 2
@@ -30217,7 +30217,7 @@
    "t": "Symphony No. 2",
    "cat": null,
    "y": 1865,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -30236,7 +30236,7 @@
    "t": "Symphony No. 3",
    "cat": null,
    "y": 1873,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -30257,7 +30257,7 @@
    "t": "Symphony No. 4",
    "cat": null,
    "y": 1874,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -30740,7 +30740,7 @@
    "t": "Grande Symphonie funèbre et triomphale",
    "cat": null,
    "y": 1840,
-   "g": "Choral",
+   "g": "Symphony",
    "s": "five oboes",
    "counts": {
     "oboe": 5
@@ -31620,7 +31620,7 @@
    "t": "A Sea Symphony",
    "cat": null,
    "y": 1909,
-   "g": "Choral",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -32901,7 +32901,7 @@
    "t": "Symphony No. 2",
    "cat": null,
    "y": 1949,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -33422,7 +33422,7 @@
    "t": "Little Symphony No. 1",
    "cat": null,
    "y": 1917,
-   "g": "Chamber",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -33441,7 +33441,7 @@
    "t": "Little Symphony No. 2",
    "cat": null,
    "y": null,
-   "g": "Chamber",
+   "g": "Symphony",
    "s": "english horn",
    "counts": {
     "englishHorn": 1
@@ -33460,7 +33460,7 @@
    "t": "Little Symphony No. 5",
    "cat": null,
    "y": null,
-   "g": "Chamber",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -34778,7 +34778,7 @@
    "t": "Symphony No. 4",
    "cat": null,
    "y": 1833,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -34797,7 +34797,7 @@
    "t": "Symphony No. 5",
    "cat": null,
    "y": 1830,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35136,7 +35136,7 @@
    "t": "Jena Symphony",
    "cat": null,
    "y": 1793,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35819,7 +35819,7 @@
    "t": "Symphony No. 37",
    "cat": null,
    "y": 1783,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35838,7 +35838,7 @@
    "t": "Symphony, K. 45b",
    "cat": null,
    "y": 1768,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35857,7 +35857,7 @@
    "t": "Symphony, K. 74g",
    "cat": null,
    "y": 1771,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35876,7 +35876,7 @@
    "t": "Symphony, K. 75",
    "cat": null,
    "y": 1771,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35895,7 +35895,7 @@
    "t": "Symphony, K. 76",
    "cat": null,
    "y": null,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35913,7 +35913,7 @@
    "t": "Symphony, K. 81",
    "cat": null,
    "y": 1770,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35932,7 +35932,7 @@
    "t": "Symphony, K. 95",
    "cat": null,
    "y": 1770,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35951,7 +35951,7 @@
    "t": "Symphony, K. 96",
    "cat": null,
    "y": 1771,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35970,7 +35970,7 @@
    "t": "Symphony, K. 97",
    "cat": null,
    "y": 1770,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -35989,7 +35989,7 @@
    "t": "Symphony, K. Anh. C 11.04",
    "cat": null,
    "y": 1771,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -36008,7 +36008,7 @@
    "t": "Symphony, K. Anh. C 11.18",
    "cat": null,
    "y": null,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -36558,7 +36558,7 @@
    "t": "Symphony No. 35",
    "cat": null,
    "y": 1782,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -41271,7 +41271,7 @@
    "t": "Symphony No. 1",
    "cat": null,
    "y": 1935,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -41290,7 +41290,7 @@
    "t": "Symphony No. 2",
    "cat": null,
    "y": 1960,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -41856,7 +41856,7 @@
    "t": "Chamber Symphony No. 1",
    "cat": null,
    "y": 1906,
-   "g": "Chamber",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -41976,7 +41976,7 @@
    "t": "Chamber Symphony No. 2",
    "cat": null,
    "y": 1939,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -42384,7 +42384,7 @@
    "t": "Turangalîla-Symphonie",
    "cat": null,
    "y": 1946,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -42702,7 +42702,7 @@
    "t": "Symphony No. 1",
    "cat": null,
    "y": 1934,
-   "g": "Orchestral",
+   "g": "Symphony",
    "s": "english horn",
    "counts": {
     "englishHorn": 1
@@ -44557,7 +44557,7 @@
    "t": "Symphony in A major, WK 24",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44575,7 +44575,7 @@
    "t": "Symphony in B-flat major, WK 1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44593,7 +44593,7 @@
    "t": "Symphony in B-flat major, WK 20",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44611,7 +44611,7 @@
    "t": "Symphony in B-flat major, WK 8",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44629,7 +44629,7 @@
    "t": "Symphony in C major, WK 2",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44647,7 +44647,7 @@
    "t": "Symphony in C major, WK 22",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44665,7 +44665,7 @@
    "t": "Symphony in D major, WK 23",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44683,7 +44683,7 @@
    "t": "Symphony in D major, WK 3",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44701,7 +44701,7 @@
    "t": "Symphony in E major, WK 19",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44719,7 +44719,7 @@
    "t": "Symphony in E-flat major, WK 21",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44737,7 +44737,7 @@
    "t": "Symphony in F major, WK 5",
    "cat": null,
    "y": 1759,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -44756,7 +44756,7 @@
    "t": "Symphony in G major, WK 6",
    "cat": null,
    "y": 1759,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -46434,7 +46434,7 @@
    "t": "Symphony No.1",
    "cat": "Op.7",
    "y": 1897,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -46453,7 +46453,7 @@
    "t": "Symphony No.3",
    "cat": "Op.23",
    "y": 1905,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -46472,7 +46472,7 @@
    "t": "Symphony No.4",
    "cat": "Op.39",
    "y": 1919,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -46664,7 +46664,7 @@
    "t": "Symphony in C major",
    "cat": null,
    "y": 1997,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -46720,7 +46720,7 @@
    "t": "Symphony No.1",
    "cat": "Op.7",
    "y": 1898,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -47151,7 +47151,7 @@
    "t": "Symphony in D major",
    "cat": "Op.7",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -47205,7 +47205,7 @@
    "t": "Symphony No.1",
    "cat": "Op.14",
    "y": 2011,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -48616,7 +48616,7 @@
    "t": "Symphony No.5, W.186",
    "cat": null,
    "y": 1948,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -48907,7 +48907,7 @@
    "t": "Symphony in D minor",
    "cat": null,
    "y": 1900,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -48926,7 +48926,7 @@
    "t": "Symphony No.6 in E minor",
    "cat": null,
    "y": 1898,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -49378,7 +49378,7 @@
    "t": "Symphony No.1",
    "cat": "Op.4",
    "y": 1883,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -50104,7 +50104,7 @@
    "t": "Symphony No.3",
    "cat": "Op.51",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -50329,7 +50329,7 @@
    "t": "Symphony in D major",
    "cat": null,
    "y": 1824,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -50441,7 +50441,7 @@
    "t": "Symphony in C major",
    "cat": null,
    "y": 1776,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -50594,7 +50594,7 @@
    "t": "Symphony No.1",
    "cat": "Op.3",
    "y": 1911,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -50615,7 +50615,7 @@
    "t": "Symphony No.3",
    "cat": "Op.10",
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -50634,7 +50634,7 @@
    "t": "Symphony No.4",
    "cat": "Op.14",
    "y": 1918,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -50653,7 +50653,7 @@
    "t": "Symphony No.5",
    "cat": "Op.20",
    "y": 1922,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling heckelphone)",
    "counts": {
     "oboe": 2
@@ -50673,7 +50673,7 @@
    "t": "Symphony No.6",
    "cat": "Op.31",
    "y": 1928,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -50692,7 +50692,7 @@
    "t": "Symphony No.7",
    "cat": "Op.45",
    "y": 1942,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -51190,7 +51190,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1952,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -51209,7 +51209,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 1953,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -51681,7 +51681,7 @@
    "t": "Symphony in D major",
    "cat": "H.663",
    "y": 1775,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -51700,7 +51700,7 @@
    "t": "Symphony in E-flat major",
    "cat": "H.664",
    "y": 1775,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -51719,7 +51719,7 @@
    "t": "Symphony in F major",
    "cat": "H.665",
    "y": 1775,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52529,7 +52529,7 @@
    "t": "Symphony in B-flat major, W.C 10",
    "cat": null,
    "y": 1766,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52548,7 +52548,7 @@
    "t": "Symphony in B-flat major, W.C 4",
    "cat": null,
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52567,7 +52567,7 @@
    "t": "Symphony in C major, W.C 2",
    "cat": null,
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52586,7 +52586,7 @@
    "t": "Symphony in C major, W.G 24",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52604,7 +52604,7 @@
    "t": "Symphony in D major, W.C 1",
    "cat": null,
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52623,7 +52623,7 @@
    "t": "Symphony in D major, W.C 27",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52641,7 +52641,7 @@
    "t": "Symphony in D major, W.C 8",
    "cat": null,
    "y": 1769,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52660,7 +52660,7 @@
    "t": "Symphony in D major, W.C deest",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52678,7 +52678,7 @@
    "t": "Symphony in D major, W.G 22",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52696,7 +52696,7 @@
    "t": "Symphony in D major, W.XC 2",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52714,7 +52714,7 @@
    "t": "Symphony in E-flat major, W.C 11",
    "cat": null,
    "y": 1766,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52733,7 +52733,7 @@
    "t": "Symphony in E-flat major, W.C 18b",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52751,7 +52751,7 @@
    "t": "Symphony in E-flat major, W.C 26",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52769,7 +52769,7 @@
    "t": "Symphony in E-flat major, W.C 9",
    "cat": null,
    "y": 1762,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52788,7 +52788,7 @@
    "t": "Symphony in F major, W.C 15",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52806,7 +52806,7 @@
    "t": "Symphony in F major, W.C.Inc 4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52824,7 +52824,7 @@
    "t": "Symphony in G major, W.C 7",
    "cat": null,
    "y": 1764,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52843,7 +52843,7 @@
    "t": "Symphony in G major, W.G 26",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -52861,7 +52861,7 @@
    "t": "Symphony in G minor, W.C 12",
    "cat": null,
    "y": 1769,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -59278,7 +59278,7 @@
    "t": "Symphony No.2 in D minor",
    "cat": null,
    "y": 1864,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -59712,7 +59712,7 @@
    "t": "Hebridean Symphony",
    "cat": null,
    "y": 1915,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -61702,7 +61702,7 @@
    "t": "Symphony in E minor, Op.32 'Gaelic'",
    "cat": null,
    "y": 1896,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -62143,7 +62143,7 @@
    "t": "Chamber Symphony for Flute and Oboe in F major",
    "cat": "Op.3064",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -62162,7 +62162,7 @@
    "t": "Chamber Symphony in D major",
    "cat": "Op.3136",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -62181,7 +62181,7 @@
    "t": "Chamber Symphony in G major",
    "cat": "Op.3132",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -66050,7 +66050,7 @@
    "t": "Symphony in C major",
    "cat": "Op.3118",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -67364,7 +67364,7 @@
    "t": "Symphony in B-flat major",
    "cat": "Op.3 No.2",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -67382,7 +67382,7 @@
    "t": "Symphony in G major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -67456,7 +67456,7 @@
    "t": "Symphony in F major",
    "cat": "Op.6",
    "y": 1895,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -67605,7 +67605,7 @@
    "t": "Symphony in B-flat major",
    "cat": "Op.4 No.4",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -67623,7 +67623,7 @@
    "t": "Symphony in D major",
    "cat": "Op.4 No.1",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -68575,7 +68575,7 @@
    "t": "Symphony in E-flat major",
    "cat": null,
    "y": 1823,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -68703,7 +68703,7 @@
    "t": "Symphony in D major, L1.4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -68831,7 +68831,7 @@
    "t": "Symphony No.1",
    "cat": "Op.16",
    "y": 1876,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -68850,7 +68850,7 @@
    "t": "Symphony No.2",
    "cat": "Op.20",
    "y": 1887,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -68871,7 +68871,7 @@
    "t": "Symphony No.3",
    "cat": "Op.25",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -69243,7 +69243,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -70087,7 +70087,7 @@
    "t": "Symphony No.3 'Singulière'",
    "cat": null,
    "y": 1845,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -70106,7 +70106,7 @@
    "t": "Symphony No.4 'Naïve'",
    "cat": null,
    "y": 1845,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -70556,7 +70556,7 @@
    "t": "Symphony",
    "cat": "Op.8",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -72204,7 +72204,7 @@
    "t": "Symphony 'Israel'",
    "cat": "B.35",
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -72302,7 +72302,7 @@
    "t": "Symphony",
    "cat": "Op.39",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -72485,7 +72485,7 @@
    "t": "Symphony in A major, G.511",
    "cat": null,
    "y": 1782,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -72504,7 +72504,7 @@
    "t": "Symphony in B-flat major, G.514",
    "cat": null,
    "y": 1782,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -72523,7 +72523,7 @@
    "t": "Symphony in D major, G.521",
    "cat": null,
    "y": 1790,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -72542,7 +72542,7 @@
    "t": "Symphony in D minor, G.517",
    "cat": null,
    "y": 1787,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -73943,7 +73943,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1867,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -73963,7 +73963,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1882,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -74222,7 +74222,7 @@
    "t": "Symphony No.2",
    "cat": "Op.12",
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -74241,7 +74241,7 @@
    "t": "Symphony No.3",
    "cat": "Op.15",
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -74260,7 +74260,7 @@
    "t": "Symphony No.4",
    "cat": "Op.17",
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -74281,7 +74281,7 @@
    "t": "Symphony No.5",
    "cat": "Op.19",
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -74807,7 +74807,7 @@
    "t": "Symphony No.1 in B-flat major",
    "cat": null,
    "y": 1760,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -74826,7 +74826,7 @@
    "t": "Symphony No.2 in A major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -74845,7 +74845,7 @@
    "t": "Symphony No.4 in F major",
    "cat": "Op.2 No.4",
    "y": 1751,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -75403,7 +75403,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1924,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -75424,7 +75424,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1927,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -75631,7 +75631,7 @@
    "t": "Symphony No.1",
    "cat": "Op.17",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -75652,7 +75652,7 @@
    "t": "Symphony No.2",
    "cat": "Op.18",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -76126,7 +76126,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1986,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76276,7 +76276,7 @@
    "t": "Symphony No.10",
    "cat": null,
    "y": 1954,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76297,7 +76297,7 @@
    "t": "Symphony No.15",
    "cat": null,
    "y": 1960,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -76318,7 +76318,7 @@
    "t": "Symphony No.21",
    "cat": null,
    "y": 1963,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76339,7 +76339,7 @@
    "t": "Symphony No.22",
    "cat": null,
    "y": 1964,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76360,7 +76360,7 @@
    "t": "Symphony No.7",
    "cat": null,
    "y": 1948,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76381,7 +76381,7 @@
    "t": "Symphony No.8",
    "cat": null,
    "y": 1949,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -76813,7 +76813,7 @@
    "t": "Symphony No.4",
    "cat": "Op.50",
    "y": 1872,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77441,7 +77441,7 @@
    "t": "Symphony No.1",
    "cat": "Op.28",
    "y": 1868,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77460,7 +77460,7 @@
    "t": "Symphony No.2",
    "cat": "Op.36",
    "y": 1868,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77479,7 +77479,7 @@
    "t": "Symphony No.3",
    "cat": "Op.51",
    "y": 1882,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77670,7 +77670,7 @@
    "t": "Symphony in D minor 'Annullierte'",
    "cat": "WAB 100",
    "y": 1869,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77859,7 +77859,7 @@
    "t": "Symphony in C major, L.303",
    "cat": null,
    "y": 1779,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -77878,7 +77878,7 @@
    "t": "Symphony in F major, L.297",
    "cat": null,
    "y": 1790,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -80695,7 +80695,7 @@
    "t": "Symphony No.1 in E minor, W.56",
    "cat": null,
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -80714,7 +80714,7 @@
    "t": "Symphony No.2 in C major, W.57",
    "cat": null,
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -80733,7 +80733,7 @@
    "t": "Symphony No.3 in D major, W.58",
    "cat": null,
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -80951,7 +80951,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -83087,7 +83087,7 @@
    "t": "Symphony No.1",
    "cat": "Op.5",
    "y": 1905,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -83108,7 +83108,7 @@
    "t": "Symphony No.2",
    "cat": "Op.12",
    "y": 1910,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -83350,7 +83350,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1986,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -83750,7 +83750,7 @@
    "t": "Symphony No.1",
    "cat": "Op.5",
    "y": 1881,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -83769,7 +83769,7 @@
    "t": "Symphony No.2",
    "cat": "Op.21",
    "y": 1886,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -83788,7 +83788,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1894,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -84032,7 +84032,7 @@
    "t": "Symphony No.2",
    "cat": "Op.29",
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -85431,7 +85431,7 @@
    "t": "Symphony in G major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -85864,7 +85864,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 2015,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -86487,7 +86487,7 @@
    "t": "Symphony in A minor",
    "cat": "Op.8",
    "y": 1896,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -87137,7 +87137,7 @@
    "t": "Symphony",
    "cat": "Op.59",
    "y": 1906,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -87329,7 +87329,7 @@
    "t": "Symphony No.1 in D major",
    "cat": "Op.5",
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -87348,7 +87348,7 @@
    "t": "Symphony No.3",
    "cat": "Op.7",
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -89046,7 +89046,7 @@
    "t": "Hope Symphony",
    "cat": "Op.2",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -89555,7 +89555,7 @@
    "t": "Symphony No.1",
    "cat": "Op.780",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -89648,7 +89648,7 @@
    "t": "Symphony No.11 'Herbstlied'",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -89669,7 +89669,7 @@
    "t": "Symphony No.13",
    "cat": null,
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -89688,7 +89688,7 @@
    "t": "Symphony No.6 'Arie e danze dalla Nave dei folli'",
    "cat": null,
    "y": 2017,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -93245,7 +93245,7 @@
    "t": "Symphony in A major 'nel gusto di cinque nazioni', Kr.18",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -93495,7 +93495,7 @@
    "t": "Symphony No.1",
    "cat": "Op.9",
    "y": 1901,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -93516,7 +93516,7 @@
    "t": "Symphony No.2",
    "cat": "Op.40",
    "y": 1956,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -94564,7 +94564,7 @@
    "t": "Symphony No.1",
    "cat": "Op.42",
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, two english horns",
    "counts": {
     "oboe": 2,
@@ -95409,7 +95409,7 @@
    "t": "Symphonie française",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -95429,7 +95429,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1911,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -96099,7 +96099,7 @@
    "t": "Symphony in G major",
    "cat": null,
    "y": 1937,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -97983,7 +97983,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -98174,7 +98174,7 @@
    "t": "Symphony No.4",
    "cat": "Op.44",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -98950,7 +98950,7 @@
    "t": "Symphony in C major",
    "cat": "Op.47",
    "y": 1910,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -99459,7 +99459,7 @@
    "t": "Symphony No.1",
    "cat": "Op.32",
    "y": 1841,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -99478,7 +99478,7 @@
    "t": "Symphony No.2",
    "cat": "Op.35",
    "y": 1845,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -99497,7 +99497,7 @@
    "t": "Symphony No.3",
    "cat": "Op.36",
    "y": 1847,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -101622,7 +101622,7 @@
    "t": "Symphony in C 2000",
    "cat": "Op.5",
    "y": 1978,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -101823,7 +101823,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -101841,7 +101841,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102285,7 +102285,7 @@
    "t": "Symphony in D minor, ReiF 1.06",
    "cat": null,
    "y": 1804,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102419,7 +102419,7 @@
    "t": "Symphony in B-flat major, DTB III/1",
    "cat": "B2",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102437,7 +102437,7 @@
    "t": "Symphony in C major DTB III/1 C4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102455,7 +102455,7 @@
    "t": "Symphony in C major, DTB III/1 C3",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102473,7 +102473,7 @@
    "t": "Symphony in D major, DTB VII/2.5",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102491,7 +102491,7 @@
    "t": "Symphony in E-flat major, DTB III/1 Es7",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -102509,7 +102509,7 @@
    "t": "Symphony in F major, DTB III/1 F4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -103797,7 +103797,7 @@
    "t": "Symphony in E minor",
    "cat": "Op.16",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -104040,7 +104040,7 @@
    "t": "Symphony in D minor",
    "cat": null,
    "y": 1888,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -104468,7 +104468,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -104937,7 +104937,7 @@
    "t": "Symphony No.1",
    "cat": "Op.33",
    "y": 1958,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -105457,7 +105457,7 @@
    "t": "Symphony in A major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -105568,7 +105568,7 @@
    "t": "Symphony No.2",
    "cat": "Op.45",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -105715,7 +105715,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -106189,7 +106189,7 @@
    "t": "Symphony No.1",
    "cat": "Op.5",
    "y": 1842,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106208,7 +106208,7 @@
    "t": "Symphony No.2",
    "cat": "Op.10",
    "y": 1843,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106227,7 +106227,7 @@
    "t": "Symphony No.3",
    "cat": "Op.15",
    "y": 1847,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106246,7 +106246,7 @@
    "t": "Symphony No.4",
    "cat": "Op.20",
    "y": 1850,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106265,7 +106265,7 @@
    "t": "Symphony No.5",
    "cat": "Op.25",
    "y": 1852,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106284,7 +106284,7 @@
    "t": "Symphony No.6",
    "cat": "Op.32",
    "y": 1857,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106303,7 +106303,7 @@
    "t": "Symphony No.7",
    "cat": "Op.45",
    "y": 1865,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106322,7 +106322,7 @@
    "t": "Symphony No.8",
    "cat": "Op.47",
    "y": 1870,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -106421,7 +106421,7 @@
    "t": "Symphony No.1",
    "cat": "Op.30",
    "y": 1927,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -107085,7 +107085,7 @@
    "t": "Symphony in F major",
    "cat": null,
    "y": 1936,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -107724,7 +107724,7 @@
    "t": "Symphony",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -107743,7 +107743,7 @@
    "t": "Symphony of Winds",
    "cat": null,
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -108005,7 +108005,7 @@
    "t": "A Little Water Symphony",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -109757,7 +109757,7 @@
    "t": "Symphony No.1",
    "cat": "Op.5",
    "y": 1882,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -109776,7 +109776,7 @@
    "t": "Symphony No.2",
    "cat": "Op.16",
    "y": 1886,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (1st doubling english horn)",
    "counts": {
     "oboe": 2
@@ -109796,7 +109796,7 @@
    "t": "Symphony No.4",
    "cat": "Op.48",
    "y": 1893,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -109816,7 +109816,7 @@
    "t": "Symphony No.7",
    "cat": "Op.77",
    "y": 1902,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -109835,7 +109835,7 @@
    "t": "Symphony No.8",
    "cat": "Op.83",
    "y": 1905,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -110053,7 +110053,7 @@
    "t": "Symphony No.1",
    "cat": "Op.8",
    "y": 1900,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -110072,7 +110072,7 @@
    "t": "Symphony No.2",
    "cat": "Op.25",
    "y": 1908,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -110093,7 +110093,7 @@
    "t": "Symphony No.3 'Ilya Murometz'",
    "cat": "Op.42",
    "y": 1911,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -110215,7 +110215,7 @@
    "t": "Symphony on 2 Russian Themes",
    "cat": null,
    "y": 1834,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -110478,7 +110478,7 @@
    "t": "Symphony No.1 'Ländliche Hochzeit'",
    "cat": "Op.26",
    "y": 1875,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -110994,7 +110994,7 @@
    "t": "Symphonie 'de Chasse', RH 41",
    "cat": null,
    "y": 1773,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111013,7 +111013,7 @@
    "t": "Symphony No.2 in E-flat major, RH 53",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111239,7 +111239,7 @@
    "t": "Petite symphonie, CG 560",
    "cat": null,
    "y": 1885,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111279,7 +111279,7 @@
    "t": "Symphony No.1, CG 527",
    "cat": null,
    "y": 1854,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111298,7 +111298,7 @@
    "t": "Symphony No.2, CG 528",
    "cat": null,
    "y": 1855,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111374,7 +111374,7 @@
    "t": "Symphonie brève",
    "cat": "Op.58",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111393,7 +111393,7 @@
    "t": "Symphony No.2",
    "cat": "Op.12",
    "y": 1848,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -111412,7 +111412,7 @@
    "t": "Symphony No.3",
    "cat": "Op.20",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -114508,7 +114508,7 @@
    "t": "Symphony in C minor, EG 119",
    "cat": null,
    "y": 1864,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -114918,7 +114918,7 @@
    "t": "Symphony No.1",
    "cat": "Op.42",
    "y": 1874,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -115068,7 +115068,7 @@
    "t": "Sinfonie Périodique No.7 in B-flat major",
    "cat": null,
    "y": 1790,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -115087,7 +115087,7 @@
    "t": "Sinfonie Périodique No.8 in F major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -115143,7 +115143,7 @@
    "t": "Symphony No.4",
    "cat": "Op.113",
    "y": 1920,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -115260,7 +115260,7 @@
    "t": "Symphony No.2, Op.30 'The Four Seasons'",
    "cat": null,
    "y": 1899,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -115508,7 +115508,7 @@
    "t": "Symphony No.5",
    "cat": "Op.36",
    "y": 1891,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -118634,7 +118634,7 @@
    "t": "Symphony No.1",
    "cat": "Op.29",
    "y": 1879,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -118653,7 +118653,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1955,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -118674,7 +118674,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -118693,7 +118693,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1949,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -118712,7 +118712,7 @@
    "t": "Symphony No.5",
    "cat": null,
    "y": 1950,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -119045,7 +119045,7 @@
    "t": "Little Symphony No.4",
    "cat": "Op.505",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -119066,7 +119066,7 @@
    "t": "Little Symphony No.5",
    "cat": "Op.509",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -120688,7 +120688,7 @@
    "t": "Symphony in D major, Hob.I:D7",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120706,7 +120706,7 @@
    "t": "Symphony in E-flat major, Hob.I:Es4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120743,7 +120743,7 @@
    "t": "Symphony No.21 in A major, Hob.I:21",
    "cat": null,
    "y": 1764,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120819,7 +120819,7 @@
    "t": "Symphony No.34 in D minor, Hob.I:34",
    "cat": null,
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120876,7 +120876,7 @@
    "t": "Symphony No.57 in D major, Hob.I:57",
    "cat": null,
    "y": 1774,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120895,7 +120895,7 @@
    "t": "Symphony No.65 in A major, Hob.I:65",
    "cat": null,
    "y": 1769,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -120914,7 +120914,7 @@
    "t": "Symphony No.68 in B-flat major, Hob.I:68",
    "cat": null,
    "y": 1779,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -121516,7 +121516,7 @@
    "t": "Symphony No.23 in D major, MH 287",
    "cat": null,
    "y": 1779,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -121535,7 +121535,7 @@
    "t": "Symphony No.25 in G major, MH 334",
    "cat": null,
    "y": 1783,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -123370,7 +123370,7 @@
    "t": "Symphony No.20",
    "cat": null,
    "y": 1763,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -123461,7 +123461,7 @@
    "t": "Symphony No.1",
    "cat": "Op.50",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -124158,7 +124158,7 @@
    "t": "Pittsburgh Symphony",
    "cat": null,
    "y": 1958,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -124217,7 +124217,7 @@
    "t": "Symphonia serena",
    "cat": null,
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -125114,7 +125114,7 @@
    "t": "Symphony in D major",
    "cat": null,
    "y": 1798,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -125765,7 +125765,7 @@
    "t": "Choral Symphony",
    "cat": "Op.41",
    "y": 1924,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -126150,7 +126150,7 @@
    "t": "Symphony in C major, DTB 3/1 C 7",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -126342,7 +126342,7 @@
    "t": "Symphony No.4",
    "cat": "H.191",
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -126361,7 +126361,7 @@
    "t": "Symphony No.5",
    "cat": "H.202",
    "y": 1950,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -126592,7 +126592,7 @@
    "t": "Symphony No.2 'Mysterious Mountain'",
    "cat": "Op.132",
    "y": 1955,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -126997,7 +126997,7 @@
    "t": "Symphony No.1 'Eine Tell-Symphonie'",
    "cat": "Op.63",
    "y": 1881,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -127016,7 +127016,7 @@
    "t": "Symphony No.2",
    "cat": "Op.115",
    "y": 1897,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -127035,7 +127035,7 @@
    "t": "Symphony No.3 'Heroische'",
    "cat": "Op.118",
    "y": 1901,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -127056,7 +127056,7 @@
    "t": "Symphony No.7 'Schweizerische'",
    "cat": null,
    "y": 1917,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -127737,7 +127737,7 @@
    "t": "Symphony No.1 in D minor",
    "cat": null,
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -128014,7 +128014,7 @@
    "t": "Symphonie sur un Chant Montagnard Français",
    "cat": "Op.25",
    "y": 1886,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -128034,7 +128034,7 @@
    "t": "Symphony No.1 in A minor",
    "cat": null,
    "y": 1872,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -128053,7 +128053,7 @@
    "t": "Symphony No.2 in B-flat major",
    "cat": "Op.57",
    "y": 1903,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -128074,7 +128074,7 @@
    "t": "Symphony No.3 in D major",
    "cat": "Op.70",
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -128704,7 +128704,7 @@
    "t": "Symphony No.3",
    "cat": "Op.50",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -130387,7 +130387,7 @@
    "t": "Symphony in C major",
    "cat": "Op.17",
    "y": 1937,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -130577,7 +130577,7 @@
    "t": "Symphony",
    "cat": "Op.10",
    "y": 1895,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -130804,7 +130804,7 @@
    "t": "Symphony No.1 in G minor",
    "cat": null,
    "y": 1895,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -130825,7 +130825,7 @@
    "t": "Symphony No.2 in A major",
    "cat": null,
    "y": 1897,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -131375,7 +131375,7 @@
    "t": "Symphony No.1",
    "cat": "Op.7",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -131394,7 +131394,7 @@
    "t": "Symphony No.2",
    "cat": "Op.17",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -131413,7 +131413,7 @@
    "t": "Symphony No.6",
    "cat": "Op.132",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -131947,7 +131947,7 @@
    "t": "Symphony in D major",
    "cat": null,
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -132818,7 +132818,7 @@
    "t": "Symphony No.1",
    "cat": "Op.1",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -132837,7 +132837,7 @@
    "t": "Symphony No.2",
    "cat": "Op.2",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -132856,7 +132856,7 @@
    "t": "Symphony No.3",
    "cat": "Op.3",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -133360,7 +133360,7 @@
    "t": "Symphonie enfantine",
    "cat": "Op.17",
    "y": 1928,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -133381,7 +133381,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1938,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -133400,7 +133400,7 @@
    "t": "Symphony No.2",
    "cat": "Op.35",
    "y": 1945,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -133473,7 +133473,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1961,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -134890,7 +134890,7 @@
    "t": "Sacred Symphony",
    "cat": null,
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -135126,7 +135126,7 @@
    "t": "Symphony in E-flat major, VB 144",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -135328,7 +135328,7 @@
    "t": "Symphony No.1",
    "cat": "Op.35",
    "y": 1922,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -135536,7 +135536,7 @@
    "t": "Symphony No.2",
    "cat": "Op.12",
    "y": 1922,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -135573,7 +135573,7 @@
    "t": "Symphony No.1 in C major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136205,7 +136205,7 @@
    "t": "Symphony No.1",
    "cat": "Op.12",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136224,7 +136224,7 @@
    "t": "Symphony No.3",
    "cat": "Op.62",
    "y": 1830,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136243,7 +136243,7 @@
    "t": "Symphony No.5",
    "cat": "Op.105",
    "y": 1821,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136262,7 +136262,7 @@
    "t": "Symphony No.9",
    "cat": null,
    "y": 1830,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136415,7 +136415,7 @@
    "t": "Symphony in D major",
    "cat": null,
    "y": 1853,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -136491,7 +136491,7 @@
    "t": "Symphony No.1",
    "cat": "Op.75",
    "y": 1818,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -137218,7 +137218,7 @@
    "t": "Symphony No.3",
    "cat": "Op.45",
    "y": 1948,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -137238,7 +137238,7 @@
    "t": "Symphony No.5",
    "cat": "Op.55",
    "y": 1952,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -137259,7 +137259,7 @@
    "t": "Symphony No.6",
    "cat": "Op.61",
    "y": 1955,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -137280,7 +137280,7 @@
    "t": "Symphony No.7",
    "cat": "Op.63",
    "y": 1957,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -137612,7 +137612,7 @@
    "t": "Symphony in G minor",
    "cat": null,
    "y": 1886,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -137820,7 +137820,7 @@
    "t": "Symphony of Joys and of Sorrows",
    "cat": null,
    "y": 2000,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -138242,7 +138242,7 @@
    "t": "Symphony No.4, BVN 124",
    "cat": null,
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -138261,7 +138261,7 @@
    "t": "Symphony No.6, BVN 165",
    "cat": null,
    "y": 1920,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -138280,7 +138280,7 @@
    "t": "Symphony No.7, BVN 188",
    "cat": null,
    "y": 1926,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -138525,7 +138525,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -139897,7 +139897,7 @@
    "t": "Symphony",
    "cat": null,
    "y": 1889,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -142130,7 +142130,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -143208,7 +143208,7 @@
    "t": "Symphony No.1 in A major",
    "cat": "Op.5",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, two english horns",
    "counts": {
     "oboe": 2,
@@ -143463,7 +143463,7 @@
    "t": "Symphony No.5",
    "cat": "Op.67",
    "y": 1966,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -143824,7 +143824,7 @@
    "t": "Symphony No.1",
    "cat": "Op.29",
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -143843,7 +143843,7 @@
    "t": "Symphony No.2",
    "cat": "Op.35",
    "y": 1918,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -143862,7 +143862,7 @@
    "t": "Symphony No.3",
    "cat": "Op.55",
    "y": 1926,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -143918,7 +143918,7 @@
    "t": "Symphony No.1",
    "cat": "Op.4",
    "y": 1890,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -143939,7 +143939,7 @@
    "t": "Symphony No.3",
    "cat": "Op.11",
    "y": 1896,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -143959,7 +143959,7 @@
    "t": "Symphony No.4",
    "cat": "Op.21",
    "y": 1913,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -144320,7 +144320,7 @@
    "t": "Chamber Symphony",
    "cat": null,
    "y": 2018,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -146429,7 +146429,7 @@
    "t": "Symphony No.3",
    "cat": "Op.30",
    "y": 1876,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -147248,7 +147248,7 @@
    "t": "Symphony No.2 in F major",
    "cat": "Op.81",
    "y": 1904,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -148861,7 +148861,7 @@
    "t": "Symphony No.1",
    "cat": "Op.30 No.1",
    "y": 1902,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -148880,7 +148880,7 @@
    "t": "Symphony No.2",
    "cat": "Op.30 No.2",
    "y": 1904,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -148899,7 +148899,7 @@
    "t": "Symphony No.3",
    "cat": "Op.40",
    "y": 1907,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -148919,7 +148919,7 @@
    "t": "Symphony No.6",
    "cat": "Op.100",
    "y": 1924,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -148939,7 +148939,7 @@
    "t": "Symphony No.7",
    "cat": "Op.149",
    "y": 1936,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -149500,7 +149500,7 @@
    "t": "Symphony No.2",
    "cat": "Op.52",
    "y": 1840,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -150254,7 +150254,7 @@
    "t": "Symphonie de chambre No.1",
    "cat": "Op.43",
    "y": 1917,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -150273,7 +150273,7 @@
    "t": "Symphonie de chambre No.2",
    "cat": "Op.49",
    "y": 1918,
-   "g": "Other",
+   "g": "Symphony",
    "s": "english horn",
    "counts": {
     "englishHorn": 1
@@ -150292,7 +150292,7 @@
    "t": "Symphonie de chambre No.5",
    "cat": "Op.75",
    "y": 1922,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -150313,7 +150313,7 @@
    "t": "Symphony No.12",
    "cat": "Op.390",
    "y": 1961,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -150332,7 +150332,7 @@
    "t": "Symphony No.3",
    "cat": "Op.271",
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -150351,7 +150351,7 @@
    "t": "Symphony No.5",
    "cat": "Op.322",
    "y": 1953,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -150370,7 +150370,7 @@
    "t": "Symphony No.8",
    "cat": "Op.362",
    "y": 1957,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -150391,7 +150391,7 @@
    "t": "Symphony No.9",
    "cat": "Op.380",
    "y": 1959,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -151411,7 +151411,7 @@
    "t": "Symphony in A major",
    "cat": null,
    "y": 1945,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -151731,7 +151731,7 @@
    "t": "Symphony in D minor",
    "cat": null,
    "y": 1933,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -151844,7 +151844,7 @@
    "t": "Symphony",
    "cat": "Op.40",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -151882,7 +151882,7 @@
    "t": "Symphony No.5",
    "cat": null,
    "y": 1965,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -152301,7 +152301,7 @@
    "t": "Symphony, Eisen B-flat 6",
    "cat": null,
    "y": 1787,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155266,7 +155266,7 @@
    "t": "Symphony in A minor, K.Anh.220/16a/Anh.C 11.18",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155284,7 +155284,7 @@
    "t": "Symphony No.1 in E-flat major",
    "cat": "K.16",
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155303,7 +155303,7 @@
    "t": "Symphony No.10 in G major",
    "cat": "K.74",
    "y": 1770,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155322,7 +155322,7 @@
    "t": "Symphony No.11 in D major",
    "cat": "K.84/73q",
    "y": 1770,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155341,7 +155341,7 @@
    "t": "Symphony No.12 in G major",
    "cat": "K.110/75b",
    "y": 1771,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155360,7 +155360,7 @@
    "t": "Symphony No.15 in G major",
    "cat": "K.124",
    "y": 1772,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155379,7 +155379,7 @@
    "t": "Symphony No.16 in C major",
    "cat": "K.128",
    "y": 1772,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155398,7 +155398,7 @@
    "t": "Symphony No.17 in G major",
    "cat": "K.129",
    "y": 1772,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155417,7 +155417,7 @@
    "t": "Symphony No.22 in C major",
    "cat": "K.162",
    "y": 1773,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155436,7 +155436,7 @@
    "t": "Symphony No.24 in B-flat major",
    "cat": "K.182/173dA",
    "y": 1773,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155455,7 +155455,7 @@
    "t": "Symphony No.29 in A major",
    "cat": "K.201/186a",
    "y": 1774,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155474,7 +155474,7 @@
    "t": "Symphony No.4 in D major",
    "cat": "K.19",
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155493,7 +155493,7 @@
    "t": "Symphony No.5 in B-flat major",
    "cat": "K.22",
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155512,7 +155512,7 @@
    "t": "Symphony No.51 in D major",
    "cat": "K.121/207a",
    "y": 1775,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155531,7 +155531,7 @@
    "t": "Symphony No.6 in F major",
    "cat": "K.43",
    "y": 1767,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155550,7 +155550,7 @@
    "t": "Symphony No.7 in D major",
    "cat": "K.45",
    "y": 1768,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -155569,7 +155569,7 @@
    "t": "Symphony No.9 in C major",
    "cat": "K.73/75a",
    "y": 1772,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -156288,7 +156288,7 @@
    "t": "Symphony No.24",
    "cat": "Op.63",
    "y": 1943,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156309,7 +156309,7 @@
    "t": "Symphony No.25",
    "cat": "Op.69",
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156330,7 +156330,7 @@
    "t": "Symphony No.26",
    "cat": "Op.79",
    "y": 1949,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156351,7 +156351,7 @@
    "t": "Symphony No.3",
    "cat": "Op.15",
    "y": 1914,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -156370,7 +156370,7 @@
    "t": "Symphony No.4",
    "cat": "Op.17",
    "y": 1918,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156391,7 +156391,7 @@
    "t": "Symphony No.5",
    "cat": "Op.18",
    "y": 1917,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156412,7 +156412,7 @@
    "t": "Symphony No.8",
    "cat": "Op.26",
    "y": 1925,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -156565,7 +156565,7 @@
    "t": "Symphony No.3",
    "cat": "Op.18",
    "y": 1874,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -157156,7 +157156,7 @@
    "t": "Symphony 'La bataille'",
    "cat": "Op.11",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -157436,7 +157436,7 @@
    "t": "Symphony No.5",
    "cat": "Op.23b",
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -157536,7 +157536,7 @@
    "t": "Symphony No.1 'Shadows'",
    "cat": null,
    "y": 1980,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -157557,7 +157557,7 @@
    "t": "Symphony No.6",
    "cat": null,
    "y": 1988,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -157653,7 +157653,7 @@
    "t": "Symphony in D major",
    "cat": null,
    "y": 1835,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -158597,7 +158597,7 @@
    "t": "Symphony No.15",
    "cat": null,
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "twelve oboes, twelve english horns, twelve bass oboes",
    "counts": {
     "oboe": 12,
@@ -158620,7 +158620,7 @@
    "t": "Symphony No.18",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "four oboes",
    "counts": {
     "oboe": 4
@@ -158639,7 +158639,7 @@
    "t": "Symphony No.19",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "four oboes",
    "counts": {
     "oboe": 4
@@ -158658,7 +158658,7 @@
    "t": "Symphony No.41",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "four oboes",
    "counts": {
     "oboe": 4
@@ -158677,7 +158677,7 @@
    "t": "Symphony No.53",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -158734,7 +158734,7 @@
    "t": "Symphony No.1",
    "cat": "Op.41",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -158753,7 +158753,7 @@
    "t": "Symphony No.2",
    "cat": "Op.42",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -160360,7 +160360,7 @@
    "t": "Symphony No.2 in F major",
    "cat": null,
    "y": 1883,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -160379,7 +160379,7 @@
    "t": "Symphony No.3 'The English'",
    "cat": null,
    "y": 1887,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -160829,7 +160829,7 @@
    "t": "Symphony in F major",
    "cat": "Op.39",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162759,7 +162759,7 @@
    "t": "Symphony in B-flat major, ZakP 9",
    "cat": null,
    "y": 1767,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162778,7 +162778,7 @@
    "t": "Symphony in C major, ZakP 21",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162796,7 +162796,7 @@
    "t": "Symphony in C major, ZakP 27",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162814,7 +162814,7 @@
    "t": "Symphony in D major, ZakP 18",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162832,7 +162832,7 @@
    "t": "Symphony in D major, ZakP 29",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -162850,7 +162850,7 @@
    "t": "Symphony in E major",
    "cat": null,
    "y": 1768,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -163350,7 +163350,7 @@
    "t": "Symphony No.1",
    "cat": "K.37",
    "y": 1917,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -163369,7 +163369,7 @@
    "t": "Symphony No.2",
    "cat": "K.53",
    "y": 1921,
-   "g": "Other",
+   "g": "Symphony",
    "s": "four oboes",
    "counts": {
     "oboe": 4
@@ -163388,7 +163388,7 @@
    "t": "Symphony No.3",
    "cat": "K.71",
    "y": 1926,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -163635,7 +163635,7 @@
    "t": "Symphony No.6",
    "cat": null,
    "y": 1955,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -172107,7 +172107,7 @@
    "t": "Symphony No.2 in D major, NWV 8",
    "cat": null,
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172246,7 +172246,7 @@
    "t": "Symphony in D minor",
    "cat": null,
    "y": 1891,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172511,7 +172511,7 @@
    "t": "Symphony No.10",
    "cat": "Op.213",
    "y": 1879,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172530,7 +172530,7 @@
    "t": "Symphony No.11",
    "cat": "Op.214",
    "y": 1876,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172549,7 +172549,7 @@
    "t": "Symphony No.4",
    "cat": "Op.167",
    "y": 1871,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172568,7 +172568,7 @@
    "t": "Symphony No.5",
    "cat": "Op.177",
    "y": 1872,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172587,7 +172587,7 @@
    "t": "Symphony No.6",
    "cat": "Op.189",
    "y": 1873,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172606,7 +172606,7 @@
    "t": "Symphony No.7",
    "cat": "Op.201",
    "y": 1875,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172625,7 +172625,7 @@
    "t": "Symphony No.8",
    "cat": "Op.205",
    "y": 1876,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172644,7 +172644,7 @@
    "t": "Symphony No.9",
    "cat": "Op.208",
    "y": 1878,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -172885,7 +172885,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1914,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -172905,7 +172905,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1919,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -172925,7 +172925,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 1936,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -173492,7 +173492,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1964,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -173532,7 +173532,7 @@
    "t": "Symphony",
    "cat": null,
    "y": 2014,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -173961,7 +173961,7 @@
    "t": "Grande Symphonie de Salon No.1",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -173980,7 +173980,7 @@
    "t": "Grande Symphonie de Salon No.2",
    "cat": null,
    "y": 1827,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -174149,7 +174149,7 @@
    "t": "Symphony in E-flat major",
    "cat": "Op.42",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -174260,7 +174260,7 @@
    "t": "Symphony No.1 in D minor",
    "cat": null,
    "y": 1868,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -174279,7 +174279,7 @@
    "t": "Symphony No.2 in C major",
    "cat": null,
    "y": 1869,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -174464,7 +174464,7 @@
    "t": "Symphony No.3",
    "cat": "Op.227",
    "y": 1894,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -174558,7 +174558,7 @@
    "t": "Symphony in D major",
    "cat": "Op.12",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -175009,7 +175009,7 @@
    "t": "Symphony No.4",
    "cat": "Op.30",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -175354,7 +175354,7 @@
    "t": "Symphony No.1 'Tragic'",
    "cat": null,
    "y": 1902,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -175373,7 +175373,7 @@
    "t": "Symphony No.5 'Dance-Symphony'",
    "cat": null,
    "y": 1930,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -175792,7 +175792,7 @@
    "t": "Symphony in A major",
    "cat": "Op.4 No.5",
    "y": 1760,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -175811,7 +175811,7 @@
    "t": "Symphony in F major",
    "cat": "Op.4 No.2",
    "y": 1760,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -176037,7 +176037,7 @@
    "t": "Symphony No.3",
    "cat": "Op.42",
    "y": 1947,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -176056,7 +176056,7 @@
    "t": "Symphony No.4",
    "cat": "Op.63",
    "y": 1956,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -176171,7 +176171,7 @@
    "t": "Symphony No.4",
    "cat": "Op.110",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -176190,7 +176190,7 @@
    "t": "Symphony No.5",
    "cat": "Op.112",
    "y": 1813,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -176247,7 +176247,7 @@
    "t": "Symphony No.1",
    "cat": "Op.13",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -176851,7 +176851,7 @@
    "t": "Symphony No.1",
    "cat": "Op.2",
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "english horn",
    "counts": {
     "englishHorn": 1
@@ -176908,7 +176908,7 @@
    "t": "Symphony No.2",
    "cat": "Op.63",
    "y": 2014,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -178188,7 +178188,7 @@
    "t": "Symphony No.19",
    "cat": null,
    "y": 2006,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -178472,7 +178472,7 @@
    "t": "Petite symphonie",
    "cat": null,
    "y": 1943,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe",
    "counts": {
     "oboe": 1
@@ -178531,7 +178531,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1895,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -178882,7 +178882,7 @@
    "t": "Symphonie de chasse in D major, M.A20",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -178918,7 +178918,7 @@
    "t": "Symphony in C major, M.A6",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -178936,7 +178936,7 @@
    "t": "Symphony in D major, M.A12",
    "cat": null,
    "y": 1780,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -178955,7 +178955,7 @@
    "t": "Symphony in G major, M.A40",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -179409,7 +179409,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1880,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -179666,7 +179666,7 @@
    "t": "Symphony No.2",
    "cat": "Op.23",
    "y": 1921,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -179687,7 +179687,7 @@
    "t": "Symphony No.4",
    "cat": "Op.53",
    "y": 1934,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -180127,7 +180127,7 @@
    "t": "Symphony No.5",
    "cat": "Op.107",
    "y": 1880,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -180184,7 +180184,7 @@
    "t": "Symphony No.3",
    "cat": "Op.50",
    "y": 1887,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -180551,7 +180551,7 @@
    "t": "Symphony No.14",
    "cat": null,
    "y": 2016,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -180570,7 +180570,7 @@
    "t": "Symphony No.15",
    "cat": null,
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -180589,7 +180589,7 @@
    "t": "Symphony No.16",
    "cat": null,
    "y": 2022,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -181408,7 +181408,7 @@
    "t": "Symphony No.1",
    "cat": "Op.2",
    "y": 1853,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (1st doubling english horn)",
    "counts": {
     "oboe": 2
@@ -181428,7 +181428,7 @@
    "t": "Symphony No.2",
    "cat": "Op.55",
    "y": 1859,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -182066,7 +182066,7 @@
    "t": "Symphony 'Il giorno onomastico'",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -184979,7 +184979,7 @@
    "t": "Symphony No.5",
    "cat": "Op.50",
    "y": 1965,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -185112,7 +185112,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1911,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -185133,7 +185133,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 1933,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -185548,7 +185548,7 @@
    "t": "Symphony in B-flat major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -185587,7 +185587,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1943,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -185644,7 +185644,7 @@
    "t": "Symphony No.2 in C minor",
    "cat": null,
    "y": 1837,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -186922,7 +186922,7 @@
    "t": "Symphony No.4",
    "cat": "D.417",
    "y": 1816,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -187135,7 +187135,7 @@
    "t": "Symphony No.2, WV 101",
    "cat": null,
    "y": 1932,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -187724,7 +187724,7 @@
    "t": "Symphony in G minor",
    "cat": "WoO 29",
    "y": 1833,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -188493,7 +188493,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 1958,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -188623,7 +188623,7 @@
    "t": "Symphony No.1 'Ilirët'",
    "cat": null,
    "y": 2014,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -189693,7 +189693,7 @@
    "t": "Symphony in D major 'Corona'",
    "cat": null,
    "y": 2020,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -190331,7 +190331,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1863,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -190350,7 +190350,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1876,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -190646,7 +190646,7 @@
    "t": "Symphony No.1",
    "cat": "Op.3",
    "y": 2007,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -193352,7 +193352,7 @@
    "t": "Symphony in D major, DTB VII/2.3",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -193487,7 +193487,7 @@
    "t": "Symphony No.3 'The Irish'",
    "cat": "Op.28",
    "y": 1886,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -193506,7 +193506,7 @@
    "t": "Symphony No.4",
    "cat": "Op.31",
    "y": 1888,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -193525,7 +193525,7 @@
    "t": "Symphony No.7",
    "cat": "Op.124",
    "y": 1911,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -193904,7 +193904,7 @@
    "t": "Symphony No.3",
    "cat": "Op.18",
    "y": 1928,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -193925,7 +193925,7 @@
    "t": "Symphony No.4 'Turksib'",
    "cat": "Op.24",
    "y": 1933,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -194003,7 +194003,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1903,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -194176,7 +194176,7 @@
    "t": "Symphony in C major, StWV 138",
    "cat": null,
    "y": 1812,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -194195,7 +194195,7 @@
    "t": "Symphony in C major, StWV 140",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -194213,7 +194213,7 @@
    "t": "Symphony in D major, StWV 135",
    "cat": null,
    "y": 1785,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -194232,7 +194232,7 @@
    "t": "Symphony in D major, StWV 136",
    "cat": null,
    "y": 1785,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -194371,7 +194371,7 @@
    "t": "Symphony No.4",
    "cat": "Op.57",
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -194524,7 +194524,7 @@
    "t": "Symphony",
    "cat": "Op.21",
    "y": 1898,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -198096,7 +198096,7 @@
    "t": "Symphony in 3 Movements",
    "cat": "K073",
    "y": 1945,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -198785,7 +198785,7 @@
    "t": "Symphony in E major",
    "cat": null,
    "y": 1866,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -198959,7 +198959,7 @@
    "t": "Symphony",
    "cat": "Op.17",
    "y": 1914,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -199263,7 +199263,7 @@
    "t": "Symphony No.1",
    "cat": "Op.4",
    "y": 1866,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -199282,7 +199282,7 @@
    "t": "Symphony No.2",
    "cat": "Op.15",
    "y": 1874,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -199466,7 +199466,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -199812,7 +199812,7 @@
    "t": "Symphony No.3",
    "cat": "Op.27",
    "y": 1916,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -199982,7 +199982,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1874,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -200001,7 +200001,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1884,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -200020,7 +200020,7 @@
    "t": "Symphony No.4",
    "cat": "Op.12",
    "y": 1898,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -200231,7 +200231,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1987,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -201154,7 +201154,7 @@
    "t": "Symphony in E-flat major, TH 238",
    "cat": null,
    "y": 1892,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -210351,7 +210351,7 @@
    "t": "Symphony No.2",
    "cat": "Op.73",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -210371,7 +210371,7 @@
    "t": "Symphony No.3",
    "cat": "Op.75",
    "y": 1955,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -210392,7 +210392,7 @@
    "t": "Symphony No.7",
    "cat": "Op.95",
    "y": 1964,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -210483,7 +210483,7 @@
    "t": "Symphony in B-flat major, DTB VII/2.7",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -211031,7 +211031,7 @@
    "t": "Symphony No.3",
    "cat": "Op.43",
    "y": 1913,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -211052,7 +211052,7 @@
    "t": "Symphony No.4",
    "cat": "Op.44",
    "y": 1912,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -211073,7 +211073,7 @@
    "t": "Symphony No.7",
    "cat": "Op.49",
    "y": 1919,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, oboe d'amore, english horn",
    "counts": {
     "oboe": 3,
@@ -211096,7 +211096,7 @@
    "t": "Symphony No.8",
    "cat": "Op.51",
    "y": 1924,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, oboe d'amore, english horn",
    "counts": {
     "oboe": 3,
@@ -211402,7 +211402,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -211421,7 +211421,7 @@
    "t": "Symphony No.5",
    "cat": null,
    "y": 2024,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -211919,7 +211919,7 @@
    "t": "Symphonie triomphale",
    "cat": "Op.9",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -212146,7 +212146,7 @@
    "t": "Symphony No.1",
    "cat": "Op.30",
    "y": 1939,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -212165,7 +212165,7 @@
    "t": "Symphony No.2",
    "cat": "Op.40",
    "y": 1944,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -212184,7 +212184,7 @@
    "t": "Symphony No.3",
    "cat": "Op.41",
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -212203,7 +212203,7 @@
    "t": "Symphony No.4",
    "cat": "Op.43",
    "y": 1949,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -212867,7 +212867,7 @@
    "t": "Symphony No.2",
    "cat": "Op.70",
    "y": 2019,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -212888,7 +212888,7 @@
    "t": "Symphony No.4",
    "cat": "Op.78",
    "y": 2021,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -212908,7 +212908,7 @@
    "t": "Symphony No.5",
    "cat": "Op.80",
    "y": 2023,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -213373,7 +213373,7 @@
    "t": "Symphony in A minor, Bryan a2",
    "cat": null,
    "y": 1771,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -213392,7 +213392,7 @@
    "t": "Symphony in C major, Bryan C1",
    "cat": null,
    "y": 1765,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -213411,7 +213411,7 @@
    "t": "Symphony in C major, Bryan C9",
    "cat": null,
    "y": 1774,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -213430,7 +213430,7 @@
    "t": "Symphony in C major, Hob.I:C8",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -214433,7 +214433,7 @@
    "t": "Symphony",
    "cat": "Op.49",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -214525,7 +214525,7 @@
    "t": "Symphony in C major",
    "cat": null,
    "y": 2019,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -214769,7 +214769,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 1914,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -214788,7 +214788,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 1921,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -214807,7 +214807,7 @@
    "t": "Symphony No.4",
    "cat": null,
    "y": 1940,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn, bass oboe",
    "counts": {
     "oboe": 3,
@@ -214830,7 +214830,7 @@
    "t": "Symphony No.5",
    "cat": null,
    "y": 1945,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
@@ -214850,7 +214850,7 @@
    "t": "Symphony No.6",
    "cat": null,
    "y": 1956,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -214871,7 +214871,7 @@
    "t": "Symphony No.7",
    "cat": null,
    "y": 1965,
-   "g": "Other",
+   "g": "Symphony",
    "s": "four oboes (doubling english horn)",
    "counts": {
     "oboe": 4
@@ -215700,7 +215700,7 @@
    "t": "Symphony in A minor",
    "cat": "Op.24",
    "y": 1908,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -216282,7 +216282,7 @@
    "t": "Symphony No.5",
    "cat": "Op.39",
    "y": 2025,
-   "g": "Other",
+   "g": "Symphony",
    "s": "six oboes (6th doubling english horn)",
    "counts": {
     "oboe": 6
@@ -216321,7 +216321,7 @@
    "t": "Symphony No.1",
    "cat": null,
    "y": 2016,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -216340,7 +216340,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 2017,
-   "g": "Other",
+   "g": "Symphony",
    "s": "oboe, english horn",
    "counts": {
     "oboe": 1,
@@ -216361,7 +216361,7 @@
    "t": "Symphony No.3",
    "cat": null,
    "y": 2018,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes (2nd doubling english horn)",
    "counts": {
     "oboe": 2
@@ -217815,7 +217815,7 @@
    "t": "Symphony in F major, WV 402",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -218870,7 +218870,7 @@
    "t": "Symphony No.2 in C major, J.51",
    "cat": null,
    "y": 1813,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -219421,7 +219421,7 @@
    "t": "Symphony No.2",
    "cat": null,
    "y": 1934,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -219911,7 +219911,7 @@
    "t": "Symphony No.1",
    "cat": "Op.62",
    "y": 1946,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes",
    "counts": {
     "oboe": 3
@@ -219930,7 +219930,7 @@
    "t": "Symphony No.5",
    "cat": "Op.75",
    "y": 1956,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -219951,7 +219951,7 @@
    "t": "Symphony No.6",
    "cat": "Op.95",
    "y": 1965,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -219972,7 +219972,7 @@
    "t": "Symphony No.8",
    "cat": "Op.110",
    "y": 1970,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -220765,7 +220765,7 @@
    "t": "Symphony No.3",
    "cat": "Op.69",
    "y": 1893,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221301,7 +221301,7 @@
    "t": "Symphony No.1",
    "cat": "Op.44",
    "y": 1907,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221320,7 +221320,7 @@
    "t": "Symphony No.7",
    "cat": "Op.103",
    "y": 1937,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes, english horn",
    "counts": {
     "oboe": 3,
@@ -221359,7 +221359,7 @@
    "t": "Symphony in C major",
    "cat": "Op.9",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221415,7 +221415,7 @@
    "t": "Symphony",
    "cat": "Op.39",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221599,7 +221599,7 @@
    "t": "Symphony No.14 in C major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221617,7 +221617,7 @@
    "t": "Symphony No.5 in D major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -221635,7 +221635,7 @@
    "t": "Symphony No.7 in C major",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -222048,7 +222048,7 @@
    "t": "Symphony No.1",
    "cat": "Op.52",
    "y": 1907,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -222069,7 +222069,7 @@
    "t": "Symphony No.3",
    "cat": "Op.70",
    "y": 1921,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -222218,7 +222218,7 @@
    "t": "Symphony in C major 'Hungarian'",
    "cat": "Op.2",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -222313,7 +222313,7 @@
    "t": "Symphony No.2",
    "cat": "Op.17",
    "y": 1943,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes, english horn",
    "counts": {
     "oboe": 2,
@@ -224142,7 +224142,7 @@
    "t": "Symphony No.2 in D major",
    "cat": "Op.15",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224179,7 +224179,7 @@
    "t": "Symphony No.1",
    "cat": "Op.100",
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224291,7 +224291,7 @@
    "t": "Symphony in C major, MúdZi I/1:C4",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224309,7 +224309,7 @@
    "t": "Symphony in C minor, MúdZi I/1:c8",
    "cat": null,
    "y": null,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224327,7 +224327,7 @@
    "t": "Symphony in D major, MúdZi I/1:D4",
    "cat": null,
    "y": 1780,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224346,7 +224346,7 @@
    "t": "Symphony in G major, MúdZi I/1:G2",
    "cat": null,
    "y": 1775,
-   "g": "Other",
+   "g": "Symphony",
    "s": "two oboes",
    "counts": {
     "oboe": 2
@@ -224403,7 +224403,7 @@
    "t": "Symphony",
    "cat": null,
    "y": 1951,
-   "g": "Other",
+   "g": "Symphony",
    "s": "three oboes (3rd doubling english horn)",
    "counts": {
     "oboe": 3
